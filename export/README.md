@@ -1,7 +1,14 @@
-# Exporte
+# Buchausgaben
 
-Hier können nach Spielsitzungen Word- oder PDF-Fassungen der fortlaufenden Novelle abgelegt werden.
+## Aktuelle Fassung
 
-**DOCX-Konvention:** Die Passagen des Spielers sind marineblau; die übrige Erzählung schwarz. Der Wortlaut der Handlung bleibt erhalten; OOC wird ausgelassen.
+**[Die Glocken von Dornwacht – Word-Romanfassung](Die_Glocken_von_Dornwacht.docx)**
 
-Die Markdown-Kapitel im Ordner `roman/` sind die redaktionelle Textquelle; Exportdateien sind daraus erzeugte Lesefassungen.
+Stand: Ende der ersten Spielsitzung, 30 Seiten. Die Original-DOCX-Datei wurde unverändert übernommen.
+
+- Spielerbeiträge: marineblau (`#16396D`).
+- Übrige Erzählung und Begleiter-Dialoge: schwarz.
+- OOC-Kommentare: nicht Bestandteil des Romans.
+- Spätere Sitzungen: hier die **fortlaufend aktualisierte** Word-Datei pflegen.
+
+Siehe **[DOKUMENTATION.md](../DOKUMENTATION.md)** für die redaktionellen Regeln und die GitHub-Übergabe.
