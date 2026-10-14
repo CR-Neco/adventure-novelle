@@ -1,6 +1,6 @@
 # Romanmanuskript
 
-Die bisherige vollständige Romanfassung liegt als **[Word-Datei](../export/Die_Glocken_von_Dornwacht.docx)** vor.
+Die bisherige vollständige Romanfassung liegt als **[Word-Datei](../export/Die_Glocken_von_Dornwacht.docx)** und als **[vollständige Markdown-Textfassung](Die_Glocken_von_Dornwacht.md)** vor.\n\nDie Markdown-Fassung wurde absatzgetreu aus dem DOCX extrahiert und markiert die vier Spielerbeiträge ausdrücklich. Sie kann von der GitHub-Verbindung direkt gelesen werden.
 
 Sie enthält die tatsächlich gespielten Szenen einschließlich der vier marineblau gesetzten Beiträge des Spielers.
 
@@ -11,4 +11,4 @@ Sie enthält die tatsächlich gespielten Szenen einschließlich der vier marineb
 4. OOC-Kommentare gehören nicht in den Roman.
 5. Nach jeder Sitzung das Word-Manuskript **fortschreiben**, nicht durch eine Zusammenfassung ersetzen.
 
-Die vollständigen Pflege- und Übergaberegeln stehen in **[DOKUMENTATION.md](../DOKUMENTATION.md)**. Markdown-Kapitel können ergänzend entstehen; die vorhandene Word-Datei bleibt die aktuelle Romanfassung.
+Die vollständigen Pflege- und Übergaberegeln stehen in **[DOKUMENTATION.md](../DOKUMENTATION.md)**. **Word und Markdown sollen nach jeder Sitzung gemeinsam fortgeschrieben werden.** Die Word-Datei ist die gestaltete Lesefassung, Markdown der direkt lesbare Textkanon.
