@@ -1,10 +1,16 @@
 # Dokumentation und laufende Buchpflege
 
+## Aktueller Synchronisierungsstand – 14. Oktober 2026
+
+**Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt für diesen Sitzungsabschluss.
+
+Die neue Fortsetzung beginnt nach dem früheren letzten Satz „Bitte … gebt sie mir zurück“ mit dem Abschnitt **„Die Tasche und die Mühle“** und endet nach der Rückkehr nach Eibenbrück mit Mintharas Empfehlung zur Nachtruhe. Alle neuen Spielerpassagen sind markiert; OOC und Spielzug-Aufforderungen fehlen bewusst im Roman. Bei späterem Export Kennzeichnungen marineblau umsetzen.
+
 ## Ziel
 Aus den tatsächlich gespielten Sitzungen entsteht eine **fortlaufende Fantasy-Novelle**. Die Romanfassung wird nach Spielsitzungen aktualisiert; das GitHub-Repository dient als langfristiger Speicher und Übergabepunkt zwischen Chats.
 
 ## Verbindliche Dateien
-- **`export/Die_Glocken_von_Dornwacht.docx`** – vollständige Word-Romanfassung (30 Seiten, Stand: Ende der ersten Sitzung), als **Originaldatei** übertragen.\n- **`roman/Die_Glocken_von_Dornwacht.md`** – **vollständige durchsuchbare Textfassung**, absatzgetreu aus dem Word-Dokument übernommen und mit vier explizit gekennzeichneten Spielerpassagen. Für neue Chats direkt über die GitHub-Verbindung lesbar.
+- **`export/Die_Glocken_von_Dornwacht.docx`** – vollständige Word-Romanfassung (30 Seiten, Stand: Ende der ersten Sitzung), als **Originaldatei** übertragen.\n- **`roman/Die_Glocken_von_Dornwacht.md`** – **vollständige durchsuchbare Textfassung**, ursprünglich absatzgetreu aus dem Word-Dokument übernommen; inzwischen um die zweite Sitzung und weitere ausdrücklich gekennzeichnete Spielerpassagen ergänzt. Für neue Chats direkt über die GitHub-Verbindung lesbar.
 - **`KAMPAGNENSTAND.md`** – knapper, aber präziser bekannter Spielstand; immer mit letztem Satz und nächstem Zug.
 - **`SPIELREGELN.md`** – Regeln und OOC-Konventionen.
 - **`SPIELLEITUNG_START.md`** – vollständige Übergabe für neue Spielleiter-Chats.

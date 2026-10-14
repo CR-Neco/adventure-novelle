@@ -29,3 +29,51 @@ Mittelalterlich geprägtes Fantasy-Königreich **Valdorn**, insbesondere die nö
 
 ## Kanon und Ungewissheit
 Unbekannte Sachverhalte bleiben unbekannt. Keine Schlussfolgerung über die Ursache der Plage als Tatsache ausgeben. Die Ereignisse und Dialoge in der Word-Romanfassung sind der maßgebliche Erzählkanon; OOC-Präzisierungen in `SPIELREGELN.md` gelten zusätzlich.
+
+
+## Fortschreibung – Sitzung vom 14. Oktober 2026
+
+### Orte und Entfernungen
+- Die alte Mühle hat eine schwere Eichenholztür mit innerem Riegel, eine obere trockene Kammer (zwei schmale Fenster, dritte Treppenstufe gebrochen), einen Schuppen hinter dem Gebäude und einen Mühlgraben. Dahinter liegt eine Schafsweide.
+- Abtei Dornwacht und „Dornwacht“ bezeichnen hier denselben Ort. Zu Fuß liegt sie etwa drei Tagesreisen nördlich Eibenbrücks. Schnellere Transportfahrten mit Pferdewechseln widersprechen dem nicht.
+- **Veyr:** laut Rhen Ort ihres früheren Siechenhauses; dessen Schließung und ihre Vorgeschichte sind Aussagen, keine unabhängig beobachteten Fakten.
+- Ein Gutshof zum Pferdewechsel und ein Nachtlager auf der Nordroute wurden von Jann / Edrin genannt; Namen und genaue Lage noch nicht festgelegt.
+- Laut übereinstimmenden Aussagen liegt Caels Werkstatt am Wirtschaftshof der Abtei und die Krankenstube im südlichen Gebäudeflügel. Wirtschaftstor und vergitterter alter Abwasserkanal am Osthang wurden beschrieben, nicht selbst besichtigt.
+
+### Figuren
+- Der vermummte Fremde heißt **Edrin**, transportierte Bram und verabreichte den Befreiten Schlafmittel. Von Skarras Kraftentzug geschwächt; inzwischen in Gewahrsam des Vogts.
+- **Harl:** bärtiger Mühlenwächter, Armbrust und Signalhorn; von Marta als Entführer / Verabreicher des Mittels erkannt. Zweite Mühlenwache namenlos, kurz geschorenes Haar. Beide gefangen.
+- **Marta:** Schwester des Wirts, grauer Zopf. Mit einem Mann mit verbundenem Arm und einer Frau mit Brandnarbe am Handgelenk vom Karren befreit. Rhen kann sie weder als Entführerin identifizieren noch entlasten.
+- **Mutter Rhen:** frühere Siechenhausschwester laut eigener Aussage, erfahrene Heilerin und Transportverantwortliche. Kein eigenes Erwecken von Toten behauptet. Führte einen Kontrollstab, beteiligte sich am Angriff, wurde entwaffnet und versorgt nun Verletzte unter Aufsicht. Ihre Beteiligung an Transporten ist belegt, ihre Rechtfertigung nicht.
+- **Jann:** Fuhrmann des größeren Wagens, gab auf und half bei Transport und Verbänden.
+- **Berold:** Speerträger, griff Skarra an und wurde durch die Schattenklinge schwer verwundet; lebt bislang, in Eibenbrück behandelt.
+- Der namenlose Armbrustschütze des großen Wagens wurde von Minthara getötet.
+- **Bruder Cael:** laut Aussagen Werkmeister in der Abtei, fertigt die Stäbe und behandelt Leichen. Noch keine persönliche Begegnung.
+- **Prior Severin:** laut Rhen Verantwortlicher der Abtei, Grabungen und Beschaffungslisten; noch keine persönliche Begegnung.
+- **Dorfvogt:** namenlos, hat Verletztenhilfe, Bewachung und Befragungen im Dorf übernommen.
+
+### Beobachtete Magie und Untersuchung
+- Skarras Blutunhold transportierte Bram; später von ihr entlassen. Ihr Fleischgolem zog zwei Wagen ins Dorf und ist am Haltepunkt noch aktiv, aber abgeschirrt.
+- Siegel des Vampirismus auf dem Schützen; nach Mintharas Treffer wurde ihre Wangenverletzung durch einen roten Schimmer gestillt.
+- Schnitterform: Schattenleib, grüne Augen, Schattensense. Der vorbereitete Sensenhieb betäubte einen Untoten und hinterließ ein Kältefeld.
+- Skarra kann in der Schnitterform nicht mit anderen Gegenständen wie dem Kontrollstab interagieren.
+- Lebenskraftentzug an Lebenden hat reale Schäden verursacht: Waldtiere starben, Edrin wurde geschwächt; später starben zwei Schafe, eines blieb schwer geschwächt. Kein folgenloses „Auftanken“.
+- Die Wagenuntoten: einer mit eisernen Schulterklammern, einer mit vernähtem Schädel. Einer im Kampf zerstört, einer untersucht und stillgelegt.
+- Die beiden Stäbe kontrollieren denselben untersuchten Untoten. Edrins Instrument wirkt schwächer und aus kürzerer Entfernung. Bedienung: Stein zum Ziel, Schaft drehen / gespannt halten. Ohne Kontrolle setzt selbsttätige Bewegung wieder ein.
+- Kontrollierter Lebenskraftentzug schwächte den untersuchten Toten bis zur Regungslosigkeit; danach kehrte Aktivität zurück.
+- Spröde dunkle Stränge im Gewebe liefen zu einer Kruste um das Herz mit blassgelben Einschlüssen. Diese reagierten auf den Stein; auch ohne aktiven Stab gab es schwache Impulse.
+- Nach Herauslösen der Masse / Durchtrennung ihrer Verbindungen blieb der Körper reglos. Die Masse flackerte außerhalb des Körpers weiter. Sie wurde abgedeckt und mit kleinen Proben zur Mitnahme gesichert.
+- Ursprung, Selbstversorgung, Reichweite und Dauerhaftigkeit sind **nicht erklärt**. Kein Beweis, dass alle Untoten dasselbe Innenleben besitzen.
+- Bram war laut Edrin schon vor jeder ihm bekannten Behandlung aktiv. Rhen hat ihn angeblich nie in der Abtei gesehen. Seine Widerstandsfähigkeit bleibt offen; seine Untersuchung wurde noch nicht gespielt.
+
+### Aussagen Rhens – nicht als bewiesene Wahrheit behandeln
+- Cael setzt gelbe Steine aus den Gewölben in Stäbe und behandelt Tote mit einer Flüssigkeit; Klammern dienen Verstärkung zum Lastentragen.
+- Severin lässt Gewölbe unter dem alten Glockenturm freilegen, um eine andere Glocke als die eingeschmolzenen Turmglocken zu finden. Er behauptet, dies könne die Plage beenden.
+- Lebende erkranken bei den Arbeiten, Tote dienen als Arbeiter. Auch Handwerker und kräftige Lebende werden verschleppt.
+- Rhen kam vor sieben Wochen mit sechs Kranken. Drei sollen noch leben, darunter ein Junge. Sie behauptet, aus Sorge um diese Menschen geblieben zu sein; keine explizite Drohung Severins belegt.
+- Sie beteiligt sich nach eigener Aussage seit zwölf Tagen an Transporten lebender Gefangener; davor an Leichentransporten, später auch an Abholungen aus geöffneten Gräbern.
+- Listen stammen angeblich von Severin mit Caels Vermerken; ältere behandelte Körper kommen nach ihrer Aussage in einen Kohlenkeller.
+- **Offener Widerspruch:** Rhen behauptet, nur behandelte Tote ließen sich steuern; Bram reagierte auf Edrins Stab, obwohl eine Behandlung bisher nicht nachgewiesen ist.
+
+### Aktueller Stand
+Gruppe zurück in Eibenbrück, noch vor Tagesanbruch. Toman hat Abschied genommen und wünscht Wiederbestattung. Bram bleibt gesichert und ununtersucht im Stall; sein Schicksal noch offen. Die Gruppe beabsichtigt nach Versorgung / Vorbereitung die Untersuchung Dornwachts. Keine bereits stattgefundene Abreise, kein bestätigter Infiltrationsplan. Siehe KAMPAGNENSTAND.md.

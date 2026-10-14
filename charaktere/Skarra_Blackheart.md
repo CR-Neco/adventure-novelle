@@ -24,3 +24,12 @@ Siehe `../SPIELREGELN.md`. Insbesondere: keine direkte Reanimation beliebiger To
 
 ## Beziehungen
 Noch in Entwicklung. Keine vorausgesetzte Führungsrolle, Freundschaft oder Romanze.
+
+## Fortschreibung – Sitzung 14. Oktober 2026
+- Beschwor Blutunhold, Knochenkundschafter und Fleischgolem; letzterer zog die Wagen ins Dorf.
+- Entzog Waldtieren und Edrin, später Schafen Lebenskraft. Rechtfertigte dies als Vorbereitung auf Gefahren; andere widersprachen. Minthara hielt auf der Weide Wache.
+- Trat singend aus der Deckung zum Transportwagen; kämpfte in der Schnitterform, verletzte Berold schwer, tötete ein Zugpferd und zerstörte einen Wagenuntoten. Verließ den Schleier für die Befragung.
+- Untersuchungsdrang: kontrollierter Entzug und invasive Untersuchung mit Triss brachten konkrete Erkenntnisse über den behandelten Toten.
+- Misstraut Rhen; holte ausdrücklich die Meinungen aller vier Gefährtinnen ein und stimmte der Prüfung ihrer Angaben / Rückkehr ins Dorf zu.
+- Lehnte Mitnahme Brams und Beteiligung am Abschied ab; betonte, Nekromantie mache Tote nicht lebendig. Hat Brienne die Verantwortung für Toman überlassen. Teilnahme an Brams Untersuchung noch unentschieden.
+- Keine festgelegte Anführerin und keine neuen geheimen Motive. Spannungen, Kooperation und Gesprächsbereitschaft sind beobachtet; Freundschaft oder Romanze nicht festgelegt.

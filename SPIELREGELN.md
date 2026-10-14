@@ -30,3 +30,20 @@
 
 ## Spoiler-Schutz
 Im Repository stehen ausschließlich Informationen, die der Spieler bereits kennt. Keine geheimen Hintergründe, Pläne oder künftigen Wendungen ablegen.
+
+## Ergänzungen aus der Sitzung vom 14. Oktober 2026
+
+### Tempo und Entscheidungsstellen
+- Der Spieler beschreibt künftig häufig Skarras Vorhaben, Intentionen und Grenzen. Die Spielleitung darf deren Umsetzung und Folgen in größeren zusammenhängenden Szenen erzählen; keine zusätzlichen Entscheidungen, neuen Dialoge, Gedanken oder Gefühle Skarras erfinden.
+- Reisen, Vorbereitungen und Routinegespräche können zügig überbrückt werden. Wichtige Entscheidungen, Konflikte und reizvolle Einzelszenen können direkt ausgespielt werden; der Spieler kann ausdrücklich näher heranzoomen.
+- Bis zu einer **konkreten, bedeutsamen Spielerentscheidung** weitererzählen. Dann außerhalb des Romantexts **„Skarra ist am Zug:“** mit klarer offener Handlung setzen. Falls Ja/Nein oder eine Geste genügt, darauf hinweisen. Keine unnötigen Zwischenstopps.
+- Diese Spielzug-Aufforderungen und reine Fortsetzungsbefehle werden nicht ins Manuskript übernommen.
+- Mehr eigenständige Dialoge und Entscheidungen zwischen den vier Begleiterinnen. Jede Figur ist eine eigene Abenteurerin, keine Aufgabenempfängerin Skarras.
+- Triss braucht Raum für eigenständige magische Initiative, Brienne für Handeln unter echtem Druck, Magrat für Hexenschläue und Menschenkenntnis. Keine fest versprochenen Siege / Auftritte und keine erzwungenen Reaktionen. Minthara darf irren und persönliche Interessen haben. Action und reale Gefahr sind erwünscht.
+- OOC-Feedback zur Qualität ist kein Figurenwissen und keine Romanhandlung.
+
+### Fähigkeiten / Entscheidungen dieser Sitzung
+- Lebenskraftentzug wurde als erzählerisch verdichteter Einsatz des Nekromanten-Repertoires akzeptiert, mit realen Kosten für die betroffenen Lebewesen. Keine Ableitung eines universellen, beliebig weit reichenden Ortungssinns durch Erde und Hindernisse.
+- **In Schnitterform kann Skarra nicht mit anderen Gegenständen interagieren**, etwa einen Kontrollstab übernehmen. Andere Figuren können dies tun; Skarra muss dafür den Schleier verlassen.
+- Der vorbereitete Sensenhieb (Executioner’s Scythe) wurde mit Betäubung des getroffenen Gegners und zurückbleibendem Kältefeld gespielt.
+- Blutunhold und Fleischgolem sind in dieser Sitzung aufgetreten. Die drei früheren Knochenkundschafter bleiben bestehender Kanon; keine darüber hinaus frei erfundenen Beschwörungen.

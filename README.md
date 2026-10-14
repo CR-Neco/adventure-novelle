@@ -27,8 +27,8 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **OOC:** `(OOC: …)` (Spieler) bzw. `(OOC – Spielleiter: …)` (Spielleitung).
 
-**Romanfassung:** tatsächliche Szenen und Dialoge bewahren, Spielerbeiträge marineblau. Die Word-Datei wird nach Spielsitzungen fortgeschrieben.
+**Romanfassung:** tatsächliche Szenen und Dialoge bewahren, Spielerbeiträge marineblau. Die Markdown-Datei ist aktuell. Die Word-Datei bleibt auf Wunsch vom 14. Oktober 2026 vorerst auf dem Stand der ersten Sitzung; Synchronisierung folgt später.
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt:** Am alten Nordweg verlangt ein vermummter Fremder eine von Skarras Knochenkundschaftern erbeutete Ledertasche zurück. **Skarra ist am Zug.**
+**Aktueller Haltepunkt:** Zurück in Eibenbrück, vor Tagesanbruch. Toman hat Abschied von Bram genommen; der Untote liegt gesichert im Stall. Brienne und Triss sind zur Untersuchung bereit. **Skarra ist am Zug:** Hilft sie dabei, oder zieht sie sich für den Rest der Nacht zurück? Siehe KAMPAGNENSTAND.md.

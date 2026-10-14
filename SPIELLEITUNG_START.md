@@ -12,7 +12,7 @@
 6. **[WELT_UND_KANON.md](WELT_UND_KANON.md)** – Schauplätze, Welt und bisheriger Kanon.
 7. **[DOKUMENTATION.md](DOKUMENTATION.md)** – laufende Buchpflege und Übergabe nach Sitzungen.
 
-Bei Widersprüchen haben die **tatsächlich gespielten Szenen und späteren ausdrücklichen OOC-Regelentscheidungen des Spielers** Vorrang. Die vollständige Markdown-Fassung wurde direkt aus der Word-Datei abgeleitet; eine Zusammenfassung ist kein Ersatz für den Originaltext. Die GitHub-Anbindung kann binäre DOCX-Dateien gegebenenfalls nicht direkt lesen, deshalb für den Einstieg die Markdown-Fassung verwenden.
+Bei Widersprüchen haben die **tatsächlich gespielten Szenen und späteren ausdrücklichen OOC-Regelentscheidungen des Spielers** Vorrang. Die ursprüngliche Markdown-Fassung wurde direkt aus der Word-Datei abgeleitet und danach mit den vollständig gespielten Szenen fortgeschrieben; eine Zusammenfassung ist kein Ersatz für den Originaltext. **Seit der Sitzung vom 14. Oktober 2026 ist Markdown aktueller als der Word-Export, dessen Synchronisierung der Spieler ausdrücklich auf später verschoben hat.** Die GitHub-Anbindung kann binäre DOCX-Dateien gegebenenfalls nicht direkt lesen, deshalb für den Einstieg die Markdown-Fassung verwenden.
 
 ## 2. Dein Auftrag
 
@@ -72,12 +72,22 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg
+## 8. Aktueller Wiedereinstieg – Ende der Sitzung 14. Oktober 2026
 
-Am alten Nordweg hat ein kleiner Knochenkundschafter eine Ledertasche erbeutet. Der vermummte Mann mit dem blassgelb besetzten Kontrollstab verlangt sie zurück. Bram ist in Briennes Armen erschlafft. Minthara, Triss und Magrat beobachten die Situation.
+Die Gruppe ist noch vor Tagesanbruch nach **Eibenbrück** zurückgekehrt. Verletzte werden im Krummen Nagel versorgt, Gefangene vom Vogt bewacht. Bram liegt gesichert im leeren Stall. Brienne hat Toman beim Abschied begleitet; er möchte seinen Vater erneut bestatten und sicher sein, dass er im Grab bleibt.
 
-**Letzter gesprochener Satz:**
+**Brams Untersuchung wurde noch nicht gespielt.** Brienne und Triss sind dazu bereit. Skarra hat das Gespräch mit Toman abgelehnt; ihre Teilnahme an der Untersuchung ist offen.
 
-> „Bitte“, sagte er. „Wenn Ihr wisst, was gut für Euch ist, gebt sie mir zurück.“
+**Letzter gesprochener Satz (Minthara):**
+> „Danach brauchen wir Schlaf. Die Abtei läuft uns nicht davon. Unsere Fehler werden mit Müdigkeit aber nicht klüger.“
 
-**Skarra ist am Zug.** Warte auf ihre Handlung.
+**Offene Frage an Skarra:**
+> Hilft sie Triss bei Brams Untersuchung, damit sein Körper zur Ruhe gebracht werden kann, oder zieht sie sich für den Rest der Nacht zurück?
+
+**Skarra ist am Zug.** Nicht Untersuchung, Schlaf, Bestattung oder Abreise vorwegnehmen. Details in KAMPAGNENSTAND.md.
+
+## 9. Aktuelle Erzählvereinbarung
+
+Der Spieler gibt häufig Vorhaben / Intentionen statt jeden Einzelzug vor. Umsetzung und Folgen in größeren Szenen erzählen, ohne eigene Worte oder Entscheidungen Skarras hinzuzuerfinden. An bedeutsamen Entscheidungsstellen mit **„Skarra ist am Zug:“** stoppen. Die vier Begleiterinnen handeln und sprechen auch untereinander eigenständig. Neue OOC-Vereinbarungen in SPIELREGELN.md lesen.
+
+**Abtei Dornwacht** und **Dornwacht** sind derselbe Ort, etwa drei Tagesreisen zu Fuß nördlich Eibenbrücks. Bruder Cael befindet sich laut Aussagen dort. Rhen kennt schnellere Wagenrouten mit Pferdewechseln; Angaben und Motive sind nicht vollständig bewiesen.

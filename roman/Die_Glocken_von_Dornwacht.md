@@ -2,7 +2,7 @@
 
 *Ein gemeinsames Fantasy-Abenteuer – Prolog und Kapitel 1*
 
-> **Quellenhinweis:** Dies ist die durchsuchbare, wortgetreue Markdown-Fassung der vorhandenen Word-Romanfassung. Spielerpassagen sind ausdrücklich markiert; im Word-Dokument sind sie marineblau. OOC-Kommentare sind nicht enthalten.
+> **Quellenhinweis:** Die ursprüngliche Fassung wurde wortgetreu aus dem Word-Manuskript abgeleitet. Die gespielte Sitzung vom 14. Oktober 2026 wurde anschließend vollständig als Markdown-Fortsetzung ergänzt; der Word-Export wird auf Wunsch später synchronisiert. Spielerpassagen sind ausdrücklich markiert und für den Word-Export marineblau vorgesehen. OOC-Kommentare und Spielzug-Aufforderungen sind nicht enthalten.
 
 ---
 
@@ -1714,3 +1714,2354 @@ Er schien Angst davor zu haben, was sie in der Tasche finden könnte.
 
 „Bitte“, sagte er. „Wenn Ihr wisst, was gut für Euch ist, gebt sie mir zurück.“
 
+---
+
+## Die Tasche und die Mühle
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Der kleine Knochendiener schien beinahe fragend zu seiner Herrin aufzusehen, erwartungsvoll eines Befehls seiner Meisterin. „Mein Erscheinen scheint Euch nicht unbekannt — sind wir uns begegnet?“ Die schwarze Leere Skarras Kapuze wandte ihren „Blick“ von der Kreatur am Boden auf den Mann. „Zerbrecht Euch nicht den Kopf darüber, was gut für mich ist … fragt Euch lieber, was gut für Euch ist, wenn ich mir jetzt ansehe, was der Kleine hier gefunden hat.“ Skarra hielt ihre linke Hand auf, ohne ihren Blick vom Mann abzuwenden. Das rattenähnliche Geschöpf verstand: Es kraxelte an Skarras Bein, über ihren Rücken, Schulter und Arm, legte das Bündel auf ihrer Hand ab und hüpfte ihr von dort klappernd vor die Füße.
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Der Mann verfolgte den Weg der Tasche mit angespanntem Kiefer. Als der Knochendiener von Skarras Hand sprang, zuckte er zusammen.
+
+„Nein“, sagte er. „Wir sind uns nicht begegnet.“
+
+Sein Blick hob sich zur schwarzen Leere unter ihrer Kapuze und wich ihr gleich wieder aus.
+
+„Ich habe gesehen, was Euch gehorcht. Das genügt mir.“
+
+„Für jemanden, der gerade einen Toten auf uns gehetzt hat, seid Ihr erstaunlich empfindlich“, bemerkte Triss. Der rote Schein zwischen ihren Fingern blieb ruhig.
+
+Er öffnete den Mund, schloss ihn wieder.
+
+In Skarras Hand lag eine schmale Tasche aus weichem, dunkel gewordenem Leder. Ihr unteres Ende war nass vom Schlamm. Unter der umgeschlagenen Klappe hielt ein flacher Knochenknebel die Verschlussschlaufe zusammen. Darin zeichneten sich mehrere kleine, harte Gegenstände ab; beim Transport hatten sie leise aneinandergeklirrt.
+
+Minthara blieb seitlich vom Fremden stehen, außerhalb der unmittelbaren Reichweite seines Stabes.
+
+„Stellt ihn auf den Boden.“
+
+Seine Finger schlossen sich fester um das Holz.
+
+Brienne verlagerte Brams Gewicht und ging vorsichtig auf ein Knie. Sie hielt seinen Oberkörper vom schlammigen Weg fern, während Magrat neben ihr den Strick betrachtete.
+
+„Ihr habt gehört, was sie gesagt hat“, sagte Brienne.
+
+Der Fremde sah zu Bram. Dann bückte er sich langsam und legte den Stab vor seine Stiefel. Der blassgelbe Stein blieb dunkel.
+
+„Die Tasche könnt Ihr aufmachen“, sagte er heiser. „Aber vorsichtig. Da ist Glas drin.“
+
+„Was für Glas?“, fragte Triss.
+
+Er schluckte.
+
+„Fläschchen.“
+
+Minthara ließ ihm einen Augenblick Zeit, weiterzusprechen. Als er schwieg, fragte sie: „Und deren Inhalt?“
+
+„Ich weiß nicht, wie es heißt.“
+
+Magrat hob den Kopf. „Aber Ihr wisst, wofür es ist?“
+
+Zum ersten Mal sah er die Hexe richtig an.
+
+„Damit sie unterwegs nicht aufwachen.“
+
+Briennes Hand hielt mitten in der Bewegung inne.
+
+„Wer?“
+
+Der Mann blickte auf den Stab zu seinen Füßen.
+
+„Die auf dem Karren.“
+
+„Lebende Menschen?“, fragte Brienne.
+
+Der Mann nickte kaum merklich.
+
+Für einen Moment war nur das Tropfen von den Zweigen zu hören.
+
+Magrat richtete sich auf. „Wie viel habt Ihr ihnen gegeben?“
+
+„Jedem einen Schluck.“
+
+„Aus welchem Fläschchen?“
+
+Er sah zur Tasche.
+
+„Es sind verschiedene drin?“, fragte sie.
+
+„Zwei Sorten. Die dunklen zum Schlafen.“
+
+Magrat presste die Lippen zusammen. Ihre Unsicherheit war verschwunden.
+
+„Ein Schluck ist keine Dosis. Wie lange ist das her?“
+
+„Ich weiß es nicht. Eine Stunde. Vielleicht länger.“
+
+Triss trat einen halben Schritt näher. „Im Dorf wird seit gestern eine Frau vermisst. Die Schwester des Wirtes. Ist sie auf diesem Karren?“
+
+„Ich kenne ihre Namen nicht.“
+
+„Dann beschreibt sie.“
+
+Er rieb seine leere rechte Hand an der Mantelnaht.
+
+„Drei Menschen. Eine Frau mit grauem Zopf. Ein Mann, jünger als ich, mit einem verbundenen Arm. Und noch eine Frau. Braunes Haar, eine Brandnarbe hier.“
+
+Er berührte die Innenseite seines linken Handgelenks.
+
+Triss wechselte einen Blick mit Brienne. Keine von beiden konnte die Beschreibung zuordnen.
+
+Minthara stellte einen Stiefel auf den Stab, als der Fremde unwillkürlich danach sah.
+
+„Wo ist der Karren?“
+
+Er zögerte.
+
+Sie erhöhte den Druck nicht. Wartete nur.
+
+„Bei der Mühle“, sagte er schließlich. „Hinter dem Gebäude. Dort geht ein Weg zum Mühlgraben.“
+
+Magrat sah zu Brienne hinunter.
+
+„Wenn sie im Liegen erbrechen, ersticken sie womöglich. Wir müssen nach ihnen sehen.“
+
+„Wir lassen ihn trotzdem nicht hier zurück.“ Brienne blickte auf Bram.
+
+„Nein“, sagte Magrat leise. Sie kniete sich wieder neben den Toten und begann, den nassen Strick an seinem Hals zu lockern. „Das müssen wir auch nicht.“
+
+Der Fremde machte eine kleine Bewegung auf sie zu.
+
+Triss hob warnend die Hand.
+
+Er blieb stehen, starrte aber weiter auf Magrats Finger.
+
+„Lasst den Strick dran.“
+
+Magrat hielt inne.
+
+„Warum?“
+
+Er atmete durch den Mund. „Weil er ohne den Stab manchmal trotzdem losgeht. Mit dem Strick kann man ihn wenigstens festhalten.“
+
+Magrat schob zwei Finger zwischen Strick und Hals.
+
+„Er sitzt zu eng.“
+
+„Er braucht keine Luft.“
+
+„Das weiß ich.“
+
+Sie lockerte die Schlinge dennoch, gerade weit genug, dass sie nicht länger tief in die Haut schnitt. Brienne stützte Brams Kopf dabei mit ihrer freien Hand.
+
+Minthara betrachtete den Fremden.
+
+„Wie viele sind bei der Mühle?“
+
+„Zwei.“
+
+„Bewaffnet?“
+
+„Ja.“
+
+„Das ging doch recht einfach.“
+
+„Sie werden Euch kommen hören.“
+
+„Dann wäre es unhöflich, sie warten zu lassen.“
+
+„Minthara.“ Triss’ Stimme war leise. „Wir brauchen die Menschen lebend.“
+
+Die Drow sah sie an.
+
+„Deshalb frage ich nach den Wachen.“
+
+Triss hielt ihrem Blick einen Moment stand, dann nickte sie knapp.
+
+Vom Wald her strich Wind über den Weg. Wasser rieselte aus den Blättern auf die Kapuze des Fremden. Er schien es nicht zu bemerken.
+
+„Ich habe ihnen nichts getan“, sagte er.
+
+Magrat blickte auf.
+
+„Ihr habt ihnen etwas eingeflößt, dessen Namen Ihr nicht kennt.“
+
+„Damit sie still sind. Ich sollte nur—“
+
+Er brach ab.
+
+„Nur was?“, fragte Brienne.
+
+Sein Blick fiel auf den Toten in ihren Armen.
+
+Diesmal wartete niemand mit einer weiteren Frage nach. Der Mann rieb sich über den Mund.
+
+„Bram nachbringen. Er ist vom Karren gefallen, als wir an der Gabelung waren. Danach wollte er immer wieder zurück ins Dorf.“
+
+Brienne sah auf das bleiche Gesicht hinunter.
+
+„Zu seinem Sohn.“
+
+„Das wisst Ihr nicht“, sagte Minthara.
+
+Briennes Kiefer spannte sich an. Doch nach einem Augenblick antwortete sie: „Nein.“
+
+Magrat ließ das gelockerte Seil über Brams Brust liegen.
+
+„Aber wir wissen, in welche Richtung er wollte.“
+
+Minthara nahm den Fuß vom Stab und hob ihn auf. Sie fasste das Holz weit unterhalb des Steins; der Fremde verfolgte jede ihrer Bewegungen.
+
+„Und Ihr“, sagte sie zu ihm, „werdet uns den Weg zeigen.“
+
+Brienne schob einen Arm unter Brams Knie und erhob sich vorsichtig mit ihm. Unter der Last knirschte der Kies.
+
+Triss blieb beim Gefangenen. Magrat trat zu Skarra, ohne nach der Tasche zu greifen.
+
+„Dürfte ich mir die Fläschchen ansehen? Wenn wir dieselben Mittel bei den Menschen finden, möchte ich sie unterscheiden können.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra hielt Magrat die Tasche hin. „Nur zu — Ihr seid die Kräuterkundige, nicht wahr?“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+„Unter anderem“, sagte Magrat und nahm die Tasche entgegen.
+
+Sie legte die Klappe zurück. Im Inneren steckten vier schmale Fläschchen in eingenähten Lederschlaufen. Zwei waren aus braunem Glas, zwei aus hellem. Eines der braunen war nur noch halb voll.
+
+Magrat zog es heraus und prüfte den Korken. Um dessen Rand klebte ein dunkler, eingetrockneter Rest.
+
+„Licht, bitte.“
+
+Triss hob ihre freie Hand. Ein kleiner bläulicher Schein entstand über Magrats Schulter.
+
+Die Hexe öffnete das Fläschchen und fächelte sich vorsichtig etwas von seinem Geruch zu. Ihr Gesicht verzog sich.
+
+„Mohn. Bilsenkraut vermutlich auch. Den Rest erkenne ich so nicht.“
+
+„Könnt Ihr die Wirkung aufheben?“, fragte Brienne.
+
+„Ich kann erst einmal dafür sorgen, dass sie ordentlich atmen.“ Magrat verschloss das Fläschchen wieder. „Was sie brauchen, entscheide ich, wenn ich sie gesehen habe.“
+
+Dann nahm sie eines der hellen heraus. Darin schwamm eine trübe Flüssigkeit; am Boden hatte sich ein heller Satz gesammelt. Magrat drehte das Glas langsam zwischen den Fingern, ließ den Korken jedoch stecken.
+
+„Und das hier?“
+
+Der Gefangene schüttelte den Kopf.
+
+„Hat man Euch nicht gesagt, wofür es ist?“
+
+„Doch.“
+
+Magrat wartete.
+
+„Falls einer unterwegs stirbt.“
+
+Brienne hob den Blick.
+
+„Was soll das heißen?“
+
+„Dann sollten wir ihm davon etwas in den Mund geben. Und warten.“
+
+Triss’ Licht flackerte kurz.
+
+„Habt Ihr das getan?“
+
+„Nein.“
+
+„Bei Bram?“
+
+„Der war schon so, als sie ihn gebracht haben.“
+
+Magrat schob das Fläschchen behutsam zurück in seine Schlaufe. Sie zog den Verschluss der Tasche zu und hielt sie Skarra wieder hin.
+
+„Das zweite Mittel fasse ich ohne Untersuchung nicht weiter an.“
+
+Minthara hatte währenddessen den schmaleren Weg zur Mühle betrachtet.
+
+„Wir verlieren Zeit.“
+
+„Ich kann Bram tragen“, sagte Brienne. „Aber nicht schnell und nicht mit gezogenem Schwert.“
+
+„Bleibt hinter mir. Magrat bei Euch. Triss nimmt unseren Wegweiser.“
+
+Der Mann wandte sich hastig zu ihr.
+
+„Wenn sie mich bei Euch sehen—“
+
+„Dann solltet Ihr Euch rechtzeitig bemerkbar machen und ihnen sagen, dass sie ihre Waffen ablegen sollen.“
+
+„Das werden sie nicht tun.“
+
+Minthara betrachtete ihn einen Moment.
+
+„Gut, dass Ihr uns das jetzt sagt.“
+
+Triss trat neben den Gefangenen. „Die Wachen dürfen uns nicht bis zu den Bewusstlosen kommen sehen und ihnen vorher etwas antun.“
+
+Die Drow nickte widerwillig.
+
+„Wir halten vor dem Gebäude. Erst sehen wir nach.“
+
+Magrat blickte von der Tasche zu den kleinen Knochenwesen am Boden.
+
+„Einer von denen könnte vielleicht näher heran als wir.“
+
+„Solange er diesmal niemandem ins Hosenbein kriecht“, sagte Triss.
+
+„Das war ein Stiefel“, erwiderte Minthara.
+
+Dann wandte sie sich Skarra zu.
+
+„Könnt Ihr sie zum Auskundschaften an die Mühle schicken? Wir müssten wissen, wo die beiden Wachen stehen und ob jemand unmittelbar beim Karren ist.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Ich kann mehr als das tun“, sagte Skarra, begann erneut zu murmeln und machte mit ihren Armen eine ausladende Geste. Für einen Moment schien sie grün zu leuchten. Etwas knackte einige Meter entfernt, und gefolgt von einem schmatzenden Geräusch erschien aus dem Dunkel eine groteske Kreatur. Sie hatte einen großen Kopf, der in einem einzigen bezahnten Maul endete. Mit ihrem tentakelartigen Schwanz wirkte sie wie eine riesige Kaulquappe. Völlig geräuschlos schwebte sie einen halben Meter über dem Boden. „Brienne, bindet Bram am Blutunhold fest; wir werden Eure Aufmerksamkeit woanders benötigen. Keine Bange, von ihm geht keine Gefahr aus.“ Skarra wandte sich wieder an den Mann. „Für uns jedenfalls nicht. Solltet Ihr jedoch Dummheiten versuchen, könntet Ihr schnell herausfinden, warum man ihn Blutunhold nennt.“ Skarra murmelte erneut etwas und schnippste zweimal mit dem Finger. Nahezu geräuschlos stoben die kleinen Knochendiener in Richtung Mühle von dannen.
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Brienne betrachtete den Blutunhold. Ihr Blick wanderte über das zahnbewehrte Maul zu seinem schwebenden Leib.
+
+„Das hoffe ich.“
+
+Sie wartete, bis die Kreatur nahe genug war, und ließ Bram vorsichtig von ihren Armen gleiten. Magrat half ihr, den reglosen Körper mit Briennes zusammengerolltem Umhang abzustützen. Den Strick löste die Ritterin vollständig von seinem Hals; zusammen mit einem Lederriemen aus ihrer Ausrüstung diente er schließlich dazu, ihn am Blutunhold zu sichern.
+
+Brienne prüfte die Befestigung zweimal.
+
+Der Gefangene stand währenddessen ausgesprochen still.
+
+Minthara betrachtete ihn. „Ihr wirkt, als hättet Ihr die Anweisung verstanden.“
+
+Er nickte.
+
+Die kleinen Knochendiener waren längst zwischen den Bäumen verschwunden. Nur einmal knackte es leise im Unterholz, dann verschluckte die Nacht auch dieses Geräusch.
+
+Brienne zog ihr Schwert wieder.
+
+„So. Wo entlang?“
+
+Der Mann deutete auf den schmalen Mühlenpfad.
+
+„Hinter der Biegung fällt der Weg ab. Unten steht das Gebäude.“
+
+„Wie heißt Ihr?“, fragte Triss.
+
+Er zögerte so lange, dass sie ihn ansah.
+
+„Edrin.“
+
+„Edrin. Ihr bleibt hier bei mir.“
+
+Minthara wandte sich an Brienne. „Sehen wir nach.“
+
+Die Ritterin nickte. Gemeinsam verschwanden sie auf dem Pfad, wobei Minthara bald zwischen die Bäume wechselte. Briennes Schritte wurden langsamer und verstummten schließlich ebenfalls.
+
+Magrat blieb bei Bram. Sie strich ihm nasses Haar aus der Stirn und betrachtete die Druckstelle an seinem Hals. Edrin sah weg.
+
+„Kennt Ihr die drei auf dem Karren wirklich nicht?“, fragte sie.
+
+„Nein.“
+
+„Wer kennt ihre Namen?“
+
+„Harl. Der mit dem Bart. Er hat sie hergebracht.“
+
+„Von wo?“
+
+„Ich habe nicht gefragt.“
+
+Magrat sah ihn an. Edrin zog den Kopf zwischen die Schultern.
+
+Bevor sie weiterfragen konnte, raschelte es am Rand des Weges. Einer der kleinen Knochendiener huschte hervor. Er blieb stehen, wandte den Schädel zurück und lief einige Schritte in Richtung Mühle. Dann kehrte er um und wiederholte die Bewegung mit ungeduldig klapperndem Kiefer.
+
+Kurz darauf erschien Minthara zwischen den Bäumen.
+
+„Sie sind dort.“
+
+Brienne folgte ihr. An ihrem gepanzerten Knie hing ein zweiter Kundschafter, der sich erst nach einem behutsamen Schütteln löste.
+
+„Eure kleinen Helfer haben den Karren gefunden“, sagte sie zu Skarra. „Eine der Frauen hat sich bewegt. Sie lebt.“
+
+„Alle drei liegen unter einem offenen Schuppen hinter der Mühle“, ergänzte Minthara. „Einer der Männer sitzt direkt daneben. Schwert am Gürtel. Der andere steht an der Vorderseite mit einer Armbrust.“
+
+„Gespannt“, sagte Brienne.
+
+Minthara nickte. „Zwischen Gebäude und Mühlgraben kommt man zum Schuppen. Eng, aber ungesehen, solange der Armbrustschütze vorne bleibt.“
+
+„Ich gehe mit Magrat zu den Gefangenen“, sagte Brienne. „Der Mann am Karren darf nicht nach ihnen greifen können.“
+
+Triss sah zur Mühle hinüber. „Ich kann den Armbrustschützen von der Wegseite aus beschäftigen. Aber sobald ich mich zeige, läuft uns die Zeit.“
+
+Edrin hob hastig den Kopf.
+
+„Harl trägt ein Horn. Klein, aus dunklem Holz. An seinem Gürtel.“
+
+Minthara blickte ihn scharf an.
+
+„Wen ruft er damit?“
+
+„Die anderen.“
+
+Sie ließ einen Augenblick verstreichen, dann wandte sie sich Skarra zu.
+
+„Der Armbrustschütze muss schweigen, bevor Brienne zum Schuppen geht. Könnt Ihr ihn ausschalten oder festsetzen? Ich kann durch die Bäume nahe an ihn heran. Wenn Ihr selbst vorgeht, sichere ich Euch.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Die Entfernung zu ihm, um ihn ‚mundtot‘ zu machen, wäre für den Schnitter nicht das Problem. Das Problem ist, dass dieser, wenn erst einmal entfesselt, mitunter unangenehme Kollateralschäden mit sich bringt … Wie dem auch sei — ich denke, die ‚Kleinen‘ sollten spielen gehen. Sie sind keine Naturgewalt, aber haben unangenehme Krallen und Zähnchen. Das wird ihn ablenken und beschäftigen und Euch hoffentlich die Zeit verschaffen, unbemerkt an ihn heranzukommen.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara blickte zu den Knochendienern hinunter.
+
+„Dann nutzen wir die Ablenkung.“
+
+Sie zog ihren Dolch und wandte sich an Brienne. „Sobald der Mann vorne beschäftigt ist, geht Ihr zum Schuppen. Ich kümmere mich um das Horn.“
+
+„Und ich um die Armbrust“, sagte Triss.
+
+Magrat zog einen schmalen Streifen sauberen Leinens aus ihrer Tasche und schob ihn griffbereit unter den Gürtel. Dann folgte sie Brienne.
+
+Edrin machte eine Bewegung, als wolle er sich ebenfalls in Gang setzen.
+
+„Ihr bleibt“, sagte Triss.
+
+Sie deutete auf eine kräftige Wurzel am Wegrand.
+
+„Setzt Euch. Hände auf die Knie.“
+
+Er sah zum Blutunhold und gehorchte.
+
+* * *
+
+Harl stand unter dem vorspringenden Dach der Mühle. Von dort konnte er den Zufahrtsweg überblicken, ohne dass ihm das Wasser aus der morschen Dachrinne in den Kragen lief. Die Armbrust hielt er quer vor dem Bauch.
+
+Als etwas über seinen Stiefel huschte, trat er danach.
+
+Er traf nur Luft.
+
+Das zweite Knochenwesen landete auf seinem Unterarm.
+
+Harl fluchte und riss die Waffe hoch. Kleine Krallen schabten über seinen Ärmel; ein Kiefer schnappte dicht vor seinen Fingern zu. Er versuchte, das Ding gegen den Türpfosten zu schlagen.
+
+Da kletterte ihm das dritte am Hosenbein hinauf.
+
+„Verfluchtes—“
+
+Die Armbrust entlud sich mit einem scharfen Schlag. Der Bolzen fuhr ins Vordach.
+
+Triss trat hinter einem Baum hervor. Eine kurze Bewegung ihrer Hand, und die Waffe wurde seitwärts gegen die Bretterwand gerissen. Harl hielt sie noch einen Augenblick fest, dann ließ er los und griff nach seinem Gürtel.
+
+Minthara kam von der anderen Seite.
+
+Sie packte sein Handgelenk, drehte es hinter seinen Rücken und trieb ihn mit dem Gesicht gegen den Türpfosten. Ihr Dolch lag unter seinem Kinn, bevor er einen zweiten Laut hervorbrachte.
+
+„Still.“
+
+Einer der Knochendiener hing noch an seinem Ärmel und zog mit erheblichem Ehrgeiz daran.
+
+„Das genügt“, sagte Minthara zu der Kreatur.
+
+Sie ließ los.
+
+Hinter der Mühle scharrte ein Stuhl über Erde.
+
+„Harl?“
+
+Brienne erreichte den Schuppen gerade, als der zweite Mann aufstand. Er hatte die Hand bereits am Schwert. Ihr erster Hieb traf seine halb gezogene Klinge und schlug sie gegen den Pfosten neben ihm.
+
+„Weg vom Karren.“
+
+Er wich zurück. Sein Blick sprang von ihrem Schwert zu Magrat, die hinter ihr ins Dach des Schuppens trat.
+
+Dann griff er unter seine Jacke.
+
+„Lasst es“, sagte Brienne.
+
+Er hielt inne.
+
+Langsam zog er die Hand wieder hervor. Leer.
+
+* * *
+
+Wenig später brachte Triss beide Männer an die Vorderseite der Mühle. Harl blutete an der Hand und hatte einen zerrissenen Ärmel. Der andere, ein schmaler Mann mit kurz geschorenem Haar, hielt sich das Handgelenk. Ihre Waffen lagen außer Reichweite; das kleine dunkle Horn steckte in Mintharas Gürtel.
+
+Aus dem Schuppen kam Magrats Stimme.
+
+„Die Frau mit dem Zopf ist wach genug zum Schlucken. Die anderen beiden noch nicht.“
+
+„Braucht Ihr Hilfe?“, rief Triss.
+
+„Ja. Wasser. Und bringt mir Edrin. Er soll mir zeigen, wie viel er ihnen gegeben hat.“
+
+Triss blickte zu Minthara. Die Drow nickte und blieb bei den Gefangenen.
+
+Harl hob den Kopf.
+
+„Ihr wisst überhaupt nicht, worin Ihr Euch einmischt.“
+
+Minthara zog das Horn hervor.
+
+„Dann habt Ihr jetzt Gelegenheit, Euch nützlich zu machen. Wer wäre gekommen?“
+
+Er presste die Lippen zusammen.
+
+Der kurz geschorene Mann sah ihn an.
+
+„Sag es ihr.“
+
+„Halt den Mund.“
+
+„Sie haben uns bereits!“
+
+Vom Karren her ertönte ein heiserer, kaum verständlicher Ruf. Brienne beugte sich unter dem Schuppendach über die grauhaarige Frau.
+
+„Langsam. Ihr seid nicht mehr allein.“
+
+Die Frau umklammerte ihren Unterarm.
+
+„Nicht … die Straße.“
+
+Brienne kniete sich neben sie.
+
+„Was ist mit der Straße?“
+
+Doch die Frau brachte nur ein Würgen hervor. Magrat drehte sie behutsam auf die Seite und bedeutete Brienne, ihr Platz zu lassen.
+
+Minthara sah wieder zu Harl.
+
+Er starrte auf das Horn.
+
+Als sich seine Lippen öffneten, sprach er leiser als zuvor.
+
+„Wir sollten hier auf einen Wagen warten. Einen größeren. Er kommt aus dem Norden.“
+
+„Wann?“
+
+„Noch vor Tagesanbruch.“
+
+Minthara wandte den Kopf zum Pfad hinauf, in die Richtung, in der Skarra beim Blutunhold geblieben war.
+
+„Skarra“, rief sie gedämpft. „Die Mühle ist gesichert. Drei Gefangene leben. Wir haben zwei Wachen und offenbar weiteren Besuch zu erwarten.“
+
+
+
+## Kraft und Entscheidungen
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Der rasche Aufbruch aus der Taverne und die Neugier hatten ihren Preis. Skarra war sich gar nicht sicher, ob ihre Lebenskraft für den Schleier ausgereicht hätte, um den Schnitter lange genug kontrollieren zu können. Das war unklug und musste korrigiert werden. Sie war sich unsicher, was ihre neuen Gefährten davon halten würden; insbesondere die Ritterin und Magrat machten ihr da etwas Sorgen. Aber sollte es notwendig werden, musste sie bereit sein. Jetzt war ein guter Zeitpunkt … fernab der Gruppe. Sie streckte ihre Sinne aus. Dort war er, der Kaninchenbau mit seinen Bewohnern … und dort im Unterholz spürte sie das Rehkitz. Sie holte tief Luft und konzentrierte sich. Grüner Schimmer umgab sie, als pulsierendes Licht aus diversen Richtungen des Waldes auf sie zuströmte. Sie spürte, wie die Lebenskraft in ihr stieg. Etwas unter der Erde starb … etwas im Dickicht brach leblos zusammen … etwas stöhnte. Sie brach den Zauber ab. Das genügte vorerst. Sie wandte sich zu Edrin um. „Entschuldige … das war leider notwendig. Du wirst es überleben. Eine durchgeschlafene Nacht, eine gute Mahlzeit und Du bist wieder ganz der Alte. Lass uns gehen.“ Sie trat aus dem Wald und marschierte Richtung ihrer Gefährten. Der Blutunhold folgte ihr in einigem Abstand.
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Edrin antwortete nicht sofort.
+
+Er saß noch an der Wurzel, die Hände jetzt in die feuchte Erde gestemmt. Sein Atem ging flach. Als er aufzustehen versuchte, gab ein Knie unter ihm nach.
+
+Beim zweiten Versuch gelang es ihm. Er hielt sich am Stamm fest, bis seine Beine ihn trugen.
+
+„Notwendig“, wiederholte er tonlos.
+
+Dann folgte er Skarra.
+
+Seine Schritte kamen unregelmäßig hinter ihr her. Einmal blieb er stehen und schluckte mühsam, bevor er weiterging. Den Blutunhold ließ er an sich vorbeischweben.
+
+An der Mühle hatte Triss eine Laterne gefunden und angezündet. Ihr warmer Schein fiel durch die offene Schuppenseite auf den Karren. Brienne stand daneben, während Magrat der grauhaarigen Frau mit einem feuchten Tuch den Mund abwischte.
+
+Minthara sah Skarra entgegen.
+
+„Wir müssen entscheiden, ob wir—“
+
+Ihr Blick glitt an ihr vorbei.
+
+Edrin war am Rand des Laternenscheins stehen geblieben. Sein Gesicht glänzte vor Schweiß. Er hob eine Hand, als wolle er etwas sagen, fand aber offenbar nicht genügend Atem dafür.
+
+Triss ging zu ihm.
+
+„Was ist geschehen?“
+
+„Mir ist nur …“
+
+Er beugte sich vor und stützte die Hände auf die Oberschenkel.
+
+Magrat legte das Tuch beiseite.
+
+„Brienne, bleibt bitte bei ihr.“
+
+Sie kam vom Karren, nahm Edrins Handgelenk und fühlte seinen Puls. Dann ließ sie ihn auf einem niedrigen Hackklotz Platz nehmen.
+
+„Hat er etwas von dem Schlafmittel genommen?“, fragte Triss.
+
+„Nein“, brachte Edrin hervor.
+
+Magrat betrachtete seine Pupillen im Laternenlicht.
+
+„Schwindel?“
+
+Er nickte.
+
+„Schmerzen in der Brust?“
+
+Ein Kopfschütteln.
+
+Minthara blieb bei den gefesselten Wachen. Ihre Aufmerksamkeit lag inzwischen jedoch auf dem Gespräch.
+
+Magrat zog ihren Mantel aus und legte ihn Edrin um die Schultern.
+
+„Er war vorhin noch nicht so.“
+
+Sie richtete sich auf und sah Skarra an.
+
+Ihre Stimme blieb ruhig.
+
+„Was ist mit ihm geschehen? Ich muss es wissen, um ihm helfen zu können.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Ihr sorgt Euch um ihn, der uns vorhin noch einen Untoten auf den Hals gehetzt hat?“ … „Ich habe mir etwas von seiner Kraft genommen. Wer weiß, was uns bevorsteht. Er wird es überleben. Nach einer Mütze voll Schlaf ist er wieder wohlauf.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+„Ja“, sagte Magrat. „Ich sorge mich um ihn.“
+
+Sie zog den Mantel über Edrins Knie zurecht.
+
+„Und um die Menschen, denen er das Schlafmittel gegeben hat. Das eine hindert mich nicht am anderen.“
+
+Triss hatte die Hand noch an seiner Schulter. Ihr Blick ruhte auf Skarra.
+
+„Wie viel habt Ihr ihm genommen?“
+
+Edrin hob den Kopf.
+
+„Sie hat aufgehört, als ich …“
+
+Er verstummte und zog den Mantel enger um sich.
+
+Vom Schuppen her klang Briennes Stimme.
+
+„Hat er Euch angegriffen?“
+
+„Nein“, sagte Edrin.
+
+Die Ritterin blieb beim Karren. Eine Hand lag auf dem Rand des Wagenkastens.
+
+„Dann war er Euer Gefangener.“
+
+Minthara hob den Blick von Harls Fesseln.
+
+„Und er bleibt unser Gefangener. Triss, setzt Euch so, dass Ihr seine Hände sehen könnt.“
+
+„Das tue ich bereits.“
+
+„Gut.“
+
+Die Drow prüfte den letzten Knoten und richtete sich auf.
+
+„Skarra hat recht damit, dass wir weitere Kämpfer erwarten müssen. Wie viele, wissen wir nicht. Ob wir ihnen gewachsen sind, ebenfalls nicht.“
+
+Brienne sah sie an. „Und deshalb darf sie mit ihm machen, was sie will?“
+
+„Das habe ich nicht gesagt.“
+
+Minthara wandte sich Skarra zu.
+
+„Ein Mann, der laufen und Fragen beantworten kann, ist nützlicher als einer, den wir zusätzlich auf den Karren legen müssen. Wenn Ihr uns schützen wollt, berücksichtigt das.“
+
+Magrat nahm ihre Feldflasche vom Gürtel und reichte sie Edrin.
+
+„Kleine Schlucke.“
+
+Er musste beide Hände benutzen, um sie ruhig zu halten.
+
+Die Hexe wartete, bis er getrunken hatte, und blickte dann wieder zu Skarra.
+
+„Vielleicht habt Ihr recht, und morgen ist er wieder wohlauf. Bis dahin behandle ich, was ich vor mir sehe.“
+
+Ein Poltern vom Karren unterbrach sie. Der Mann mit dem verbundenen Arm hatte ein Bein gegen die Bordwand gedrückt. Brienne beugte sich zu ihm hinunter und sprach leise auf ihn ein.
+
+Triss ließ Edrins Schulter los.
+
+„Wir müssen die drei nach Eibenbrück bringen. Dort gibt es Betten, warmes Wasser und Menschen, die helfen können.“
+
+„Und eine unbewachte Straße“, sagte Minthara.
+
+Sie zog Harls Signalhorn aus dem Gürtel, betrachtete es kurz und steckte es wieder ein.
+
+„Wir können sofort mit dem kleinen Karren zurück. Dann sind wir hoffentlich fort, bevor der größere eintrifft. Oder wir bleiben, bringen die Befreiten hinter dem Mühlgraben in Deckung und erwarten den Wagen. Vielleicht erfahren wir dann, wer diese Transporte organisiert.“
+
+„Drei kaum wache Menschen sind kein Köder“, sagte Brienne.
+
+„Deshalb sollen sie hinter den Graben.“
+
+„Wo wir sie bei einem Rückzug über nasse Steine tragen müssten.“
+
+Minthara schwieg einen Moment. Dann nickte sie knapp.
+
+„Ein berechtigter Einwand.“
+
+Harl saß mit gesenktem Kopf an der Mühlenwand. Bei der Erwähnung des größeren Wagens hatte er aufgehört, an seinem blutigen Ärmel zu zupfen.
+
+Triss bemerkte es.
+
+„Ihr könntet uns noch sagen, wie viele kommen.“
+
+„Manchmal vier“, antwortete er. „Manchmal mehr.“
+
+„Dann gehe ich mit den Verletzten zurück“, sagte Brienne. „Magrat?“
+
+„Ich komme mit.“
+
+Minthara sah zum dunklen Zufahrtsweg.
+
+„Ich möchte wenigstens sehen, wer hier eintrifft. Aber allein werde ich keinen Wagen mit vier Bewaffneten aufhalten.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Ich will herausfinden, was hier los ist. Hinter all den Untoten-Aktivitäten steckt kein Tinkturenmischer oder Möchtegern-Nekromant, der mit einem Zauberstab herumfuchtelt. Ich erfreue mich gewiss nicht am Schaden Unglücklicher, aber wir haben Zhaitan sicherlich nicht bezwungen, weil wir jedes Dorf gerettet haben und jeden Verwundeten aufgesammelt haben. Ich halte niemanden zurück, aber ich bleibe und versuche herauszufinden, wer …“ Sie atmete tief durch, als sie Magrats und Briennes bohrende Blicke sah. Sie streifte ihre Kapuze vom Kopf, um die Situation etwas zu entschärfen. „Was ist mit der Mühle? Sie hat nur einen Eingang mit einer dicken Eichenholztür. In der oberen Kammer wären die Verletzten gut aufgehoben, bis wir schlauer sind, was hier vor sich geht.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Im Laternenlicht wurde Skarras Gesicht sichtbar, das silberweiße Haar vom Rand der Kapuze leicht zerzaust. Brienne hielt ihren Blick einen Augenblick fest.
+
+„Die Menschen auf dem Karren wissen vielleicht bereits etwas darüber“, sagte sie. „Sobald sie wieder sprechen können.“
+
+Magrat sah zur Mühle.
+
+„Die Kammer schaue ich mir an.“
+
+Sie nahm die Laterne mit. Brienne folgte ihr bis zur Tür und prüfte das Holz, während Triss bei den Befreiten blieb.
+
+Minthara trat neben Skarra.
+
+„Wir brauchen den Wagen nicht anzugreifen. Wer ihn führt, wohin er fährt, was er geladen hat — schon eine dieser Antworten könnte uns weiterbringen.“
+
+Sie sah zu Harl hinunter.
+
+„Und unsere Gastgeber könnten ihren verpassten Treffpunkt erklären.“
+
+Harl hob den Kopf. „Die glauben mir kein Wort, wenn ich da gefesselt sitze.“
+
+„Eine überzeugende Feststellung.“
+
+* * *
+
+Die Eichenholztür hing noch fest in ihren Angeln. Brienne hob den schweren inneren Riegel aus seinen Halterungen und ließ ihn wieder hineinsinken.
+
+Oben knarrten Schritte.
+
+„Langsam auf der Treppe!“, rief Magrat. „Die dritte Stufe ist gebrochen.“
+
+Als die beiden zurückkamen, trug Brienne eine verstaubte Decke über dem Arm.
+
+„Der Boden oben hält. Zwei schmale Fenster, keines zur Zufahrt. Die Treppe ist eng, aber wir bekommen sie hinauf.“
+
+„Trocken ist es auch“, ergänzte Magrat. „Ich bleibe bei ihnen. Wasser brauchen wir trotzdem.“
+
+Sie blickte Skarra an.
+
+„Für die nächste Stunde ist das eine brauchbare Lösung. Wenn einer schlechter atmet, warten wir nicht auf Antworten von einem Wagen.“
+
+„Dann bringe ich Euch hinaus“, sagte Brienne.
+
+Minthara nickte. „Abgemacht.“
+
+Die nächsten Minuten gehörten der Arbeit. Brienne trug die beiden noch Bewusstlosen nach oben. Die grauhaarige Frau konnte mit Magrats Hilfe aufstehen, doch an der Treppe verließen sie die Kräfte. Triss nahm sie auf der anderen Seite unter den Arm.
+
+Im Vorbeigehen griff die Frau nach dem Türpfosten.
+
+„Marta“, brachte sie hervor.
+
+Triss blieb stehen. „Ihr heißt Marta?“
+
+Ein schwaches Nicken.
+
+„Euer Bruder hat uns von Euch erzählt. Er wartet in Eibenbrück.“
+
+Die Frau schloss die Augen. Ihr Griff lockerte sich gerade weit genug, dass sie weitergehen konnten.
+
+Edrin kam auf die unterste Treppenstufe, in Sichtweite der Wachen, die Brienne nebeneinander an einem alten Mahlstein festband. Den kleinen Karren zog sie anschließend vollständig unter das Schuppendach.
+
+Bram blieb auf dem Blutunhold nahe der Mühlentür. Im Laternenlicht hing seine Hand schlaff über dem Umhang.
+
+Triss sah zu ihm, dann zum Kontrollstab, den Minthara auf eine leere Fensterbank gelegt hatte.
+
+„Den lassen wir niemanden mehr ausprobieren.“
+
+„Gern“, sagte Brienne.
+
+* * *
+
+Als die Laterne aus dem Erdgeschoss nach oben gebracht worden war, lag der Vorplatz wieder dunkel. Minthara stand unter dem Vordach und betrachtete die Zufahrt.
+
+„Wir können uns hier verbergen und sie kommen lassen. Dann bemerken sie allerdings sofort, dass etwas nicht stimmt. Kein Harl am Weg, kein beladener Karren.“
+
+„Ich stelle keinen Gefangenen unbewacht vor die Tür“, sagte Brienne.
+
+„Ich auch nicht.“
+
+Triss lehnte neben der Tür am Mauerwerk.
+
+„Weiter nördlich könnten wir den Wagen beobachten, bevor er die Mühle erreicht. Zu zweit. Hier bleiben genug Hände, um die Kammer und unsere Gefangenen zu sichern.“
+
+Minthara sah Skarra an.
+
+„Ich gehe bis zur nächsten Wegbiegung und suche eine Stelle mit Deckung. Kommt Ihr mit? Wir lassen den Wagen zunächst passieren — sofern wir nichts sehen, das ein Eingreifen verlangt.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra nahm den Strick vom Blutunhold ab und drückte ihn Brienne in die Hand. „Nehmt Bram mit in die Mühle — und auch unseren Möchtegern-Nekromanten hier. Triss, Ihr solltet auch bleiben. Eine Zauberin, eine Kriegerin und eine einzelne Eichentür sollten jedem unwillkommenen Gast schnell eine Lektion erteilen können.“ Skarra ballte ihre Fäuste und atmete tief ein. Wenige Augenblicke später brach der Blutunhold platschend zusammen und hinterließ nur noch eine Pfütze Glibber. „Er würde uns nur verraten“, sagte Skarra, als sie die fragenden Blicke von Minthara und Brienne sah. „Kommt“, flüsterte sie zu Minthara, „wir sind nur zu zweit … hinter der Mühle ist eine Schafsweide … da ist noch etwas, was ich vorher tun muss.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Brienne nahm den Strick entgegen und schob ihren freien Arm unter Brams Schultern. Erst als sie seinen Körper sicher übernommen hatte, trat sie zurück.
+
+Der Blutunhold sackte in sich zusammen.
+
+Ein zäher Spritzer traf Briennes Stiefel. Sie sah hinunter, dann zu Skarra.
+
+„Beim nächsten Mal genügt eine Warnung.“
+
+Triss hielt die Mühlentür auf.
+
+„Wir verriegeln hinter Euch. Zweimal klopfen, eine Pause, dann noch einmal.“
+
+„Falls wir laufen müssen, klopfe ich weniger höflich“, sagte Minthara.
+
+„Dann ruft Euren Namen.“
+
+Brienne trug Bram hinein. Edrin folgte ihr langsam, eine Hand am Türrahmen. Kurz darauf schabte der Riegel über das Holz.
+
+* * *
+
+Hinter der Mühle roch es nach nassem Gras und altem Schafdung. Eine niedrige Trockenmauer begrenzte die Weide; weiter oben verlor sie sich zwischen Haselsträuchern. Im wechselnden Mondlicht waren einige gedrungene, helle Rücken zu erkennen. Die Schafe standen dicht beieinander im Windschatten eines Unterstands.
+
+Minthara blieb neben der Mauer stehen. Von hier aus verdeckte das Mühlengebäude sie gegen den Zufahrtsweg.
+
+Sie musterte die Weide, dann Skarra.
+
+„Für einen weiteren Diener?“
+
+Ihre Stimme war kaum lauter als das Rascheln der Haselblätter.
+
+„Ich habe gesehen, wie Edrin aus dem Wald kam. Wenn Ihr Kraft braucht, sagt mir, wie viel Zeit Ihr benötigt und ob dabei etwas entsteht, das man von der Straße aus sehen kann.“
+
+Sie wandte sich etwas seitwärts, sodass sie den Weg um die Gebäudeecke im Blick behalten konnte.
+
+„Dann halte ich Wache.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Bleibt hier — außerhalb meines Radius. Es wird nicht lange dauern und kein Aufsehen erregen … ich bin gleich zurück.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara blieb an der Mauer zurück.
+
+Skarra ging weiter auf die Weide hinaus. Ein Schaf hob den Kopf; ein zweites wich vor ihr zurück. Dann begann der grüne Schimmer.
+
+Er lag zunächst schwach auf ihren Händen, kaum heller als das Mondlicht auf dem nassen Gras. Dünne Lichtfäden lösten sich aus den gedrängten Körpern unter dem Unterstand und flossen auf sie zu.
+
+Die Tiere wurden unruhig. Hufe scharrten. Eines blökte kurz, ehe seine Vorderbeine einknickten. Andere drängten seitwärts ins Freie, doch auch dort erreichte sie der Entzug.
+
+Skarra ließ erst ab, als ihre Lebenskraft aufgefüllt war.
+
+Zwei Schafe lagen reglos im Gras. Ein drittes atmete noch, flach und schnell. Die übrigen hatten sich am entfernteren Ende des Unterstands zusammengedrängt.
+
+Der grüne Schein erlosch.
+
+An der Mauer wartete Minthara. Ihr Blick ging über Skarras Schulter zur Weide.
+
+„Die Toten wird jemand finden.“
+
+Sie sagte es leise und ohne Vorwurf. Dann wandte sie sich dem Weg zu.
+
+„Gehen wir.“
+
+* * *
+
+Sie hielten sich hinter der Mühle und erreichten die nördliche Straße durch einen schmalen Streifen aus Hasel und jungen Eschen. Minthara setzte ihre Füße bedächtig zwischen die abgefallenen Zweige. An einer Biegung ging sie in die Hocke.
+
+Unterhalb der Straße verlief ein alter Entwässerungsgraben. Er war stellenweise eingebrochen, tief genug aber, dass zwei Menschen darin unter der Böschung verschwinden konnten. Zwischen den Wurzeln einer Esche ließ sich der Weg überblicken.
+
+Minthara deutete auf die Stelle.
+
+Das Warten begann.
+
+Eine Weile blieb das lauteste Geräusch das Wasser im Graben. Dann kam aus Richtung Norden ein fernes Knarren.
+
+Räder.
+
+Minthara legte zwei Finger an Skarras Unterarm und nahm die Hand gleich wieder fort.
+
+Zuerst erschien eine abgeschirmte Laterne. Ihr Licht strich über die ausgefahrenen Spuren, dann wurden zwei Zugpferde sichtbar. Dahinter rollte ein hoher Wagen mit einer grauen Plane. Ein Mann saß auf dem Bock, eine zweite Gestalt neben ihm. Zwei Bewaffnete gingen zu Fuß: einer voraus, einer hinter dem Wagen.
+
+Der vordere trug einen kurzen Speer. Der hintere hatte eine Armbrust unter den Mantel geschoben.
+
+Vier.
+
+Der Wagen kam langsam durch die Biegung. Eine Planecke war hinten hochgebunden. Darunter standen schmale Holzkisten, mit Keilen und Stricken gegen das Verrutschen gesichert. Auf einer davon zeichnete sich im Laternenlicht ein schwarzes Zeichen ab: eine Glocke, quer von einem breiten Strich geteilt.
+
+Minthara beugte sich näher zu Skarra.
+
+„Merkt Euch das.“
+
+Auf dem Bock hob die zweite Gestalt die Hand.
+
+Der Fuhrmann zog die Zügel an.
+
+Die Pferde kamen wenige Schritte vor ihrem Versteck zum Stehen.
+
+„Was ist?“, fragte der Speerträger.
+
+Unter der Kapuze auf dem Bock war das schmale Gesicht einer älteren Frau zu erkennen. Sie hielt den Kopf leicht geneigt.
+
+Aus einer der Kisten kam ein dumpfer Schlag.
+
+Dann ein zweiter.
+
+Der hintere Wächter drehte sich zum Wagen.
+
+„Schon wieder.“
+
+„Lasst die Keile drin“, sagte die Frau.
+
+Sie griff neben ihren Sitz und hob einen kurzen Stab. In seiner Spitze saß ein blassgelber Stein.
+
+Minthara bewegte sich nicht. Ihr Mund war dicht an Skarras Ohr.
+
+„Wenn sie weiterfahren, können wir hinterher. Wenn Ihr etwas unternehmen wollt, bevor sie die Mühle erreichen, dann hier.“
+
+
+
+## Der Wagen aus Dornwacht
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Mir reicht das Herumgedrücke jetzt — ich will verdammt noch mal Antworten“, flüsterte Skarra. Sie streifte ihre Kapuze über und malte ein Zeichen in die Luft. „Siegel des Vampirismus“, begründete sie Mintharas fragenden Blick. „Bleibt hier. Sollte es eskalieren, kümmert Euch zunächst um den Schützen. Ich habe ihn markiert … solltet Ihr Schaden nehmen, einen Treffer an ihm und Ihr werdet Euch besser fühlen“, sagte Skarra. Dann verließ sie ihr Versteck und betrat, ein tyrianisches Wanderlied singend, den Weg direkt auf den Wagen zu.
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara sah zum hinteren Wächter. Dann nickte sie und glitt tiefer in den Schatten der Böschung.
+
+Skarras Lied erreichte den Wagen vor ihr.
+
+Der Speerträger fuhr herum. Er senkte die Spitze seiner Waffe, hielt sie zunächst aber noch schräg gegen den Boden.
+
+„Da kommt jemand.“
+
+Der Fuhrmann zog die Zügel straffer. Ein Pferd schnaubte und schüttelte den Kopf; das Geschirr klirrte.
+
+Die Frau auf dem Bock wandte sich zur Straße.
+
+Unter Skarras Kapuze fand das Laternenlicht kein Gesicht. Es fiel auf dunklen Stoff, auf ihre Schulterelemente und die beiden Schwertgriffe.
+
+„Stehen bleiben“, sagte der Speerträger.
+
+Hinter dem Wagen zog der andere Mann die Armbrust unter seinem Mantel hervor. Er hielt sie tief, mit dem Finger seitlich am Abzug. Sein Blick suchte den Straßenrand ab.
+
+Aus der Kiste kam ein weiteres Poltern.
+
+Die Frau legte ihren Stab quer über die Knie.
+
+„Ruhig, Berold.“
+
+Ob sie den Speerträger oder den Mann mit der Armbrust meinte, blieb offen. Beide sahen kurz zu ihr.
+
+„Eine ungewöhnliche Stunde für ein Lied“, sagte sie zu Skarra.
+
+Ihr Gesicht war schmal und wettergegerbt. Unter der Kapuze lag graues Haar eng am Kopf; am linken Ohr fehlte ein Stück der Muschel. Ihre Handschuhe waren an mehreren Fingern mit hellem Garn geflickt.
+
+Sie musterte die schwarze Leere unter Skarras Kapuze, dann deren Hände.
+
+„Und für eine Reise allein.“
+
+„Sie ist nicht aus dem Dorf“, murmelte der Fuhrmann.
+
+„Das sehe ich.“
+
+Wieder schlug etwas von innen gegen Holz. Diesmal schob sich eine der Kisten ein kleines Stück gegen ihren Haltestrick.
+
+Der Armbrustschütze wich unwillkürlich seitwärts.
+
+„Mutter Rhen—“
+
+„Die Keile halten.“
+
+Die Frau sprach scharf genug, dass er verstummte. Dann nahm sie den Stab von ihren Knien. Der gelbe Stein blieb dunkel.
+
+„Wenn Ihr nach Eibenbrück wollt, liegt es hinter uns. Wenn Ihr Schutz sucht, können wir Euch keinen Platz auf dem Wagen anbieten.“
+
+Ihr Blick glitt kurz zu den Schwertgriffen zurück.
+
+„Aber ich vermute, Ihr seid nicht auf Schutz angewiesen.“
+
+Sie wartete einen Atemzug.
+
+„Was wollt Ihr?“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Antworten! Beginnen wir mit einer einfachen: Wer seid Ihr?“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+„Rhen“, erwiderte die Frau. „Früher Schwester im Siechenhaus von Veyr. Heute sorge ich dafür, dass unsere Wagen Dornwacht erreichen.“
+
+Der Speerträger warf ihr einen Blick zu.
+
+„Mutter—“
+
+„Sie hat nach meinem Namen gefragt, Berold.“
+
+Rhen schob ihre Kapuze zurück. Über ihrem rechten Schläfenbein verlief eine alte, breite Narbe bis in den Haaransatz.
+
+„Wir holen Tote aus den Dörfern. Und Lebende, die man uns übergibt.“ Ihr Blick blieb auf Skarra gerichtet. „Die Toten werden in der Abtei gebraucht. Bei den Lebenden entscheidet der Prior.“
+
+„Ihr redet zu viel“, sagte der Armbrustschütze hinter dem Wagen.
+
+„Und du zielst zu langsam.“
+
+Die Armbrust kam hoch.
+
+Aus dem Graben schoss Minthara hervor. Sie packte den Schaft und riss die Waffe seitwärts. Der Bolzen fuhr mit einem trockenen Schlag in einen Baum. Ihr Dolch schnitt über den Unterarm des Mannes; er schrie auf und taumelte gegen das Hinterrad.
+
+Berold stieß seinen Speer nach Skarra.
+
+Gleichzeitig riss Rhen den Stab hoch.
+
+Der blassgelbe Stein flammte auf. Unter der Plane antwortete ein Krachen, so heftig, dass eines der Pferde stieg. Der Fuhrmann fluchte und stemmte sich gegen die Zügel.
+
+„Aufhalten!“, befahl Rhen.
+
+Ein Kistendeckel sprang aus seiner Verankerung. Zwischen zersplitterten Brettern schob sich eine graue Hand hervor, deren Finger bis auf die Knochen abgeschürft waren.
+
+Minthara hatte den Schützen am Kragen gepackt. Er versuchte, ihr den Ellbogen ins Gesicht zu rammen; sie schlug ihn gegen die Radnabe, doch er blieb auf den Beinen.
+
+Rhen stand halb vom Sitz auf. Der Stab war auf Skarra gerichtet.
+
+„Lebend, Berold!“
+
+Die Speerspitze schoss auf Skarras Körpermitte zu. Hinter ihr versperrte die niedrige Böschung den geraden Rückzug; rechts stand der Pferdekopf, links blieb Raum zur offenen Straße.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Es war, als wenn das wenige Licht um Skarra mit einem Zischen eingesogen wurde und wie ein Ballon platzte. Er platzte und gab eine düstere Gestalt frei. Zwei grüne Augen funkelten. In der Hand schwang die Gestalt eine riesige Sense, deren Klinge aus purem Schatten zu bestehen schien. Die Gestalt machte eine Drehung nach links, die herumwirbelnde Sense fuhr gleichsam durch Berold und den Pferdekopf und hinterließ dabei einen grünen Schleier, der gleichsam wie das Licht durch die Gestalt eingesogen wurde.
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Berolds Speerspitze fuhr in die wirbelnde Dunkelheit.
+
+Dann traf ihn die Sense.
+
+Sein Schrei brach ab. Der Speer fiel ihm aus den Händen; er taumelte seitwärts und schlug mit der Schulter auf die Straße. Grünes Leuchten löste sich von seinem Körper und wurde in Skarras Schleier gerissen.
+
+Das Pferd bäumte sich auf.
+
+Für einen Augenblick hielten Geschirr und Deichsel es noch. Dann knickten seine Vorderbeine ein. Sein Gewicht riss das zweite Tier zur Seite, der Wagen ruckte vor und blieb schräg über dem Weg stehen. Ein Rad hob sich aus der ausgefahrenen Spur und schlug wieder auf.
+
+Der Fuhrmann verlor die Zügel.
+
+Rhen stürzte gegen ihn. Ihr Stab traf die Kante des Bocks; der gelbe Schein zuckte über Plane und Gesichter, erlosch jedoch nicht.
+
+„Die Stränge!“, schrie sie.
+
+Der Fuhrmann zog ein Messer und beugte sich über das Geschirr. Das überlebende Pferd trat aus, die Augen weiß vor Panik.
+
+Hinten am Wagen nutzte der Armbrustschütze den Ruck, um Minthara gegen die Bordwand zu stoßen. Sie verlor seinen Kragen, blieb aber dicht an ihm. Als er nach seinem Schwert griff, stieß sie ihm den Dolch unter die Rippen.
+
+Er sackte gegen sie.
+
+Minthara zog die Klinge frei und ließ ihn neben dem Rad niedergehen. Ein schwacher roter Schimmer huschte über die Schramme an ihrer Wange; die Blutung versiegte.
+
+Ihr Blick ging zur dunklen Schnittergestalt, dann zum gestürzten Pferd.
+
+Sie sagte nichts. Stattdessen sprang sie vom Wagen zurück, als unter der Plane Holz zerbarst.
+
+Die Kreatur aus der Kiste war einmal ein Mann gewesen.
+
+Nun ragten eiserne Klammern aus seinen Schultern. Ein breiter Lederriemen presste seinen Unterkiefer gegen den Schädel. Er zog sich über den geborstenen Kistenrand, ohne auf die Splitter zu reagieren, die ihm den Bauch aufrissen.
+
+Rhen streckte den Stab nach ihm aus.
+
+„Die mit der Sense!“
+
+Der Tote wandte den Kopf.
+
+Ein zweiter Schlag erschütterte die Plane. Noch hielt die nächste Kiste.
+
+Minthara wich um das Hinterrad herum.
+
+„Skarra! Ich nehme die Frau!“
+
+Rhen hörte sie. Sie sprang vom Bock auf die gegenüberliegende Straßenseite, stolperte beim Landen und fing sich mit der freien Hand ab. Den Stab hielt sie hoch.
+
+Der Tote warf sich vom Wagen.
+
+Er landete zwischen Skarra und Minthara auf Händen und Knien. Dann richtete er sich mit einem Ruck auf und stürzte auf die Schnittergestalt zu — schneller als Bram, mit weit geöffneten Armen.
+
+Berold lag einige Schritte links davon. Seine Hand tastete schwach über den Kies nach dem Speerschaft.
+
+Die Schattensense stieg über Skarras Kopf.
+
+Der Untote kam mit ausgestreckten Armen auf sie zu. Seine nackten Füße schlugen hart auf den Kies; eine der eisernen Schulterklammern klapperte bei jedem Schritt.
+
+Die Klinge verharrte einen Herzschlag lang.
+
+Dann fuhr sie nieder.
+
+Der Schlag traf ihn am Übergang von Hals und Schulter und trieb ihn auf ein Knie. Dunkler Reif schoss über seine Haut. Seine greifenden Hände verkrampften sich, der Oberkörper erstarrte mitten in der Bewegung.
+
+Über die Straße breitete sich ein flacher Kreis aus Kälte aus. Pfützen bekamen eine milchige Haut; gefrorener Schlamm knackte unter den Füßen des Toten.
+
+Minthara nutzte den Augenblick.
+
+Sie kam um die Deichsel, während Rhen noch versuchte, den Stab auf Skarra gerichtet zu halten. Die Frau wich zurück und riss ihre freie Hand hoch. Zwischen ihren Fingern blitzte ein kleines Messer auf.
+
+Minthara fing ihren Arm ab. Der erste Stoß ihrer Dolchhand traf Rhens Handgelenk mit dem Knauf. Beim zweiten packte sie den Stab.
+
+Rhen hielt fest.
+
+Minthara trat ihr gegen das Knie.
+
+Beide gingen zu Boden. Der gelbe Stein schlug auf einen Straßenstein, und diesmal erlosch sein Licht.
+
+„Loslassen.“
+
+Rhen rang nach Luft. Mintharas Dolch lag dicht unter ihrem verbliebenen Ohr.
+
+Ihre Finger öffneten sich.
+
+Neben dem Wagen riss der Fuhrmann den letzten Zugstrang durch. Das überlebende Pferd stolperte frei, scheute vor dem Kältefeld und floh die Straße hinunter. Der Mann blieb mit dem Messer in der Hand stehen.
+
+Trümmerholz krachte hinter ihm.
+
+Aus der zweiten Kiste drückte sich ein Arm durch die Plane.
+
+„Messer weg!“, rief Minthara.
+
+Der Fuhrmann ließ es fallen und wich vom Wagen zurück.
+
+Der erste Untote verharrte noch vor Skarra. Dann zuckte ein Finger.
+
+Ein feiner Riss lief durch den Reif auf seinem Nacken.
+
+Rhen sah es ebenfalls.
+
+„Der Stab“, brachte sie hervor. „Gebt ihn mir.“
+
+Minthara zog ihn außer Reichweite.
+
+„Wie hält man sie an?“
+
+„Mit dem Stein zur Brust. Den Schaft drehen, bis—“
+
+Der Untote riss den Kopf hoch. Die Betäubung wich; er versuchte aufzustehen, doch im Kältefeld fanden seine Bewegungen nur schwer zusammen. Sein Blick blieb auf der Schnittergestalt.
+
+Minthara presste Rhen mit dem Knie am Boden fest.
+
+„Bis was?“
+
+„Bis er leuchtet! Dann müssen sie Euch sehen!“
+
+Die Plane riss weiter. Der zweite Tote schob einen kahlen, mit dunklem Garn vernähten Schädel ins Freie.
+
+Minthara blickte zu Skarra. Sie hielt den erbeuteten Stab am unteren Ende, ohne ihn zu drehen.
+
+Der Untote kam nicht mehr auf die Beine.
+
+Skarras nächster Hieb traf ihn quer über den Brustkorb. Eine eiserne Klammer riss aus seiner Schulter und sprang klirrend über den gefrorenen Boden. Er kippte seitwärts, stemmte noch eine Hand gegen die Straße.
+
+Die Sense fiel erneut.
+
+Danach bewegte er sich nicht mehr.
+
+Aus dem zerstörten Körper löste sich ein dünner grünlicher Strom und verlor sich im Schleier. Er nährte die Schatten, doch weit weniger als die lebenden Wesen auf der Weide.
+
+Am Wagen gab die Plane nach.
+
+Der zweite Tote stürzte zwischen Kistentrümmern auf die Straße. Ein Fuß blieb im zerrissenen Stoff hängen. Er zog daran, ohne sich umzusehen, bis das Gewebe unter seinem Gewicht weiter aufriss.
+
+Minthara richtete den gelben Stein auf seine Brust und drehte den Schaft.
+
+Nichts geschah.
+
+„Weiter“, presste Rhen hervor.
+
+Die Drow drehte fester. Im Holz knackte ein verborgener Mechanismus. Gelbes Licht füllte den Stein.
+
+Der Tote ruckte herum.
+
+Sein Blick fand Minthara. Er zerrte den Fuß frei und machte einen Schritt auf sie zu.
+
+„Halt“, sagte sie.
+
+Er blieb stehen.
+
+Minthara hielt den Stab unverändert. Unter ihrem Knie versuchte Rhen, flacher zu atmen.
+
+„Und jetzt?“
+
+„Den Druck halten.“
+
+Die Drow betrachtete die vernähten Züge des Toten.
+
+„Auf die Knie.“
+
+Seine Beine knickten ein. Er schlug so hart auf den Kies, dass der Fuhrmann zusammenzuckte.
+
+„Hände auf den Boden. Stillhalten.“
+
+Der Tote gehorchte.
+
+Für einige Atemzüge war das Knarren des schief stehenden Wagens das einzige Geräusch. Dann hustete Berold. Seine Finger hatten den Speerschaft erreicht, konnten ihn aber nicht mehr umfassen.
+
+„Nicht anfassen“, sagte Minthara zu ihm.
+
+Er ließ die Hand liegen.
+
+Der Fuhrmann stand mit erhobenen Händen am Straßenrand.
+
+„Da kommt keiner mehr raus“, sagte er hastig. „Nur die zwei. Die anderen Kisten sind leer.“
+
+Minthara warf einen Blick zu den dunklen Öffnungen unter der Plane.
+
+„Setzt Euch. Neben das Vorderrad.“
+
+Er gehorchte.
+
+Dann nahm sie ihren Dolch von Rhens Hals, packte stattdessen deren Messerhand und bog sie hinter den Rücken. Den leuchtenden Stab hielt sie weiter auf den knienden Untoten gerichtet.
+
+„Ihr habt Tote für die Abtei geladen“, sagte sie. „Wozu?“
+
+Rhen spuckte Straßenstaub aus.
+
+„Für die Arbeiten unter dem alten Glockenturm. Lebende halten es dort nicht lange aus.“
+
+„Was für Arbeiten?“
+
+Die Frau sah zu der reglosen Gestalt vor Skarra, dann hinauf in den wogenden Schleier.
+
+„Wir legen die unteren Gewölbe frei. Der Prior lässt nach einer Glocke suchen.“
+
+Mintharas Griff blieb fest.
+
+„Die Glocken wurden eingeschmolzen.“
+
+„Die aus dem Turm“, sagte Rhen. „Ja.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Wie mit einem Seufzen verschwand die Dunkelheit und das wenige Licht kehrte zurück. Der Schemen mit der riesigen Sense verschwand, und Skarra stand etwas außer Atem vor der Mutter. „Ihr seid keine Nekromantin. Woher habt Ihr diesen Stab?“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Rhen hob das Gesicht vom Straßenstaub.
+
+„Aus Dornwacht. Bruder Cael fertigt sie.“
+
+Minthara lockerte ihren Griff gerade so weit, dass die Frau sprechen konnte, ohne gegen den verdrehten Arm ankämpfen zu müssen.
+
+„Ist dieser Bruder ein Nekromant?“
+
+„Er nennt sich Werkmeister. Was er vorher war, weiß ich nicht.“
+
+Rhen sah zu dem gelben Stein.
+
+„Die Fassung ist von ihm. Der Stein kommt aus den unteren Gewölben. Sie finden sie im Mauerwerk, in alten Lampen, manchmal lose im Schutt. Cael schleift sie zurecht und setzt sie ein.“
+
+Der kniende Untote bewegte einen Finger. Minthara drehte den Schaft etwas fester. Die Hand lag wieder still.
+
+„Und damit kann jeder Tote befehligen?“, fragte sie.
+
+„Diese Toten.“
+
+Rhens Blick ging zu den eisernen Klammern an der zerstörten Leiche.
+
+„Sie werden vorher behandelt. Ohne das könnt Ihr mit dem Stab herumfuchteln, bis Euch der Arm abfällt.“
+
+Vom Vorderrad kam die leise Stimme des Fuhrmanns.
+
+„Mutter, hört auf.“
+
+„Sie hat gerade Berold und das Pferd mit einem einzigen Hieb gefällt, Jann. Was genau soll ich ihr verschweigen, das uns noch hilft?“
+
+Er senkte den Kopf.
+
+Rhen versuchte, sich etwas aufzurichten. Minthara ließ es zu, hielt ihren Arm aber fest.
+
+„Ich kann keine Toten erwecken. Ich bekomme einen Wagen, einen Stab und Namen. Wir fahren zu denen, die einen Leichnam abzugeben haben. Manche nehmen Geld. Manche wollen bloß, dass er nicht wieder an ihre Tür kommt.“
+
+„Und die Lebenden?“, fragte Minthara.
+
+Rhen schwieg.
+
+Die Drow zog ihren Arm ein kleines Stück höher.
+
+„Die Menschen, die Ihr an der Mühle abholen wolltet.“
+
+„Der Prior lässt Leute suchen. Handwerker. Kräftige Arbeiter. Menschen, nach denen niemand zu bald fragt.“
+
+Jann rieb sich mit beiden Händen über das Gesicht.
+
+„Man hat uns gesagt, sie hätten Schulden.“
+
+„Habt Ihr sie gefragt?“, sagte Minthara.
+
+Er antwortete nicht.
+
+Rhen blickte Skarra direkt an.
+
+„Die Glocke liegt unter dem ältesten Teil der Abtei. Seit sie dort graben, stehen die Toten in den umliegenden Dörfern auf. Erst einzelne. Inzwischen mehr, als unsere Wagen holen können.“
+
+Sie schluckte.
+
+„Der Prior sagt, wenn die Glocke erst freiliegt, kann er dem ein Ende machen.“
+
+„Glaubt Ihr ihm?“
+
+Rhen sah an Minthara vorbei auf den zerschlagenen Toten.
+
+„Am Anfang.“
+
+Berold stieß ein raues Stöhnen aus. Jann machte Anstalten aufzustehen, hielt jedoch inne, als Minthara ihn ansah.
+
+„Er verblutet“, sagte der Fuhrmann.
+
+Rhen wandte sich wieder Skarra zu.
+
+„Lasst mich zu ihm. Ihr habt meinen Stab. Ich habe Verbandszeug unter dem Sitz und war lange genug im Siechenhaus, um eine Blutung zu stillen.“
+
+Minthara ließ Rhens Arm los und stand auf.
+
+„Langsam. Jann holt das Verbandszeug.“
+
+Der Fuhrmann erhob sich mit sichtbarer Erleichterung. Unter dem Kutschbock zog er eine speckige Ledertasche hervor, öffnete sie auf Mintharas Geheiß und hielt sie ihr hin. Darin lagen Leinenrollen, eine Schere, Nadelzeug und mehrere kleine Tiegel.
+
+„Bringt sie her“, sagte Rhen bereits neben Berold.
+
+Sie schnitt seinen blutgetränkten Waffenrock auf. Als sie den Stoff von der Wunde hob, sog sie scharf Luft ein.
+
+„Jann. Hier drücken.“
+
+Er kniete sich ihr gegenüber und presste ein gefaltetes Tuch an Berolds Seite. Der Verwundete schrie auf.
+
+„Ich weiß“, sagte Rhen. „Haltet trotzdem still.“
+
+Ihre Hände arbeiteten sicher. Sie prüfte die zweite Verletzung, legte weiteres Leinen auf und ließ Jann den Druck halten, während sie einen breiten Verband vorbereitete.
+
+Minthara stand so, dass sie beide und den knienden Untoten im Blick hatte. Ihre rechte Hand blieb um den Stabschaft geschlossen.
+
+„Wie lange hält das?“, fragte sie und deutete mit dem Kinn auf den Stein.
+
+„Solange Ihr ihn gespannt haltet.“
+
+„Und wenn ich loslasse?“
+
+„Dann hat er keinen Befehl mehr.“
+
+Minthara blickte zur zerstörten Leiche.
+
+„Das haben wir gesehen.“
+
+„Wir verzurren sie für die Fahrt“, sagte Jann. „Auch mit Stab.“
+
+Rhen schob Berold behutsam ein Stück auf die Seite, zog den Verband unter ihm durch und knüpfte ihn fest. Er war kreidebleich, aber seine Hände suchten jetzt nach ihrem Ärmel.
+
+„Nicht ziehen.“ Sie legte seine Hand auf seinen Bauch. „Hierlassen.“
+
+Dann setzte sie sich auf die Fersen.
+
+„Die Blutung ist vorerst langsamer. Er muss ins Trockene.“
+
+Minthara sah zu Skarra.
+
+„Wir bringen sie zur Mühle. Dort können wir den Toten festsetzen und haben wieder die Hände frei.“
+
+* * *
+
+Der Wagen war noch beweglich. Jann löste das Geschirr des toten Pferdes und sicherte die Deichsel hoch. Gemeinsam mit Rhen zog er Berold auf einer Decke bis zum Wagen und bettete ihn zwischen die leeren Kisten.
+
+Minthara ließ den Untoten aufstehen.
+
+„An die Deichsel. Ziehen.“
+
+Er gehorchte.
+
+Jann starrte einen Augenblick auf den gebeugten Rücken, dann nahm er wortlos die Deichsel auf der anderen Seite. Rhen ging neben dem Wagen und hielt eine Hand an Berolds Verband.
+
+So erreichte der Zug wenig später die Mühle.
+
+Triss öffnete nach dem vereinbarten Klopfen. Ihr Blick glitt über die Gefangenen, den Wagen und den Untoten an der Deichsel.
+
+„Ich hole Brienne.“
+
+* * *
+
+Im Erdgeschoss roch es bald nach Lampenöl, feuchtem Leder und Blut. Brienne half, Berold auf einem alten Tisch zu lagern. Magrat kam kurz von oben herunter, prüfte Rhens Verband und legte zwei Finger an seinen Hals.
+
+„Ihr habt ihn verbunden?“
+
+Rhen nickte.
+
+„Bleibt bei ihm. Triss bringt Euch Wasser.“
+
+Ihre weiteren Fragen galten Berolds Wunden. Brienne ließ währenddessen den Untoten mit kräftigen Seilen an einem der tragenden Mühlenpfosten sichern. Erst nachdem sie die Knoten geprüft und Abstand genommen hatte, entspannte Minthara vorsichtig den Stab.
+
+Der Tote riss an den Fesseln.
+
+Das Holz ächzte. Die Seile hielten.
+
+Brienne blickte Minthara an.
+
+„Den bringen wir nicht nach oben.“
+
+„Da sind wir uns einig.“
+
+Rhen wusch sich am Tisch die Hände. Als sie aufsah, stand Edrin auf der untersten Treppenstufe.
+
+„Ihr habt geredet“, sagte er.
+
+„Ja.“
+
+„Dann können wir nicht zurück.“
+
+Rhen trocknete langsam ihre Finger.
+
+„Nein.“
+
+Minthara stellte sich vor die Tür.
+
+„Dann solltet Ihr uns helfen, dort hineinzukommen.“
+
+Rhen sah erst sie an, dann Skarra.
+
+„Mit dem Wagen kommt Ihr bis zum Wirtschaftstor. Caels Leute erwarten unsere Rückkehr morgen Abend. Zwei von Euch könnten unter der Plane liegen. Aber sobald die Ladung geprüft wird, müsst Ihr heraus.“
+
+„Ein anderer Zugang?“, fragte Brienne.
+
+„Der alte Abwasserkanal mündet am Osthang. Vergittert. Ich weiß nicht, ob er noch durchgängig ist.“
+
+Oben rief eine Frau nach Wasser. Magrat nahm den Becher, den Triss ihr reichte, und ging zur Treppe.
+
+„Bevor jemand aufbricht“, sagte sie, „brauchen diese Menschen einen sicheren Weg nach Eibenbrück.“
+
+Rhen trat vom Waschtrog zurück.
+
+„Ich kann Euch den Weg zur Abtei beschreiben. Wenn ich mitkommen soll, will ich wissen, was Ihr mit uns vorhabt.“
+
+
+
+## Was die Toten bewegt
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra möchte durch weitere Fragen zunächst herausfinden, wie man die Kontrolle der Stäbe über die Untoten brechen kann. „Sonst haben wir bald eine Scheune voller gefesselter Untoter.“ Sie erwägt zudem, ihnen alternativ sämtliche Lebenskraft „versuchsweise“ zu entziehen. Neutralisiert sie das? Oder ist eine stärkere Kraft dahinter? Durch Gewalteinwirkung kann man sie offensichtlich unschädlich machen. Dies ist ihr nächster Fokus, bevor sie sich mit dem Schicksal der Gefangenen oder der Untersuchung der Abtei befasst. Sie würde auch gern den Rat von Triss als Magierin hören.
+
+<!-- ENDE SPIELERBEITRAG -->
+
+„Sonst haben wir bald eine Scheune voller gefesselter Untoter.“
+
+Minthara betrachtete den Mann am Mühlenpfosten, der mit gleichbleibender Beharrlichkeit an seinen Fesseln zog.
+
+„Und irgendwann keine Scheune mehr.“
+
+Triss stellte den Wasserkrug ab und trat näher. „Dann untersuchen wir zuerst, was ihn bewegt. Rhen, bleibt bitte hier.“
+
+Die ehemalige Siechenhausschwester sah zu Berold. Magrat nickte ihr vom Tisch aus zu.
+
+„Ich kümmere mich um ihn.“
+
+* * *
+
+Die Befragung dauerte länger als die bisherigen Antworten am Straßenrand. Triss ließ sich jeden Handgriff mit den Stäben erklären, fragte nach misslungenen Befehlen und danach, was bei früheren Transporten geschehen war.
+
+Dabei zeigte sich bald, wo Rhens Wissen endete.
+
+Sie wusste, wie man die Stäbe bediente. Sie hatte gesehen, wie Caels Gehilfen Flüssigkeit in die Münder regloser Leichen gossen und anschließend darauf warteten, dass diese sich bewegten. Bei manchen geschah nichts. Andere mussten sofort festgebunden werden.
+
+Die eisernen Klammern dienten nach ihrer Aussage dazu, besonders beschädigte Körper zusammenzuhalten.
+
+„Er hat ihnen die Schultern verstärkt“, sagte sie mit einem Blick auf den Gefesselten. „Damit sie Lasten tragen können.“
+
+Brienne sah auf die Stellen, an denen das Eisen in der Haut verschwand.
+
+„Verstärkt.“
+
+Rhen erwiderte darauf nichts.
+
+Ein Befehl zum endgültigen Stilllegen war ihr nicht bekannt. Zur Aufbewahrung wurden die Toten in Kisten geschlossen oder in der Abtei an Gestellen festgeschnallt. Beschädigte Stäbe gingen zurück an den Werkmeister.
+
+„Einmal ist einer beim Abladen zerbrochen“, erzählte Jann. „Der Tote hat den Mann gepackt, der ihn getragen hat.“
+
+„Hat er vorher schon angegriffen?“, fragte Triss.
+
+„Nein. Vorher stand er einfach da.“
+
+Triss legte die beiden Stäbe nebeneinander auf den Tisch.
+
+„Den Kontrollstab zu zerstören, löst unser Problem also voraussichtlich nicht.“
+
+* * *
+
+Mit Brienne neben sich prüfte sie beide Instrumente an dem Gefesselten.
+
+Der Stab aus dem Wagen brachte ihn augenblicklich zum Stillhalten. Auf Befehl hob er den Kopf, öffnete die Hände und lehnte sich gegen den Pfosten zurück. Sobald Triss den Mechanismus entspannte, kehrte das Zerren zurück.
+
+Edrins Stab wirkte ebenfalls, allerdings erst aus geringerer Entfernung. Sein blasser Stein leuchtete schwächer.
+
+Triss wiederholte den Versuch einmal und beendete ihn dann. Währenddessen hatte sie den Toten aufmerksam beobachtet, ohne ihn zu berühren.
+
+„Die Stäbe ersetzen seinen Antrieb nicht“, sagte sie schließlich. „Sie zwingen ihm Handlungen auf. Wenn wir loslassen, ist die Kraft, die ihn bewegt, weiterhin da.“
+
+„Aus der Abtei?“, fragte Minthara.
+
+„Möglich. Das kann ich von hier aus nicht feststellen.“
+
+Triss zog einen Schemel heran und setzte sich so, dass sie Skarra ansehen konnte.
+
+„Zu Eurem Gedanken mit dem Lebenskraftentzug: Ihr habt aus dem zerstörten Körper auf der Straße etwas aufgenommen. Es gibt offenbar etwas, worauf Eure Magie zugreifen kann. Aber wir wissen noch nicht, ob Ihr damit auch das entfernt, was ihn aufrechterhält.“
+
+Sie deutete auf den Gefesselten.
+
+„Vielleicht könnt Ihr ihn vollständig leeren. Vielleicht erschöpft Ihr nur einen Vorrat, der sich anschließend wieder füllt. Und vielleicht zerfällt sein Körper dabei, bevor wir den Unterschied erkennen.“
+
+Brienne verschränkte die Arme. „Dann wäre er wenigstens unschädlich.“
+
+„Ja“, sagte Triss. „Aber es würde uns noch nicht erklären, ob er ohne die Zerstörung hätte stillgelegt werden können.“
+
+Sie betrachtete kurz den zweiten Stab.
+
+„Ich schlage einen begrenzten Versuch vor. Ich halte ihn mit dem Stab ruhig. Ihr entzieht ihm Kraft, zunächst wenig. Dann hört Ihr auf, ich löse den Befehl, und wir beobachten ihn. Wird er schwächer, können wir das schrittweise fortsetzen.“
+
+„Und wenn er wieder stärker wird?“, fragte Minthara.
+
+„Dann wissen wir, dass bloßes Entziehen nicht genügt.“
+
+Vom oberen Stockwerk waren Schritte zu hören. Bram lag inzwischen dort, getrennt von den Verwundeten und gesichert. Brienne blickte zur Treppe.
+
+Triss folgte ihrem Blick.
+
+„Bram lassen wir vorerst ruhen. Wir wissen nicht, ob bei ihm dasselbe Verfahren angewandt wurde.“
+
+Dann wandte sie sich wieder Skarra zu.
+
+„Ich würde Eure Kraft dabei auch nicht bis an ihre Grenze beanspruchen. Wir kennen den Stoff nicht, mit dem diese Körper behandelt wurden.“
+
+Minthara rückte den Tisch aus der Reichweite des Gefesselten und zog ihr Schwert.
+
+„Für den Fall, dass wir etwas lernen, das ihm nicht gefällt.“
+
+Triss drehte den Schaft, bis der gelbe Stein gleichmäßig leuchtete.
+
+„Stillhalten.“
+
+Der Untote hörte auf, an den Seilen zu ziehen. Brienne blieb seitlich des Pfostens stehen, das Schwert gesenkt, aber bereit. Minthara stellte sich so, dass sie zugleich Rhen und den Versuch im Blick behalten konnte.
+
+Der erste Entzug war kurz.
+
+Ein dünner grüner Schleier löste sich aus der Brust des Toten und floss zu Skarra. Seine Finger sanken herab. Unter der fahlen Haut seines Halses zeichnete sich etwas Dunkles ab, verzweigt wie feine Wurzeln.
+
+Triss beugte sich näher, ohne den Stab zu senken.
+
+„Genug für den ersten Versuch.“
+
+Sie löste den Mechanismus.
+
+Der Tote hob langsam den Kopf. Seine Hände schlossen sich wieder um die Seile, doch diesmal blieb der Ruck gegen den Pfosten aus. Er zog schwach und ungleichmäßig.
+
+Sie warteten.
+
+Draußen tropfte Wasser von der Dachrinne. Jann hielt sich so reglos auf seinem Platz, als könnte schon ein Räuspern den Toten wieder kräftiger machen.
+
+Nach einer Weile spannte sich das Seil stärker.
+
+Triss hob eine Hand.
+
+„Noch nicht. Seht auf die Finger.“
+
+Der Griff festigte sich. Der Untote stemmte einen Fuß gegen den Boden und zog, bis das Holz wieder leise knarrte.
+
+„Er erholt sich“, sagte Brienne.
+
+„Ja.“
+
+Triss brachte ihn erneut unter Kontrolle.
+
+* * *
+
+Beim zweiten Durchgang hielt Skarra den Entzug länger aufrecht.
+
+Die dunklen Verzweigungen traten deutlicher hervor. Sie liefen vom Brustbein zu den Schultern und verschwanden unter dem zerrissenen Hemd. Rhen trat unwillkürlich näher.
+
+Minthara hielt einen Arm vor sie.
+
+„Von dort aus.“
+
+Schließlich erschlaffte der Körper vollständig. Sein Kopf hing nach vorn; nur die Fesseln hielten ihn aufrecht.
+
+Triss entspannte den Stab.
+
+Keine Bewegung.
+
+Brienne wartete mit dem Schwert in der Hand. Triss stellte den Stab ab und beobachtete den Toten nun mit ihrer eigenen Magie. Ein schwacher rötlicher Schein lag über ihren Fingerspitzen.
+
+Dann zuckte sein linker Daumen.
+
+Es dauerte länger als zuvor. Aber nach und nach kehrte die Bewegung zurück: erst in die Hand, dann in den Hals. Der Kopf hob sich um wenige Fingerbreit.
+
+Triss ließ den roten Schein erlöschen.
+
+„Das reicht.“
+
+Sie klang nachdenklich, nicht enttäuscht.
+
+„Ihr könnt ihm die verfügbare Kraft nehmen. Sehr gründlich sogar. Aber wir haben ihn damit bislang nur vorübergehend stillgelegt.“
+
+Skarra hatte beim zweiten Entzug einen Unterschied gespürt. Nachdem der erste Zustrom versiegte, kamen weitere schwache Impulse aus dem Körper — voneinander getrennt, mit kurzen Pausen dazwischen. Jeder einzelne ließ sich aufnehmen. Doch nach der nächsten Pause folgte wieder einer.
+
+Triss hörte sich diese Beobachtung aufmerksam an.
+
+„Ich habe etwas Ähnliches bemerkt. Das Wiedererstarken beginnt im Brustkorb. Dort sind auch diese dunklen Linien am deutlichsten.“
+
+„Kann man das herausschneiden?“, fragte Minthara.
+
+„Vielleicht. Ich möchte vorher wissen, was wir dort überhaupt sehen.“
+
+Rhen hatte die Hände fest ineinander verschränkt.
+
+„So sehen die Adern manchmal aus. Nach dem Mittel.“
+
+Triss wandte sich zu ihr.
+
+„Manchmal?“
+
+„Bei denen, die schon länger arbeiten. Cael lässt sie dann aussondern.“
+
+„Wohin?“
+
+„In den alten Kohlenkeller. Ich war nicht dabei, wenn er sie untersucht hat.“
+
+Triss blickte wieder zum Pfosten.
+
+„Dann haben wir etwas Konkretes: Der Entzug schwächt sie, beendet ihren Zustand aber nicht dauerhaft. Die Behandlung scheint dabei eine Rolle zu spielen. Ob sie Kraft speichert, neue aufnimmt oder etwas anderes ermöglicht, bleibt offen.“
+
+Brienne sah zur Treppe.
+
+„Und Bram?“
+
+„Bei ihm müssten wir zunächst nach diesen Veränderungen suchen. Ohne ihm gleich Kraft zu entziehen.“
+
+Magrat kam die letzten Stufen herunter. Sie blieb neben Brienne stehen und betrachtete den langsam wieder erwachenden Körper.
+
+„Ihr könnt nicht die ganze Nacht nachfüllen und ablassen.“
+
+„Nein“, sagte Triss. „Für die unmittelbare Sicherheit bleiben Fesseln und Kontrolle. Oder die Zerstörung des Körpers.“
+
+Minthara prüfte die Seile ein letztes Mal.
+
+„Dann sollten wir unsere nächsten Versuche dort machen, wo die Mittel und Aufzeichnungen stehen. Bei diesem Werkmeister.“
+
+Triss nickte, hielt ihren Blick aber auf Skarra.
+
+„Wir können den Brustkorb dieses Toten öffnen und nach der Ursache suchen. Das wäre ein weiterer Eingriff, dessen Folgen wir nicht kennen. Oder wir sichern ihn, nehmen die Fläschchen und Stäbe mit und suchen in Dornwacht gezielt nach Caels Arbeit.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Nein. Ich will wissen, was da am Werk ist. Ich verstehe es, wenn es Euch anwidert. Ihr müsst das nicht mit ansehen. In meiner Profession gewöhnt man sich jedoch schnell ab, zimperlich oder respektvoll mit den Toten zu sein.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Brienne sah zum Gefesselten.
+
+„Zimperlichkeit ist nicht mein Einwand. Ich möchte nur nicht, dass wir bei Bram vergessen, wessen Vater er ist.“
+
+Sie steckte ihr Schwert ein und ging zur Treppe.
+
+Magrat blieb noch einen Moment.
+
+„Ich bin oben, falls jemand Hilfe braucht.“
+
+Triss rückte die Laterne näher.
+
+„Ich bleibe.“
+
+Minthara nahm den Kontrollstab auf. „Ich ebenfalls. Jemand muss dafür sorgen, dass er Euch nicht währenddessen die Hand abbeißt.“
+
+* * *
+
+Rhen legte ihre Instrumente auf ein sauberes Stück Leinen. Ihre Finger verweilten kurz auf einem schmalen Messer, bevor sie es zu den übrigen schob.
+
+„Cael hat nie jemanden dabeihaben wollen.“
+
+„Jetzt ist er nicht hier“, sagte Triss.
+
+Sie ließ den Untoten die Arme heben, damit die eisernen Klammern und das zerrissene Hemd den Zugang nicht behinderten. Minthara hielt ihn anschließend still, während Skarras Untersuchung begann.
+
+Unter der Haut zeigte sich bald, dass die dunklen Verzweigungen keine gewöhnlichen Adern waren.
+
+Sie verliefen über abgestorbenes Gewebe hinweg, kreuzten Blutgefäße und lagen stellenweise frei auf dem Muskel. Eine davon ließ sich mit der Messerspitze anheben. Sie war spröde, von fast schwarzer Farbe, und zerbrach unter Druck zu feuchten Körnchen.
+
+Triss fing einige davon auf dem Leinen auf.
+
+„Das ist von außen eingebracht worden.“
+
+Rhen beugte sich vor. „Das Mittel?“
+
+„Möglicherweise. Wir vergleichen es später.“
+
+Je näher die Untersuchung dem Brustbein kam, desto dichter lagen die dunklen Stränge. Einige hatten sich zwischen den Rippen hindurchgezogen. Dahinter saß ihr gemeinsamer Ursprung.
+
+Das Herz war reglos.
+
+Um seinen oberen Teil hatte sich eine harte, ungleichmäßige Kruste gebildet. Zwischen schwarzen Ablagerungen lagen blassgelbe Einschlüsse, kaum größer als grobes Salz.
+
+Triss sah zum Stein des Kontrollstabs.
+
+„Haltet ihn etwas näher. Ohne den Befehl zu ändern.“
+
+Minthara trat heran.
+
+In der Kruste flackerte gelbes Licht auf.
+
+Die Einschlüsse leuchteten mit dem Stab; feine Linien setzten sich von dort in die dunklen Verzweigungen fort.
+
+Rhen wich zurück und stieß mit der Hüfte gegen den Tisch.
+
+„Das habe ich nicht gewusst.“
+
+Niemand antwortete ihr.
+
+* * *
+
+Triss prüfte zunächst einen kleinen, bereits gelösten Splitter. In der Nähe des Stabs reagierte er noch, schwach und kurz. Als sie ihn weiter fortlegte, erlosch der Schein.
+
+„Das erklärt, warum sie den Befehlen folgen“, sagte sie. „Aber noch nicht, weshalb sie ohne Befehl weitergehen.“
+
+Minthara entspannte den Schaft für einen Augenblick.
+
+Der Tote spannte seine Arme gegen die Fesseln. Im geöffneten Brustkorb blieb ein schwaches Flackern zurück, obwohl der Kontrollstein nun dunkel war.
+
+Triss beobachtete es bis zum nächsten Impuls. Dann ließ sie Minthara den Befehl erneuern.
+
+Die weitere Untersuchung löste nach und nach die Verbindung zwischen der verkrusteten Masse und den umliegenden Strängen. Mit jeder durchtrennten Verbindung verlor der Körper Beweglichkeit. Zuerst hingen die Finger schlaff herab. Dann gab ein Knie nach.
+
+Als der letzte kräftige Strang getrennt war, sackte der Kopf auf die Brust.
+
+Minthara hielt den Stab weiter gespannt.
+
+„Stillhalten.“
+
+Keine sichtbare Reaktion.
+
+„Kopf heben.“
+
+Nichts.
+
+Triss wartete, ehe sie die Masse in einer flachen irdenen Schale ablegen ließ. Dann untersuchte sie Brustkorb und Hals erneut.
+
+„Jetzt den Stab lösen.“
+
+Minthara tat es.
+
+Der Körper blieb reglos.
+
+Sie warteten deutlich länger als nach dem Lebenskraftentzug. Diesmal kehrte keine Bewegung zurück.
+
+In der Schale glomm jedoch noch immer, in unregelmäßigen Abständen, ein blassgelber Punkt.
+
+* * *
+
+Triss setzte sich auf den Schemel. Sie betrachtete erst den Toten, dann die Schale.
+
+„Wir haben ihn stillgelegt.“
+
+Minthara stellte den Stab ab.
+
+„Und das da?“
+
+„Ist noch tätig. Außerhalb des Körpers.“
+
+Triss zog die kleinen Proben auf dem Leinen näher.
+
+„Der Entzug hat die Kraft genommen, die dem Körper gerade zur Verfügung stand. Diese Masse hat anschließend neue geliefert. Erst als wir ihre Verbindungen getrennt haben, konnte sie ihn nicht mehr bewegen.“
+
+Sie hob den Blick zu Skarra.
+
+„Das ist ein brauchbarer Unterschied. Wir mussten weder den ganzen Körper zerstören noch dauerhaft einen Stab auf ihn richten.“
+
+„Kann das wieder anwachsen?“, fragte Rhen.
+
+„Das weiß ich nicht. Deshalb bleibt beides gesichert.“
+
+Triss legte eine umgedrehte zweite Schale über die erste.
+
+„Als Nächstes würde ich die dunklen Ablagerungen mit Eurem hellen Fläschchen vergleichen. Und Bram äußerlich untersuchen. Wenn er dieselben Stränge hat, wissen wir, wonach wir suchen müssen.“
+
+Aus dem oberen Stock kam Briennes Stimme.
+
+„Dann komme ich herunter.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Das war sehr aufschlussreich! Das zeigt uns ihre wichtigste Schwäche auf: Zerstört man die Brust, kann sie aufhalten, vielleicht sogar außer Gefecht setzen. Allerdings erklärt es noch nicht, warum Bram sich anders verhalten hat. Er zeigte sich widerstandsfähiger gegen den Kontrollstab.“ Sie blickte zu Rhen. „Nun zu Euch … Mutter Rhen … was ist Eure Geschichte in diesem makabren Spielchen der Abtei? Und wagt es nicht, uns anzulügen. Minthara hier ist eine Drow. Ich bin sicher, sie hat ein gutes Gespür für Spielchen, Ränke und Lügen anderer.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara zog einen Stuhl heran und setzte sich Rhen gegenüber.
+
+„Vor allem habe ich ein gutes Gedächtnis. Ihr solltet Euch merken, was Ihr uns erzählt.“
+
+Rhen sah auf ihre gewaschenen Hände. Unter einem Fingernagel saß noch Blut.
+
+„Ich bin vor sieben Wochen nach Dornwacht gekommen. Mit sechs Kranken und einem Wagen, der unterwegs ein Rad verloren hatte.“
+
+Sie hob den Blick.
+
+„Das Siechenhaus in Veyr war geschlossen worden. Der Rat wollte uns außerhalb der Stadt haben. Fieber, zu viele Betten, zu wenig Geld. Einer meiner Kranken hatte einen Bruder in einem Dorf nördlich der Abtei. Wir wollten zu ihm.“
+
+„Und bliebt stattdessen dort“, sagte Triss.
+
+„Es wurde dunkel. Zwei konnten nicht mehr sitzen. Dornwacht hatte ein Dach, einen Brunnen und Menschen, die uns hereinließen.“
+
+Rhen rieb mit dem Daumen über ihren Handrücken.
+
+„Prior Severin gab uns eine Kammer. Brot. Brennholz. Er verlangte zunächst nichts.“
+
+Bei dem Namen sah Minthara kurz zu Triss.
+
+„Wann änderte sich das?“
+
+„Als die ersten Toten kamen.“
+
+Rhen zog den Stuhl etwas näher an den Tisch.
+
+„Einer meiner Kranken starb in der dritten Nacht. Am Morgen bewegte er sich wieder. Ich dachte …“
+
+Sie brach ab.
+
+„Dass er nicht tot gewesen sei“, sagte Triss.
+
+Rhen nickte.
+
+„Cael ließ mich nicht zu ihm. Er sagte, es sei gefährlich. Später sah ich ihn im Hof. Er trug Steine.“
+
+Im Raum blieb es still.
+
+„Severin erklärte mir, unter der Abtei sei etwas geweckt worden. Er brauche Leute, um es freizulegen und unschädlich zu machen. Die Toten könnten dort arbeiten, wo Lebende krank würden.“
+
+„Und Ihr habt ihm geglaubt“, sagte Minthara.
+
+„Ich hatte einen Mann gesehen, der vor seinem Tod nicht einmal seinen Becher halten konnte. Nun schleppte er einen Stein, den ich kaum vom Boden bekommen hätte.“
+
+„Das war keine Heilung“, sagte Triss.
+
+„Nein.“
+
+Rhen sprach das Wort deutlich aus.
+
+„Aber damals wollte ich es für den Anfang einer halten.“
+
+* * *
+
+Ihre ersten Aufgaben waren Verbände, Mahlzeiten und die Versorgung der Arbeiter gewesen. Dann hatte Severin sie gebeten, weitere Verstorbene abzuholen. Er gab ihr Geld für die Familien und einen Stab für die Fahrt.
+
+„Ich sagte mir, dass die Körper niemandem mehr nützten. Dass die Familien wenigstens etwas bekamen.“
+
+„Und wenn die Familien nicht verkaufen wollten?“, fragte Minthara.
+
+Rhen blickte zur Mühlentür.
+
+„Am Anfang fuhren wir weiter.“
+
+„Am Anfang.“
+
+„Später bekamen die Wagenführer Listen. Manche Gräber waren bereits geöffnet, wenn ich ankam. Manchmal warteten andere mit der Ladung am Weg.“
+
+Triss lehnte sich vor.
+
+„Wer hat die Listen geschrieben?“
+
+„Der Prior. Cael vermerkte daneben, welche Körper er brauchen konnte.“
+
+„Wann kamen die lebenden Gefangenen hinzu?“
+
+Rhen antwortete nicht sofort.
+
+Minthara wartete.
+
+„Vor zwölf Tagen.“
+
+„Ihr erinnert Euch genau.“
+
+„Eine Frau sprang vom Wagen. Sie brach sich den Knöchel und kroch trotzdem weiter.“
+
+Jann saß an der Wand. Er hielt den Kopf gesenkt.
+
+„Wir holten sie zurück“, sagte Rhen. „Danach bekam ich die Schlafmittel.“
+
+Von der Treppe kam ein leises Knarren. Brienne stand auf der untersten Stufe.
+
+„Ihr habt sie behandelt, damit man sie weiter verschleppen konnte.“
+
+Rhen sah sie an.
+
+„Ja.“
+
+Brienne kam nicht näher.
+
+* * *
+
+„Was hält Euch dort?“, fragte Triss schließlich.
+
+„Drei von den sechs, die ich mitgebracht habe, leben noch. Einer ist ein Junge. Sie sind in der Krankenstube.“
+
+Minthara legte die Hände auf ihre Knie.
+
+„Hat Severin Euch gedroht, ihnen etwas anzutun?“
+
+„Er sagte, ihre Versorgung hänge davon ab, dass jeder seinen Beitrag leiste.“
+
+„Das war nicht meine Frage.“
+
+Rhen schluckte.
+
+„Nein. Nicht ausdrücklich.“
+
+„Dann wissen wir bisher, was Ihr befürchtet. Noch nicht, was er tun würde.“
+
+Rhen nickte langsam. Der Unterschied schien ihr nicht angenehm zu sein.
+
+Skarra hatte Bram erwähnt. Triss griff den Punkt wieder auf.
+
+„Habt Ihr ihn in der Abtei gesehen? Tomans Vater. Den Mann, den Edrin herbringen sollte.“
+
+„Nein. Diese Ladung kam aus den Dörfern. Er war noch nicht bei Cael.“
+
+Edrin richtete sich auf seiner Treppenstufe auf.
+
+„Er war schon wach, als Harl ihn brachte. Ich habe ihm nichts gegeben.“
+
+Triss betrachtete die abgedeckte Schale.
+
+„Dann dürfen wir die Behandlung dieser beiden Wagenleichen nicht einfach auf Bram übertragen. Die Plage kann Tote erheben, bevor Cael sie bearbeitet.“
+
+„Vielleicht erklärt das seinen Widerstand“, sagte Brienne.
+
+„Vielleicht“, erwiderte Triss. „Wir müssen ihn noch untersuchen.“
+
+Minthara wandte sich wieder Rhen zu.
+
+„Ihr habt Zweifel gehabt und seid trotzdem weitergefahren. Jetzt seid Ihr gefangen. Was bietet Ihr uns außer einer Geschichte, die Euch verständlicher machen soll?“
+
+Rhen hob das Kinn.
+
+„Ich kenne den Hof und die Krankenstube. Ich weiß, wann das Wirtschaftstor besetzt ist. Und ich kann Cael dazu bringen, herauszukommen, ohne dass Ihr erst die ganze Abtei stürmen müsst.“
+
+Sie blickte zu Skarra.
+
+„Aber wenn Ihr mich benutzt, um hineinzukommen, will ich, dass Ihr nach den drei Kranken seht. Ich führe Euch hin. Ich verlange nicht, dass Ihr Severin glaubt.“
+
+
+
+## Die fünf vor der Mühle
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra sah zuerst Triss an, dann Minthara, dann Brienne. „Holt bitte Magrat herunter. Mutter Rhen soll sich um die Verletzten oben kümmern — eine gute Gelegenheit, ihren guten Willen zu beweisen. Anschließend würde ich Euch alle gern draußen vor der Mühle sprechen.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Brienne nickte und ging die Treppe hinauf.
+
+Rhen erhob sich. „Berold braucht—“
+
+„Ich bleibe bei ihm, bis Ihr oben alles gesehen habt“, sagte Triss. „Dann könnt Ihr entscheiden, wen Ihr zuerst versorgt.“
+
+Sie hielt Rhen den Wasserkrug hin. Die Frau nahm ihn und folgte Brienne.
+
+Minthara trat zu Jann und den beiden gefesselten Wachen.
+
+„Ihr bleibt hier. Falls oben jemand ruft, ruft Ihr uns. Sonst bleibt Ihr ebenfalls hier.“
+
+Jann nickte. Harl blickte zur abgedeckten Schale auf dem Tisch und sagte nichts.
+
+Wenig später kam Magrat herunter. Sie hatte die Ärmel hochgeschoben und wischte sich die Hände an einem Tuch ab.
+
+„Marta kann wieder ordentlich sprechen. Der Mann mit dem verbundenen Arm schläft noch, aber seine Atmung ist besser.“
+
+Sie sah zur Treppe zurück.
+
+„Rhen weiß, was sie tut. Das sagt uns allerdings nur etwas über ihre Heilkunde.“
+
+* * *
+
+Vor der Mühle war es kalt geworden. Durch die Wolken fiel ein schmaler Streifen Mondlicht auf den verlassenen Karren. Vom Inneren drangen gedämpfte Stimmen und das gelegentliche Scharren des gefesselten Untoten.
+
+Brienne zog die Tür hinter sich an, ohne sie ganz zu schließen. Triss blieb nahe genug, um einen Ruf zu hören. Minthara stellte sich seitlich zum Weg; Magrat wickelte das Tuch zusammen und steckte es in ihren Gürtel.
+
+Skarra sah in die Runde.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Ich traue der Mutter nicht … Was schlagt Ihr vor …“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Die vier Frauen standen bei ihr und hörten zu.
+
+„Wir prüfen, was sich prüfen lässt“, sagte Triss. „Ihre Geschichte enthält Namen, Räume und Abläufe. Edrin und Jann können wir getrennt danach fragen. Marta ebenfalls — sobald sie kräftig genug ist.“
+
+Minthara verschränkte die Arme.
+
+„Rhen hat erst geredet, nachdem sie verloren hatte. Das macht ihre Angaben nicht wertlos. Aber ihr Angebot verschafft ihr genau das, was sie jetzt braucht: eine Reise zurück in vertrautes Gelände und vier bewaffnete Frauen, die ihre Kranken retten sollen.“
+
+„Fünf“, sagte Magrat.
+
+Minthara sah sie an.
+
+„Ja. Fünf.“
+
+Brienne lehnte eine Schulter an den Türpfosten.
+
+„Ich würde ihr zusagen, nach den Kranken zu sehen. Wenn sie dort sind, brauchen sie Hilfe — unabhängig davon, ob Rhen uns die Wahrheit sagt. Dafür schulden wir ihr weder Freiheit noch Vergebung.“
+
+„Und wenn sie uns durch das Wirtschaftstor in einen Hinterhalt führt?“, fragte Minthara.
+
+„Dann gehen wir nicht durch das Wirtschaftstor.“
+
+Die Drow nickte knapp.
+
+„Das ist auch mein Vorschlag. Sie beschreibt uns die Abtei möglichst genau. Wir sehen sie uns selbst an, bevor dort jemand weiß, dass wir gekommen sind. Rhen bleibt bis dahin unter Bewachung.“
+
+Magrat zog ihren Mantel enger.
+
+„Ihre drei Kranken könnten wirklich der Grund sein, weshalb sie geblieben ist. Sie könnten auch der Grund sein, den sie sich inzwischen erzählt. Beides kann zugleich wahr sein.“
+
+Triss blickte zu ihr.
+
+„Was würdest du tun?“
+
+„Sie weiterarbeiten lassen. Beobachten, wie sie mit den Menschen umgeht, wenn niemand sie ausdrücklich daran erinnert.“ Magrat deutete zur Tür. „Aber ich möchte vorher mit Marta sprechen. Rhen hat uns erzählt, wie sie zur Abtei kam. Marta kann uns erzählen, wie man auf ihren Karren gelangt.“
+
+Für einen Moment hörten sie nur den Wind unter dem Schuppendach.
+
+Dann sagte Brienne: „Wir müssen ohnehin erst zurück nach Eibenbrück. Die Befreiten können hier nicht bleiben. Berold auch nicht.“
+
+Minthara verzog leicht den Mund, widersprach aber nicht.
+
+„Und wir brauchen Vorräte für drei Tage nach Norden“, ergänzte Triss. „Rhen erwartete ihre Rückkehr schon morgen Abend. Das passt nicht zu unserer Entfernung.“
+
+„Mit frischen Pferden und längeren Fahrtagen kann es schneller gehen“, sagte Brienne. „Aber fragen sollten wir.“
+
+„Getrennt“, sagte Minthara. „Auch nach Zwischenstationen und Pferdewechseln. Wenn ihre Wagen regelmäßig verkehren, muss es welche geben.“
+
+Triss wandte sich Skarra zu.
+
+„Ich würde Rhen mitnehmen. Bewacht, ohne Stab und ohne Zugriff auf ihre Mittel. Vorher gleichen wir ihre Angaben ab. In der Abtei suchen wir dann zuerst nach etwas, das wir selbst überprüfen können: Krankenstube, Werkstatt, Zugänge.“
+
+„Ich ebenfalls“, sagte Brienne. „Mit der Zusage für die Kranken.“
+
+Magrat nickte langsam. „Nach dem Gespräch mit Marta.“
+
+Minthara betrachtete die drei, dann Skarra.
+
+„Ich bin dafür, sie vorerst mitzunehmen. Aber ich würde ihr ausdrücklich sagen, dass sie uns führt, ohne über unseren Weg zu bestimmen. Und ich möchte Cael lebend erwischen. Er kann uns mehr erklären als eine weitere aufgeschnittene Leiche.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Gut, ich bin einverstanden. Magrat sollte mit Marta reden — sie wird sich ihr anvertrauen. Dann bringen wir die Leute und Gefangenen nach Eibenbrück. Es ist ja nicht weit, und wir können den Wagen nutzen. Allerdings brauchen wir ein neues ‚Zugpferd‘. Lasst das meine Sorge sein. Der Wirt und der Dorfvogt werden sich um sie kümmern. Was Bram angeht: Ich bin der Meinung, wir sollten ihn erlösen. Aber wie ich unsere Freundin hier einschätze“ — sie machte eine Kopfbewegung Richtung Brienne — „ist das keine Option. Also wird es Eure Bürde sein, ‚dies da drinnen‘ seinem Sohn zu erklären. Magrat, sind die Verletzten transportfähig?“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Magrat blickte zur Mühlentür.
+
+„Marta ja, wenn sie liegen kann. Der Mann mit dem verbundenen Arm ebenfalls. Die dritte Frau wacht noch nicht richtig auf; bei ihr bleibe ich während der Fahrt.“
+
+Sie zog das Tuch aus ihrem Gürtel und faltete es zwischen den Händen.
+
+„Berold ist der Schwierige. Die Blutung ist gebremst, aber jede Erschütterung kann sie wieder verstärken. Auf dem großen Wagen, mit Decken unter ihm und langsam gefahren, halte ich den Transport für vertretbar. Hier haben wir nichts, was ihm auf Dauer hilft.“
+
+„Dann langsam“, sagte Triss. „Wir haben zwei Wagen. Die Befreiten müssen nicht neben ihren Bewachern liegen.“
+
+Brienne hatte Skarras Bemerkung über Bram schweigend angehört.
+
+„Ich erkläre es Toman.“
+
+Ihre Stimme war fest.
+
+„Aber Ihr schätzt mich nicht ganz richtig ein. Wenn wir seinem Vater keine Ruhe geben können, werde ich mich dem nicht widersetzen. Wir wissen bisher nur nicht genug, um das zu entscheiden.“
+
+Sie sah durch den Türspalt.
+
+„Beim Mann vom Wagen habt Ihr eine Ursache gefunden. Bram haben wir noch nicht untersucht. Wenn derselbe Eingriff ihn stilllegen kann, ohne seinen Körper zu zerstören, möchte ich das versuchen.“
+
+Minthara löste sich von ihrem Platz am Weg.
+
+„Dann kümmern wir uns jetzt um die Rückfahrt. Über Bram sprechen wir im Dorf mit seinem Sohn, statt hier über seinen Kopf hinweg.“
+
+* * *
+
+Magrat ging zu Marta hinauf. Sie setzte sich neben das Lager, stellte ihr einen Becher Wasser in Reichweite und ließ sie zunächst erzählen, wo sie gewesen war, als man sie aufgegriffen hatte.
+
+Marta hatte am Vortag Kräuter bei einer Bekannten abgeholt. Auf dem Heimweg war ein Wagen neben ihr stehen geblieben. Ein Mann hatte nach einer Straße gefragt; ein zweiter war hinter ihr aus dem Wagen gestiegen.
+
+An die folgende Strecke erinnerte sie sich kaum. Wohl aber an Harl — und daran, dass er ihr vor der Mühle ein Fläschchen an die Lippen gedrückt hatte.
+
+Rhen hatte sie erst hier gesehen.
+
+Als Magrat zurückkam, blieb sie unten bei Triss stehen.
+
+„Bei der Entführung kann Marta sie nicht belasten. Entlasten aber auch nicht. Sie hat Harl erkannt.“
+
+Die getrennten Fragen an Edrin und Jann ergaben zumindest bei den überprüfbaren Einzelheiten dasselbe Bild: Caels Werkstatt lag am Wirtschaftshof, die Krankenstube im südlichen Gebäudeflügel. Die Transportwagen wechselten ihre Pferde an einem Gutshof auf der nördlichen Straße. Jann nannte außerdem ein Nachtlager, an dem Rhen regelmäßig Vorräte übernahm.
+
+„Deshalb morgen Abend“, sagte Triss später vor der Tür. „Mit Pferdewechsel und wenig Schlaf. Zu Fuß brauchen wir länger.“
+
+Rhens Geschichte von ihren sechs Kranken konnte keiner von beiden vollständig bestätigen. Jann erinnerte sich jedoch an den Jungen in der Krankenstube. Edrin war nie weiter als bis zum Wirtschaftshof gekommen.
+
+* * *
+
+Brienne und Minthara räumten den größeren Wagen aus. Die leeren Kisten kamen unter das Schuppendach; die Plane wurde wieder befestigt, soweit ihre Risse es erlaubten. Decken, Stroh und die noch brauchbaren Umhänge aus der Mühle polsterten die Ladefläche.
+
+Rhen half, Berold umzubetten. Magrat prüfte danach seinen Verband und blieb neben ihm sitzen, bis sicher war, dass die Blutung nicht wieder stärker wurde.
+
+Für die drei Befreiten richtete Triss den kleinen Karren her. Harl und die zweite Wache sollten gefesselt gehen; Jann würde den Wagen lenken. Edrin bekam einen Platz auf dem hinteren Rand, solange seine Beine ihn nicht zuverlässig trugen.
+
+Bram blieb gesichert auf einer Decke. Brienne kniete sich neben ihn und betrachtete noch einmal Hals und Hände, ehe sie den Stoff über seine Brust zog.
+
+Der behandelte Untote hing weiterhin am Mühlenpfosten. Seine Bewegungen waren nach der Untersuchung ausgeblieben.
+
+Minthara stand bei ihm und der abgedeckten Schale.
+
+„Den Körper können wir hier gesichert lassen. Die Probe nehmen wir mit — gut verschlossen. Cael bekommt Gelegenheit, uns zu erklären, was daraus geworden ist.“
+
+Draußen brachte Triss die beiden Wagen hintereinander auf den Weg. Dann sah sie zu Skarra.
+
+„Wir sind vorbereitet. Was braucht Ihr für unser Zugpferd?“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra verzog einen Mundwinkel zu einem leichten Grinsen, sog erneut scharf Luft ein, schloss die Augen und murmelte: „Grenth …“ Als der bereits bekannte grünliche Schleier um Skarras Hände erschien, trat Triss ein paar Schritte zurück. „Ah … verstehe.“ Ein Stöhnen und Gluckern kam aus dem Erdboden. Da grub sich wieder etwas aus dem Erdreich an die Oberfläche. Wenige Augenblicke später stand ein „Ding“ aus wabbeligem Fleisch auf der Wiese. „Er wird unseren Wagen ziehen, Triss.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Zuerst schob sich eine breite Hand aus dem Erdreich.
+
+Sie hatte zu viele Knöchel und einen Daumen, der aussah, als sei er nachträglich hinzugefügt worden. Die Finger gruben sich in den Rasen. Dann kam die zweite Hand, und mit einem feuchten Reißen zog sich ein massiger Körper aus dem Boden.
+
+Der Fleischgolem richtete sich auf.
+
+Über seinen Schultern lagen dicke Wülste blasser Haut. Darunter verschoben sich Muskeln, die auf keine gemeinsame Anatomie Rücksicht nahmen. Sein kleiner Kopf saß tief zwischen ihnen; aus dem Maul ragten ungleich lange Zähne. Ein Horn krümmte sich seitlich nach oben, als habe es während seiner Entstehung die Richtung gewechselt.
+
+Er schüttelte Erde von einem Arm.
+
+Ein Stück Rasen blieb auf seiner Schulter liegen.
+
+Triss betrachtete ihn von ihrem neuen Standort aus.
+
+„Ja“, sagte sie. „Das sollte reichen.“
+
+Magrat steckte den Kopf unter der Wagenplane hervor.
+
+„Bei einer Anhöhe könnte er vermutlich den Wagen tragen.“
+
+„Wir bleiben beim Ziehen“, erwiderte Brienne.
+
+Minthara ging einmal um den Golem herum. Er folgte ihr mit seinem kleinen Kopf, ohne sich vom Fleck zu bewegen.
+
+„Breite Schultern. Niedriger Schwerpunkt.“
+
+Sie blieb vor ihm stehen.
+
+„Ein angenehmer Wechsel. Endlich jemand, der keine Fragen stellt.“
+
+Jann hatte die Deichsel losgelassen.
+
+„Das soll zwischen die Zugstangen?“
+
+Brienne hob das verbliebene Geschirr.
+
+„Wenn wir das verlängern.“
+
+* * *
+
+Die Anpassung brauchte mehr Seil als Geschick. Brienne und Jann führten die Zugriemen um den breiten Rumpf; Triss polsterte die Stellen, an denen das Leder sich in die weiche Masse grub. Der Golem stand dabei mit der Geduld eines Wesens, dem weder die Arbeit noch die Kommentare etwas auszumachen schienen.
+
+Als Jann unter seinem Arm hindurchgriff, gluckerte es tief in dessen Brust.
+
+Der Fuhrmann hielt inne.
+
+„Ist das normal?“
+
+„Für ihn vermutlich“, sagte Triss.
+
+Minthara zog den letzten Knoten fest.
+
+„Hoffen wir, dass er keine Blähungen bekommt.“
+
+Magrat verschwand wieder unter der Plane. Ihr Lachen war nur kurz zu hören.
+
+Der kleine Karren wurde mit etwas Abstand hinter dem großen befestigt. Jann ging neben der Deichsel und hielt die Richtung; Brienne übernahm die Bremse an den abschüssigen Stellen. Der erste vorsichtige Zug brachte beide Fahrzeuge ohne Mühe in Bewegung.
+
+Magrat legte eine Hand an Berolds Verband.
+
+„So langsam. Nicht schneller.“
+
+* * *
+
+Auf dem Rückweg blieb Zeit, die Kälte zu spüren.
+
+Die Gefangenen gingen dicht beieinander vor dem Wagen. Minthara hielt sich an ihrer Seite. Triss wechselte zwischen den beiden Ladeflächen und prüfte die Befreiten. Brienne blieb bei Bram, sobald der Weg eben genug war, um die Bremse loszulassen.
+
+Marta schlief ein. Der Mann mit dem verbundenen Arm wachte einmal auf, fragte nach Wasser und ließ sich von Triss helfen. Berold hielt die Fahrt durch, ohne dass der Verband wieder durchblutete.
+
+Als die ersten Häuser Eibenbrücks zwischen den Weiden sichtbar wurden, bellte ein Hund.
+
+Dann ein zweiter.
+
+Der Fleischgolem zog unbeirrt weiter.
+
+Ein Fensterladen schlug auf. Jemand sah hinaus, schloss ihn sofort wieder und rief nach einer Laterne.
+
+Brienne ging vor dem Zug her.
+
+„Keine Gefahr! Holt den Vogt und den Wirt! Wir bringen Verletzte!“
+
+Bei den letzten Worten öffnete sich die Tür des Krummen Nagels.
+
+Der Wirt kam mit einer Laterne auf die Straße, Jorek hinter ihm. Als er Marta unter der Plane erkannte, reichte er das Licht wortlos an den Alten weiter und kletterte auf den kleinen Karren.
+
+„Marta.“
+
+Sie blinzelte und hob mühsam die Hand.
+
+Er nahm sie zwischen seine beiden.
+
+Erst danach sah er das Zugwesen.
+
+Sein Blick wanderte über die Fleischwülste, das Geschirr und den Rasen auf dessen Schulter.
+
+„Was …“
+
+„Darüber reden wir später“, sagte Magrat. „Jetzt brauche ich Eure Küche. Heißes Wasser, saubere Tücher und Platz.“
+
+Er nickte hastig.
+
+* * *
+
+Der Vogt erschien mit zwei Männern, einem kurzen Jagdspieß und einem Mantel über dem Nachthemd. Er blieb zunächst in einigem Abstand zum Golem stehen.
+
+Minthara trat ihm entgegen und erklärte knapp, wen sie gefangen genommen hatten und was die Wagen transportierten. Triss zeigte ihm die Schlafmittel; Harl und die zweite Wache wurden getrennt abgeführt. Für Rhen, Jann und Edrin ließ der Vogt den kleinen Lagerraum hinter dem Schankhaus herrichten und bewachen.
+
+Rhen durfte unter Magrats Aufsicht bei Berold bleiben.
+
+„Morgen hört Ihr mir das alles noch einmal an“, sagte der Vogt. „Langsam.“
+
+„Gern“, erwiderte Triss. „Morgen.“
+
+Bram wurde in den leeren Stall gebracht. Brienne bestand darauf, dass Toman ihn nicht zwischen Wagen und Gefangenen zu sehen bekam. Jorek ging ins Haus, um den Jungen zu wecken und bei ihm zu bleiben.
+
+Wenig später trat er wieder auf die Straße.
+
+„Er will seinen Vater sehen.“
+
+Brienne nickte. Ihr Gesicht wirkte müde.
+
+„Ich komme.“
+
+Sie sah zu Skarra.
+
+„Ihr könnt besser erklären, was mit ihm geschehen ist. Ich werde nicht so tun, als wüsste ich es.“
+
+Aus dem Stall war kein Laut zu hören. Der Fleischgolem stand noch immer vor den Wagen und wartete.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Was soll ich da erklären? Er ist ein magisch reanimierter Toter. Die Magie, die hier im Spiel ist, haben wir noch nicht vollständig begriffen und ist vollkommen anders als die Kräfte, derer ich mich bediene. Und selbst wenn wir sie verstünden … Brienne … Bram hat keine Krankheit. Er WAR bereits tot. Nichts daran können wir ändern. Nekromantie macht keine Toten ‚lebendig‘. Deswegen hielt ich es für keine gute Idee, Bram mitzunehmen. Besser wäre gewesen, die Angelegenheit an Ort und Stelle zu beenden und seinem Sohn mitzuteilen, wir hätten den Leichnam seines Vaters gefunden und beerdigt. Jetzt könnt Ihr seinem Jungen nur noch beim Abschied beistehen. Aber das ist Eure Bürde … ich bin auch nicht gut in sowas!“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Brienne hörte zu, ohne Skarra zu unterbrechen.
+
+„Ich weiß, dass er tot ist.“
+
+Sie sah zum Stall hinüber.
+
+„Ich wollte ihn zurückbringen, weil ein Junge seinen Vater begraben hat und am nächsten Tag vor einem leeren Sarg stand. Ich wollte ihm weder Hoffnung auf Heilung machen noch eine Geschichte erzählen, die leichter zu ertragen wäre.“
+
+Ihre Hand lag auf dem Schwertgurt.
+
+„Dass ich seinen Abschied nicht leichter gemacht habe, mag sein.“
+
+Dann nickte sie.
+
+„Ich kümmere mich darum.“
+
+Sie ging mit Jorek ins Haus.
+
+Triss wartete, bis die Tür geschlossen war.
+
+„Wir sollten Bram vor Tagesanbruch untersuchen. Wenn wir ihn stilllegen können wie den anderen, bekommt Toman wenigstens seinen Vater zur Bestattung zurück.“
+
+Sie sagte es ohne Aufforderung, dann wandte sie sich wieder den Wagen zu.
+
+* * *
+
+Im Schankraum wurden Tische zusammengeschoben und Bänke beiseitegeräumt. Der Wirt brachte Decken aus den Gästezimmern, während Marta darauf bestand, dass er sich endlich setzte. Er tat es — allerdings nur neben ihr.
+
+Magrat ließ Rhen Berolds Verband erneuern. Die ehemalige Siechenhausschwester arbeitete unter ihrem Blick, ruhig und mit wenigen Worten. An der Tür stand einer der Männer des Vogts.
+
+Draußen löste Jann auf Triss’ Anweisung das Geschirr des Fleischgolems. Er brauchte lange für die Knoten und vermied dabei dessen Maul.
+
+Minthara kam mit einem Stück Brot und zwei Bechern aus dem Gasthaus. Sie stellte einen davon auf den Rand des Dorfbrunnens, in Skarras Reichweite.
+
+„Der Wirt fragt vorläufig nicht nach Bezahlung.“
+
+Ihr Blick ging zur geschlossenen Tür.
+
+„Brienne glaubt Euch übrigens, dass Ihr keine Toten zurückholen könnt. Ihr streitet darüber, was man den Lebenden schuldet.“
+
+Sie brach das Brot auseinander.
+
+„Das wird Euch vermutlich noch öfter passieren.“
+
+* * *
+
+Brienne kehrte erst nach einer Weile zurück. Toman ging neben ihr, Jorek auf seiner anderen Seite. Der Junge hatte einen Mantel über seine Nachtkleidung gezogen. Seine Augen waren gerötet.
+
+Am Stall blieb er stehen.
+
+„Er kann mich nicht hören?“
+
+„Das wissen wir nicht sicher“, antwortete Brienne. „Aber dass sein Körper sich bewegt, bedeutet nicht, dass Dein Vater zurückgekommen ist.“
+
+Toman griff fester nach Joreks Hand.
+
+Die Ritterin öffnete die Tür.
+
+Niemand draußen versuchte, das Schweigen dahinter mit Worten zu füllen.
+
+Als sie wieder herauskamen, hielt Toman einen schmalen Lederriemen in der Hand. Bram hatte ihn um das Handgelenk getragen. Jorek führte den Jungen zurück ins Haus.
+
+Brienne blieb bei Triss stehen.
+
+„Er möchte, dass sein Vater wieder begraben wird. Und dass er im Grab bleibt.“
+
+Triss nickte.
+
+„Dann sehen wir nach, ob wir das erreichen können.“
+
+Brienne blickte zu Skarra. Sie wartete kurz, sprach aber weiter, ohne ihr die Entscheidung über den Abschied zuzuschieben.
+
+„Wenn Ihr mit untersuchen wollt, kommt bitte. Sonst helfen Triss und ich uns so gut wir können.“
+
+Im Osten blieb der Himmel dunkel. Dennoch hatte sich das Dorf verändert: Türen standen offen, Wasser wurde getragen, die ersten Leute kamen mit Laternen, um zu helfen. Hinter der Schankhaustür sprach der Vogt mit Marta.
+
+Minthara leerte ihren Becher.
+
+„Danach brauchen wir Schlaf. Die Abtei läuft uns nicht davon. Unsere Fehler werden mit Müdigkeit aber nicht klüger.“
