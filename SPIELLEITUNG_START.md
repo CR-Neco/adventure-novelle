@@ -7,12 +7,12 @@
 
 1. **[SPIELREGELN.md](SPIELREGELN.md)** – verbindliche Spielregeln, Fähigkeiten, OOC.
 2. **[KAMPAGNENSTAND.md](KAMPAGNENSTAND.md)** – aktueller Haltepunkt, bekannte Fakten, offene Fragen.
-3. **[Die Glocken von Dornwacht (Word)](export/Die_Glocken_von_Dornwacht.docx)** – bisheriges vollständiges Romanmanuskript, tatsächliche Szenen und Dialoge.
-4. **[Charakterprofile](charaktere/)** – Persönlichkeit, Erscheinungsbild, Hintergründe, beobachtete Beziehungen.
-5. **[WELT_UND_KANON.md](WELT_UND_KANON.md)** – Schauplätze, Welt und bisheriger Kanon.
-6. **[DOKUMENTATION.md](DOKUMENTATION.md)** – laufende Buchpflege und Übergabe nach Sitzungen.
+3. **[Die Glocken von Dornwacht – vollständiger Romantext (Markdown)](roman/Die_Glocken_von_Dornwacht.md)** – bisheriges Manuskript, alle tatsächlich gespielten Szenen und Dialoge, inklusive Kennzeichnung der Spielerpassagen. **Diese Textfassung ist für die GitHub-Anbindung direkt lesbar.**\n4. **[Die Glocken von Dornwacht (Word)](export/Die_Glocken_von_Dornwacht.docx)** – gestaltete Lesefassung mit marineblauen Spielerbeiträgen.
+5. **[Charakterprofile](charaktere/)** – Persönlichkeit, Erscheinungsbild, Hintergründe, beobachtete Beziehungen.
+6. **[WELT_UND_KANON.md](WELT_UND_KANON.md)** – Schauplätze, Welt und bisheriger Kanon.
+7. **[DOKUMENTATION.md](DOKUMENTATION.md)** – laufende Buchpflege und Übergabe nach Sitzungen.
 
-Bei Widersprüchen haben die **tatsächlich gespielten Szenen und späteren ausdrücklichen OOC-Regelentscheidungen des Spielers** Vorrang. Das Word-Manuskript ist der bisherige Originaltext; eine Zusammenfassung ist kein Ersatz dafür.
+Bei Widersprüchen haben die **tatsächlich gespielten Szenen und späteren ausdrücklichen OOC-Regelentscheidungen des Spielers** Vorrang. Die vollständige Markdown-Fassung wurde direkt aus der Word-Datei abgeleitet; eine Zusammenfassung ist kein Ersatz für den Originaltext. Die GitHub-Anbindung kann binäre DOCX-Dateien gegebenenfalls nicht direkt lesen, deshalb für den Einstieg die Markdown-Fassung verwenden.
 
 ## 2. Dein Auftrag
 
