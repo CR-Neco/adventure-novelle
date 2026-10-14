@@ -10,7 +10,7 @@
 3. **[Die Glocken von Dornwacht – vollständiger Romantext (Markdown)](roman/Die_Glocken_von_Dornwacht.md)** – bisheriges Manuskript, alle tatsächlich gespielten Szenen und Dialoge, inklusive Kennzeichnung der Spielerpassagen. **Diese Textfassung ist für die GitHub-Anbindung direkt lesbar.**\n4. **[Die Glocken von Dornwacht (Word)](export/Die_Glocken_von_Dornwacht.docx)** – gestaltete Lesefassung mit marineblauen Spielerbeiträgen.
 5. **[Charakterprofile](charaktere/)** – Persönlichkeit, Erscheinungsbild, Hintergründe, beobachtete Beziehungen.
 6. **[WELT_UND_KANON.md](WELT_UND_KANON.md)** – Schauplätze, Welt und bisheriger Kanon.
-7. **[DOKUMENTATION.md](DOKUMENTATION.md)** – laufende Buchpflege und Übergabe nach Sitzungen.
+7. **[CHARAKTERENTWICKLUNG.md](CHARAKTERENTWICKLUNG.md)** – optionale OOC-Werkstattnotizen zu Figuren und Beziehungen; keine festgelegten Handlungen oder Plotspoiler. Der Spieler möchte diese Datei bewusst nicht lesen.\n8. **[DOKUMENTATION.md](DOKUMENTATION.md)** – laufende Buchpflege und Übergabe nach Sitzungen.
 
 Bei Widersprüchen haben die **tatsächlich gespielten Szenen und späteren ausdrücklichen OOC-Regelentscheidungen des Spielers** Vorrang. Die ursprüngliche Markdown-Fassung wurde direkt aus der Word-Datei abgeleitet und danach mit den vollständig gespielten Szenen fortgeschrieben; eine Zusammenfassung ist kein Ersatz für den Originaltext. **Seit der Sitzung vom 14. Oktober 2026 ist Markdown aktueller als der Word-Export, dessen Synchronisierung der Spieler ausdrücklich auf später verschoben hat.** Die GitHub-Anbindung kann binäre DOCX-Dateien gegebenenfalls nicht direkt lesen, deshalb für den Einstieg die Markdown-Fassung verwenden.
 
