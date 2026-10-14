@@ -4,7 +4,7 @@
 Aus den tatsächlich gespielten Sitzungen entsteht eine **fortlaufende Fantasy-Novelle**. Die Romanfassung wird nach Spielsitzungen aktualisiert; das GitHub-Repository dient als langfristiger Speicher und Übergabepunkt zwischen Chats.
 
 ## Verbindliche Dateien
-- **`export/Die_Glocken_von_Dornwacht.docx`** – derzeitige vollständige Word-Romanfassung (30 Seiten, Stand: Ende der ersten Sitzung). Sie wurde als **Originaldatei** übertragen.
+- **`export/Die_Glocken_von_Dornwacht.docx`** – vollständige Word-Romanfassung (30 Seiten, Stand: Ende der ersten Sitzung), als **Originaldatei** übertragen.\n- **`roman/Die_Glocken_von_Dornwacht.md`** – **vollständige durchsuchbare Textfassung**, absatzgetreu aus dem Word-Dokument übernommen und mit vier explizit gekennzeichneten Spielerpassagen. Für neue Chats direkt über die GitHub-Verbindung lesbar.
 - **`KAMPAGNENSTAND.md`** – knapper, aber präziser bekannter Spielstand; immer mit letztem Satz und nächstem Zug.
 - **`SPIELREGELN.md`** – Regeln und OOC-Konventionen.
 - **`SPIELLEITUNG_START.md`** – vollständige Übergabe für neue Spielleiter-Chats.
@@ -14,14 +14,14 @@ Aus den tatsächlich gespielten Sitzungen entsteht eine **fortlaufende Fantasy-N
 
 ## Ablauf am Sitzungsende
 1. Alle neuen Spieler- und Spielleiterbeiträge aus dem Sitzungsverlauf zusammentragen.
-2. **Nur** tatsächlich erzählte Handlung und Dialoge an die Word-Romanfassung anhängen. Keine frei erfundenen Übergänge, Entscheidungen oder Reaktionen.
+2. **Nur** tatsächlich erzählte Handlung und Dialoge an die Word-Romanfassung **und die Markdown-Textfassung** anhängen. Keine frei erfundenen Übergänge, Entscheidungen oder Reaktionen.
 3. Spielerpassagen **marineblau** formatieren (Referenzfarbe `#16396D`); übriger Romantext schwarz.
 4. Nur Rechtschreibung, Tippfehler, Zeichensetzung und direkte Rede behutsam korrigieren.
 5. OOC-Passagen **nicht** in den Roman übernehmen.
 6. Neue Kapitel und Absätze lesefreundlich setzen; bestehende Texte und Szenen nicht ohne Auftrag umschreiben.
 7. `KAMPAGNENSTAND.md` auf den **exakten** Haltepunkt aktualisieren, einschließlich offener Fragen und der Position der Beteiligten.
 8. Neue **bekannte** Fakten in `WELT_UND_KANON.md`, veränderte Beziehungen in den Charakterprofilen ergänzen.
-9. Dateien nach GitHub übertragen, anschließend Commit und Dateipfade **überprüfen**. Bei fehlendem Schreibzugriff nichts als gespeichert behaupten.
+9. **Word und Markdown inhaltlich synchron halten.** Dateien nach GitHub übertragen, anschließend Commit und Dateipfade **überprüfen**. Bei fehlendem Schreibzugriff nichts als gespeichert behaupten.
 
 ## Übergabe an neuen Chat
 Die Kurzform des Start-Prompts steht in `README.md`. Im neuen Chat sind die Repository-Dateien zu lesen. Ein bloßer Link ohne tatsächlichen Abruf ist keine ausreichende Kontextübernahme.
