@@ -8,7 +8,7 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 ### Einstieg für einen neuen Abenteuer-Chat
 
-> Übernimm die Spielleitung von **„Die Glocken von Dornwacht“**. Öffne das private GitHub-Repository **`CR-Neco/adventure-novelle`** und lies dort zuerst **`SPIELLEITUNG_START.md`** sowie die darin verlinkten Dateien, insbesondere den Kampagnenstand und die Word-Romanfassung. Halte alle Regeln und den Kanon ein. **Warte anschließend auf Skarras nächsten Zug**, ohne die Szene vorwegzunehmen.
+> Übernimm die Spielleitung von **„Die Glocken von Dornwacht“**. Öffne das private GitHub-Repository **`CR-Neco/adventure-novelle`** und lies dort zuerst **`SPIELLEITUNG_START.md`** sowie die darin verlinkten Dateien, insbesondere den Kampagnenstand und den vollständigen Romantext in `roman/Die_Glocken_von_Dornwacht.md`. Halte alle Regeln und den Kanon ein. **Warte anschließend auf Skarras nächsten Zug**, ohne die Szene vorwegzunehmen.
 
 ### Zentrale Dateien
 
@@ -17,7 +17,7 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 - [Kampagnenstand und Haltepunkt](KAMPAGNENSTAND.md)
 - [Welt und bekannter Kanon](WELT_UND_KANON.md)
 - [Buchpflege und Sitzungsabschluss](DOKUMENTATION.md)
-- **[Die Glocken von Dornwacht – fortlaufendes Buch (DOCX)](export/Die_Glocken_von_Dornwacht.docx)**
+- **[Die Glocken von Dornwacht – fortlaufendes Buch (DOCX)](export/Die_Glocken_von_Dornwacht.docx)**\n- **[Vollständiger Romantext (Markdown, für ChatGPT lesbar)](roman/Die_Glocken_von_Dornwacht.md)****
 - [Charakterprofile](charaktere/)
 - [Bilder und Referenzen](bilder/)
 
