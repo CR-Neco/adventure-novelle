@@ -798,7 +798,258 @@ Er sah zu Toman, dann wieder zu den Fremden.
 Das Gasthaus wurde still.
 
 
-„Sie führten ihn wie ein Tier“, flüsterte The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+„Sie führten ihn wie ein Tier“, flüsterte Jorek. „Und jedes Mal, wenn er stehen blieb, zog einer von ihnen am Strick.“
+
+
+Toman ließ seinen Bierkrug sinken.
+
+
+„Aber … warum?“
+
+
+Jorek schüttelte den Kopf.
+
+
+„Das weiß ich nicht, Junge.“
+
+
+Minthara war die Erste, die wieder sprach.
+
+
+„Dann stiehlt also jemand Leichen und führt sie nach Norden.“
+
+
+Brienne legte Toman eine Hand auf die Schulter.
+
+
+„Wir werden herausfinden, was mit deinem Vater geschehen ist.“
+
+
+„Und mit den anderen“, ergänzte Triss.
+
+
+Magrat blickte zum Fenster hinaus, wo der Regen inzwischen nachgelassen hatte.
+
+
+„Ich finde das mit dem Strick merkwürdig.“
+
+
+Minthara wandte sich ihr zu.
+
+
+„Welcher Teil davon?“
+
+
+„Na ja … wenn man jemanden wieder zum Leben erweckt, um ihn für sich arbeiten zu lassen, warum muss man ihn dann an einer Leine führen?“
+
+
+Triss sah sie nachdenklich an.
+
+
+„Das ist tatsächlich eine gute Frage.“
+
+
+Minthara schwieg einen Augenblick.
+
+
+Dann wandte sie langsam den Kopf zu Skarras Tisch.
+
+
+„Unsere neue Bekannte hat gerade gegessen“, bemerkte sie.
+
+
+„Minthara …“, begann Triss.
+
+
+„Nein, diesmal meine ich es ernst.“
+
+
+Die Drow erhob sich und ging einige Schritte auf Skarra zu. Sie blieb in respektvollem Abstand stehen.
+
+
+„Ihr habt vorhin eine Unterscheidung getroffen, die ich für bedeutsam halte. Reanimiert. Nicht beschworen.“
+
+
+Sie deutete mit dem Kopf auf Jorek.
+
+
+„Ein Toter, der gehen kann, aber offenbar geführt werden muss.“
+
+
+Mintharas Blick war kühl, doch ihr Ton hatte nichts Spöttisches mehr.
+
+
+„Ich weiß, wie man einen Feind bekämpft. Aber ich möchte verstehen, was wir möglicherweise bekämpfen.“
+
+
+Am anderen Tisch verschränkte Brienne die Arme.
+
+
+„Wir wissen noch nicht einmal, ob wir kämpfen müssen.“
+
+
+„Eben“, erwiderte Minthara, ohne sich umzudrehen.
+
+
+Dann sah sie Skarra wieder an.
+
+
+„Also, Nekromantin. Was sagt Euch das?“
+
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra leerte ihren Humpen so hastig, dass ein Pirat neidisch geworden wäre, und knallte den Krug auf den Tisch. „Wirklich interessant … ehrlich gesagt, ich weiß es nicht. Warum glaubt Ihr wohl, bin ich sonst hier? … So viel kann ich sagen: Beschworene untote Diener unterliegen dem Willen ihres Beschwörers und müssten gewiss nicht an der Leine geführt werden. Reanimierte sind da eher ziellos umherwandernd – oft aggressiv, durch Urinstinkte getrieben. Wie dem auch sei, ich möchte den Grund erfahren. Es ist eine schöne Nacht für einen Spaziergang zum alten Nordweg.“ Skarra stand auf und schwang ein Bein über die Bank. Dabei blitzten zwei lange Klingen an ihrem Gürtel links und rechts auf. Sie schritt zur Tür, drehte sich um und sagte: „Noch jemand?“ Sie warf sich ihre Kapuze über, und zur Faszination aller verschwand ihr recht ansehnliches Gesicht mit dem silberweißen Haar in einer unnatürlichen, absoluten Schwärze …
+
+<!-- ENDE SPIELERBEITRAG -->
+
+
+## Der alte Nordweg
+
+
+Für einen Herzschlag starrten alle auf die Stelle, an der eben noch Skarras Gesicht zu sehen gewesen war.
+
+
+Magrat machte ein kleines, überraschtes Geräusch.
+
+
+„Oh!“
+
+
+Triss' Augen verengten sich. Sie betrachtete die Schwärze unter der Kapuze mit unverhohlener fachlicher Neugier.
+
+
+„Das ist keine gewöhnliche Illusion“, murmelte sie.
+
+
+„Nein“, erwiderte Minthara.
+
+
+Die Drow erhob sich, nahm ihren Umhang von der Stuhllehne und befestigte ihn mit einer silbernen Spange.
+
+
+„Das ist eine Frau, die weiß, wie man einen Auftritt hinlegt.“
+
+
+Brienne schnaubte.
+
+
+„Wir gehen nicht einfach blindlings in die Nacht.“
+
+
+„Natürlich nicht“, sagte Minthara. „Wir haben schließlich eine Nekromantin dabei, deren Gesicht gerade verschwunden ist. Das macht die Angelegenheit wesentlich übersichtlicher.“
+
+
+Triss griff nach ihrer Tasche.
+
+
+„Minthara, könntest du vielleicht einmal fünf Minuten lang aufhören, alles zu kommentieren?“
+
+
+„Ich könnte es versuchen. Allerdings sehe ich wenig Aussicht auf Erfolg.“
+
+
+Magrat war inzwischen ebenfalls aufgestanden. Sie kramte in einer großen, etwas unförmigen Tasche und zog nacheinander ein Bündel getrockneter Kräuter, eine kleine Flasche, zwei Kerzen und schließlich einen zerdrückten Hut hervor.
+
+
+„Ich komme auch mit.“
+
+
+Brienne sah sie an.
+
+
+„Seid Ihr sicher?“
+
+
+Magrat setzte den Hut auf. Eine der Papierblumen an der Krempe richtete sich mithilfe einer kleinen Feder auf.
+
+
+„Nein“, sagte sie ehrlich. „Aber das war ich bei den meisten wichtigen Dingen nicht.“
+
+
+Triss lächelte kurz.
+
+
+Minthara betrachtete den Hut.
+
+
+„Ist das eine Waffe?“
+
+
+„Nein.“
+
+
+„Schade.“
+
+
+* * *
+
+
+Der alte Jorek führte sie noch bis vor das Gasthaus.
+
+
+Dort blieb er stehen und deutete mit seinem Stock nach Norden.
+
+
+„Eine halbe Meile hinter der letzten Weide gabelt sich die Straße. Rechts geht es zur alten Mühle, links in den Wald. Dort habe ich sie gesehen.“
+
+
+„Wie lange ist das her?“, fragte Brienne.
+
+
+„Vielleicht zwei Stunden.“
+
+
+„Und Ihr seid sicher, dass die Gestalten nach Norden gingen?“
+
+
+Jorek nickte.
+
+
+„Auf dem Weg zur Abtei.“
+
+
+Bei diesem Wort machte der Wirt, der in der Tür stand, ein Zeichen gegen das Böse.
+
+
+Minthara bemerkte es.
+
+
+„Ihr wisst etwas über diese Abtei?“
+
+
+Der Wirt schüttelte den Kopf.
+
+
+„Nichts, was Euch helfen würde.“
+
+
+„Das entscheiden wir.“
+
+
+Der Mann zögerte.
+
+
+„Sie ist seit fast hundert Jahren verlassen. Vor sechs Wochen haben die Glocken wieder angefangen zu läuten.“
+
+
+„Und?“, fragte Triss.
+
+
+„Die Glocken wurden vor hundert Jahren eingeschmolzen.“
+
+
+Niemand sagte etwas.
+
+
+Dann räusperte sich Magrat.
+
+
+„Nun, das ist allerdings ungewöhnlich.“
+
+
+Minthara zog ihre Handschuhe fest.
+
 
 „Endlich eine Feststellung, über die wir uns alle einig sind.“
 
@@ -1462,3 +1713,4 @@ Er schien Angst davor zu haben, was sie in der Tasche finden könnte.
 
 
 „Bitte“, sagte er. „Wenn Ihr wisst, was gut für Euch ist, gebt sie mir zurück.“
+
