@@ -16,3 +16,12 @@ Stolz, intelligent, pragmatisch, taktisch, mit trockenem und häufig scharfem Hu
 - Nahm Briennes Einwand gegen eine riskante Evakuierung über den Mühlgraben an. Benennt überprüfbare Angaben statt vorzugeben, jede Lüge magisch erkennen zu können.
 - Ziel: Cael möglichst lebend befragen, vor einem Eindringen selbst erkunden; Rhen bewacht einsetzen. Mehrfache Zusammenarbeit mit Brienne und Triss trotz Reibung.
 - Zuletzt Brot und Getränke geholt; erklärte Skarra den Konflikt mit Brienne als unterschiedliche Pflichten gegenüber Lebenden. Empfiehlt Schlaf.
+
+## Fortschreibung – Sitzung 15./16. Oktober 2026
+- Sicherte Triss bei Brams Stilllegung ab, stand bereit, sie aufzufangen. Hinterfragte später die Überanstrengung und vereinbarte mit den anderen ein Abbruch-/Hilfesignal.
+- Sprach Brienne gegenüber verständnisvoll über das, woran Toman sich erinnern könnte. Praktische Rücksicht beider (Fenster zum Stall); keine automatische Versöhnungs- oder Feindschaftslinie.
+- Fragte nach Zhaitan. Verknüpft die Strategie gezielter Schwächung mit dem Rätsel der Abtei. Kennt nicht Skarras geheime Biografie.
+- Benannte den Unterschied zwischen dem Umgang mit Schwächen in Menzoberranzan und Triss' Sicherheitsabsprache.
+- Befragte Harl gemeinsam mit Brienne; übernahm Transport-/Routenplanung und Hofplan.
+- Billigt Rhen im Dorf zu lassen, will vor Ort selbst erkunden. Fordert für Portalflucht eine Stellung, die Triss die nötige Zeit verschafft.
+- Zuletzt beim Vogt für beschlagnahmte Papiere und Wagengeschirr; Ergebnisse dieses letzten Gangs noch nicht festgelegt.

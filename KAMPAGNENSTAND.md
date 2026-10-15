@@ -1,43 +1,65 @@
 # Kampagnenstand – Die Glocken von Dornwacht
 
-**Dokumentationsstand:** Ende der Sitzung vom 14. Oktober 2026.  
+**Dokumentationsstand:** Sitzung 15./16. Oktober 2026 beendet.  
 **Status:** pausiert; Skarra ist am Zug.  
-**Ort und Spielzeit:** Eibenbrück, beim Gasthaus „Zum Krummen Nagel“ und seinem Stall, noch in derselben Nacht wie das erste Zusammentreffen; vor Tagesanbruch. Noch kein Aufbruch zur Abtei.
+**Spielzeit und Ort:** Am Morgen nach der ersten gemeinsamen Nacht, im Gasthaus „Zum Krummen Nagel“ in Eibenbrück. Die kleine Dorfglocke zur Bestattung ist gerade verstummt. **Die Gruppe ist noch nicht aufgebrochen.** Reale Sitzungsdaten nicht als zusätzliche vergangene Tage der Handlung behandeln.
 
 ## Exakter Haltepunkt
 
-Brienne hat Toman erklärt, dass sein Vater tot ist, und ihm den Abschied im Stall ermöglicht. Toman hat Brams Lederriemen vom Handgelenk mitgenommen. Jorek hat ihn zurück ins Haus geführt. Toman möchte seinen Vater wieder bestatten und sicher sein, dass er im Grab bleibt.
+Die Gruppe hat sich auf die Vorbereitung einer verdeckten Untersuchung der Abtei verständigt. Rhen bleibt im Dorf. Wagen, Papiere und Rhens Angaben sollen genutzt werden. Eine Wagen-/Personenillusion ist vorbereitetes Vorhaben, keine bereits erprobte Täuschung am Tor. Vor Ort sollen Wirtschaftstor und Abwasserkanal erst selbst erkundet werden.
 
-Bram liegt gesichert im leeren Stall. **Die angekündigte Untersuchung Brams hat noch nicht stattgefunden.** Weder seine Stilllegung noch eine erneute Bestattung wurden gespielt. Skarra hat sich gegen die Mitnahme Brams ausgesprochen und Brienne die Begleitung des Abschieds überlassen.
+**Letzter gespielter Erzählabsatz:**
+> Als die kleine Glocke verstummt war, blieb auf dem Tisch der Plan zurück. Ein Tor, ein Hof, einige hastig gezeichnete Gebäude. Vieles daran würde erst noch überprüft werden müssen.
 
-Brienne und Triss wollen nun prüfen, ob Bram stillgelegt werden kann. Brienne hat Skarra die Mithilfe freigestellt. Minthara hat anschließend Schlaf empfohlen.
+**Letzte direkte Rede (Triss, zu Magrats Bemerkung über Buchführung):**
+> „Da würde ich ebenfalls fliehen.“
 
-**Letzter gesprochener Satz (Minthara):**
-> „Danach brauchen wir Schlaf. Die Abtei läuft uns nicht davon. Unsere Fehler werden mit Müdigkeit aber nicht klüger.“
+**Offene Frage / nächster Zug:**
+> Gibt es vor dem Aufbruch noch etwas, das Skarra persönlich erledigen möchte? Andernfalls können die Vorbereitungen abgeschlossen werden und die Reise beginnen.
 
-**Offene Entscheidung / nächster Zug:**
-> Hilft Skarra Triss bei Brams Untersuchung, damit sein Körper zur Ruhe gebracht werden kann, oder zieht sie sich für den Rest der Nacht zurück?
+Skarra hat die gemeinsame Planung gebilligt, aber **noch nicht** auf diese letzte Frage geantwortet. Beim Wiedereinstieg auf ihren nächsten Zug warten. Keine letzten persönlichen Erledigungen erfinden; Reise, Ankunft, Infiltration oder Portalerfolg nicht vorwegnehmen.
 
-**Nur der Spieler entscheidet dies.** Beim Wiedereinstieg kurz bestätigen und auf seinen Zug warten, nicht Untersuchung, Nachtruhe oder Abreise vorwegnehmen.
+## Positionen und Aufgaben
 
-## Beteiligte und Positionen
-
-- **Skarra:** bei den Gefährtinnen vor dem Gasthaus / Stall, nicht mehr im Schnitterschleier. Ihr Fleischgolem ist weiterhin beschworen, inzwischen vom Zuggeschirr befreit; kein Verschwinden wurde gespielt.
-- **Brienne und Triss:** bei Skarra, bereit zur Untersuchung im Stall.
-- **Minthara:** draußen; hat Brot und Getränke geholt, empfiehlt anschließend Ruhe.
-- **Magrat:** versorgt die Verletzten im Gasthaus. Rhen hilft ihr unter Aufsicht.
-- **Toman und Jorek:** wieder im Haus nach dem Abschied.
-- **Wirt:** bei seiner befreiten Schwester Marta; **Dorfvogt** befragt Marta und organisiert Bewachung.
-- **Rhen, Jann, Edrin:** in Gewahrsam; der Vogt hat einen bewachten Lagerraum hinter dem Schankhaus vorgesehen. Rhen darf unter Magrats Aufsicht Berold versorgen.
-- **Harl und namenlose zweite Mühlenwache:** getrennt abgeführt; in Gewahrsam.
-- **Berold:** schwer verwundet, bislang überlebt; im Gasthaus behandelt.
-- **Marta, Mann mit verbundenem Arm, Frau mit Brandnarbe am Handgelenk:** befreit, im Gasthaus versorgt; Namen der beiden Letzteren unbekannt.
-- **Bram:** gesichert im Stall, weiterhin untot, nicht untersucht.
-- **Stillgelegter behandelter Untoter:** bleibt gefesselt am Pfosten der alten Mühle. Die herausgelöste aktive Masse und kleine Proben wurden zur Mitnahme gesichert; ihre genaue Abstellung im Dorf wurde nicht beschrieben.
-- **Zwei Kontrollstäbe und Fläschchen:** von der Gruppe erbeutet; beim Dorfvogt wurden Schlafmittel vorgezeigt, keine Übergabe aller magischen Beweisstücke festgelegt.
+- **Skarra:** zuletzt bei der Besprechung im kleineren Nebenraum des Gasthauses; ihre nächste Handlung ist offen.
+- **Brienne:** zur Bestattung Brams gegangen. Ihre Teilnahme ist gespielt, die Zeremonie selbst wurde nicht ausgespielt oder ausdrücklich abgeschlossen. Gruppe wartet vor dem Aufbruch auf sie.
+- **Magrat und Triss:** zu Rhen gegangen, um Verhalten, Stimme, Erscheinung und Umgang mit Oswin für eine spätere Täuschung zu studieren. Ergebnisse dieses letzten Gesprächs noch nicht ausgespielt.
+- **Minthara:** beim Vogt, kümmert sich um beschlagnahmte Papiere und Wagengeschirr; keine neuen Ergebnisse dieses letzten Gangs festgelegt.
+- **Rhen:** bleibt in Eibenbrück, unter Aufsicht, hilft bei Verletzten und soll weiter aussagen. Führt die Gruppe **nicht** persönlich zur Abtei.
+- **Harl, namenlose zweite Mühlenwache und Edrin:** bleiben in Gewahrsam des Dorfvogts. **Jann** bleibt ebenfalls vorerst für Aussagen.
+- **Berold:** Nacht überlebt, weiter schwer verletzt; nicht reisefähig, bleibt im Dorf.
+- **Marta und zwei weitere Befreite:** im Dorf versorgt; Marta wieder auf den Beinen, noch schwach. Die anderen Namen weiterhin unbekannt.
+- **Bram:** durch Triss' Magie stillgelegt; nachts und am Morgen ohne neue Aktivität. Zur Wiederbestattung vorgesehen. Toman und Jorek im Dorf.
+- **Fleischgolem:** weiterhin aktiv, vom Geschirr gelöst, am Hof. Keine Entlassung gespielt.
+- **Fleischwurm:** zur Bewachung Brams im Stall eingesetzt, außerhalb seiner Reichweite; keine Entlassung gespielt. Einrichtung der Wache wurde erzählt, genaue Alarmmechanik nicht festgelegt.
 - **Drei Knochenkundschafter:** keine Vernichtung oder Entlassung gespielt; genauer Standort am Haltepunkt nicht festgelegt.
+- **Untersuchter Wagenuntoter:** stillgelegter Körper bleibt gesichert an der alten Mühle. Aktive entnommene Masse / Proben sind im Dorf, von Triss für die Reise sicher verpackt.
+- **Wagen, Kontrollstäbe, Fläschchen und Papiere:** erbeutet; exakte neue Verteilung nicht vollständig ausgespielt. Minthara klärt Papiere und Geschirr beim Vogt. Kein bereits eingespannter neuer Pferdesatz festgelegt.
 
-## Verlauf dieser Sitzung
+## Aktueller Gruppenplan – beschlossen, noch umzusetzen
+
+1. Vorbereitungen und persönliche Erledigungen beenden; Briennes Rückkehr abwarten.
+2. Rhen und die übrigen Gefangenen im Dorf lassen. Skarra versprach, nach den Kranken der Abtei zu sehen und sie **wenn möglich** zu befreien.
+3. Mit dem vorhandenen Wagen und Papieren nach Norden, unterwegs Angaben an Pferdewechselstationen prüfen. Jann zeichnete die Route ein; erster Gutshof laut Minthara bei normalem Reisetempo am Abend erreichbar, falls heute aufgebrochen wird. Entfernung insgesamt etwa drei Tagesreisen zu Fuß; schnellere Wagenfahrten durch Pferdewechsel erklärt.
+4. Vor der Abtei selbst Tor und Kanal erkunden. Endgültige Zugangswahl abhängig vom Befund.
+5. **Täuschungsoption:** Magrat stellt Rhen durch Menschenkenntnis / Nachahmung dar, Triss unterstützt mit Gesichts-, Kleidungs- und Stimmillusion. Vorhandenen Wagen verändern statt bloß körperlose Ladung erfinden. Nähe, Berührung, Ladungskontrolle und längere Gespräche können die Täuschung erschweren. Kein Erfolg garantiert.
+6. **Rückzugsoption:** Triss möchte vor dem Eindringen einen geschützten äußeren Zielort persönlich prüfen und einprägen. Von innen könnte sie dorthin ein Portal öffnen. Dafür braucht sie einige ungestörte Augenblicke, länger bei Erschöpfung / Störung. Verletzte müssen zu ihr gebracht werden; kein Fernabholen durch die Abtei. Kanal bleibt unabhängige Option.
+7. Ein Portal **hinein** nur nach Rhens Beschreibung hat Triss abgelehnt: Zielort unbekannt, Wände, Hindernisse und Sicherungen ungeprüft.
+
+## Neue Ereignisse – Sitzung 15./16. Oktober 2026
+
+- Skarra nahm an Brams äußerer Untersuchung teil. Keine Schnitt- oder Klammernarben; dünne verteilte graue Verästelungen statt der dichten Brustmasse des Wagenuntoten. Kontrolle greift schlechter; eigener Wille nicht dadurch bewiesen. Triss erkennt dieselbe Art von Magie, ihre Erklärung als schwächere / frühere Form bleibt Deutung.
+- Skarra warnte vor möglicher Wechselwirkung zwischen ihrem Lebenskraftentzug und Triss' Magie. Der gemeinsame Entzug wurde **nicht durchgeführt**. Triss löste die Verbindungen stattdessen allein mit roter Faden-/Bindemagie. Brienne, Magrat und Minthara halfen abzusichern.
+- Bram wurde reglos; anschließende Prüfungen nachts und morgens fanden keine aktive Verbindung / erneute Bewegung. Das Verfahren kostete Triss viel Kraft. Dauerhafter Schutz vor der ursprünglichen erhebenden Macht ist **nicht bewiesen**.
+- Skarra bot Fleischwurmwache und einen gemeinsamen Humpen an. Die fünf sprachen über Zusammenarbeit, Unsicherheit und Tomans Abschied. Triss bat um rechtzeitige Gefahrenhinweise; Gruppe vereinbarte Hilfe bei ihrem Abbruchsignal.
+- Skarra deutete einen hohen Preis ihrer Kräfte in der Kindheit an. Die Gefährtinnen kennen **nicht** automatisch die separate Hintergrundbiografie, Rachegeschichte oder Herkunft des Beinamens.
+- Auf ausdrücklichen Spielerwunsch erzählte Skarra vom Zhaitan-Feldzug: Orr, Auferstandene, Klaueninsel, Pakt und Trahearne, gezielte Schwächung, Reinigung der Quelle, Luftschiffangriff über Arah. Keine Ordenszugehörigkeit oder Pakt-Kommandeursstellung Skarras festgelegt.
+- Skarra erklärte normalen Kraftgewinn aus verwundeten Feinden, die Disziplin beim direkten Entzug und ihr spezielles Bedenken bei fremder Magie. Sie versicherte, die Gruppe müsse sie nicht fürchten. Triss verstand dies als Warnung vor unbekannter magischer Wechselwirkung, nicht als Ankündigung unmittelbar drohenden Kontrollverlusts.
+- Alle gingen schließlich schlafen. Am Morgen berichtete Marta, eigentlich sei laut Liste ein Steinmetz erwartet worden. Harl habe sie ersatzweise verschleppt, um nicht leer zurückzukommen. Harl bestätigte dies bei Briennes / Mintharas Befragung.
+- Skarra befragte Rhen weiter; erhielt Einzelheiten über Torprüfung und Krankenstube. Sie hält Rhen bei einer Infiltration eher für eine Belastung und sagte ihr zu, nach den Kranken zu sehen / sie nach Möglichkeit zu befreien.
+- Gruppe diskutierte und billigte die oben notierten Zugangs-/Rückzugsoptionen. Magrat demonstrierte Rhens müde, bestimmte Art. Vorbereitungen wurden verteilt; dann Sitzungsende.
+
+## Frühere Sitzung – 14. Oktober 2026
 
 1. Die Ledertasche enthielt vier Fläschchen: zwei dunkle Schlafmittel, zwei helle Mittel, die laut Edrin Verstorbenen gegeben werden sollen. Magrat vermutet beim Schlafmittel Mohn und Bilsenkraut.
 2. Edrin wurde entwaffnet. Er nannte einen Karren mit drei betäubten Menschen hinter der Mühle. Bram war laut ihm vom Karren gefallen und wollte zurück zum Dorf.
@@ -54,20 +76,24 @@ Brienne und Triss wollen nun prüfen, ob Bram stillgelegt werden kann. Brienne h
 13. Gruppe vereinbarte Rückkehr nach Eibenbrück, danach Vorbereitung der Untersuchung der Abtei. Rhen soll gegebenenfalls bewacht mitkommen; genaue Zusage und endgültige Reiseregelung noch nicht separat mit ihr ausgespielt.
 14. Skarras Fleischgolem zog beide Wagen ins Dorf. Verletzte und Gefangene wurden übergeben bzw. bewacht untergebracht. Brienne begleitete Tomans Abschied von Bram.
 
-## Erkenntnisse und offene Fragen
 
-**Beobachtet:** Kontrolle ist vom selbsttätigen Antrieb zu unterscheiden; Entzug allein stoppt den untersuchten Toten nicht dauerhaft. Brustmasse und Stränge spielen bei diesem behandelten Toten eine wesentliche Rolle. Die Gruppe hat keine allgemeine sichere Methode für alle Untoten bewiesen.
 
-**Nur Aussagen / teils bestätigt:** Rhen sagt, Cael fertige Stäbe aus Steinen der Gewölbe und behandle Leichen; Severin lasse nach einer verschütteten Glocke suchen und verschleppe auch Lebende. Rhen behauptet, drei ihrer ursprünglich sechs Kranken lebten in der Abtei. Jann bestätigt die Erinnerung an einen Jungen, nicht alle Einzelheiten.
+## Bekannte Angaben zur Abtei – weiterhin nicht selbst besichtigt
 
-- Warum verhält Bram sich anders und widersteht Befehlen? Wurde er überhaupt behandelt?
-- Woraus besteht die aktive Brustmasse; ist sie mit dem hellen Mittel identisch oder daraus entstanden?
-- Woher kommt ihre nachströmende Kraft? Was bewirken Glocke und Grabungen wirklich?
-- Rhen behauptet, nur behandelte Tote seien steuerbar; Bram reagierte ebenfalls, war laut Aussagen aber noch nicht bei Cael. **Widerspruch offen halten, nicht wegdefinieren.**
-- Was geschieht mit entführten Lebenden? Stimmen Rhens Motive und ihre Geschichte?
-- Wie sicher sind Wirtschaftstor, Werkstatt, Krankenstube und der angebliche Abwasserkanal?
-- Dorfunterbringung, Brams weiteres Schicksal, Nachtruhe, Versorgung, Reisemittel und genauer Abreiseplan sind noch zu klären.
+- **Oswin:** älterer Mann am Wirtschaftstor, führt Buch; kennt Rhen und Jann. Gewöhnlich zwei Wachen; Anzahlprüfung und Listen, gelegentlich Caels Gehilfe bei besonderen Erwartungen (Rhens Aussagen).
+- Werkstatt am Wirtschaftshof. Überdachte Entladestelle und Brunnen. Krankenstube südlicher Flügel, drei Fenster zum Hof, schmaler Gang vom ehemaligen Speisesaal; Tür muss beim Öffnen etwas angehoben werden.
+- Kranke heißen laut Rhen **Nella, Oren, Fenn**; Fenn ist der Junge. Für Nella als Hinweis: Rhen habe den blauen Schal noch. Keine unabhängige Bestätigung aller Personen / des Schalhinweises.
+- Cael und Prior Severin weiterhin nicht persönlich getroffen. Rhens Vorgeschichte und Deutung der Glocke nicht als bewiesen behandeln.
+
+## Offene Fragen
+
+- Ursprung / Nachversorgung der Untotenmagie, Zweck der verschütteten Glocke und tatsächliche Ziele Severins.
+- Verhältnis von natürlichem Erheben, Caels Behandlung und Stabkontrolle. Bram war angeblich noch nicht behandelt, reagierte aber auf Stäbe; Rhens Behauptung, nur behandelte Tote seien steuerbar, bleibt unvollständig / widersprüchlich.
+- Warum Bram widerstandsfähiger wirkte; keine gesicherte Aussage über Seele, Bewusstsein oder Schmerz.
+- Zusammensetzung der aktiven Probe und des hellen Mittels; Vergleich noch nicht gespielt.
+- Sicherheit von Tor, Kanal, Portalort und möglichen Sicherungen.
+- Schicksal verschleppter Lebender; Wahrheit und Vollständigkeit von Rhens Angaben.
 
 ## Dokumentation
 
-Die vollständige Markdown-Romanfassung enthält die gespielten Szenen dieser Sitzung ohne OOC. Spielerpassagen sind gekennzeichnet. **Der Word-Export bleibt auf ausdrücklichen Wunsch vorerst auf dem Stand der ersten Sitzung; spätere Synchronisierung ist offen.**
+Roman in Markdown bis zum exakten Haltepunkt ergänzt; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.

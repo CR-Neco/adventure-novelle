@@ -31,4 +31,4 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt:** Zurück in Eibenbrück, vor Tagesanbruch. Toman hat Abschied von Bram genommen; der Untote liegt gesichert im Stall. Brienne und Triss sind zur Untersuchung bereit. **Skarra ist am Zug:** Hilft sie dabei, oder zieht sie sich für den Rest der Nacht zurück? Siehe KAMPAGNENSTAND.md.
+**Aktueller Haltepunkt (Sitzung 15./16. Oktober 2026):** Eibenbrück, am Morgen, noch vor dem Aufbruch. Bram ist stillgelegt. Rhen bleibt im Dorf; Wagenillusion mit Magrat als Rhen und späteres Rückzugsportal sind besprochene Optionen. Gefährtinnen erledigen Vorbereitungen. **Skarra ist am Zug:** Möchte sie vorher noch etwas persönlich erledigen? Siehe KAMPAGNENSTAND.md.

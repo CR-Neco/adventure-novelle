@@ -47,7 +47,7 @@ Als Kontrast schätzt der Spieler auch Karlachs direkte, herzliche und ungebrems
 
 ## Gegenwärtige offene Möglichkeiten, ohne Vorwegnahme
 
-- Bram im Stall: Triss und Brienne möchten untersuchen, ob er endgültig stillgelegt werden kann. **Skarra hat noch nicht entschieden, ob sie mitwirkt.** Nichts vorwegnehmen.
+- Bram: inzwischen von Triss nach Untersuchung mit Skarra stillgelegt; blieb über Nacht und am Morgen ruhig. Wiederbestattung vorbereitet, Brienne zuletzt dorthin gegangen. Ablauf / Abschluss der Zeremonie nicht zusätzlich erfinden.
 - Die Abtei: Unterschiedliche Haltungen zu Rhen, zu Gefangenen, zur Nutzung von Untoten und zur Rettung Verschleppter können Spannungen schaffen, ohne dass bereits ein bestimmter Konflikt erzwungen werden muss.
 - Skarras Verhältnis zu Lebenskraft: Die Ereignisse mit Edrin und den Schafen sind **geschehen**. Die Gefährtinnen können sich daran erinnern, müssen aber nicht bei jeder Gelegenheit darüber sprechen.
 - Der Fleischgolem ist noch aktiv. Das ist ein faktischer Kontinuitätspunkt, kein Freibrief für eine neue komische Nebenhandlung.
@@ -62,3 +62,13 @@ Als Kontrast schätzt der Spieler auch Karlachs direkte, herzliche und ungebrems
 - Ist die Entwicklung aus gespielten Ereignissen erwachsen, statt aus diesen Notizen abgelesen?
 
 **Nicht in die Romanfassung übernehmen:** Diese Notizen sind OOC und gehören nicht in die Geschichte. Nach einer Sitzung nur **tatsächlich gespielte** Beziehungsentwicklungen als Beobachtung dokumentieren; offene Möglichkeiten bleiben Möglichkeiten.
+
+## Beobachtete Fortschreibung – Sitzung 15./16. Oktober 2026
+
+- Triss übernahm Brams Stilllegung eigenständig, nachdem Skarra vor magischer Wechselwirkung gewarnt hatte. Die Gruppe sicherte sie ab; sie musste Erschöpfung anerkennen.
+- Mintharas Nachfrage nach Triss' Grenzen war als Sorge besprochen; Brienne schlug ein Hilfesignal vor, Magrat benannte die ungewohnte Fürsorge trocken.
+- Skarras Klarstellung zum Entzug verhinderte eine falsche Zuspitzung als unmittelbar drohender Kontrollverlust. Keine solche Zuspitzung nachträglich erzwingen.
+- Skarra deutete Kindheitsleid an; Biografie / Rache / Herkunft des Namens sind kein Gruppenwissen.
+- Gemeinsame ruhige Wirtshausszene, Zhaitan-Erzählung und Nachtruhe gespielt. Keine daraus garantierten Bindungen.
+- Magrat brachte konkrete Menschenkenntnis in die Rhen-Täuschung ein. Triss ergänzt die magische Erscheinung, Minthara fragt nach Risiken, Brienne nach Rückweg und Schutz der Kranken.
+- Aktuell Vorbereitungen vor Aufbruch; Rhen bleibt im Dorf. Weiterer Ertrag von Magrats / Triss' Rhen-Gespräch und Mintharas Vogt-Gang offen. Keine zukünftigen Dialoge oder Entwicklungen als gegeben eintragen.

@@ -77,3 +77,35 @@ Unbekannte Sachverhalte bleiben unbekannt. Keine Schlussfolgerung über die Ursa
 
 ### Aktueller Stand
 Gruppe zurück in Eibenbrück, noch vor Tagesanbruch. Toman hat Abschied genommen und wünscht Wiederbestattung. Bram bleibt gesichert und ununtersucht im Stall; sein Schicksal noch offen. Die Gruppe beabsichtigt nach Versorgung / Vorbereitung die Untersuchung Dornwachts. Keine bereits stattgefundene Abreise, kein bestätigter Infiltrationsplan. Siehe KAMPAGNENSTAND.md.
+
+## Fortschreibung – Sitzung 15./16. Oktober 2026
+
+### Bram und magische Beobachtungen
+- Äußere Untersuchung zeigte keine Schnitt-/Klammernarben. Dünne graue verteilte Verästelungen, nicht dieselbe dichte Herzkruste wie beim behandelten Wagenuntoten.
+- Edrins Stab beeinflusste ihn, Befehl griff aber schlechter. Kein sicherer Beweis von eigenem Willen.
+- Triss erkannte dieselbe Art von Magie; Vermutung, Caels Verfahren verstärke einen vorhandenen Prozess, nicht bewiesen.
+- Nach Skarras Warnung wurde **kein** kombinierter Lebenskraftentzug durchgeführt. Triss löste die Verbindungen allein mit roter Faden-/Bindemagie, unter Absicherung der anderen.
+- Bram wurde reglos; Prüfung direkt danach, nachts und morgens ohne neue Aktivität. Wiedererhebung durch die unbekannte ursprüngliche Macht nicht sicher ausgeschlossen.
+- Seine Wiederbestattung wurde vorbereitet, Brienne ging zuletzt zur Zeremonie. Zeremonie nicht ausgespielt / ausdrücklich abgeschlossen.
+- Die Brustprobe aus der Mühle ist weiter aktiv, sicher verpackt. Nicht mit Bram verwechseln.
+- Skarra setzte einen Fleischwurm zur Wache im Stall ein. Genaue Alarmmechanik nicht festgelegt. Golem weiterhin im Hof aktiv.
+
+### Wissen der Gefährtinnen über Skarra
+- Kurze Kindheitsandeutung und ihre Erklärung des Kraftentzugs am Wirtshaustisch bekannt; separate Originalbiografie nicht offengelegt.
+- Erzählter Zhaitan-Feldzug: Orr, Pakt und Trahearne, Klaueninsel, Augen / Mäuler, Quelle und Luftschiffkampf über Arah. Keine konkrete Ordenswahl oder Kommandeursrolle Skarras festgelegt.
+- Skarra versicherte, die Gruppe müsse sie nicht fürchten; ihr konkretes Bedenken galt unbekannter Wechselwirkung mit fremder Magie. Das ist eine Aussage / Sicherheitsabsprache, kein experimenteller Nachweis völliger Ungefährlichkeit.
+
+### Neue Zeugenaussagen / Abteidetails
+- Marta erinnerte sich: erwartet war ein Steinmetz, Harl nahm sie ersatzweise mit. Harl bestätigte dies bei Befragung durch Brienne / Minthara.
+- Laut Rhen prüft **Oswin**, älterer Buchführer am Wirtschaftstor, die Transporte. Gewöhnlich zwei Wachen; bei besonderen Ladungen Caels Gehilfe. Noch nicht selbst überprüft.
+- Krankenstube: laut Rhen drei Fenster zum südlichen Hof, Zugang vom ehemaligen Speisesaal, unten klemmende Tür.
+- Namen der drei Kranken laut Rhen: **Nella, Oren, Fenn**, letzterer der Junge. Nella soll als Vertrauenshinweis erfahren, Rhen habe den blauen Schal noch.
+- Rhen bleibt im Dorf. Skarra versprach Nachsehen und Befreiung **wenn möglich**. Keine bedingungslose Rettung / Begnadigung versprochen.
+- Kranke und Gefangene bleiben in Eibenbrück; Berold überlebte die Nacht, nicht reisefähig. Jann bleibt vorerst ebenfalls für Aussagen.
+
+### Beschlossene Vorbereitung, keine bereits verwirklichten Erfolge
+- Route mit Pferdewechseln prüfen, erst Tor / Abwasserkanal selbst erkunden.
+- Magrat soll Rhen durch beobachtetes Verhalten darstellen, Triss Gesicht / Kleidung / Stimme verschleiern. Vorhandenen Wagen nutzen; Nähe / Berührung / Kontrolle riskant.
+- Portal hinein nach bloßer Beschreibung von Triss abgelehnt.
+- Für möglichen Rückweg vorher einen äußeren sicheren Zielort persönlich prüfen. Portal braucht ungestörte Zeit; Verletzte müssen bis zur Zauberin gebracht werden. Kein garantierter Fluchtweg.
+- Haltepunkt: kleiner Nebenraum im Gasthaus, Morgen; noch vor Abreise. Skarras letzte Erledigungen offen. KAMPAGNENSTAND.md ist aktuell.

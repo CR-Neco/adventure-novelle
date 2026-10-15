@@ -16,3 +16,12 @@ Ehrenhaft, loyal, entschlossen, kampferfahren; schützt Unschuldige. Moralische 
 - Konflikt mit Skarra über Bram: wollte dem Sohn den Körper zur Bestattung zurückbringen, nicht eine Heilung versprechen. Schließt notwendige Stilllegung nicht aus, will vorher prüfen.
 - Übernahm eigenständig das Gespräch mit Toman und begleitete seinen Abschied; Toman wünscht erneute Bestattung, bei der Bram im Grab bleibt.
 - Am Haltepunkt zur Untersuchung mit Triss bereit. Skarras Hilfe ist freigestellt; keine feste Feindschaft oder garantierte Versöhnung.
+
+## Fortschreibung – Sitzung 15./16. Oktober 2026
+- Unterstützte Brams Untersuchung mit Tomans Kenntnis seines Vaters. Erkennt die Grenze von Kontrolle als Beweis für Willen an.
+- Sicherte Triss' Arbeit, löste nach erfolgreicher Stilllegung Brams Fesseln und dankte ihr. Bram blieb ruhig.
+- Erzählte am Tisch, Toman ehrlich gesagt zu haben, dass sie nicht wisse, ob Bram Schmerzen hatte.
+- Praktische Fürsorge für erschöpfte Triss; nahm Mintharas unerwartet verständnisvolle Bemerkung zu Toman ohne Streit an. Keine automatische Feindschaft.
+- Befragte Harl gemeinsam mit Minthara; er bestätigte Martas ersatzweise Verschleppung statt eines Steinmetzes.
+- Besteht bei Infiltrationsplanung auf Rückweg für Kranke und unabhängiger Alternative zum Portal.
+- Zuletzt zur Wiederbestattung Brams gegangen. Ihre Teilnahme ist gespielt, Zeremonie selbst noch nicht ausgespielt / ausdrücklich abgeschlossen. Gruppe wartet vor Aufbruch auf sie.

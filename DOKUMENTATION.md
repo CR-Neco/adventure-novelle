@@ -1,16 +1,16 @@
 # Dokumentation und laufende Buchpflege
 
-## Aktueller Synchronisierungsstand – 14. Oktober 2026
+## Aktueller Synchronisierungsstand – Sitzung 15./16. Oktober 2026
 
-**Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt für diesen Sitzungsabschluss.
+**Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt weiterhin für die ausdrücklich gewünschte Markdown-Fortschreibung.
 
-Die neue Fortsetzung beginnt nach dem früheren letzten Satz „Bitte … gebt sie mir zurück“ mit dem Abschnitt **„Die Tasche und die Mühle“** und endet nach der Rückkehr nach Eibenbrück mit Mintharas Empfehlung zur Nachtruhe. Alle neuen Spielerpassagen sind markiert; OOC und Spielzug-Aufforderungen fehlen bewusst im Roman. Bei späterem Export Kennzeichnungen marineblau umsetzen.
+Die Fortsetzung vom 14. Oktober beginnt mit **„Die Tasche und die Mühle“** und endet mit Mintharas Empfehlung zur Nachtruhe. Die neue Sitzung 15./16. Oktober beginnt anschließend mit **„Brams Ruhe“**, umfasst die Untersuchung, die Gesprächsrunde im Gasthaus, Nachtruhe und Planung am Morgen und endet mit dem Plan auf dem Tisch, noch vor dem Aufbruch. Alle neuen Spielerpassagen sind markiert; OOC und Spielzug-Aufforderungen fehlen bewusst im Roman. Bei späterem Export Kennzeichnungen marineblau umsetzen.
 
 ## Ziel
 Aus den tatsächlich gespielten Sitzungen entsteht eine **fortlaufende Fantasy-Novelle**. Die Romanfassung wird nach Spielsitzungen aktualisiert; das GitHub-Repository dient als langfristiger Speicher und Übergabepunkt zwischen Chats.
 
 ## Verbindliche Dateien
-- **`export/Die_Glocken_von_Dornwacht.docx`** – vollständige Word-Romanfassung (30 Seiten, Stand: Ende der ersten Sitzung), als **Originaldatei** übertragen.\n- **`roman/Die_Glocken_von_Dornwacht.md`** – **vollständige durchsuchbare Textfassung**, ursprünglich absatzgetreu aus dem Word-Dokument übernommen; inzwischen um die zweite Sitzung und weitere ausdrücklich gekennzeichnete Spielerpassagen ergänzt. Für neue Chats direkt über die GitHub-Verbindung lesbar.
+- **`export/Die_Glocken_von_Dornwacht.docx`** – vollständige Word-Romanfassung (30 Seiten, Stand: Ende der ersten Sitzung), als **Originaldatei** übertragen.\n- **`roman/Die_Glocken_von_Dornwacht.md`** – **vollständige durchsuchbare Textfassung**, ursprünglich absatzgetreu aus dem Word-Dokument übernommen; inzwischen um die zweite und dritte Sitzung und weitere ausdrücklich gekennzeichnete Spielerpassagen ergänzt. Für neue Chats direkt über die GitHub-Verbindung lesbar.
 - **`KAMPAGNENSTAND.md`** – knapper, aber präziser bekannter Spielstand; immer mit letztem Satz und nächstem Zug.
 - **`SPIELREGELN.md`** – Regeln und OOC-Konventionen.
 - **`SPIELLEITUNG_START.md`** – vollständige Übergabe für neue Spielleiter-Chats.
@@ -40,3 +40,10 @@ Skarra hat vom Spieler vorgegebene Bildreferenzen. Andere Figuren und Szenen wer
 
 ## Technischer Hinweis
 Die GitHub-Anbindung kann Textdateien unmittelbar pflegen; für **binäre DOCX-Dateien** kann ein gesonderter Upload-/Git-Blob-Schritt erforderlich sein. Der Spielleiter muss das tatsächliche Commit-Ergebnis überprüfen. Die Word-Datei nicht durch eine bloße Markdown-Zusammenfassung ersetzen.
+
+## Hinweise zur jüngsten Textübernahme
+
+- Rechtschreibung, Tippfehler und Zeichensetzung geglättet; gespielte Ereignisse und Dialoge bewahrt.
+- Autorisierte Skarra-Erzählung über Zhaitan sowie die ausdrücklich vom Spieler gewünschte Darstellung ihrer Gedanken zur Rhen-Befragung bleiben im Roman. Das sind eng begrenzte Erzählaufträge dieser Sitzung, keine allgemeine Aufhebung ihrer ausschließlichen Spielersteuerung.
+- Spielertexte bleiben markiert. OOC-Regieanweisungen, Recherchenachweise und Spielzug-Aufforderungen sind nicht Teil des Romans.
+- Skarras neue Original-Hintergrundgeschichte wurde nicht als automatisch offengelegte Kindheitserzählung angehängt. Die Gefährtinnen kennen nur ihre Andeutung und den am Tisch erzählten Zhaitan-Feldzug.

@@ -72,19 +72,25 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg – Ende der Sitzung 14. Oktober 2026
+## 8. Aktueller Wiedereinstieg – Ende der Sitzung 15./16. Oktober 2026
 
-Die Gruppe ist noch vor Tagesanbruch nach **Eibenbrück** zurückgekehrt. Verletzte werden im Krummen Nagel versorgt, Gefangene vom Vogt bewacht. Bram liegt gesichert im leeren Stall. Brienne hat Toman beim Abschied begleitet; er möchte seinen Vater erneut bestatten und sicher sein, dass er im Grab bleibt.
+**Eibenbrück, am Morgen nach der ersten gemeinsamen Nacht**, im Krummen Nagel. Die Gruppe ist noch nicht aufgebrochen. Bram wurde von Triss ohne Skarras Entzug stillgelegt und blieb bis zur letzten morgendlichen Prüfung ruhig; seine Wiederbestattung ist im Gang der Vorbereitungen, Brienne ist dorthin gegangen. Die Zeremonie wurde nicht ausgespielt / ausdrücklich abgeschlossen.
 
-**Brams Untersuchung wurde noch nicht gespielt.** Brienne und Triss sind dazu bereit. Skarra hat das Gespräch mit Toman abgelehnt; ihre Teilnahme an der Untersuchung ist offen.
+Skarra billigte den Plan: **Rhen bleibt im Dorf**, Wagen und Papiere werden genutzt, Tor / Abwasserkanal erst selbst erkundet. Magrat soll Rhen durch Verhalten / Menschenkenntnis darstellen, Triss die Illusion beitragen. Ein Rückzugsportal ist eine mögliche Option nach Prüfung eines sicheren Zielortes außerhalb, kein bereits erprobter Fluchtweg.
 
-**Letzter gesprochener Satz (Minthara):**
-> „Danach brauchen wir Schlaf. Die Abtei läuft uns nicht davon. Unsere Fehler werden mit Müdigkeit aber nicht klüger.“
+Zuletzt:
+- Brienne ging zur Bestattung.
+- Magrat suchte Rhen auf, Triss begleitete sie zum Studium von Erscheinung und Stimme.
+- Minthara kümmert sich beim Vogt um Papiere und Wagengeschirr.
+- Skarras letzte persönliche Erledigungen sind offen.
+
+**Letzter Erzählabsatz:**
+> Als die kleine Glocke verstummt war, blieb auf dem Tisch der Plan zurück. Ein Tor, ein Hof, einige hastig gezeichnete Gebäude. Vieles daran würde erst noch überprüft werden müssen.
 
 **Offene Frage an Skarra:**
-> Hilft sie Triss bei Brams Untersuchung, damit sein Körper zur Ruhe gebracht werden kann, oder zieht sie sich für den Rest der Nacht zurück?
+> Gibt es vor dem Aufbruch noch etwas, das sie persönlich erledigen möchte? Andernfalls können die Vorbereitungen abgeschlossen werden und die Reise beginnen.
 
-**Skarra ist am Zug.** Nicht Untersuchung, Schlaf, Bestattung oder Abreise vorwegnehmen. Details in KAMPAGNENSTAND.md.
+**Skarra ist am Zug.** Auf ihre Antwort warten; keinen Aufbruch, Reiseerfolg, Portal- oder Illusionserfolg vorwegnehmen. Details in KAMPAGNENSTAND.md.
 
 ## 9. Aktuelle Erzählvereinbarung
 

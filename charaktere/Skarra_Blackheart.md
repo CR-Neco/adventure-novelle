@@ -33,3 +33,12 @@ Noch in Entwicklung. Keine vorausgesetzte Führungsrolle, Freundschaft oder Roma
 - Misstraut Rhen; holte ausdrücklich die Meinungen aller vier Gefährtinnen ein und stimmte der Prüfung ihrer Angaben / Rückkehr ins Dorf zu.
 - Lehnte Mitnahme Brams und Beteiligung am Abschied ab; betonte, Nekromantie mache Tote nicht lebendig. Hat Brienne die Verantwortung für Toman überlassen. Teilnahme an Brams Untersuchung noch unentschieden.
 - Keine festgelegte Anführerin und keine neuen geheimen Motive. Spannungen, Kooperation und Gesprächsbereitschaft sind beobachtet; Freundschaft oder Romanze nicht festgelegt.
+
+## Fortschreibung – Sitzung 15./16. Oktober 2026
+- War bei Brams Untersuchung dabei. Warnte vor unbekannter Wechselwirkung von Lebenskraftentzug und Triss' Magie; gemeinsamer Entzug wurde deshalb verworfen, Triss arbeitete allein.
+- Erklärte später, dass ihre Warnung fremder Magie galt, und versicherte, die Gruppe müsse sie nicht fürchten. Keine Zusage, sie stehe grundsätzlich vor Kontrollverlust.
+- Deutete einen schmerzlichen Preis ihrer Kräfte in der Kindheit an; Originalbiografie und Herkunft von „Schwarzherz“ wurden **nicht** offengelegt.
+- Erzählte auf ausdrücklichen Spielerauftrag von Zhaitan und dem Paktfeldzug. Keine konkrete Ordenszugehörigkeit, Kommandeursstellung oder weiteren persönlichen Kriegsereignisse automatisch festgelegt.
+- Bot Fleischwurmwache und gemeinsamen Humpen an; ging später schlafen.
+- Befragte Rhen am Morgen. Versprach, nach Nella, Oren und Fenn zu sehen und sie nach Möglichkeit zu befreien. Hält Rhen für eine Belastung bei der Infiltration; sie bleibt im Dorf.
+- Schlug Illusion / Portal zur Gruppendiskussion vor. Billigte Erkundung, Täuschungsvorbereitung und Rückzugsoption. Noch keine Handlung auf die letzte Frage nach persönlichen Erledigungen vor dem Aufbruch.

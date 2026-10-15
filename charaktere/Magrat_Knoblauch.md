@@ -15,3 +15,11 @@ Heilkunde, Kräuterwissen, Schutzmagie, Menschenkenntnis; manchmal unsicher, abe
 - Beurteilt Rhens Heilkunde als kompetent, trennt diese Beobachtung ausdrücklich von Vertrauenswürdigkeit.
 - In der Gruppenberatung: Rhens Sorge um Kranke kann zugleich echtes Motiv und Selbstrechtfertigung sein. Befragte Marta behutsam; Harl erkannt, Rhen weder belastet noch entlastet.
 - Überwacht Rhen bei Berolds Versorgung im Gasthaus. Kein pauschales Vertrauen, keine bloße komische Nebenfigur.
+
+## Fortschreibung – Sitzung 15./16. Oktober 2026
+- Half bei Brams magischer Stilllegung mit Licht, Wasser, Beobachtung; Nacht- und Morgenkontrolle ohne neue Bewegung.
+- Fragte praktisch nach Risiken der Fleischwurmwache. Hält Rhen unter heilkundiger Aufsicht, ohne ihre Schuld zu vergessen.
+- Erkannte in Mintharas scharfer Nachfrage an Triss Sorge und benannte sie trocken. Unterstützte Briennes Ehrlichkeit gegenüber Toman.
+- Betont Überprüfung der Transportangaben unterwegs an bekannten Stationen.
+- Bot an, Rhen darzustellen. Menschenkenntnis und beobachtetes Verhalten sollen zusammen mit Triss' Illusion wirken. Demonstrierte müde Ungeduld / Selbstverständlichkeit, ohne schon am Tor eine Täuschung bestanden zu haben.
+- Zuletzt mit Triss zu Rhen gegangen, um Umgang mit Oswin und Gefürchteten zu studieren. Ergebnis dieses Gesprächs noch offen.
