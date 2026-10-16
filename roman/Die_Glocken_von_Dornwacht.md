@@ -6196,6 +6196,30 @@ Minthara ließ ihn laufen.
 
 Später löste Brienne sie ab. Als Magrat die letzte Wache übernahm, war das Feuer nur noch ein flacher roter Kern unter grauer Asche.
 
+Magrat saß am fast erloschenen Feuer und zog ihren Umhang enger um die Schultern.
+
+Irgendwo zwischen den Buchen knackte ein Ast.
+
+Sie hob den Kopf.
+
+„Ich weiß, dass ihr da seid.“
+
+Eine Weile geschah nichts.
+
+„Und ich finde es ausgesprochen unhöflich, nachts um fremde Schlafplätze herumzuschleichen.“
+
+Aus dem Dunkel kam ein tiefes, kaum hörbares Knurren.
+
+Magrat seufzte.
+
+„Überlegt noch einmal gründlich.“
+
+Etwas bewegte sich zwischen den Bäumen. Dann noch etwas. Zweige knackten, Laub raschelte, und schließlich entfernten sich mehrere leise Schritte hangabwärts.
+
+Magrat rückte einen verkohlten Ast ins Feuer.
+
+„Das dachte ich mir.“
+
 Am Morgen hing Nebel über dem Weg.
 
 Bero und Tamm waren ausgeruht. Die Plane hatte dicht genug gehalten, und die aufgefangene Regenmenge reichte zumindest zum Waschen des Geschirrs. Während Brienne die Pferde vorbereitete, nahm Triss mit Magrat die Verhüllung wieder auf.
