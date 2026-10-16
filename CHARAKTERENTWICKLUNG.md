@@ -90,3 +90,35 @@ Als Kontrast schätzt der Spieler auch Karlachs direkte, herzliche und ungebrems
 - Skarra / Minthara probierten langsam Techniken aus; Minthara hielt an vertrautem Stil fest und nahm gezielte Hinweise zur Beinarbeit an. Kein erzwungener Kompetenzverlust / schneller neuer Meistergrad.
 - Brienne beteiligt sich als erfahrene Beobachterin, kann eigene Einschränkungen anerkennen; Magrat trägt Humor / Aufmerksamkeit bei. Freundschaftliches Ausprobieren ohne romantische Ebene.
 - Neue Kundschafter sichern Hof, aktuelle Nachtmeldung unbekannter Ursache. Nicht aus dramaturgischem Wunsch vorschnell einen bestimmten Angreifer, Verrat oder Ausgang festlegen. Spieler entscheidet als Nächstes für Skarra.
+
+
+## Neue OOC-Leitlinie – Magrats leise Hexerei (17. Oktober 2026)
+
+**Ziel:** Magrat soll neben Heilkunde und Menschenkenntnis als eigenständige **Scheibenwelt-Hexe** spürbar werden. Ihre Besonderheit liegt in Bockologie, genauer Beobachtung, Kenntnis alter Gewohnheiten und einer seltsam selbstverständlichen Autorität gegenüber Menschen, Tieren und womöglich Dingen, die andere gar nicht wahrnehmen. **Keine offene Schau-Magie**: keine Feuerbälle, Zaubergesten, Auren, Effektexplosionen, spontanen Wunderkräfte oder nachträglichen Erklärungen. Sie ist **nicht** Oma Wetterwachs: Ihre Unsicherheit, Wärme, Romantik, gelegentliche Unbeholfenheit und Fehlbarkeit bleiben erhalten. Sie darf überrascht sein und sich irren. Keine unfehlbare Orakel- oder Deus-ex-machina-Figur.
+
+**Erzählprinzip:** Seltene, beiläufige Unwahrscheinlichkeiten, die offenlassen, ob Hexerei, Naturkenntnis, Zufall oder etwas anderes im Spiel war. Die Begleiterinnen müssen nicht alles ausdiskutieren; ein irritierter Blick reicht oft. Magrat selbst behandelt das Sonderbare möglichst alltäglich. Erst kleine Andeutungen, später vielleicht ein größerer Moment. Magrat erhält eine andere Nische als Triss' ausdrücklich gewirkte Magie und Skarras Nekromantie.
+
+### Bereits rückwirkend in der Buchfassung ergänzt – verbindlicher Textstand, kein neu gespielter Zug
+
+In `roman/Die_Glocken_von_Dornwacht.md`, Kapitel **„Die Nacht an der Köhlerstelle“**, während **Magrats letzter Wache** vor dem Morgennebel, wurde am 17. Oktober 2026 ein kurzer, **vom Spieler wörtlich freigegebener literarischer Einschub** ergänzt. Sie hört etwas zwischen den Buchen, tadelt unsichtbare nächtliche Besucher wegen ihres Herumschleichens, vernimmt ein leises Knurren und fordert sie auf, noch einmal gründlich zu überlegen. Mehrere Schritte entfernen sich hangabwärts; Magrat rückt einen Ast ins Feuer und sagt: **„Das dachte ich mir.“**
+
+**Kontinuität:** Dies ist eine bewusste **Buchversion-Ergänzung**, kein rückwirkend ausgespieltes Abenteuerereignis. Keine Wölfe oder sonstigen Wesen verbindlich identifizieren; keine neue Begegnung, Kampfhandlung, Warnung an Skarra oder Kenntnis der schlafenden Gefährtinnen ableiten. Der bisherige Spielverlauf und aktuelle Haltepunkt bleiben unverändert.
+
+### Mögliche spätere Szenen – Angebote, keine Pflicht oder festgelegte Zukunft
+
+- **Wölfe / Wildtiere:** Ein unentdecktes Rudel schleicht ums Lager. Magrat steht auf und schimpft in den Wald, dass man nicht so hinterhältig herumlungere; Zweige knacken, Tiere entfernen sich. **Achtung: Dieses Motiv ist in kleinerer Form bereits an der Köhlerstelle verwendet worden. Nicht gleich noch einmal wiederholen.**
+- **Bär:** Ein großer Bär nähert sich bedrohlich. Magrat stellt sich mit verschränkten Armen oder Händen in den Hüften hin und sagt etwas wie „Überlegt Euch das noch einmal.“ Der Bär wirkt verlegen, kratzt sich und zieht ab. Nicht als garantierte Tierkontrolle etablieren.
+- **Unwahrscheinlicher Regen:** In einer verzweifelten Brandsituation setzt ein plötzlicher starker Regen ein, nachdem Magrat vielleicht nur zum Himmel geschaut hat. Ursache vollständig offenlassen; höchstens sehr selten einsetzen, nicht als abrufbare Wetterzauberei.
+- **Alltägliche Irritationen:** Magrat stellt eine zweite Tasse für niemand Sichtbaren hin; später ist sie leer. Oder sie warnt ohne erklärbare Begründung vor einer Schwelle. Solche Details nur verwenden, wenn sie zur Situation passen; nicht jedes Rätsel bestätigen und gelegentliche Irrtümer zulassen.
+
+### Besondere Möglichkeit für einen **späteren** Höhepunkt: Magrat und TOD
+
+**Nicht als erstes sonderbares Magrat-Ereignis verwenden.** Der Spieler möchte ausdrücklich **ein bis zwei kleine, unerklärliche Momente als Vorbereitung**. Einer davon steht bereits in der Romanfassung an der Köhlerstelle. Erst nach angemessenem erzählerischem Abstand könnte bei einer natürlichen Gelegenheit (Lagerfeuer, Herberge, Wegesrand; gerne **mit der ganzen Gruppe**) Magrat beiläufig mit einer Gestalt sprechen, die die anderen **nicht sehen**.
+
+Die Anspielung gilt **TOD selbst**, dem allgemein verständlichen, archetypischen Schnitter mit **Kapuze und Sense**, mit scheibenweltartigem Augenzwinkern – **nicht Grenth** aus Guild Wars 2, dessen Einordnung Vorwissen voraussetzt. Der Leser erschließt die Identität allmählich aus Magrats Gesprächshälfte. **TOD erhält keinen geschriebenen Dialog, keine Großbuchstabenrede und keine direkte sichtbare Darstellung.** Auch keine eindeutige Erklärung, warum Magrat ihn wahrnehmen kann. Keine Prophezeiung, keine garantierte Rettung, keine Auskunftsmaschine, kein regelmäßiges sechstes Gruppenmitglied.
+
+**Konkreter Gesprächsimpuls (nur Beispiel, nicht als Skript abarbeiten):** Magrat blickt auf einen scheinbar leeren Platz und fragt: „Ihr seid wohl immer in ihrer Nähe, oder? Habt Ihr nicht noch andere Aufgaben?“ Auf irritierte Nachfragen einer oder mehrerer Gefährtinnen verweist sie beiläufig auf „den Herrn dort“ oder „den mit der Sense“. Sie mustert offenbar dessen Umhang und findet ihn etwas **billig**, während **Skarras Kapuze und die Dunkelheit darunter wesentlich mehr Stil** hätten. Der Witz ist **nicht** eine Lobhudelei Skarras, sondern Magrats vollkommene Selbstverständlichkeit, mit dem EINEN über Kleidung zu sprechen. Ihre Bemerkungen dürfen auf stumme Antworten reagieren, aber **nur ihre Hälfte des Dialogs ist lesbar**. Die unterschiedlichen Reaktionen von Minthara, Triss, Brienne und ggf. Skarra bieten Raum; **Skarra bleibt vollständig spielergesteuert**, keine Schockreaktion oder Frage für sie festlegen.
+
+**Ton und Timing:** leiser Pratchett-Humor mit einem Hauch Unheimlichkeit; Magrat sortiert danach womöglich einfach ihre Kräuter weiter. Nicht als große Enthüllung inszenieren. Den Zeitpunkt nicht erzwingen und nicht vorwegnehmen. Wenn die Szene im Spiel stattfindet, den Spieler überraschen; erst danach in den Roman übernehmen. Keine zukünftige Begegnung als Kanon oder bereits geschehen dokumentieren.
+
+**Unterschied Spiel/Buch:** Im **Spiel** nur tatsächlich erzählte Ereignisse und freie Spielerreaktionen als verbindlich behandeln. Für die **Buchfassung** sind nach ausdrücklicher Freigabe des Spielers kleine zusätzliche Perspektivmomente möglich, die keine bestehenden Entscheidungen, Folgen oder Kenntnisse verändern. Neue Buch-Einschübe jeweils kennzeichnen und dokumentieren; nicht heimlich als gespielte Geschichte ausgeben.
