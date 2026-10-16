@@ -7474,7 +7474,7 @@ Brienne betrachtete die drei Gefäße auf der Bank.
 
 „Wir haben nur drei. Ihr könnt meinen nehmen.“
 
-„Ach, Unsinn“, sagte Magrat. „Nehmt doch einfach den vierten.“
+„Es sind doch genug Becher da“, sagte Magrat.
 
 Minthara sah auf die Bank.
 
