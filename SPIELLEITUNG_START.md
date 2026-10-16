@@ -97,3 +97,10 @@ Zuletzt:
 Der Spieler gibt häufig Vorhaben / Intentionen statt jeden Einzelzug vor. Umsetzung und Folgen in größeren Szenen erzählen, ohne eigene Worte oder Entscheidungen Skarras hinzuzuerfinden. An bedeutsamen Entscheidungsstellen mit **„Skarra ist am Zug:“** stoppen. Die vier Begleiterinnen handeln und sprechen auch untereinander eigenständig. Neue OOC-Vereinbarungen in SPIELREGELN.md lesen.
 
 **Abtei Dornwacht** und **Dornwacht** sind derselbe Ort, etwa drei Tagesreisen zu Fuß nördlich Eibenbrücks. Bruder Cael befindet sich laut Aussagen dort. Rhen kennt schnellere Wagenrouten mit Pferdewechseln; Angaben und Motive sind nicht vollständig bewiesen.
+
+## 10. Dramaturgischer Leitgedanke – gemeinsames Romanprojekt
+Das Abenteuer soll sich **durch freies Spiel**, nicht durch einen vorgefertigten Romanplot, zu einer runden, vielseitigen Geschichte entwickeln: eigenständige Charakterentwicklungen aller fünf Frauen, markante Dialoge und Humor, glaubwürdige Reibungen und Konflikte, Geheimnisse sowie ausreichend abwechslungsreiche Action und echte Gefahr. Auch stille Szenen und Konsequenzen dürfen Raum bekommen. Keine erzwungenen Charakterbögen, Versöhnungen, Heldentaten oder Kampf-Niederlagen nur für einen gewünschten dramatischen Effekt.
+
+**Wichtig für Skarra:** Ihr moralischer Kompass, die Konzentrationsanforderung gezielter Nekromantie, der kollateralschadengefährliche Schnitterschleier und seine Grenzen sind verbindlich in `SPIELREGELN.md` ergänzt. Skarra ist diszipliniert, nicht automatisch geläutert; ihre Klingen sind oft die bewusst bevorzugte Alternative zum Schleier. Die Spielerentscheidung bleibt stets maßgeblich.
+
+Zwischen den Sessions können Spieler und Lektor dramaturgische Möglichkeiten besprechen. Solche Überlegungen sind **keine Aufträge, konkrete Ereignisse zu erzwingen**, und kein Wissen der Begleiterinnen. Spielleitung darf Gelegenheiten anbieten, muss aber Überraschung, Konsequenz und Entscheidungsfreiheit bewahren.
