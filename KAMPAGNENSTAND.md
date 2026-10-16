@@ -1,37 +1,43 @@
 # Kampagnenstand – Die Glocken von Dornwacht
 
-**Dokumentationsstand:** Zwischenstand der laufenden Sitzung vom 16. Oktober 2026; Kontinuitätskorrekturen gespeichert.  
-**Status:** kurze Dokumentationspause auf Spielerwunsch. Skarra hat dem Lager zugestimmt; keine erneute Zustimmung abfragen.  
-**Spielzeit und Ort:** Abend des ersten Reisetages nach dem Aufbruch aus Eibenbrück, an einer ehemaligen Köhlerstelle im Buchenwald auf dem östlichen Umweg hinter Hagens / Ennas Gutshof. Noch nicht an der Abtei.
+**Dokumentationsstand:** Sitzung vom 16. Oktober 2026 pausiert; Roman bis zur Frage nach Kampfabsprachen gespeichert.
+**Status:** pausiert; Skarra ist am Zug.
+**Spielzeit und Ort:** Morgen des zweiten Reisetages, Köhlerstelle am östlichen Waldumweg hinter Hagens / Ennas Gutshof. Nachtlager beendet / Vorbereitung zum Weiterfahren; noch nicht aufgebrochen, noch nicht an der Abtei.
 
 ## Exakter Haltepunkt
 
-Minthara hat die ehemalige Köhlerstelle als Lager vorgeschlagen: fester Boden, niedriger windschützender Erdwall, Platz für Wagen und Pferde, kein Dach. Brienne will die Pferde schonen, Triss die endgültige Verhüllung morgen bei Tageslicht versuchen.
+Die Nacht an der Köhlerstelle ist vergangen. Lennart wurde versorgt und fortgeschickt, ohne Wagen oder Fleischwurm zu sehen. Die Probe von Magrats Rhen-Verhüllung war für wenige Minuten überzeugend, einschließlich Hände und Stimme; Triss hat sie wieder aufgehoben. Brienne bereitet die Pferde vor, Minthara nimmt ihren Schild auf. Noch keine Weiterfahrt.
 
-**Letzter gespielter Satz (Triss):**
-> „Ich möchte die endgültige Verhüllung morgen bei Tageslicht versuchen.“
+**Letzter gespielter Dialog:**
+> „Bevor wir weiterfahren: Lennart sagte, die Toten gingen aus den Höfen. Das kann bedeuten, dass wir unterwegs auf sie treffen, bevor wir die Abtei sehen.“
+>
+> Minthara nahm ihren Schild auf.
+>
+> „Dann sollten wir wissen, wie wir kämpfen, ohne uns gegenseitig in die Quere zu kommen.“
+>
+> Sie sah zu Skarras beiden Klingen.
+>
+> „Wenn es eng wird: Wo möchtet Ihr uns haben?“
 
-Der Spieler hat inzwischen **zugestimmt**, dass Skarra hier lagert, auch wenn ihr wegen der Untotenplage unbehaglich ist. Sie will erneut einen Fleischwurm als Wächter positionieren. Diese Anweisung ist autorisiert und bei der nächsten Fortsetzung auszugestalten; Lageraufbau, Nacht und neue Ereignisse noch nicht weitererzählt. **Nicht nochmals fragen, ob sie lagern möchte.**
-
-Auf ausdrücklichen Wunsch zuerst die Beschwörungskontinuität im Roman korrigiert und die bisher gespielte Reise gespeichert. Nächster Einstieg: Einrichten / Absichern des akzeptierten Lagers einschließlich des neuen Fleischwurms, ohne weitere Entscheidungen oder Gedanken Skarras hinzuzuerfinden. Erst an einer tatsächlich neuen bedeutsamen Entscheidung wieder stoppen.
+**Offener Zug:** Möchte Skarra Absprachen für einen möglichen Kampf treffen, insbesondere zum Abstand bei einem Wechsel in den Schnitterschleier? Sie hat noch nicht geantwortet. Auf ihren Zug warten, keine Formation / Schleierentscheidung für sie erfinden. Danach kann die Reise weitergehen.
 
 ## Positionen und Aufgaben
 
-- **Alle fünf Hauptfiguren:** an / bei der vorgeschlagenen Köhlerstelle, am Abend, nach Fahrt auf östlichem Waldweg. Die Straße würde erst weit nach Dunkelheit erreicht; Lager akzeptiert.
+- **Alle fünf Hauptfiguren:** an der Köhlerstelle am Morgen. Brienne bereitet Pferde vor, Triss' Illusionsprobe beendet, Minthara fragt nach Kampfabsprachen; Skarras Antwort offen.
 - **Wagen:** beladen; aktive Brustprobe weiterhin sicher verpackt, Stäbe / Papiere / Fläschchen dabei. Zugtiere sind jetzt **Bero und Tamm**, ein gekauftes, eingespieltes Paar Brauner. Bero mit Blesse; Tamm knabbert gern an Kleidung.
 - **Alfred (Fleischgolem):** von Skarra am Gutshof ausdrücklich entlassen, Reste teilweise weggeräumt und bereits im Zerfall. Kein Golem begleitet den Wagen weiter.
 - **Drei Knochenkundschafter:** autorisierte Rückblende ergänzt: beim Verlassen der Mühle / wachsenden Abstand während des Rücktransports nach Eibenbrück zerfallen. Keine fortbestehenden Kundschafter dort.
 - **Alter Fleischwurm im Stall bei Bram:** autorisierte Ergänzung beim Aufbruch aus Eibenbrück: Bindung bricht mit Entfernung zusammen, feuchtes Klatschen; Wirt / Marta bemerken die Reste. Keine Fernwache mehr.
-- **Neuer Fleischwurm am Lager:** vom Spieler angeordnet; in nächster Szene auszugestalten. Nicht mit altem Wurm gleichsetzen.
+- **Fleischwurm am Lager:** am Vorabend zwischen zwei Wurzelstöcken zur Wache beschworen, bewachte den Zugang, blieb vor Lennart verborgen. Noch aktiv am Lager, keine Entlassung gespielt. Bei Abreise Entlassung / Reichweitenende beiläufig mitführen; nicht mit altem Stallwurm gleichsetzen.
 - **Bram:** erneut bestattet. Skarra hat das Grab vor Abreise geprüft, keine Lebenskraft / aktive Bewegungskraft gefunden; Brienne war dabei.
 - **Rhen, Harl, zweite Mühlenwache, Edrin, Jann:** bleiben in Eibenbrück in Gewahrsam / für Aussagen. Rhen versorgt dort unter Aufsicht.
 - **Berold / Befreite:** bleiben im Dorf; keine neue Entwicklung seit Abreise gespielt.
 - **Hagen und Enna:** am Gutshof zurückgeblieben, nicht mitgereist. Enna führt Hof, Hagen arbeitet dort.
-- **Suchreiter:** laut Hagen mittags aus Abtei kommend nach Rhen gefragt, anschließend nach Süden; einzelner Reiter auf Schimmel, grauer Mantel, Schwert am Sattel, keine gesehene Begleitung / Stab. Sein jetziger Aufenthaltsort unbekannt.
+- **Lennart:** Reiter auf Schimmel, grauer Mantel, Schwert; entspricht Hagens Suchreiter. Stellt sich als Pferdeversorger der Abtei und von Cael gesandt vor. Seitliche Bauchwunde laut ihm durch Untoten am Steinbruchweg. Von Magrat / Triss versorgt, ritt anschließend im Schritt zum Abzweig Richtung altem Waaghaus am Steinbruch. Ankunft / Abholung / weiterer Zustand nicht beobachtet. Hat Wagen und Wurm nicht gesehen.
 
 ## Aktueller Gruppenplan – beschlossen, noch umzusetzen
 
-1. Aktuell Lager auf dem östlichen Umweg einrichten; danach Richtung Abtei weiter. Dorfvorbereitungen und Bestattung sind erledigt.
+1. Kampfabsprachen am Morgen des zweiten Reisetages klären; dann auf Umweg Richtung Abtei weiter. Lager eingerichtet und Nacht verbracht. Alte Nordstraße nach Lennarts Warnung meiden.
 2. Rhen und die übrigen Gefangenen im Dorf lassen. Skarra versprach, nach den Kranken der Abtei zu sehen und sie **wenn möglich** zu befreien.
 3. Mit vorhandenem Wagen / Papieren nach Norden. Erster Gutshof erreicht und Route dort bestätigt. Wegen Suchreiter nun östlicher, wagenpassierbarer Waldumweg, der nördlich wieder zur Handelsstraße führt; schmalen Reitpfad am Hang meiden. Gesamtentfernung Abtei etwa drei Tagesreisen zu Fuß; Wagenfahrten mit Pferdewechsel schneller.
 4. Vor der Abtei selbst Tor und Kanal erkunden. Endgültige Zugangswahl abhängig vom Befund.
@@ -39,6 +45,22 @@ Auf ausdrücklichen Wunsch zuerst die Beschwörungskontinuität im Roman korrigi
 6. **Rückzugsoption:** Triss möchte vor dem Eindringen einen geschützten äußeren Zielort persönlich prüfen und einprägen. Von innen könnte sie dorthin ein Portal öffnen. Dafür braucht sie einige ungestörte Augenblicke, länger bei Erschöpfung / Störung. Verletzte müssen zu ihr gebracht werden; kein Fernabholen durch die Abtei. Kanal bleibt unabhängige Option.
 7. Ein Portal **hinein** nur nach Rhens Beschreibung hat Triss abgelehnt: Zielort unbekannt, Wände, Hindernisse und Sicherungen ungeprüft.
 
+
+
+## Abschluss der laufenden Sitzung – Nacht und Morgen an der Köhlerstelle
+
+- Lager mit kleinem gedecktem Feuer, Plane, Pferden und Fleischwurmwache eingerichtet. Wasser reicht nach Schätzung nur noch bis Mittag; Regensammlung diente dem Abwasch. Kein sicherer neuer Trinkwasserfund gespielt.
+- Minthara / Brienne prüfen Papiere: zwei Tage zwischen Wechselquittung und Abtei-Empfang. Erklärung (Zwischenhalt / spätere Quittierung) offen. Rhen-Suche war offenbar nicht zwingend wegen Verspätung.
+- Wachenfolge Minthara, Brienne, Magrat; Triss für morgendliche Illusion entlastet.
+- Verletzter Schimmelreiter kommt an Weg unterhalb Lager. Skarra verhindert Blick auf Wagen, gibt Gruppe als normale Reisende aus; Minthara sichert verborgen, andere helfen.
+- **Lennart**, nach eigener Angabe Pferdeversorger in Dornwacht: Cael schickte ihn, Rhen vor alter Nordstraße zu warnen und sie am Steinbruch auf Abholung warten zu lassen. Tote verlassen seit letzter Nacht Höfe; zwei seien von Wachen erschlagen worden. Diese weitergehenden Vorkommnisse sind seine Aussagen, nicht eigene Sichtung.
+- Skarra erklärt, niemanden Passenden gesehen zu haben, dankt für Warnung, kündigt anderen Weg an und verspricht Botschaft bei Begegnung mit Rhen weiterzugeben. Kein Verrat des tatsächlichen Wissens.
+- Magrat verbindet, Triss verlangsamt Blutung magisch; keine vollständige Heilung. Brienne hilft in Sattel; Magrat füllt Schlauch. Lennart will zum alten Waaghaus am Steinbruch (laut ihm verriegelbare Tür / Zisterne), um dort zu warten.
+- Er warnte zusätzlich: Rhen solle nachts selbst mit Stab nicht durchkommen. Ob Überzahl, andere Steuerbarkeit oder anderer Grund, bleibt offen.
+- Lennart verlässt Gruppe im Schritt. Minthara sieht ihn zum Abzweig reiten. Keine Kenntnis von Wagen / Wurm; keine Tötung, Gefangennahme oder Verfolgung durch Gruppe.
+- Nacht ohne Eindringlinge, nur Fuchs unterhalb Wall. Morgen neblig, Pferde ausgeruht.
+- Triss' Verhüllung umfasst jetzt auch Magrats Hände; Stimme und Verhalten überzeugen im kurzen Test. Nach wenigen Minuten bewusst aufgehoben. Keine Täuschung am Abteitor oder lange Haltbarkeit bewiesen.
+- Brienne / Minthara sprechen mögliche Kämpfe an; exakter Haltepunkt siehe oben.
 
 ## Laufende Sitzung – 16. Oktober 2026: Reise und Kontinuitätskorrekturen
 
@@ -102,4 +124,4 @@ Auf ausdrücklichen Wunsch zuerst die Beschwörungskontinuität im Roman korrigi
 
 ## Dokumentation
 
-Roman in Markdown bis zum Lager-Vorschlag ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.
+Roman in Markdown bis zum morgendlichen Gespräch über Kampfabsprachen ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.

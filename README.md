@@ -31,4 +31,4 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt (Zwischenstand 16. Oktober 2026):** Abend des ersten Reisetages, Köhlerstelle am östlichen Waldumweg nach dem Gutshof. Skarra hat dem Lager bereits zugestimmt und eine neue Fleischwurmwache angeordnet. Nächste Szene: Lager einrichten und absichern. Golem Alfred ist entlassen, Bero und Tamm ziehen den Wagen. Siehe KAMPAGNENSTAND.md.
+**Aktueller Haltepunkt (Pause 16. Oktober 2026):** Köhlerstelle, Morgen des zweiten Reisetages. Lennart versorgt und ohne Entdeckung des Wagens fortgeschickt; Verhüllung im kurzen Test gelungen und aufgehoben. Vor Weiterfahrt fragt Minthara Skarra: **„Wenn es eng wird: Wo möchtet Ihr uns haben?“** Skarra ist am Zug. Siehe KAMPAGNENSTAND.md.

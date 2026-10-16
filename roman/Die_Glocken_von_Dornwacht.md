@@ -5871,3 +5871,403 @@ Brienne prüfte den Himmel.
 „Die Tiere brauchen Ruhe. Wir ebenfalls.“
 
 Triss nickte. „Ich möchte die endgültige Verhüllung morgen bei Tageslicht versuchen.“
+
+## Die Nacht an der Köhlerstelle
+
+Die Köhlerstelle lag weit genug über dem Weg, dass der Wagen zwischen den Buchen kaum zu erkennen war. Unter einer dünnen Schicht Laub war die Erde noch immer schwarz. An einer Seite lagen einige halb versunkene Steine im Kreis.
+
+Brienne führte Bero und Tamm auf den festen Boden, während Minthara den Hang unterhalb des Lagers absuchte. Triss prüfte die Plane gegen das schwindende Licht.
+
+„Wenn wir die hintere Ecke an diesem Ast befestigen, bekommen wir wenigstens eine trockene Seite.“
+
+Magrat hielt eine Schnur hoch.
+
+„Und wenn der Ast nachgibt?“
+
+„Dann eine kürzere Nacht.“
+
+Gemeinsam spannten sie die Plane zwischen Wagen und Baum. Darunter fanden die Decken und ein Teil des Gepäcks Platz.
+
+Skarra positionierte den Fleischwurm am Rand der Lichtung. Er wand sich aus dem feuchten Boden, richtete seinen unförmigen Leib auf und blieb zwischen zwei Wurzelstöcken stehen. Von dort lag der Zugang vom Weg in seinem Bereich.
+
+Brienne betrachtete ihn, dann die Pferde auf der anderen Seite des Wagens.
+
+„So ist es gut.“
+
+Bero hob den Kopf. Tamm kaute weiter.
+
+* * *
+
+Minthara kam mit nassen Stiefeln zurück.
+
+„Keine frischen Wagen- oder Pferdespuren hier oben. Unten auf dem Weg einige ältere. Ein kleines Feuer sieht man von der Straße nicht, solange wir es hinter dem Wall halten.“
+
+„Ich mache Suppe“, sagte Magrat.
+
+„Wir hatten Suppe.“
+
+„Dann wisst Ihr schon, wie man sie isst.“
+
+Die Drow zog einen der flachen Steine näher an den Feuerkreis und setzte sich.
+
+Brienne schirrte die Pferde vollständig ab und rieb ihnen mit trockenem Stroh über Rücken und Flanken. Als Triss ihr helfen wollte, drückte sie ihr stattdessen die Wasserschläuche in die Hand.
+
+„Prüft, was wir für morgen übrig haben.“
+
+Triss wog sie nacheinander.
+
+„Genug bis Mittag. Danach müssen wir nachfüllen.“
+
+„Auf Hagens Zettel ist ein Bach“, sagte Magrat.
+
+„Auf Hagens Zettel ist auch ein Strich, den ich für einen Bach gehalten habe. Minthara sagt, es sei der schlechte Reitpfad.“
+
+„Es ist der Reitpfad“, bestätigte Minthara.
+
+„Dann trinken wir dort besser nicht.“
+
+* * *
+
+Das Feuer blieb klein. Es reichte zum Wärmen des Topfes, und mit ein wenig Geduld auch für die Hände.
+
+Während Magrat kochte, breitete Minthara die Lieferpapiere auf einem trockenen Brett aus. Brienne setzte sich neben sie. Eine Weile hörte man nur das leise Rascheln und Magrats Löffel am Topfrand.
+
+„Hier“, sagte Brienne schließlich.
+
+Sie hielt einen Finger über die Empfangsbestätigung.
+
+„Das Datum.“
+
+Minthara zog eine der Quittungen daneben.
+
+„Zwei Tage.“
+
+„Zwischen Pferdewechsel und Empfang. Nicht einer.“
+
+Triss rückte näher ans Feuer.
+
+„Mit Zwischenhalt?“
+
+„Oder die Bestätigung wurde später ausgestellt“, sagte Minthara. „Wir wissen es nicht.“
+
+Sie legte das Blatt zurück.
+
+„Aber Rhen sollte morgen Abend erwartet werden. Der Reiter hat schon heute nach ihr gesucht.“
+
+Magrat hörte auf zu rühren.
+
+„Vielleicht war er gar nicht wegen ihrer Verspätung unterwegs.“
+
+„Genau.“
+
+Für einen Moment blieb das Feuer das einzige bewegte Licht im Lager.
+
+Dann nahm Brienne die Schalen aus dem Gepäck.
+
+„Wir können es heute nicht herausfinden. Essen wir.“
+
+* * *
+
+Nach dem Essen schlug Brienne vor, die Nacht in Wachen zu teilen.
+
+„Der Fleischwurm deckt den Zugang. Die Pferde und den Rest des Hangs sollten trotzdem Augen beobachten.“
+
+Minthara übernahm die erste Wache. Brienne wollte sie später ablösen, Magrat die Stunden vor Sonnenaufgang.
+
+Triss hob den Kopf.
+
+„Und ich?“
+
+„Morgen die Illusion“, sagte Magrat.
+
+„Das ist kein Grund, mich die ganze Nacht schlafen zu lassen.“
+
+„Doch“, erwiderte Minthara. „Ein ausgesprochen brauchbarer.“
+
+Triss sah in die Runde und gab schließlich nach.
+
+* * *
+
+Die anderen hatten gerade begonnen, ihre Schlafplätze unter der Plane herzurichten, als Tamm das Kauen einstellte.
+
+Seine Ohren drehten sich zum Hang.
+
+Minthara stand bereits.
+
+Unten auf dem Weg knirschte Kies. Dann hörten sie Hufe — langsam, mit ungleichen Pausen.
+
+Zwischen den Stämmen erschien ein Schimmel.
+
+Der Reiter saß schief im Sattel. Sein grauer Mantel hing auf einer Seite bis über den Steigbügel; die andere Hand hielt er fest gegen seinen Bauch gepresst.
+
+Das Pferd blieb unterhalb der Lichtung stehen.
+
+Der Mann hob den Kopf. Offenbar hatte er das Feuer zwischen den Bäumen bemerkt.
+
+„Ist da jemand?“
+
+Seine Stimme war rau.
+
+Minthara trat hinter den Wagen, von wo aus sie Weg und Lager zugleich überblicken konnte. Brienne nahm ihr Schwert auf, ließ es aber in der Scheide.
+
+Der Schimmel machte einen weiteren Schritt. Nun sahen sie das dunkle Blut auf dem hellen Sattelkissen.
+
+„Ich brauche …“
+
+Der Mann schwankte. Er fing sich am Sattelknauf und atmete stoßweise.
+
+„Bitte. Mein Pferd geht nicht weiter.“
+
+Triss blickte zu dem Wurzelstock, hinter dem der Fleischwurm wartete.
+
+Noch hatte der Reiter ihn nicht gesehen.
+
+Skarra blieb unterhalb des Feuers, dort, wo zwei dicht stehende Buchen den Blick auf den Lagerplatz verengten. Von der Straße aus waren hinter ihr nur Lichtschein und einzelne Gestalten zu erkennen. Der Wagen lag höher, im Schatten der Plane.
+
+Sie hielt den Reiter mit einer Geste auf Abstand und gab ihm zu verstehen, dass hier Reisende rasteten.
+
+Minthara verstand die Anordnung, ohne nachzufragen. Sie trat aus dem Bereich des Feuers und blieb hinter einem Stamm stehen. Brienne nahm eine Laterne, verhüllte deren offene Seite mit der Hand und kam den Hang hinunter.
+
+Magrat folgte ihr mit ihrer Tasche.
+
+„Bleibt im Sattel, bis wir bei Euch sind“, sagte die Hexe. „Wenn Ihr jetzt herunterfallt, macht Ihr uns beiden Arbeit.“
+
+Der Mann ließ den Kopf sinken.
+
+Sein Pferd stand deutlich unterhalb der Wurzelstöcke. Der Fleischwurm blieb verborgen; weder Reiter noch Tier kamen ihm nahe.
+
+* * *
+
+Brienne nahm die Zügel. Magrat ließ sich die verletzte Seite zeigen.
+
+Unter dem grauen Mantel klebte ein zerrissenes Hemd am Bauch. Die Wunde lag seitlich, knapp über dem Gürtel. Blut sickerte zwischen den Fingern hindurch, mit denen der Mann darauf drückte.
+
+„Wie ist das geschehen?“
+
+„Ein Toter.“
+
+Magrat sah kurz auf.
+
+„Wann?“
+
+„Vor … nicht lange. Am Steinbruchweg.“
+
+Er versuchte, sich umzudrehen. Brienne hielt das Pferd ruhig.
+
+„Ist Euch etwas gefolgt?“
+
+„Ich weiß es nicht.“
+
+Oben am Wagen bewegte sich Minthara bereits zum hinteren Rand des Lagers.
+
+Magrat tastete vorsichtig neben der Wunde. Der Mann keuchte und schlug unwillkürlich nach ihrer Hand. Sie zog sie zurück.
+
+„Ich weiß, dass es wehtut. Wenn Ihr mich lasst, wird es wenigstens nicht schlimmer.“
+
+Brienne half ihm aus dem Sattel. Seine Beine trugen ihn kaum. Sie setzte ihn auf einen niedrigen Stein neben dem Weg, mit dem Rücken gegen eine Buche. Von dort aus blieb ihm die Sicht ins Lager versperrt.
+
+„Wie heißt Ihr?“, fragte sie.
+
+„Lennart.“
+
+„Ich bin Brienne. Das ist Magrat.“
+
+Er nickte flüchtig. Sein Blick ging zu Skarra, dann zur Laterne.
+
+„Ihr habt Feuer. Könnt Ihr mich nicht—“
+
+„Hier haben wir Platz und Licht“, sagte Magrat. Sie zog ein sauberes Tuch aus ihrer Tasche. „Das reicht zunächst.“
+
+* * *
+
+Triss kam mit einem Becher Wasser herunter. Sie blieb so stehen, dass auch ihre Gestalt den schmalen Durchblick zwischen den Buchen verdeckte.
+
+Lennart trank hastig. Magrat nahm ihm den Becher ab, ehe er ihn ganz leeren konnte.
+
+„Langsam.“
+
+„Ich muss nach Norden.“
+
+„Jetzt müsst Ihr stillhalten.“
+
+Unter seinem Mantel lag ein kurzer Schwertgurt. Brienne löste ihn, bevor Magrat den Verband um seinen Leib führte, und legte die Waffe neben sich ins Laub. Lennart widersprach nicht.
+
+„Wer wartet im Norden auf Euch?“, fragte Triss.
+
+„Dornwacht. Ich versorge dort die Pferde.“
+
+Er schloss die Augen, öffnete sie gleich wieder.
+
+„Ich sollte eine Frau suchen. Mit einem Wagen. Rhen.“
+
+Magrat zog den Verband fest.
+
+„Warum?“
+
+„Cael hat mich geschickt.“
+
+Triss kniete sich neben die Tasche, als suche sie etwas darin.
+
+„Weil sie überfällig ist?“
+
+„Nein. Sie soll nicht die alte Nordstraße zurücknehmen.“
+
+Sein Atem stockte, als Magrat den Knoten setzte.
+
+„Die Toten gehen aus den Höfen. Seit letzter Nacht. Die Wachen haben zwei auf dem Weg erschlagen. Cael wollte, dass sie am Steinbruch wartet, bis jemand sie abholt.“
+
+Brienne blickte den dunklen Weg hinunter.
+
+„Und dort wart Ihr allein?“
+
+Er nickte.
+
+„Ich dachte, ich käme noch vor Dunkelheit durch.“
+
+Oben knackte leise ein Zweig. Minthara war zurück. Sie blieb außer Sicht und hob zwei Finger zu Brienne: bislang nichts entdeckt.
+
+Lennart sah wieder zu Skarra.
+
+„Ihr seid von Süden gekommen? Habt Ihr Rhens Wagen gesehen? Grau bespannt. Zwei Pferde.“
+
+Der Verband war angelegt. Er saß weiterhin unterhalb des Lagers; den Wagen und den Fleischwurm hatte er nicht gesehen.
+
+Skarra versicherte Lennart, dass sie niemandem begegnet seien, auf den seine Beschreibung passe. Für die Warnung dankte sie ihm; die alte Nordstraße würden sie meiden. Falls sie Rhen trafen, würden sie ihr Caels Botschaft überbringen.
+
+Lennart nickte erschöpft.
+
+„Sagt ihr, sie soll nicht versuchen, nachts durchzukommen. Auch nicht mit ihrem Stab.“
+
+Triss und Magrat wechselten einen Blick, fragten aber zunächst nicht weiter.
+
+„Könnt Ihr reiten?“, fragte Skarra.
+
+Er sah zu seinem Schimmel.
+
+„Wenn Ihr mir hinaufhelft.“
+
+Magrat hielt ihn am Ärmel zurück, als er aufstehen wollte.
+
+„Erst sehen wir, ob Ihr sitzen könnt, ohne wieder alles aufzureißen.“
+
+* * *
+
+Triss ließ sich den Rand der Wunde zeigen. Sie arbeitete mit wesentlich weniger Licht als im Stall: ein schwacher roter Schein unter ihrer Hand, kaum heller als die Laterne.
+
+Lennart zog scharf die Luft ein.
+
+„Nicht bewegen.“
+
+Die Blutung ließ nach. Triss nahm die Hand fort und wartete, während Magrat den Verband prüfte.
+
+„Mehr mache ich unterwegs nicht“, sagte sie. „Die Wunde muss gereinigt und versorgt werden. Das hier hält sie vorläufig geschlossen.“
+
+Magrat half ihm, einige Schlucke Wasser zu trinken. Dann ließ sie ihn aufstehen und kurz stehen bleiben, ehe Brienne ihn zum Pferd führte.
+
+Der Schimmel war unverletzt. Brienne kontrollierte den Gurt und richtete den verrutschten Sattel.
+
+„Am Steinbruch gibt es ein altes Waaghaus“, sagte Lennart. „Eine Tür, die man von innen verriegeln kann. Dort kann ich warten.“
+
+„Mit Wasser?“, fragte Magrat.
+
+„Eine Zisterne.“
+
+Sie füllte seinen fast leeren Schlauch trotzdem auf.
+
+Als er wieder im Sattel saß, hing er nicht mehr so stark zur Seite. Brienne ließ die Zügel erst los, nachdem er sein Gleichgewicht gefunden hatte.
+
+„Schritt“, sagte sie. „Kein Galopp.“
+
+„Ich möchte heute ohnehin nicht mehr schnell reiten.“
+
+Er sah die Frauen nacheinander an.
+
+„Danke.“
+
+Dann wendete er den Schimmel.
+
+Sie warteten, bis das Knirschen der Hufe sich entfernte. Minthara folgte ihm ein Stück durch die Bäume und kehrte erst zurück, als er die nächste Biegung passiert hatte.
+
+„Er reitet zum Abzweig. Ohne anzuhalten.“
+
+* * *
+
+Oben im Lager war das Feuer fast heruntergebrannt.
+
+Magrat setzte sich auf den Stein neben dem Topf und wusch ihre Hände mit dem letzten Rest warmen Wassers. Triss blieb neben ihr stehen.
+
+„Wie weit reicht Eure Arbeit an der Wunde?“
+
+„Wenn er vorsichtig ist, weit genug. Wenn er wieder kämpfen muss …“
+
+Sie ließ den Satz offen.
+
+Magrat nickte und trocknete sich die Finger.
+
+Minthara zog den Plan unter einer Decke hervor.
+
+„Die wichtigere Auskunft war sein letzter Zusatz. Rhen soll sich selbst mit Stab nicht auf die Straße wagen.“
+
+Brienne setzte sich zu ihr.
+
+„Vielleicht sind es zu viele Tote.“
+
+„Oder die Stäbe greifen nicht bei allen“, sagte Triss. „Wir wissen bereits, dass sie unterschiedlich gut wirken.“
+
+Sie legte einen kleinen Stein auf die eingezeichnete Abtei.
+
+„Und Cael weiß offenbar, dass sich etwas verändert hat. Wir sollten nicht davon ausgehen, dass sein Hof noch genauso aussieht wie auf Rhens Beschreibung.“
+
+„Dann sehen wir ihn uns an“, erwiderte Minthara. „Von außen.“
+
+* * *
+
+Die Nacht blieb unruhig, ohne dass etwas ins Lager kam.
+
+Einmal richtete der Fleischwurm sich zwischen den Wurzeln höher auf. Unterhalb des Walls raschelte es; dann sprang ein Fuchs durch das Laub und verschwand mit beleidigtem Bellen zwischen den Bäumen.
+
+Minthara ließ ihn laufen.
+
+Später löste Brienne sie ab. Als Magrat die letzte Wache übernahm, war das Feuer nur noch ein flacher roter Kern unter grauer Asche.
+
+Am Morgen hing Nebel über dem Weg.
+
+Bero und Tamm waren ausgeruht. Die Plane hatte dicht genug gehalten, und die aufgefangene Regenmenge reichte zumindest zum Waschen des Geschirrs. Während Brienne die Pferde vorbereitete, nahm Triss mit Magrat die Verhüllung wieder auf.
+
+Diesmal veränderten sich auch die Hände.
+
+Minthara ging langsam um die vermeintliche Rhen herum.
+
+„Sprecht.“
+
+„Wenn Ihr mit dem Mustern fertig seid, könntet Ihr etwas Nützliches tun.“
+
+Die Stimme war rauer geworden. Rhens müde Bestimmtheit saß darin erstaunlich gut.
+
+Minthara blieb vor ihr stehen.
+
+„Und wer bin ich?“
+
+Magrat zögerte nicht.
+
+„Jemand, der mir den Weg versperrt.“
+
+Triss lächelte, hielt die Finger aber weiter angespannt.
+
+„Ein paar Minuten. Länger möchte ich den fertigen Zauber jetzt nicht halten.“
+
+Sie löste ihn wieder. Magrats eigenes Gesicht kehrte zurück.
+
+* * *
+
+Beim Verstauen des Plans blieb Brienne neben Skarra stehen.
+
+„Bevor wir weiterfahren: Lennart sagte, die Toten gingen aus den Höfen. Das kann bedeuten, dass wir unterwegs auf sie treffen, bevor wir die Abtei sehen.“
+
+Minthara nahm ihren Schild auf.
+
+„Dann sollten wir wissen, wie wir kämpfen, ohne uns gegenseitig in die Quere zu kommen.“
+
+Sie sah zu Skarras beiden Klingen.
+
+„Wenn es eng wird: Wo möchtet Ihr uns haben?“

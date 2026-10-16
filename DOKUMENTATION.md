@@ -1,6 +1,6 @@
 # Dokumentation und laufende Buchpflege
 
-## Aktueller Synchronisierungsstand – Zwischenstand 16. Oktober 2026
+## Aktueller Synchronisierungsstand – Pause 16. Oktober 2026
 
 **Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt weiterhin für die ausdrücklich gewünschte Markdown-Fortschreibung.
 
@@ -55,3 +55,10 @@ Die GitHub-Anbindung kann Textdateien unmittelbar pflegen; für **binäre DOCX-D
 - Allgemeine Reichweiten-/Entlassungsvereinbarung in SPIELREGELN.md ergänzt; aktueller Beschwörungsstatus in KAMPAGNENSTAND.md, Welt und Übergabe berichtigt.
 - Fleischgolem Alfred ist am Gutshof entlassen, Bero / Tamm übernommen. Neuer Fleischwurm am Lager vom Spieler angeordnet, bei nächster Fortsetzung auszugestalten.
 - Word bleibt wie vereinbart unverändert; spätere Synchronisierung umfasst auch diese Reise und die autorisierten Eingriffe in ältere Passagen.
+
+
+## Sitzungsabschluss – Köhlerlager, 16. Oktober 2026
+
+An den bereits gesicherten Lager-Vorschlag schließt **„Die Nacht an der Köhlerstelle“** an. Vollständig übernommen: Lageraufbau, Papierprüfung, Lennarts Versorgung / Täuschung / Abreise, Nacht, kurze morgendliche Illusionsprobe und offene Frage nach Kampfabsprachen. Ende exakt bei Mintharas „Wenn es eng wird: Wo möchtet Ihr uns haben?“. Keine Antwort Skarras erfunden.
+
+OOC-Regie und Spielzug-Aufforderungen ausgelassen, autorisierte Handlungen / Erzählungen als gespielte Prosa bewahrt. Markdown ist aktuell, Word bleibt unverändert. Kampagnenstand / Übergabe / README und Welt auf denselben Haltepunkt gesetzt.

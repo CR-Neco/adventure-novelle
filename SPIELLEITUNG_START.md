@@ -72,18 +72,20 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg – Zwischenstand 16. Oktober 2026
+## 8. Aktueller Wiedereinstieg – Pause der Sitzung 16. Oktober 2026
 
-**Abend des ersten Reisetages**, ehemalige Köhlerstelle am östlichen Waldumweg nach Hagens / Ennas Gutshof. Die Gruppe hat Eibenbrück verlassen und die Abtei noch nicht erreicht.
+**Morgen des zweiten Reisetages**, Köhlerstelle am östlichen Waldumweg hinter Hagens / Ennas Gutshof. Lager und Nacht sind gespielt. Gruppe noch nicht weitergefahren.
 
-Letzter gespielter Satz (Triss):
-> „Ich möchte die endgültige Verhüllung morgen bei Tageslicht versuchen.“
+Verletzter Reiter **Lennart** wurde unterhalb des Lagers versorgt und zum Steinbruch weitergeschickt. Er hat weder Wagen noch Fleischwurm gesehen; Skarra hielt die Tarnung als gewöhnliche Reisende aufrecht. Laut ihm warnte Cael Rhen vor unkontrollierten Toten auf alter Nordstraße, auch mit Stab solle sie nachts nicht durch. Aussagen nicht als selbst beobachtete Tatsachen ausgeben.
 
-**Bereits autorisiert:** Skarra stimmt dem Lager zu, bleibt wegen der Untotenplage unbehaglich und positioniert erneut einen Fleischwurm als Wächter. Nicht nochmals nach Lagerzustimmung fragen. Nach Dokumentationspause Lageraufbau / Absicherung auf Basis dieser Anweisung erzählen; Nacht oder neue Begegnungen noch nicht vorweggenommen.
+Morgendliche Rhen-Verhüllung Magrats mit Triss gelang im kurzen Test auch an Händen / Stimme, dann wieder aufgehoben. Pferde Bero / Tamm vorbereitet; neuer Fleischwurm am Lager noch nicht entlassen, bei Abreise Ende der Bindung beachten.
 
-Der Wagen wird jetzt von **Bero und Tamm** gezogen. Fleischgolem **Alfred** wurde am Gutshof entlassen. Alte Knochenkundschafter sind beim Rücktransport von der Mühle zerfallen; der alte Stallwurm beim Aufbruch aus Eibenbrück. Keine zurückgelassenen Dauerbeschwörungen. Neue Vereinbarung in SPIELREGELN.md beachten.
+**Letzter Satz (Minthara, an Skarra):**
+> „Wenn es eng wird: Wo möchtet Ihr uns haben?“
 
-Details und Route in KAMPAGNENSTAND.md. Rhen und Gefangene im Dorf, Suchreiter unterwegs unbekannten Aufenthalts. Die geplante Wagenillusion und Portalflucht sind weiterhin Optionen nach eigener Erkundung.
+**Offener Zug:** Skarras mögliche Kampfabsprachen, insbesondere Abstand beim Wechsel in Schnitterschleier. Noch keine Antwort. Erst auf den Spieler warten; keine Formation / Verwandlung / neue Handlung Skarras vorgeben.
+
+Alle fünf leben, Welt pulverfrei, Rhen / Gefangene im Dorf. Reise zur Abtei, endgültige Zugangswahl und mögliche Portalflucht stehen weiterhin bevor. Details in KAMPAGNENSTAND.md.
 
 ## 9. Aktuelle Erzählvereinbarung
 

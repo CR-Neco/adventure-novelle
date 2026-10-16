@@ -129,3 +129,15 @@ Auf Spielerwunsch im Roman beiläufig geschlossen: drei Knochenkundschafter beim
 
 ### Weltvereinbarung – 16. Oktober 2026
 Valdorn bleibt frei von Pulver-Schusswaffen und Schwarzpulvergeschützen. Fernkampf erfolgt etwa mit Bögen, Armbrüsten oder Magie. Rulfs Waffe an der Brückensperre ist rückwirkend eine Armbrust.
+
+## Köhlerlager – Fortschreibung bis zur Pause am 16. Oktober 2026
+
+- Lager an ehemaliger Köhlerstelle eingerichtet, kleiner gedeckter Feuerplatz und Plane. Fleischwurm zwischen Wurzelstöcken als Wache; aktuell noch nicht entlassen.
+- Lieferpapiere: zwei Tage zwischen Pferdewechselquittung und Abtei-Empfang. Grund nicht geklärt.
+- Verletzter Schimmelreiter **Lennart** am Weg: gibt an, in der Abtei Pferde zu versorgen und von Cael zur Suche nach Rhen gesandt zu sein. Seine Wunde laut ihm durch Untoten am Steinbruchweg.
+- **Seine Aussagen:** Tote verlassen seit vorheriger Nacht Höfe, zwei von Wachen erschlagen. Cael will, dass Rhen alte Nordstraße meidet / am Steinbruch auf Abholung wartet. Auch mit Kontrollstab solle sie nachts nicht durch. Keine eigenständige Bestätigung und keine neue allgemeine Magiemechanik daraus ableiten.
+- Skarra wahrt Tarnung als gewöhnliche Reisende; Wagen und Fleischwurm bleiben Lennart verborgen. Sie leugnet Begegnung mit passender Rhen und verspricht Weitergabe der Warnung, falls sie sie treffe.
+- Magrat / Triss versorgen ihn, Blutung magisch gebremst, nicht vollständig geheilt. Lennart reitet im Schritt zum Steinbruchabzweig. **Waaghaus** dort hat laut ihm verriegelbare Tür und Zisterne; er will auf Hilfe warten. Ankunft nicht beobachtet.
+- Nacht ohne Angriff, Fuchs unterhalb Wall. Wachen Minthara, Brienne, Magrat.
+- Morgen des zweiten Reisetages: kurze Verhüllung Magrats als Rhen einschließlich Hände / Stimme; von Triss nach wenigen Minuten aufgehoben. Keine Torprobe, keine zugesagte unbegrenzte Dauer.
+- Aktuell vor Weiterfahrt. Mintharas Frage an Skarra nach Positionen / Zusammenarbeit im Kampf ist unbeantwortet. Bero und Tamm ausgeruht; Trinkwasser voraussichtlich bis Mittag, neue Quelle noch nicht gefunden.
