@@ -1,9 +1,5 @@
 # Die Glocken von Dornwacht
 
-*Ein gemeinsames Fantasy-Abenteuer – Prolog und Kapitel 1*
-
-> **Quellenhinweis:** Die ursprüngliche Fassung wurde wortgetreu aus dem Word-Manuskript abgeleitet. Die gespielte Sitzung vom 14. Oktober 2026 wurde anschließend vollständig als Markdown-Fortsetzung ergänzt; der Word-Export wird auf Wunsch später synchronisiert. Spielerpassagen sind ausdrücklich markiert und für den Word-Export marineblau vorgesehen. OOC-Kommentare und Spielzug-Aufforderungen sind nicht enthalten.
-
 ---
 
 
@@ -3098,7 +3094,7 @@ Triss öffnete nach dem vereinbarten Klopfen. Ihr Blick glitt über die Gefangen
 
 * * *
 
-Im Erdgeschoss roch es bald nach Lampenöl, feuchtem Leder und Blut. Brienne half, Berold auf einem alten Tisch zu lagern. Magrat kam kurz von oben herunter, prüfte Rhens Verband und legte zwei Finger an seinen Hals.
+Im Erdgeschoss roch es bald nach Lampenöl, feuchtem Leder und Blut. Brienne half, Berold auf einem alten Tisch zu lagern. Magrat kam kurz von oben herunter, prüfte Berolds Verband und legte zwei Finger an seinen Hals.
 
 „Ihr habt ihn verbunden?“
 
@@ -3153,12 +3149,6 @@ Rhen trat vom Waschtrog zurück.
 
 
 ## Was die Toten bewegt
-
-<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
-
-> **SKARRA / SPIELER:** Skarra möchte durch weitere Fragen zunächst herausfinden, wie man die Kontrolle der Stäbe über die Untoten brechen kann. „Sonst haben wir bald eine Scheune voller gefesselter Untoter.“ Sie erwägt zudem, ihnen alternativ sämtliche Lebenskraft „versuchsweise“ zu entziehen. Neutralisiert sie das? Oder ist eine stärkere Kraft dahinter? Durch Gewalteinwirkung kann man sie offensichtlich unschädlich machen. Dies ist ihr nächster Fokus, bevor sie sich mit dem Schicksal der Gefangenen oder der Untersuchung der Abtei befasst. Sie würde auch gern den Rat von Triss als Magierin hören.
-
-<!-- ENDE SPIELERBEITRAG -->
 
 „Sonst haben wir bald eine Scheune voller gefesselter Untoter.“
 
@@ -4072,12 +4062,6 @@ Minthara leerte ihren Becher.
 
 ## Brams Ruhe
 
-<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
-
-> **SKARRA / SPIELER:** Skarra wird bei der Untersuchung dabei sein. Die Neugier ist viel zu groß.
-
-<!-- ENDE SPIELERBEITRAG -->
-
 Im Stall hing eine einzelne Laterne an einem Balken. Brienne hatte frisches Stroh um Brams Lager verteilt und einen Eimer Wasser bereitgestellt. Die Fesseln hielt sie so kurz, dass seine Hände niemanden erreichen konnten.
 
 Als Skarra eintrat, rückte Triss wortlos zur Seite und machte ihr Platz.
@@ -4852,12 +4836,6 @@ Draußen wartete der Fleischgolem. Im Stall blieb Bram reglos unter der Bewachun
 
 Für diese Nacht verlangte niemand mehr eine Erklärung.
 
-<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
-
-> **SKARRA / SPIELER:** Skarra trinkt den letzten Schluck und begibt sich zu Bett.
-
-<!-- ENDE SPIELERBEITRAG -->
-
 Als Skarra die Treppe hinaufging, brannte auf dem Absatz noch eine Kerze.
 
 Die Tür zum größeren Zimmer stand einen Spalt offen. Drinnen kniete Brienne vor einem Bett und löste den letzten Riemen ihrer Beinschiene. Triss lag bereits unter der Decke, einen Arm über den Augen.
@@ -5119,12 +5097,6 @@ Brienne stand auf.
 „Dazu komme ich wieder. Wartet mit dem Aufbruch auf mich.“
 
 „Wir warten“, sagte Triss.
-
-<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
-
-> **SKARRA / SPIELER:** Skarra stimmt zu.
-
-<!-- ENDE SPIELERBEITRAG -->
 
 Triss hielt Brienne noch mit einer Geste zurück.
 
@@ -5511,12 +5483,6 @@ Die Passage war frei. Die Frau zog sich zum Wagen zurück, während einer der M�
 Minthara wandte sich Skarra zu.
 
 „Wir können weiter.“
-
-<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
-
-> **SKARRA / SPIELER:** Skarra möchte eine Eskalation vermeiden und weiterfahren, bleibt aber sehr wachsam.
-
-<!-- ENDE SPIELERBEITRAG -->
 
 Minthara trat erst von der Mauer zurück, als der Wagen sich wieder in Bewegung setzte.
 
@@ -7340,7 +7306,7 @@ Minthara hielt den Arm still.
 
 Erst als das grüne Zeichen verschwunden war, löste sie den frischen Verband. Sie wickelte ihn langsam ab und prüfte die Stelle im letzten Tageslicht.
 
-Wo eben noch Blut aus dem Schnitt getreten war, lag geschlossene Haut.
+Der Schnitt war noch deutlich zu erkennen, seine Ränder gerötet. Doch die Haut hatte sich geschlossen, und kein Blut trat mehr aus.
 
 Sie drehte das Handgelenk, beugte die Finger und strich mit dem Daumen über die schmale neue Linie.
 
@@ -7350,7 +7316,7 @@ Ihr Blick folgte der Ratte bis zum Holzstapel.
 
 Dann sah sie wieder zu Skarra.
 
-„Ihr habt die Verletzung auf sie übertragen.“
+„Ihr habt die Blutung auf sie übertragen.“
 
 Es klang mehr nach einer Feststellung als nach einer Frage. Minthara bewegte den Arm noch einmal, diesmal ohne die Schonung, an die sie sich im Laufe des Nachmittags gewöhnt hatte.
 
@@ -7370,13 +7336,13 @@ Sie legte den Stoff neben sich und rückte etwas zur Seite. Die Bank war schmal;
 
 Dabei blieb ihr Blick ruhig auf Skarra gerichtet. Von dem Misstrauen, mit dem sie in der Taverne die unvermittelt erschienene Nekromantin gemustert hatte, war in diesem Augenblick wenig übrig.
 
-Minthara lehnte den geheilten Unterarm auf ihr Knie.
+Minthara lehnte den verletzten Unterarm auf ihr Knie.
 
 „Ist das etwas, das Ihr oft für andere tut?“
 
 <!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
 
-> **SKARRA / SPIELER:** „Nein … es ist kompliziert. Das Transferieren von Zuständen funktioniert nicht bei jedem. Es bedarf einer Form von Vertrautheit; einer Bindung.“ Skarra starrte an die Decke. „Ich habe Waffengefährten in der Schlacht vor meinen Augen verbluten sehen und konnte ihnen nicht helfen, obwohl Feinde uns bedrängten. Bei Euch wollte ich sehen, ob es funktioniert.“ Skarra seufzte. „Verzeiht, dass ich Euch nicht gefragt habe. Ich habe früh gelernt, mir zu nehmen, was ich brauchte, statt um Erlaubnis zu bitten. Manche Gewohnheiten lassen sich schwerer ablegen als andere.“
+> **SKARRA / SPIELER:** „Nein … es ist kompliziert. Das Transferieren von Zuständen funktioniert nicht bei jedem. Es bedarf einer Form von Vertrautheit; einer Bindung.“ Skarra blickte in den dunkler werdenden Abendhimmel. „Ich habe Waffengefährten in der Schlacht vor meinen Augen verbluten sehen und konnte ihnen nicht helfen, obwohl Feinde uns bedrängten. Bei Euch wollte ich sehen, ob es funktioniert.“ Skarra seufzte. „Verzeiht, dass ich Euch nicht gefragt habe. Ich habe früh gelernt, mir zu nehmen, was ich brauchte, statt um Erlaubnis zu bitten. Manche Gewohnheiten lassen sich schwerer ablegen als andere.“
 
 <!-- ENDE SPIELERBEITRAG -->
 
@@ -7400,7 +7366,7 @@ Ihr Ton war bestimmt, aber die Schärfe fehlte.
 
 Eine Weile saßen sie schweigend.
 
-Dann hob Minthara den geheilten Arm ein wenig.
+Dann hob Minthara den Arm ein wenig.
 
 „Was Eure Bindung angeht: Ich werde nicht so tun, als könnte ich an diesem Schnitt ablesen, was sie bedeutet. Aber Ihr habt mir etwas anvertraut, das sich gegen Euch verwenden ließe.“
 
@@ -7436,7 +7402,7 @@ Minthara blickte zum Wagen.
 
 Sie stand ebenfalls auf und ging zur Ladung. Unter einer zusammengerollten Decke fand sie ein kleines Fässchen, verkeilt zwischen Proviant und einem leeren Korb.
 
-Mit einem Arm wollte sie es zunächst nicht heben. Dann hielt sie inne, sah auf die geheilte Stelle und nahm es mit beiden Händen.
+Mit einem Arm wollte sie es zunächst nicht heben. Dann hielt sie inne, betrachtete den noch geröteten Schnitt und nahm es mit beiden Händen. Ein leichtes Ziehen erinnerte sie daran, dass die Wunde zwar geschlossen, aber noch nicht verheilt war.
 
 „Daran könnte ich mich gewöhnen.“
 
@@ -7698,7 +7664,7 @@ Magrat nahm einen Schluck und stellte ihren Becher ab.
 
 „Die sind erstaunlich ausdauernd.“
 
-Die Drow ließ den Schild sinken. Ihre Stirn glänzte im Laternenlicht, doch der geheilte Arm machte ihr keine sichtbaren Schwierigkeiten.
+Die Drow ließ den Schild sinken. Ihre Stirn glänzte im Laternenlicht, doch der verletzte Arm schien sie kaum noch zu behindern.
 
 „Für heute genügt es.“
 
@@ -7708,7 +7674,7 @@ Sie sah zu Skarra.
 
 * * *
 
-Brienne nahm ihr Schwert vom Rand der Bank auf.
+Brienne betrachtete ihr Schwert.
 
 „Den Schritt kann ich ebenfalls gebrauchen. In voller Rüstung dreht man sich gern zuerst dort, wo es am wenigsten Arbeit macht.“
 
@@ -7752,6 +7718,8 @@ Bevor Skarra sich zurückzog, regte sich die Erde am Rand des Hofs.
 
 Drei kleine knöcherne Gestalten arbeiteten sich zwischen Wurzeln und Pflastersteinen hervor. Eine schüttelte ein Blatt aus ihrem Kiefer, während die anderen bereits um Skarras Stiefel wuselten.
 
+Skarra wies die drei Knochendiener wortlos an, die Umgebung im Auge zu behalten und sie bei Gefahr zu warnen.
+
 Auf ihren Auftrag hin stoben sie auseinander. Einer verschwand unter dem Tor, einer huschte an der Scheunenwand entlang; der dritte erklomm den niedrigen Steinhaufen hinter dem Haus.
 
 Wulf hatte den Kopf gewandt.
@@ -7766,7 +7734,7 @@ Der alte Mann beobachtete, wie ein knöcherner Schwanz im Dunkeln verschwand.
 
 „Dann sage ich Jost besser Bescheid, bevor er einen davon mit der Schaufel begrüßt.“
 
-Magrat sammelte die leeren Becher ein. Minthara gab Brienne deren Schwert noch einmal zur Prüfung, ehe die Ritterin es in die Scheide schob. Dann wurde die Laterne weiter heruntergedreht.
+Magrat sammelte die leeren Becher ein. Brienne schob ihr Schwert in die Scheide. Dann wurde die Laterne weiter heruntergedreht.
 
 Skarra legte sich in der Scheune ins Stroh.
 
