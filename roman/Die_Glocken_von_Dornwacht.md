@@ -7468,19 +7468,31 @@ Im Haus wurde ein Fenster geschlossen. Magrat erschien noch einmal an der Tür.
 
 Ihr Blick fiel auf die Becher.
 
-„Ist noch einer sauber?“
+„Ich nehme auch einen.“
 
-Brienne sah zu Minthara.
+Brienne betrachtete die drei Gefäße auf der Bank.
 
-„Offenbar doch eine Belagerung.“
+„Wir haben nur drei. Ihr könnt meinen nehmen.“
 
-Die Drow schob ihr den eben gefüllten Becher hin.
+„Ach, Unsinn“, sagte Magrat. „Nehmt doch einfach den vierten.“
 
-„Dann näht Ihr und trinkt langsam. Ich hole einen vierten.“
+Minthara sah auf die Bank.
 
-Magrat setzte sich auf die niedrige Schwelle. Sie lehnte den Kopf gegen den Türpfosten und streckte vorsichtig die Beine aus.
+Neben den drei Bechern stand ein vierter.
 
-Als Minthara zurückkam, waren für einen Augenblick nur Briennes Nadel und das leise Plätschern aus dem Fässchen zu hören.
+Sie betrachtete ihn eine Weile.
+
+„Der stand eben noch nicht dort.“
+
+„Natürlich nicht“, erwiderte Magrat und setzte sich auf die niedrige Schwelle. „Da brauchten wir ihn ja auch noch nicht.“
+
+Brienne legte langsam ihre Nadel beiseite.
+
+Minthara nahm den vierten Becher, drehte ihn prüfend zwischen den Fingern und schenkte ein.
+
+„Ich werde nicht fragen.“
+
+„Sehr vernünftig“, sagte Magrat.
 
 Die Drow hob ihren Becher.
 
