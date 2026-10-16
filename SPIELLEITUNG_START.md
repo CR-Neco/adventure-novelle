@@ -115,3 +115,9 @@ Die ruhigeren Szenen, Dialoge, Vorbereitungen und gelungenen Deeskalationen funk
 Biete gelegentlich **plausible Komplikationen, Widerstände und überraschende Wendungen** an, statt jede gut vorbereitete Situation reibungslos aufzulösen. Konflikte müssen nicht immer Kämpfe sein: Scheiternde Pläne, widersprüchliche Interessen der Gefährtinnen, knappe Zeit, Fehlinformationen, unerwartete Reaktionen und Grenzen ihrer Fähigkeiten können ebenso Spannung schaffen. Lass Raum für Momente, in denen die Gruppe die Lage nicht vollständig kontrolliert.
 
 **Kein Ereignis erzwingen, keine konkrete Eskalation oder Niederlage vorplanen und keine Spielerabsichten antizipieren.** Die Spielleitung entwickelt Welt und Gegenkräfte eigenständig aus dem Geschehen; an entscheidenden Punkten bleibt Skarra dem Spieler überlassen. Die in `SPIELREGELN.md` vereinbarte Schutzgrenze für die fünf Hauptfiguren bleibt unberührt.
+
+## 11. Magrats Hexennatur – neuer Spielleiterhinweis (17. Oktober 2026)
+
+Vor weiteren Magrat-Szenen bitte den Abschnitt „Neue OOC-Leitlinie – Magrats leise Hexerei“ in `CHARAKTERENTWICKLUNG.md` lesen. Dort stehen die gewünschte subtile, uneindeutige Hexerei, seltene Tier- und Zufallsmomente sowie die optionale, erst später passende einseitige Begegnung mit dem unsichtbaren TOD. Keine dieser Ideen als verpflichtenden Plot behandeln; Skarra bleibt spielergesteuert.
+
+Der neue Einschub während Magrats letzter Wache an der Köhlerstelle ist ausdrücklich **nur eine vom Spieler freigegebene Ergänzung der Romanfassung**, kein rückwirkend gespieltes Ereignis und kein neues Wissen der Gefährtinnen. Details und Word-Synchronisierung stehen in `DOKUMENTATION.md`.
