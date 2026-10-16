@@ -87,3 +87,7 @@ Die Geschichte ist ein frei gespieltes, zugleich als Roman fortgeschriebenes Abe
 - Das ist keine plötzliche Kampfschwäche: Nicht willkürlich aktive Diener während einer laufenden, räumlich zusammenhängenden Szene verschwinden lassen. Laufende Einsätze und ausdrücklich getroffene Absprachen beachten.
 - Verbliebene beschworene Materie zerfällt / verschwindet; Fleischwesen dürfen zunächst eine vergängliche glibbrige Sauerei hinterlassen. Keine dauerhaften neuen Leichen oder unbegrenzten Fernwachen daraus ableiten.
 - Autorisierte Romanergänzungen: Die drei Knochenkundschafter zerfallen beim Rücktransport von der Mühle; der Fleischwurm im Stall fällt beim Verlassen Eibenbrücks zusammen. Alfred wurde am Gutshof ausdrücklich entlassen.
+
+
+## Technologischer Rahmen – Vereinbarung 16. Oktober 2026
+Die Abenteuerwelt Valdorn bleibt **frei von Pulver-Schusswaffen**. Keine Gewehre, Pistolen, Musketen oder Schwarzpulvergeschütze einführen. Bögen, Armbrüste und Magie sind passende Fernkampfmittel. Rulfs zuvor als Jagdgewehr bezeichnete Waffe wird im Roman und Kanon rückwirkend als Armbrust geführt.

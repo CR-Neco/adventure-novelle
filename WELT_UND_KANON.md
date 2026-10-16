@@ -114,7 +114,7 @@ Gruppe zurück in Eibenbrück, noch vor Tagesanbruch. Toman hat Abschied genomme
 
 - Bram wiederbestattet; Skarras Prüfung am Grab fand keine Lebenskraft. Brienne beobachtete die Prüfung.
 - Dorf verlassen; Rhen, andere Gefangene und Verletzte bleiben zurück. Lieferlisten, zwei Wechselquittungen und Empfang mit Oswins Unterschrift bei Gruppe.
-- Brückensperre am verlassenen Zollhaus: Rulf mit Jagdgewehr, zwei Männer, Frau mit Bogen, zwei Kinder. Angeblicher Achsbruch vorgetäuscht. Triss versetzt Wagen magisch; Gruppe vermeidet Eskalation und fährt weiter. Keine getöteten / festgenommenen Personen.
+- Brückensperre am verlassenen Zollhaus: Rulf mit Armbrust, zwei Männer, Frau mit Bogen, zwei Kinder. Angeblicher Achsbruch vorgetäuscht. Triss versetzt Wagen magisch; Gruppe vermeidet Eskalation und fährt weiter. Keine getöteten / festgenommenen Personen.
 - Skarra nennt den Fleischgolem **Alfred**.
 - Gutshof mit verwitterter Tafel (drei weiße Blätter): **Enna** betreibt ihn, Bruder **Hagen** hilft. Hagen erkennt eigene Quittung; bestätigt Pferdewechsel / Menschen unter Plane. Seine Angabe über Krankenfahrten stammt von Rhen.
 - Laut Hagen suchte ein Reiter aus der Abtei nach Rhen: Schimmel, grauer Mantel, Schwert am Sattel, allein, keine gesehenen Stäbe; nach Süden aufgebrochen. Nicht persönlich getroffen, aktueller Aufenthaltsort unbekannt.
@@ -125,3 +125,7 @@ Gruppe zurück in Eibenbrück, noch vor Tagesanbruch. Toman hat Abschied genomme
 ### Beschwörungen – autorisierte Kontinuitätskorrektur
 
 Auf Spielerwunsch im Roman beiläufig geschlossen: drei Knochenkundschafter beim Entfernen der Wagen von der Mühle zerfallen; Stallwurm beim Verlassen Eibenbrücks zusammengebrochen, von Wirt / Marta bemerkt. Keine unbegrenzten Fernwachen. Beschworene Materie vergeht nach Ende der Bindung, bei Fleischwesen gegebenenfalls nach einer kurzen Sauerei. Siehe SPIELREGELN.md. Neuer Lagerwurm ist eine neue Beschwörung; Alfred ist nicht mehr aktiv.
+
+
+### Weltvereinbarung – 16. Oktober 2026
+Valdorn bleibt frei von Pulver-Schusswaffen und Schwarzpulvergeschützen. Fernkampf erfolgt etwa mit Bögen, Armbrüsten oder Magie. Rulfs Waffe an der Brückensperre ist rückwirkend eine Armbrust.

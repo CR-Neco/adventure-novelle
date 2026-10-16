@@ -5344,7 +5344,7 @@ Gegen Mittag wurde der Weg steiniger. Zwischen zwei niedrigen Hügeln lag eine s
 
 Davor wartete ein Wagen.
 
-Er stand quer genug, dass der Durchgang nur zu Fuß frei blieb. Eines seiner Räder war abgenommen worden. Zwei Männer arbeiteten daran; ein dritter saß auf der Brückenmauer und hielt ein Jagdgewehr quer über den Knien.
+Er stand quer genug, dass der Durchgang nur zu Fuß frei blieb. Eines seiner Räder war abgenommen worden. Zwei Männer arbeiteten daran; ein dritter saß auf der Brückenmauer und hielt eine Armbrust quer über den Knien.
 
 Minthara hob die Hand.
 
@@ -5396,7 +5396,7 @@ Die Ritterin nickte.
 
 Triss hob eine Hand. Zunächst geschah wenig: Ein loser Lederriemen am fremden Wagen spannte sich, als ziehe jemand daran. Dann knarrte das Holz. Die hinteren Räder rollten eine Handbreit zur Seite.
 
-„He!“, rief der Mann mit dem Jagdgewehr.
+„He!“, rief der Mann mit der Armbrust.
 
 Triss hielt inne.
 
@@ -5430,7 +5430,7 @@ Und unter dem Wagen kam die Achse zum Vorschein.
 
 Sie war unbeschädigt.
 
-Brienne betrachtete sie. Dann den Mann mit dem Gewehr.
+Brienne betrachtete sie. Dann den Mann mit der Armbrust.
 
 „Ein loses Rad hätte gereicht.“
 
@@ -5472,7 +5472,7 @@ Die Frau hielt ihren Bogen jetzt am unteren Ende.
 
 Rulf fluchte.
 
-Minthara stellte sich so, dass er das Gewehr nicht heben konnte, ohne unmittelbar auf sie zu zielen.
+Minthara stellte sich so, dass er die Armbrust nicht heben konnte, ohne unmittelbar auf sie zu zielen.
 
 „Legt die Waffe auf die Mauer.“
 
@@ -5482,7 +5482,7 @@ Minthara stellte sich so, dass er das Gewehr nicht heben konnte, ohne unmittelba
 
 Er sah an ihr vorbei zu Alfred. Dessen kleiner Kopf hatte sich bei den erhobenen Stimmen langsam gedreht.
 
-Das Gewehr kam auf die Mauer.
+Die Armbrust kam auf die Mauer.
 
 Brienne ging zur Brücke und prüfte die freigeräumte Passage. Triss blieb bei ihrem Wagen; die Verschiebung hatte ihre Aufmerksamkeit beansprucht, und sie überließ den anderen nun das Gespräch.
 
@@ -5506,7 +5506,7 @@ Rulf machte einen Schritt zur Mauer. Minthara schüttelte kaum merklich den Kopf
 
 Er blieb stehen.
 
-Die Passage war frei. Die Frau zog sich zum Wagen zurück, während einer der Männer schweigend das Rad aufrichtete. Rulf wartete neben seinem abgelegten Gewehr.
+Die Passage war frei. Die Frau zog sich zum Wagen zurück, während einer der Männer schweigend das Rad aufrichtete. Rulf wartete neben seiner abgelegten Armbrust.
 
 Minthara wandte sich Skarra zu.
 
@@ -5520,7 +5520,7 @@ Minthara wandte sich Skarra zu.
 
 Minthara trat erst von der Mauer zurück, als der Wagen sich wieder in Bewegung setzte.
 
-Rulf ließ das Gewehr liegen.
+Rulf ließ die Armbrust liegen.
 
 Seine Gefährtin stand bei den Kindern und hielt eine Hand am Wagenkasten. Keiner der beiden Männer griff nach einer Waffe. Einer hob den umgestürzten Werkzeugkasten auf, der andere starrte auf die unbeschädigte Achse.
 
