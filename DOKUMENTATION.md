@@ -76,3 +76,14 @@ Kampagnenstand, Übergabe, Kanon und Profile aktualisiert. Romantik-Ausschluss /
 An letzte Bierrunde schließen **„Asche und Stille“** und **„An der Nordmauer“** an: sämtliche gespielten Dialoge der lockeren Übung, drei markierte Spielerpassagen, anschließender autorisierter Patrouillenauftrag / Schlaf und nächtliche Meldung. OOC-Kommentare und Spielzug-Aufforderungen fehlen im Roman.
 
 Ende exakt beim Kundschafter, der am Scheunenausgang zurückblickt und zum dunklen Hofrand läuft. Skarras Reaktion nicht vorweggenommen. Haltepunkt, Namen der Klingen, Positionen und aktive Beschwörungen in Übergabe / Kanon / Profilen nachgeführt. Word bleibt für später unverändert.
+
+
+## Nachträgliche Buchergänzung – Magrats Nachtwache an der Köhlerstelle (17. Oktober 2026)
+
+Auf ausdrücklichen Wunsch des Spielers wurde in `roman/Die_Glocken_von_Dornwacht.md`, Kapitel **„Die Nacht an der Köhlerstelle“**, unmittelbar nach der Übernahme von Magrats letzter Wache und vor „Am Morgen hing Nebel über dem Weg“ ein kurzer literarischer Einschub **wortgetreu nach Spielerfassung** eingefügt (Commit `41605ad12fcd4021320afad6d133236de429eb4e`).
+
+Magrat spricht darin nicht sichtbare nächtliche Besucher zwischen den Buchen an, tadelt deren heimliches Herumschleichen und fordert sie auf: **„Überlegt noch einmal gründlich.“** Nach einem leisen Knurren entfernen sich mehrere Schritte. Sie beendet die Szene mit **„Das dachte ich mir.“** Die Art und Anzahl der Besucher bleiben unbestimmt.
+
+**Dies ist eine bewusste Änderung ausschließlich der Buchversion**, keine nachträglich ausgespielte Handlung. Keine Kenntnis Skarras oder der anderen Gefährtinnen daraus ableiten; der Spielverlauf und Haltepunkt bleiben unverändert. Es handelt sich um den **ersten kleinen sonderbaren Hexenmoment** Magrats. Weitere seltene, unaufdringliche Möglichkeiten und eine eventuell erst später geeignete TOD-Begegnung sind als **unverbindliche Spielleiterimpulse** in `CHARAKTERENTWICKLUNG.md` notiert. Keine dieser Ideen ist bereits geschehen oder garantiert.
+
+**Synchronisierung:** Der Word-Export bleibt unverändert und ist weiterhin älter als Markdown. Bei einem späteren DOCX-Abgleich **auch diesen Einschub** übernehmen. Für weitere rückwirkende Buchergänzungen jeweils Spielerfreigabe einholen.
