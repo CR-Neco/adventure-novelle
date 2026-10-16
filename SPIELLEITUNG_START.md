@@ -72,25 +72,18 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg – Ende der Sitzung 15./16. Oktober 2026
+## 8. Aktueller Wiedereinstieg – Zwischenstand 16. Oktober 2026
 
-**Eibenbrück, am Morgen nach der ersten gemeinsamen Nacht**, im Krummen Nagel. Die Gruppe ist noch nicht aufgebrochen. Bram wurde von Triss ohne Skarras Entzug stillgelegt und blieb bis zur letzten morgendlichen Prüfung ruhig; seine Wiederbestattung ist im Gang der Vorbereitungen, Brienne ist dorthin gegangen. Die Zeremonie wurde nicht ausgespielt / ausdrücklich abgeschlossen.
+**Abend des ersten Reisetages**, ehemalige Köhlerstelle am östlichen Waldumweg nach Hagens / Ennas Gutshof. Die Gruppe hat Eibenbrück verlassen und die Abtei noch nicht erreicht.
 
-Skarra billigte den Plan: **Rhen bleibt im Dorf**, Wagen und Papiere werden genutzt, Tor / Abwasserkanal erst selbst erkundet. Magrat soll Rhen durch Verhalten / Menschenkenntnis darstellen, Triss die Illusion beitragen. Ein Rückzugsportal ist eine mögliche Option nach Prüfung eines sicheren Zielortes außerhalb, kein bereits erprobter Fluchtweg.
+Letzter gespielter Satz (Triss):
+> „Ich möchte die endgültige Verhüllung morgen bei Tageslicht versuchen.“
 
-Zuletzt:
-- Brienne ging zur Bestattung.
-- Magrat suchte Rhen auf, Triss begleitete sie zum Studium von Erscheinung und Stimme.
-- Minthara kümmert sich beim Vogt um Papiere und Wagengeschirr.
-- Skarras letzte persönliche Erledigungen sind offen.
+**Bereits autorisiert:** Skarra stimmt dem Lager zu, bleibt wegen der Untotenplage unbehaglich und positioniert erneut einen Fleischwurm als Wächter. Nicht nochmals nach Lagerzustimmung fragen. Nach Dokumentationspause Lageraufbau / Absicherung auf Basis dieser Anweisung erzählen; Nacht oder neue Begegnungen noch nicht vorweggenommen.
 
-**Letzter Erzählabsatz:**
-> Als die kleine Glocke verstummt war, blieb auf dem Tisch der Plan zurück. Ein Tor, ein Hof, einige hastig gezeichnete Gebäude. Vieles daran würde erst noch überprüft werden müssen.
+Der Wagen wird jetzt von **Bero und Tamm** gezogen. Fleischgolem **Alfred** wurde am Gutshof entlassen. Alte Knochenkundschafter sind beim Rücktransport von der Mühle zerfallen; der alte Stallwurm beim Aufbruch aus Eibenbrück. Keine zurückgelassenen Dauerbeschwörungen. Neue Vereinbarung in SPIELREGELN.md beachten.
 
-**Offene Frage an Skarra:**
-> Gibt es vor dem Aufbruch noch etwas, das sie persönlich erledigen möchte? Andernfalls können die Vorbereitungen abgeschlossen werden und die Reise beginnen.
-
-**Skarra ist am Zug.** Auf ihre Antwort warten; keinen Aufbruch, Reiseerfolg, Portal- oder Illusionserfolg vorwegnehmen. Details in KAMPAGNENSTAND.md.
+Details und Route in KAMPAGNENSTAND.md. Rhen und Gefangene im Dorf, Suchreiter unterwegs unbekannten Aufenthalts. Die geplante Wagenillusion und Portalflucht sind weiterhin Optionen nach eigener Erkundung.
 
 ## 9. Aktuelle Erzählvereinbarung
 

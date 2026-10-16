@@ -3904,6 +3904,12 @@ Magrat verschwand wieder unter der Plane. Ihr Lachen war nur kurz zu hören.
 
 Der kleine Karren wurde mit etwas Abstand hinter dem großen befestigt. Jann ging neben der Deichsel und hielt die Richtung; Brienne übernahm die Bremse an den abschüssigen Stellen. Der erste vorsichtige Zug brachte beide Fahrzeuge ohne Mühe in Bewegung.
 
+Am Wegrand blieben die drei kleinen Knochenkundschafter zurück. Als die Wagen sich entfernten, erlosch der Schimmer in ihren Höhlen. Einer klappte noch einmal den schiefen Kiefer auf, dann verloren die Knochen ihren Zusammenhalt und zerfielen im feuchten Gras.
+
+Magrat sah sich nach dem leisen Klappern um.
+
+„Die haben sich ihr Ende der Schicht verdient“, murmelte sie.
+
 Magrat legte eine Hand an Berolds Verband.
 
 „So langsam. Nicht schneller.“
@@ -5193,3 +5199,675 @@ Damit war genug entschieden, um Vorbereitungen zu treffen.
 Brienne ging zur Bestattung. Magrat suchte Rhen auf; Triss nahm ihre Tasche mit, um sie während des Gesprächs aus der Nähe zu beobachten. Minthara kümmerte sich mit dem Vogt um die beschlagnahmten Papiere und das Geschirr des Wagens.
 
 Als die kleine Glocke verstummt war, blieb auf dem Tisch der Plan zurück. Ein Tor, ein Hof, einige hastig gezeichnete Gebäude. Vieles daran würde erst noch überprüft werden müssen.
+
+---
+
+## Abschied von Eibenbrück
+
+Am Rand des Friedhofs lag die Erde dunkler als ringsum. Neben dem frischen Grabhügel standen noch die Spaten; jemand hatte sie mit den Blättern in einen Eimer Wasser gestellt.
+
+Skarra blieb vor Brams Grab stehen.
+
+Sie senkte die Hände seitlich neben den Körper, spreizte die Arme etwas ab und richtete die Handflächen zum Boden. Ihre Sinne tasteten in die Erde hinab.
+
+Feuchte Erde. Wurzeln. Die stille Gegenwart eines Körpers, dessen Leben vor Tagen geendet hatte.
+
+Nichts von dem, was Bram auf dem Nordweg bewegt hatte.
+
+Keine Lebenskraft.
+
+„Gut“, murmelte sie.
+
+Hinter ihr schabte ein Stiefel über den Kies.
+
+Brienne stand einige Schritte entfernt am Friedhofsweg. Sie trug ihren Helm unter dem Arm. Ihr Blick ging von Skarras Händen zum Grab.
+
+„Es ist vorbei?“
+
+„Ich finde nichts.“
+
+Die Ritterin nickte. Eine Weile sah sie auf die frisch aufgeworfene Erde.
+
+„Dann können wir gehen.“
+
+Sie ließ Skarra den Weg frei. Gemeinsam kehrten sie zum Gasthaus zurück.
+
+* * *
+
+Im Hof war der Wagen inzwischen beladen.
+
+Triss hatte ihre Probenkiste zwischen zusammengerollten Decken verstaut und darüber einen Wasserschlauch gelegt, damit bei einer flüchtigen Durchsicht niemand zuerst nach dem versiegelten Behälter griff. Magrat saß auf der hinteren Ladekante und nähte ein loses Band an Rhens grauem Mantel fest.
+
+Der Mantel war leer.
+
+Die Frau, die ihn bisher getragen hatte, stand unter Aufsicht an der Küchentür und beobachtete die Vorbereitungen.
+
+Minthara kam mit dem Vogt aus dem Schankhaus. Sie hielt ein verschnürtes Bündel Papiere in der Hand.
+
+„Lieferlisten, zwei Quittungen vom Pferdewechsel und eine Empfangsbestätigung aus Dornwacht. Oswins Unterschrift steht darunter.“
+
+„Kann man sie lesen?“, fragte Magrat.
+
+„Mit Geduld.“
+
+„Dann wäre ich für die Täuschung lieber Rhen als Oswin.“
+
+Der Vogt blieb bei Brienne stehen.
+
+„Wir bewachen die Gefangenen. Und ich schicke jemanden zur Mühle, damit dort niemand an Euren Untersuchungen herumfasst.“
+
+Brienne dankte ihm.
+
+„Fasst den Körper nicht an. Auch dann nicht, wenn er sich nicht bewegt.“
+
+Der Mann betrachtete sie einen Moment, dann nickte er sehr entschieden.
+
+Rhen trat bis an den Rand der Schwelle.
+
+„Fenn versteckt sich manchmal unter dem Bett, wenn Fremde kommen.“
+
+Magrat legte das Nähzeug fort.
+
+„Dann sehen wir auch dort nach.“
+
+Mehr versprach sie nicht.
+
+* * *
+
+Das Geschirr war wieder um den breiten Rumpf des Fleischgolems gelegt worden. Jann hatte die Zugriemen geprüft und sich anschließend auffällig gründlich mit einem Rad beschäftigt, bis Minthara ihn zu seiner Bewachung zurückschickte.
+
+Als der Wagen anrollte, traten die wenigen Zuschauer im Hof beiseite.
+
+Der Wirt stand neben Marta vor der Tür. Sie hob eine Hand. Er rief ihnen nach, sie sollten den Wagen diesmal bitte vollständig zurückbringen.
+
+„Das hängt davon ab, was wir unterwegs finden“, sagte Minthara.
+
+„Er kann Euch nicht mehr hören“, bemerkte Triss.
+
+„Eine Sorge weniger.“
+
+Hinter ihnen drang ein feuchtes Klatschen aus dem leeren Stall.
+
+Der Wirt fuhr herum.
+
+„Was war das jetzt noch?“
+
+Der Fleischwurm hatte seinen Wachdienst beendet. Als der Abstand zu seiner Beschwörerin wuchs, fiel sein Leib in sich zusammen; der letzte grünliche Schimmer erlosch zwischen dem Stroh.
+
+Marta blickte durch die Stalltür, dann auf den Eimer daneben.
+
+„Hol Wasser. Und diesmal einen größeren.“
+
+Eibenbrück blieb hinter ihnen zurück.
+
+* * *
+
+Der Nordweg war bei Tageslicht weniger bedrohlich, aber nicht freundlicher. Wasser stand in den tiefen Fahrspuren. Hinter den letzten Weiden lagen Felder, auf denen das Unkraut zwischen den Stoppeln wuchs; ein aufgegebenes Gehöft hatte ein eingesunkenes Dach.
+
+An der Weggabelung zur Mühle hielt Brienne kurz Ausschau. Kein Rauch stieg zwischen den Bäumen auf. Sie ging weiter.
+
+Die ersten Stunden vergingen ohne Begegnung.
+
+Magrat übte Rhens Stimme. Zunächst nur einzelne Sätze, dann kleine Unterhaltungen mit Triss, die zunehmend lästige Fragen stellte.
+
+„Wie viele Körper?“
+
+„Steht auf der Liste.“
+
+„Ich möchte sie trotzdem zählen.“
+
+„Dann zählt.“
+
+„Warum ist dieser hier so klein?“
+
+Magrat schwieg.
+
+Minthara, die neben dem Wagen ging, hob den Kopf.
+
+„Bei der Frage dürft Ihr nicht nachdenken.“
+
+„Ich möchte auch nicht jede denkbare Antwort üben.“
+
+„Dann übt die, mit der Ihr Zeit gewinnt.“
+
+Magrat zog Rhens Mantel enger um die Schultern.
+
+„Holt Cael. Wenn er sich beschweren will, soll er es selbst tun.“
+
+Triss nickte langsam.
+
+„Besser.“
+
+* * *
+
+Gegen Mittag wurde der Weg steiniger. Zwischen zwei niedrigen Hügeln lag eine schmale Brücke über einen schnell fließenden Bach. Auf der anderen Seite stand ein kleines Zollhaus mit vernageltem Fenster.
+
+Davor wartete ein Wagen.
+
+Er stand quer genug, dass der Durchgang nur zu Fuß frei blieb. Eines seiner Räder war abgenommen worden. Zwei Männer arbeiteten daran; ein dritter saß auf der Brückenmauer und hielt ein Jagdgewehr quer über den Knien.
+
+Minthara hob die Hand.
+
+„Nicht näher.“
+
+Der Mann auf der Mauer hatte sie bereits gesehen. Er stand auf, ließ die Waffe aber tief.
+
+„Straße gesperrt“, rief er. „Achse gebrochen. Dauert noch.“
+
+Brienne betrachtete den Wagen.
+
+„Für eine gebrochene Achse steht er bemerkenswert gerade.“
+
+„Vielleicht haben sie ihn abgestützt“, sagte Magrat.
+
+„Vielleicht.“
+
+Neben dem Zollhaus bewegte sich etwas. Eine vierte Person trat nur halb hinter der Hausecke hervor und verschwand wieder.
+
+Triss legte das Übungsblatt auf ihre Probenkiste.
+
+Der Mann an der Brücke sah nun den Fleischgolem. Sein Gesicht veränderte sich. Er wechselte einen kurzen Blick mit einem der Männer am Rad.
+
+„Was beim Henker zieht denn Euren Wagen?“
+
+Minthara blieb am Straßenrand stehen, ohne die Hand an ihre Waffe zu legen.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** „Ach, kümmert Euch nicht um Alfred …“ Skarra kicherte, als ihre verharmlosende Namenserfindung für den Fleischgolem auf dem Gesicht des Mannes die bezweckte Wirkung entfaltete. „… er ist meistens harmlos.“ Sie wandte sich an Triss: „Das gefällt mir nicht … könnt Ihr von hier etwas tun? Den Wagen bewegen?“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Der Mann auf der Mauer blickte von Skarra zu dem Fleischgolem.
+
+„Meistens“, wiederholte er.
+
+Einer seiner Gefährten legte den Hammer nieder.
+
+Triss musterte den quer stehenden Wagen. Dann sah sie auf den Bach und die schmalen Brückenränder.
+
+„Bewegen ja. Für das andere Ende brauche ich Platz.“
+
+Sie trat neben die Deichsel ihres eigenen Wagens.
+
+„Brienne, bleibt bitte hier. Ich möchte niemanden zwischen den beiden Fahrzeugen haben.“
+
+Die Ritterin nickte.
+
+Triss hob eine Hand. Zunächst geschah wenig: Ein loser Lederriemen am fremden Wagen spannte sich, als ziehe jemand daran. Dann knarrte das Holz. Die hinteren Räder rollten eine Handbreit zur Seite.
+
+„He!“, rief der Mann mit dem Jagdgewehr.
+
+Triss hielt inne.
+
+„Wir schaffen Euch Platz zum Arbeiten.“
+
+„Das ist unser Wagen!“
+
+„Dann sagt Eurem Freund, er soll vom Rad zurücktreten.“
+
+Der Mann, der noch daneben kniete, brauchte die Aufforderung nicht. Er wich zurück und stieß dabei den Werkzeugkasten um.
+
+Minthara beobachtete die Hausecke.
+
+„Die vierte Person möchte ich ebenfalls sehen.“
+
+Ein kurzer Augenblick verging.
+
+Dann trat eine Frau hinter dem Zollhaus hervor. Sie trug einen Jagdbogen, einen Pfeil bereits auf der Sehne. Als sie bemerkte, dass Minthara sie ansah, senkte sie ihn ein wenig.
+
+„Wir wollen keinen Ärger“, sagte der Mann auf der Mauer.
+
+„Dann kommen wir gut miteinander aus“, erwiderte Triss.
+
+Sie bewegte die Finger.
+
+Diesmal hob sich die radlose Seite des Wagens langsam an. Eine Holzstütze kippte darunter hervor. Triss hielt das Gewicht in der Luft und zog das Fahrzeug schräg zurück auf den Seitenstreifen.
+
+Der Weg wurde frei.
+
+Und unter dem Wagen kam die Achse zum Vorschein.
+
+Sie war unbeschädigt.
+
+Brienne betrachtete sie. Dann den Mann mit dem Gewehr.
+
+„Ein loses Rad hätte gereicht.“
+
+Der Mann zog die Schultern hoch.
+
+„Wir hätten Euch doch durchgelassen.“
+
+„Wogegen?“, fragte Minthara.
+
+Er antwortete nicht.
+
+Triss setzte den Wagen ab. Das Holz ächzte, als die radlose Seite auf dem weichen Straßenrand aufkam. Sie ließ die Hand sinken und atmete einmal tief durch.
+
+„Nun könnt Ihr Euer Rad wieder anbringen.“
+
+* * *
+
+Die Frau mit dem Bogen nahm den Pfeil von der Sehne.
+
+„Lass sie fahren, Rulf.“
+
+Er warf ihr einen wütenden Blick zu.
+
+„Halt dich da raus.“
+
+„Nein. Sie haben uns nichts getan.“
+
+Magrat war inzwischen näher an den Werkzeugkasten getreten. Zwischen Zange und Hammer lagen ein kleiner hölzerner Kreisel und eine zusammengefaltete Kinderschürze. Sie sah zur offenen Rückseite des Wagens.
+
+Darin saßen zwei Kinder unter einer Decke.
+
+„Wie lange macht Ihr das schon?“, fragte sie.
+
+Die Frau hielt ihren Bogen jetzt am unteren Ende.
+
+„Seit gestern.“
+
+„Seit drei Tagen“, sagte einer der Männer am Rad.
+
+Rulf fluchte.
+
+Minthara stellte sich so, dass er das Gewehr nicht heben konnte, ohne unmittelbar auf sie zu zielen.
+
+„Legt die Waffe auf die Mauer.“
+
+„Die Straße ist gefährlich.“
+
+„Für Reisende offenbar.“
+
+Er sah an ihr vorbei zu Alfred. Dessen kleiner Kopf hatte sich bei den erhobenen Stimmen langsam gedreht.
+
+Das Gewehr kam auf die Mauer.
+
+Brienne ging zur Brücke und prüfte die freigeräumte Passage. Triss blieb bei ihrem Wagen; die Verschiebung hatte ihre Aufmerksamkeit beansprucht, und sie überließ den anderen nun das Gespräch.
+
+„Wir nehmen Essen“, sagte die Frau. „Geld, wenn jemand welches hat. Wir haben niemanden erschossen.“
+
+„Das macht die Drohung nicht kleiner“, erwiderte Brienne.
+
+„Ich weiß.“
+
+Magrat blickte erneut zu den Kindern.
+
+„Sind die mit Euch gekommen, oder habt Ihr die auch unterwegs eingesammelt?“
+
+Die Frau wurde blass.
+
+„Das sind meine.“
+
+„Gut. Dann bleibt bei ihnen.“
+
+Rulf machte einen Schritt zur Mauer. Minthara schüttelte kaum merklich den Kopf.
+
+Er blieb stehen.
+
+Die Passage war frei. Die Frau zog sich zum Wagen zurück, während einer der Männer schweigend das Rad aufrichtete. Rulf wartete neben seinem abgelegten Gewehr.
+
+Minthara wandte sich Skarra zu.
+
+„Wir können weiter.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra möchte eine Eskalation vermeiden und weiterfahren, bleibt aber sehr wachsam.
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara trat erst von der Mauer zurück, als der Wagen sich wieder in Bewegung setzte.
+
+Rulf ließ das Gewehr liegen.
+
+Seine Gefährtin stand bei den Kindern und hielt eine Hand am Wagenkasten. Keiner der beiden Männer griff nach einer Waffe. Einer hob den umgestürzten Werkzeugkasten auf, der andere starrte auf die unbeschädigte Achse.
+
+Brienne ging als Erste über die Brücke. Unter den Rädern knarrten die Bohlen; Alfred zog gleichmäßig weiter. Triss behielt die Leute am Zollhaus im Blick, während Minthara zuletzt folgte.
+
+Erst hinter der nächsten Biegung holte die Drow den Wagen ein.
+
+„Sie setzen das Rad wieder auf.“
+
+Magrat drehte sich auf ihrem Sitz um.
+
+„Vielleicht fahren sie jetzt tatsächlich weiter.“
+
+„Vielleicht suchen sie eine Stelle ohne Bach daneben.“
+
+„Ihr macht es einem schwer, gelegentlich das Bessere anzunehmen.“
+
+Minthara sah nach vorn.
+
+„Nehmt es an. Ich sehe derweil nach hinten.“
+
+## Der Pferdewechsel
+
+Am Nachmittag zog Regen auf.
+
+Zunächst hing er als feiner Schleier zwischen den Bäumen. Später sammelte er sich an der Plane und tropfte in regelmäßigen Abständen genau auf die Stelle, an der Magrat saß. Sie rückte zweimal weiter, ehe sie eine Schüssel darunterstellte.
+
+Triss übte die Verhüllung mit ihr.
+
+Unter dem grauen Mantel veränderten sich Magrats Schultern. Ihr Gesicht wurde schmaler, die Nase länger. Für einen Augenblick saß Rhen auf der Ladekante.
+
+Brienne betrachtete sie aufmerksam.
+
+„Die Hände.“
+
+Magrat sah hinunter. Ihre Finger waren unverändert geblieben.
+
+Triss seufzte.
+
+„Ja. Ich weiß.“
+
+„Dann sage ich es beim nächsten Mal später.“
+
+„Nein, sagt es ruhig.“
+
+Die Schüssel bekam einen weiteren Tropfen ab.
+
+Minthara blieb neben dem Wagen stehen und betrachtete das Ergebnis.
+
+„Die Frau, die wir gefangen haben, sah weniger zufrieden mit sich aus.“
+
+Magrat ließ das kleine Lächeln verschwinden.
+
+„Besser?“
+
+„Erheblich.“
+
+* * *
+
+Gegen Abend erreichten sie den Gutshof.
+
+Er lag dort, wo Jann ihn eingezeichnet hatte: eine niedrige Mauer, zwei lang gezogene Stallgebäude und ein Torhaus mit einer breiten Durchfahrt. Über dem Eingang hing eine verwitterte Holztafel. Von einer alten Bemalung waren nur noch drei weiße Blätter zu erkennen.
+
+Auf dem Hof roch es nach Pferden, feuchtem Heu und warmem Schmierfett. Hinter einem Stall klopfte jemand einen Huf aus.
+
+Der Mann, der ihnen entgegenkam, trug eine Lederschürze und hatte einen Arm bis zum Ellbogen verbunden. Er blieb beim Anblick des Golems stehen.
+
+„Damit wollt Ihr Pferde wechseln?“
+
+„Nicht unbedingt“, sagte Triss. „Aber wir suchen ein Nachtlager und Auskunft über die Nordstraße.“
+
+Er betrachtete Alfred noch einmal.
+
+„Das bleibt draußen.“
+
+Brienne musterte die schmale Stalltür.
+
+„Das wäre ohnehin vernünftig.“
+
+* * *
+
+Der Mann hieß Hagen. Der Hof gehörte seiner Schwester, die gerade mit zwei Knechten eine erkrankte Stute versorgte. Gästezimmer gab es keine, aber eine trockene Kammer über der Sattelwerkstatt und warmes Essen im Wohnhaus.
+
+Minthara zeigte ihm zunächst eine der Quittungen.
+
+Hagen erkannte seine eigene Handschrift.
+
+Dann wurde er still.
+
+„Woher habt Ihr die?“
+
+„Vom Wagen, zu dem sie gehört.“
+
+Sein Blick wanderte über die fünf Frauen. Er hielt an Magrats grauem Mantel inne.
+
+„Rhen fährt sonst selbst.“
+
+„Heute nicht“, sagte Brienne.
+
+Hagen strich mit dem Daumen über den Rand des Papiers.
+
+„Hat es Ärger gegeben?“
+
+„Ja“, sagte Triss. „Deshalb möchten wir wissen, was hier gewechselt wird. Pferde, Ladung oder beides.“
+
+Hagen sah zum Wohnhaus hinüber.
+
+„Kommt erst aus dem Regen.“
+
+* * *
+
+In der Sattelwerkstatt brannte ein kleiner Ofen. An der Wand hingen Geschirre; auf der Werkbank lag ein halb zerlegter Sattel.
+
+Hagen schloss die Tür, ohne sie zu verriegeln.
+
+„Pferde“, sagte er. „Die Ladung bleibt auf den Wagen.“
+
+„Ihr habt sie gesehen?“, fragte Brienne.
+
+„Manchmal.“
+
+„Tote?“
+
+Er nickte.
+
+„Lebende?“
+
+Sein Daumen ruhte noch immer auf der Quittung.
+
+„Einmal hat jemand unter der Plane nach Wasser gerufen.“
+
+Magrat legte ihren Mantel über eine Stuhllehne.
+
+„Was habt Ihr getan?“
+
+„Wasser gebracht.“
+
+„Und dann?“
+
+Er sah sie an.
+
+„Die Frau auf dem Bock sagte, es seien Kranke. Dass man sie nach Dornwacht bringe, weil dort jemand für sie sorgen könne.“
+
+„Habt Ihr ihr geglaubt?“, fragte Minthara.
+
+„Ich habe es nicht gewusst.“
+
+Brienne ließ ihm einen Moment.
+
+„Wir haben drei Menschen von einem solchen Wagen befreit. Einer davon war eine Frau, die man auf dem Heimweg verschleppt hat.“
+
+Hagen legte die Quittung auf die Werkbank.
+
+Draußen schlug eine Stalltür zu. Aus dem Hof erklang die Stimme einer Frau, die nach ihm rief.
+
+Er antwortete, er komme gleich.
+
+Dann zog er einen Schemel unter der Bank hervor und setzte sich.
+
+„Heute Mittag ist ein Reiter aus der Abtei hier gewesen. Hat gefragt, ob Rhen schon durch sei.“
+
+Minthara richtete sich etwas auf.
+
+„Was habt Ihr gesagt?“
+
+„Dass wir sie auf der Rückfahrt noch nicht gesehen haben.“
+
+„Was wollte er tun?“
+
+„Nach Süden weiter. Nach ihr suchen.“
+
+Triss wechselte einen Blick mit Brienne. Auf der Straße waren sie keinem Reiter begegnet.
+
+Hagen rieb sich mit der gesunden Hand über die Stirn.
+
+„Es gibt einen zweiten Weg. Oben am Steinbruch vorbei. Schneller für ein einzelnes Pferd, schlechter für Wagen.“
+
+Er blickte zur Tür.
+
+„Ich kann Euch den zeigen. Aber vorher muss ich wissen, ob Ihr hier auf sie warten wollt. Denn wenn Ihr mit ihrem Wagen in meinem Hof steht, bin ich bereits beteiligt.“
+
+Skarra schlug vor, nach einer kurzen Rast einen anderen Weg zu nehmen. Die Bewohner des Hofs sollten durch ihre Anwesenheit nicht zusätzlich in Gefahr geraten. Außerdem wollte sie den auffälligen Fleischgolem durch ein echtes Zugtier ersetzen und dafür mit Silber bezahlen. Ein Golem würde Triss bei einer späteren Illusion nur unnötig Kraft kosten.
+
+Brienne stimmte Skarras Vorschlag zu.
+
+„Wenn wir hierbleiben, müsste Hagen dem Reiter früher oder später etwas erklären. Wir sollten ihn nicht zwingen, sich für uns eine Geschichte auszudenken.“
+
+„Der Wagen ist bereits gesehen worden“, sagte Minthara. „Aber wir müssen nicht hier sein, wenn der Mann zurückkommt.“
+
+Triss blickte durch das kleine Werkstattfenster zu Alfred hinaus.
+
+„Pferde wären mir ebenfalls lieber. Den Golem unter einer Verhüllung zu halten, während er sich bewegt und jemand dicht danebensteht, wäre unnötige Arbeit. Diese Kraft brauche ich am Tor.“
+
+Magrat nahm ihren Mantel von der Stuhllehne.
+
+„Dann essen wir etwas, trocknen uns, und lassen Hagen anschließend wieder seinen gewöhnlichen Sorgen nachgehen.“
+
+Hagen betrachtete sie.
+
+„Ihr wollt bezahlen?“
+
+Skarra ließ ihn wissen, dass sie Silber für ein geeignetes Zugpferd anbot.
+
+„Für den Wagen braucht Ihr zwei“, sagte er. „Mit einem kommt Ihr auf der ebenen Straße voran. Am Waldhang müsste jemand schieben.“
+
+Minthara sah zu Brienne.
+
+„Nein.“
+
+„Ich habe nichts gesagt.“
+
+„Vorsorglich.“
+
+* * *
+
+Hagens Schwester kam wenig später selbst in die Werkstatt. Sie hieß Enna, hatte die Ärmel hochgekrempelt und hörte sich zuerst an, was ihr Bruder bereits zugesagt hatte.
+
+Dann ging sie mit ihnen zu den Pferden.
+
+Sie zeigte ihnen zwei kräftige Braune, die seit Jahren zusammen im Geschirr liefen. Einer hatte eine breite Blesse, der andere die Angewohnheit, mit den Lippen an jedem erreichbaren Mantel zu prüfen, ob er essbar war.
+
+Magrat zog ihren Saum zurück.
+
+„Der hat mich schon einmal gründlicher untersucht als Rhen.“
+
+„Tamm“, sagte Enna und schob den Pferdekopf weg. „Der mit der Blesse heißt Bero. Nicht trennen, nicht mit kaltem Wasser abspritzen, wenn sie heiß sind, und auf dem ersten steilen Stück absteigen.“
+
+Sie nannte ihren Preis.
+
+Minthara fragte nach dem Alter, Brienne prüfte Hufe und Geschirr. Enna ließ sich auf einen etwas niedrigeren Gesamtpreis ein, als klar war, dass sie das vorhandene Zugzeug weiterverwenden konnten. Das Silber wechselte den Besitzer; Hagen setzte eine kurze Kaufquittung auf.
+
+„Eine ehrliche Rechnung“, stellte Minthara fest.
+
+Enna sah sie an.
+
+„Enttäuscht?“
+
+„Angenehm überrascht.“
+
+* * *
+
+Alfred stand noch immer mitten im Hof.
+
+Während die anderen die Pferde anschirrten, nahm Brienne ihm mit Hagen die Zugriemen ab. Enna bestand darauf, dass ihre Tiere dabei zunächst auf der anderen Seite des Tores blieben.
+
+„Die gewöhnen sich an vieles“, sagte sie. „Aber nicht alles muss heute sein.“
+
+Skarra wartete, bis das Geschirr frei lag.
+
+Dann löste sie die Beschwörung.
+
+Alfreds Kopf sank zwischen die Schultern. Für einen kurzen Augenblick sah es aus, als suche er etwas auf dem Boden.
+
+Dann gab der ganze Körper nach.
+
+Er zerfloss mit einem schweren, nassen Geräusch. Die breiten Arme klappten nach innen; aus dem massigen Rumpf wurde ein flacher werdender Haufen, der sich über die Pflastersteine ausbreitete. Ein letzter grüner Schimmer glitt darüber hinweg und erlosch.
+
+Stille.
+
+Vom Stalldach fiel ein Regentropfen in die Mitte der Pfütze.
+
+Plopp.
+
+Hagen sah auf seine Stiefel.
+
+Enna sah auf ihren Hof.
+
+Magrat zog langsam ihren Mantelsaum höher.
+
+„Er hinterlässt weniger Platzbedarf als erwartet“, sagte sie.
+
+Enna wandte den Kopf zu Skarra.
+
+„Bleibt das?“
+
+Triss betrachtete die Reste mit vorsichtiger fachlicher Aufmerksamkeit.
+
+„Nicht dauerhaft.“
+
+„Wie lange?“
+
+„Das kann ich Euch nicht genau sagen.“
+
+Enna drückte ihrem Bruder eine breite Holzschaufel in die Hand.
+
+„Dann interessiert mich die genaue Dauer jetzt auch nicht mehr. Weg von der Tränke damit.“
+
+Hagen nahm die Schaufel entgegen, ohne den Blick vom Boden zu lösen.
+
+„Ich habe für heute schon ausgemistet.“
+
+„Dann weißt du ja, wie es geht.“
+
+Minthara ging zum Wagen, holte einen leeren Eimer und stellte ihn neben ihn.
+
+„Ich halte ihn nicht.“
+
+Brienne nahm sich die zweite Schaufel.
+
+„Das hat auch niemand verlangt.“
+
+Gemeinsam brachten sie die gröbsten Reste an den Rand des Misthaufens. Als Hagen dort den Eimer leerte, begann die Masse bereits dünner zu werden.
+
+Er betrachtete das Werkzeug.
+
+„Die Quittung war noch zu billig.“
+
+* * *
+
+Zum Essen gab es Gerstensuppe, Brot und Käse. Enna stellte den Topf selbst auf den Tisch und setzte sich dazu.
+
+Hagen zeichnete währenddessen die Abzweigung auf die Rückseite eines alten Futterzettels. Der Weg führte zunächst östlich durch einen Buchenwald, umging den Steinbruch und traf weiter nördlich wieder auf die Handelsstraße. Für den Wagen war er passierbar, wenn auch langsamer.
+
+„Am Hang nicht auf den schmalen Reitpfad geraten“, sagte er. „Der sieht besser aus, als er ist.“
+
+Triss prägte sich die Zeichnung ein.
+
+Minthara fragte nach dem Suchreiter: ein einzelner Mann auf einem Schimmel, grauer Mantel, Schwert am Sattel. Hagen hatte weder Stab noch Begleitung gesehen.
+
+„Falls er zurückkommt“, sagte Brienne, „müsst Ihr nicht für uns lügen.“
+
+Enna schob ihre Schale fort.
+
+„Das entscheiden wir, wenn er hier steht.“
+
+* * *
+
+Als sie aufbrachen, hatte der Regen nachgelassen.
+
+Bero und Tamm zogen den Wagen durch das Tor. Magrat saß wieder unter der Plane, diesmal mit trockenen Füßen und der Schüssel vorsorglich neben sich. Triss hielt Rhens Mantel auf dem Schoß und arbeitete an einer kleinen Falte, die in ihrer Verhüllung noch immer falsch fiel.
+
+Hagen blieb mit seiner Schwester in der Durchfahrt stehen. Hinter ihnen lehnte die frisch abgespülte Schaufel an der Wand.
+
+„Gute Reise“, rief er.
+
+„Und keinen weiteren Alfred“, ergänzte Enna.
+
+Der östliche Weg führte bald zwischen glatten Buchenstämmen hindurch. Brienne ging an den steileren Stellen neben dem Wagen. Minthara hielt sich einige Schritte voraus, wo sie die nächste Biegung sehen konnte.
+
+Mit dem schwindenden Licht wurde es kühler. Die Pferde arbeiteten ruhig, doch die Räder kamen im weichen Waldboden nur langsam voran.
+
+Als Minthara zurückkehrte, hatte sie einen geeigneten Lagerplatz gefunden: eine ehemalige Köhlerstelle, etwas oberhalb des Weges. Dort war der Boden fest, ein niedriger Erdwall hielt den Wind ab.
+
+„Kein Dach“, sagte sie. „Aber Platz für Wagen und Pferde. Auf der Straße wären wir erst lange nach Dunkelheit wieder.“
+
+Brienne prüfte den Himmel.
+
+„Die Tiere brauchen Ruhe. Wir ebenfalls.“
+
+Triss nickte. „Ich möchte die endgültige Verhüllung morgen bei Tageslicht versuchen.“

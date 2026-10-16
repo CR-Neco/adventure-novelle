@@ -31,4 +31,4 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt (Sitzung 15./16. Oktober 2026):** Eibenbrück, am Morgen, noch vor dem Aufbruch. Bram ist stillgelegt. Rhen bleibt im Dorf; Wagenillusion mit Magrat als Rhen und späteres Rückzugsportal sind besprochene Optionen. Gefährtinnen erledigen Vorbereitungen. **Skarra ist am Zug:** Möchte sie vorher noch etwas persönlich erledigen? Siehe KAMPAGNENSTAND.md.
+**Aktueller Haltepunkt (Zwischenstand 16. Oktober 2026):** Abend des ersten Reisetages, Köhlerstelle am östlichen Waldumweg nach dem Gutshof. Skarra hat dem Lager bereits zugestimmt und eine neue Fleischwurmwache angeordnet. Nächste Szene: Lager einrichten und absichern. Golem Alfred ist entlassen, Bero und Tamm ziehen den Wagen. Siehe KAMPAGNENSTAND.md.

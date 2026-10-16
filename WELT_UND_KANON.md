@@ -109,3 +109,19 @@ Gruppe zurück in Eibenbrück, noch vor Tagesanbruch. Toman hat Abschied genomme
 - Portal hinein nach bloßer Beschreibung von Triss abgelehnt.
 - Für möglichen Rückweg vorher einen äußeren sicheren Zielort persönlich prüfen. Portal braucht ungestörte Zeit; Verletzte müssen bis zur Zauberin gebracht werden. Kein garantierter Fluchtweg.
 - Haltepunkt: kleiner Nebenraum im Gasthaus, Morgen; noch vor Abreise. Skarras letzte Erledigungen offen. KAMPAGNENSTAND.md ist aktuell.
+
+## Laufende Sitzung – 16. Oktober 2026
+
+- Bram wiederbestattet; Skarras Prüfung am Grab fand keine Lebenskraft. Brienne beobachtete die Prüfung.
+- Dorf verlassen; Rhen, andere Gefangene und Verletzte bleiben zurück. Lieferlisten, zwei Wechselquittungen und Empfang mit Oswins Unterschrift bei Gruppe.
+- Brückensperre am verlassenen Zollhaus: Rulf mit Jagdgewehr, zwei Männer, Frau mit Bogen, zwei Kinder. Angeblicher Achsbruch vorgetäuscht. Triss versetzt Wagen magisch; Gruppe vermeidet Eskalation und fährt weiter. Keine getöteten / festgenommenen Personen.
+- Skarra nennt den Fleischgolem **Alfred**.
+- Gutshof mit verwitterter Tafel (drei weiße Blätter): **Enna** betreibt ihn, Bruder **Hagen** hilft. Hagen erkennt eigene Quittung; bestätigt Pferdewechsel / Menschen unter Plane. Seine Angabe über Krankenfahrten stammt von Rhen.
+- Laut Hagen suchte ein Reiter aus der Abtei nach Rhen: Schimmel, grauer Mantel, Schwert am Sattel, allein, keine gesehenen Stäbe; nach Süden aufgebrochen. Nicht persönlich getroffen, aktueller Aufenthaltsort unbekannt.
+- Zwei Braune **Bero** (Blesse) und **Tamm** gegen Silber gekauft, Beleg von Hagen. Alfred nach Abschirren entlassen, glibbrige vergängliche Reste weggeräumt.
+- Kurze Rast, dann zum Schutz der Hofleute anderer Weg: östlich durch Buchenwald, um Steinbruch, später wieder Handelsstraße. Wagenpassierbar, schmalen Reitpfad am Hang meiden.
+- Abend: ehemalige Köhlerstelle etwas über Weg, fester Boden, Windschutz durch niedrigen Erdwall, kein Dach. Lager von Skarra akzeptiert, neuer Fleischwurm als Wache angeordnet; Aufbau noch nicht weitererzählt.
+
+### Beschwörungen – autorisierte Kontinuitätskorrektur
+
+Auf Spielerwunsch im Roman beiläufig geschlossen: drei Knochenkundschafter beim Entfernen der Wagen von der Mühle zerfallen; Stallwurm beim Verlassen Eibenbrücks zusammengebrochen, von Wirt / Marta bemerkt. Keine unbegrenzten Fernwachen. Beschworene Materie vergeht nach Ende der Bindung, bei Fleischwesen gegebenenfalls nach einer kurzen Sauerei. Siehe SPIELREGELN.md. Neuer Lagerwurm ist eine neue Beschwörung; Alfred ist nicht mehr aktiv.

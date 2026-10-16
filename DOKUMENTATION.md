@@ -1,6 +1,6 @@
 # Dokumentation und laufende Buchpflege
 
-## Aktueller Synchronisierungsstand – Sitzung 15./16. Oktober 2026
+## Aktueller Synchronisierungsstand – Zwischenstand 16. Oktober 2026
 
 **Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt weiterhin für die ausdrücklich gewünschte Markdown-Fortschreibung.
 
@@ -47,3 +47,11 @@ Die GitHub-Anbindung kann Textdateien unmittelbar pflegen; für **binäre DOCX-D
 - Autorisierte Skarra-Erzählung über Zhaitan sowie die ausdrücklich vom Spieler gewünschte Darstellung ihrer Gedanken zur Rhen-Befragung bleiben im Roman. Das sind eng begrenzte Erzählaufträge dieser Sitzung, keine allgemeine Aufhebung ihrer ausschließlichen Spielersteuerung.
 - Spielertexte bleiben markiert. OOC-Regieanweisungen, Recherchenachweise und Spielzug-Aufforderungen sind nicht Teil des Romans.
 - Skarras neue Original-Hintergrundgeschichte wurde nicht als automatisch offengelegte Kindheitserzählung angehängt. Die Gefährtinnen kennen nur ihre Andeutung und den am Tisch erzählten Zhaitan-Feldzug.
+
+## Kontinuitätskorrektur auf Spielerwunsch – 16. Oktober 2026
+
+- Die zuvor offenen Enden der Beschwörungen im Roman ausdrücklich geschlossen: Knochenkundschafter zerfallen beim Rücktransport von der Mühle, Fleischwurm aus Brams Stall beim Verlassen Eibenbrücks.
+- Damit die zweite Ergänzung an ihrer tatsächlichen Stelle steht, auch die bereits gespielte Reise bis zum Lager-Vorschlag an der Köhlerstelle vollständig in Markdown übernommen. OOC-Regie nicht eingefügt; autorisierte Inhalte literarisch ausgearbeitet. Keine neue Lagerhandlung erfunden.
+- Allgemeine Reichweiten-/Entlassungsvereinbarung in SPIELREGELN.md ergänzt; aktueller Beschwörungsstatus in KAMPAGNENSTAND.md, Welt und Übergabe berichtigt.
+- Fleischgolem Alfred ist am Gutshof entlassen, Bero / Tamm übernommen. Neuer Fleischwurm am Lager vom Spieler angeordnet, bei nächster Fortsetzung auszugestalten.
+- Word bleibt wie vereinbart unverändert; spätere Synchronisierung umfasst auch diese Reise und die autorisierten Eingriffe in ältere Passagen.

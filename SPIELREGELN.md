@@ -79,3 +79,11 @@ Die Geschichte ist ein frei gespieltes, zugleich als Roman fortgeschriebenes Abe
 - **Spannung nicht durch vorgetäuschte Todeslotterien erzeugen:** Konzentriere dich auf das Wie einer Rettung, die Kosten, verpasste Chancen, bleibende Verletzungen, moralische Dilemmata, Beziehungsfolgen und das Scheitern wichtiger Ziele. Keine garantierten Siege und keine folgenlosen Rücksetzungen.
 - **Nebenfiguren und Gegner** sind durch diese Vereinbarung nicht pauschal vor dem Tod geschützt.
 - Die Grenze ändert **nichts** an der alleinigen Entscheidungsgewalt des Spielers über Skarra und schreibt für keine der fünf Figuren bestimmte Handlungen oder Entwicklungsbögen vor.
+
+## Beschwörungen und erzählerische Kontinuität – Vereinbarung 16. Oktober 2026
+
+- Skarras beschworene Kreaturen bleiben nicht unbegrenzt und unbeachtet an früheren Schauplätzen bestehen. Entlassung oder Ende einer Beschwörung bei Ortswechseln beiläufig mitführen.
+- Entfernt Skarra sich zu weit von zurückgelassenen Dienern, bricht ihre magische Bindung zusammen. Ohne weitere ausdrückliche Anweisung ist dies der erzählerische Regelfall für vergessene / nicht mitgeführte Beschwörungen; keine Zahlen- oder Reichweitenbuchhaltung nötig.
+- Das ist keine plötzliche Kampfschwäche: Nicht willkürlich aktive Diener während einer laufenden, räumlich zusammenhängenden Szene verschwinden lassen. Laufende Einsätze und ausdrücklich getroffene Absprachen beachten.
+- Verbliebene beschworene Materie zerfällt / verschwindet; Fleischwesen dürfen zunächst eine vergängliche glibbrige Sauerei hinterlassen. Keine dauerhaften neuen Leichen oder unbegrenzten Fernwachen daraus ableiten.
+- Autorisierte Romanergänzungen: Die drei Knochenkundschafter zerfallen beim Rücktransport von der Mühle; der Fleischwurm im Stall fällt beim Verlassen Eibenbrücks zusammen. Alfred wurde am Gutshof ausdrücklich entlassen.
