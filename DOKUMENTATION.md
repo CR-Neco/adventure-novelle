@@ -87,3 +87,11 @@ Magrat spricht darin nicht sichtbare nächtliche Besucher zwischen den Buchen an
 **Dies ist eine bewusste Änderung ausschließlich der Buchversion**, keine nachträglich ausgespielte Handlung. Keine Kenntnis Skarras oder der anderen Gefährtinnen daraus ableiten; der Spielverlauf und Haltepunkt bleiben unverändert. Es handelt sich um den **ersten kleinen sonderbaren Hexenmoment** Magrats. Weitere seltene, unaufdringliche Möglichkeiten und eine eventuell erst später geeignete TOD-Begegnung sind als **unverbindliche Spielleiterimpulse** in `CHARAKTERENTWICKLUNG.md` notiert. Keine dieser Ideen ist bereits geschehen oder garantiert.
 
 **Synchronisierung:** Der Word-Export bleibt unverändert und ist weiterhin älter als Markdown. Bei einem späteren DOCX-Abgleich **auch diesen Einschub** übernehmen. Für weitere rückwirkende Buchergänzungen jeweils Spielerfreigabe einholen.
+
+## Zweite nachträgliche Buchergänzung – der vierte Becher (17. Oktober 2026)
+
+Auf ausdrückliche Freigabe des Spielers wurde im Markdown-Roman, Kapitel **„Ein Zeichen des Vertrauens“**, die Passage bei der Bier-Runde am Hof verändert (Commit `bbbda7c2b708c590c88433a4360c52dec88afed6`). Statt dass Minthara einen vierten Becher holen geht, verweist Magrat beiläufig auf **„den vierten“**: Er steht plötzlich neben den zuvor gezählten drei Bechern. Minthara und Brienne sind irritiert; Magrat findet nichts erklärungsbedürftig. Der restliche Verlauf, einschließlich Toast und anschließendem Übungskampf, bleibt bestehen.
+
+**Buchversion, nicht Spielversion:** Diese kleine Unwahrscheinlichkeit wurde **nachträglich** in eine bereits gespielte Szene eingefügt, ohne einen zusätzlichen Spielzug oder eine neue Reaktion Skarras zu erfinden. Nicht als rückwirkend von Skarra wahrgenommenes oder besprochenes Ereignis behandeln. Der aktuelle Haltepunkt bleibt unverändert. **Word-Export weiterhin nicht synchron**; auch diese Änderung beim nächsten DOCX-Abgleich übernehmen.
+
+Damit existieren im Roman zwei dezente Hexenmomente Magrats (Köhlerstelle, vierter Becher). Die optionale spätere **TOD-Szene** kann nun organischer vorbereitet wirken; sie ist ausdrücklich **noch nicht geschehen** und keine Pflicht. Spielleiterhinweise in `CHARAKTERENTWICKLUNG.md`.
