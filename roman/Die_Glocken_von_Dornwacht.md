@@ -2750,7 +2750,7 @@ Die Speerspitze schoss auf Skarras Körpermitte zu. Hinter ihr versperrte die ni
 
 <!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
 
-> **SKARRA / SPIELER:** Es war, als wenn das wenige Licht um Skarra mit einem Zischen eingesogen wurde und wie ein Ballon platzte. Er platzte und gab eine düstere Gestalt frei. Zwei grüne Augen funkelten. In der Hand schwang die Gestalt eine riesige Sense, deren Klinge aus purem Schatten zu bestehen schien. Die Gestalt machte einen Schritt nach links und wirbelte um seine Achse. Die Sense fuhr durch Berold und den Pferdekopf und hinterließ dabei einen grünen Schleier, der gleichsam wie das Licht durch die Gestalt eingesogen wurde.
+> **SKARRA / SPIELER:** Es war, als würde das wenige Licht um Skarra mit einem Zischen eingesogen. Dann barst die Dunkelheit wie ein überdehnter Ballon und gab eine düstere Gestalt frei. Zwei grüne Augen funkelten. In der Hand schwang die Gestalt eine riesige Sense, deren Klinge aus purem Schatten zu bestehen schien. Die Gestalt trat nach links und wirbelte um die eigene Achse. Die Sense fuhr durch Berold und den Pferdekopf und hinterließ dabei einen grünen Schleier, der gleichsam wie das Licht durch die Gestalt eingesogen wurde.
 
 <!-- ENDE SPIELERBEITRAG -->
 
@@ -2758,7 +2758,7 @@ Berolds Speerspitze fuhr widerstandslos in die wirbelnde Dunkelheit.
 
 Sein Schrei brach ab. Der Speer fiel ihm aus den Händen; er taumelte seitwärts und schlug mit der Schulter auf die Straße. Grünes Leuchten löste sich von seinem Körper und wurde in Skarras Schleier gerissen.
 
-Mit einem kurzen, schrillen Schrei des Schmerzes brach das Tier zusammen, als die Sense traf. Ein jähes Zucken ging durch seinen Körper, der schwere Atem erlosch, und das Pferd sank leblos in den staubigen Boden. Grüne Fäden aus pulsierendem Licht suchen ihren Weg in den Schleier. Für einen Augenblick hielten Geschirr und Deichsel es noch. Dann gaben auch sie nach. Das Gewicht riss das zweite Tier zur Seite, der Wagen ruckte vor und blieb schräg über dem Weg stehen. Ein Rad hob sich aus der ausgefahrenen Spur und schlug wieder auf.
+Mit einem kurzen, schrillen Schrei des Schmerzes brach das Tier zusammen, als die Sense traf. Ein jähes Zucken ging durch seinen Körper, der schwere Atem erlosch, und das Pferd sank leblos in den staubigen Boden. Grüne Fäden pulsierenden Lichts lösten sich aus dem sterbenden Tier und wurden in den Schleier gerissen. Für einen Augenblick hielten Geschirr und Deichsel es noch. Dann gaben auch sie nach. Das Gewicht riss das zweite Tier zur Seite, der Wagen ruckte vor und blieb schräg über dem Weg stehen. Ein Rad hob sich aus der ausgefahrenen Spur und schlug wieder auf.
 
 Der Fuhrmann verlor die Zügel.
 
