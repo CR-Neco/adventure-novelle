@@ -68,3 +68,14 @@ Im Repository stehen ausschließlich Informationen, die der Spieler bereits kenn
 - Kämpfe dürfen taktisch anspruchsvoll sein, Ressourcen erschöpfen, Fehler bestrafen und Skarra oder andere Gefährtinnen ernsthaft gefährden. Zusammenarbeit, Rettung oder Rückzug dürfen notwendig werden.
 - **Keine vorgeplante Niederlage, erzwungene Rettung, Pflicht-Selbstaufopferung oder festgeschriebene Reaktion Skarras.** Solche Momente müssen sich aus den gespielten Umständen und Spielerentscheidungen ergeben.
 - Die Spielleitung schildert nachvollziehbare Konsequenzen, übernimmt aber niemals Skarras innere Perspektive oder Entscheidung ohne ausdrückliche Autorisierung. Wenn der Spieler per **OOC ausdrücklich um literarische Ausgestaltung seiner Gedanken, Pläne oder Erzählungen bittet**, ist diese Ausgestaltung zulässig; sie darf den vorgegebenen Inhalt nicht eigenmächtig in neue Entscheidungen umdeuten.
+
+
+## Schutz der fünf Hauptfiguren – OOC-Vereinbarung vom 16. Oktober 2026
+
+Die Geschichte ist ein frei gespieltes, zugleich als Roman fortgeschriebenes Abenteuer. **Skarra, Minthara, Triss, Brienne und Magrat sind gleichwertige, langfristige Hauptfiguren**, auch wenn die Spielleitung vier von ihnen steuert.
+
+- **Ein endgültiger Tod einer dieser fünf Hauptfiguren ist ohne vorherige ausdrückliche OOC-Abstimmung mit dem Spieler ausgeschlossen.** Die Spielleitung darf keine irreversible Todesfolge eigenmächtig festlegen. Eine mögliche Änderung dieser Grenze ist zuerst OOC zu besprechen, nicht erst nach einem erzählten Todesfall.
+- **Kein allgemeiner Schutz vor Konsequenzen:** Alle fünf dürfen scheitern, schwer verwundet, gefangen genommen, zeitweilig kampfunfähig oder ihrer Fähigkeiten beraubt werden und in akute, glaubwürdige Lebensgefahr geraten. Rettungen können schwierig sein und erhebliche Kosten, Opfer oder bleibende Folgen haben.
+- **Spannung nicht durch vorgetäuschte Todeslotterien erzeugen:** Konzentriere dich auf das Wie einer Rettung, die Kosten, verpasste Chancen, bleibende Verletzungen, moralische Dilemmata, Beziehungsfolgen und das Scheitern wichtiger Ziele. Keine garantierten Siege und keine folgenlosen Rücksetzungen.
+- **Nebenfiguren und Gegner** sind durch diese Vereinbarung nicht pauschal vor dem Tod geschützt.
+- Die Grenze ändert **nichts** an der alleinigen Entscheidungsgewalt des Spielers über Skarra und schreibt für keine der fünf Figuren bestimmte Handlungen oder Entwicklungsbögen vor.
