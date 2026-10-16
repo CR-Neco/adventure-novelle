@@ -2758,7 +2758,7 @@ Berolds Speerspitze fuhr widerstandslos in die wirbelnde Dunkelheit.
 
 Sein Schrei brach ab. Der Speer fiel ihm aus den Händen; er taumelte seitwärts und schlug mit der Schulter auf die Straße. Grünes Leuchten löste sich von seinem Körper und wurde in Skarras Schleier gerissen.
 
-Mit einem kurzen, schrillen Schrei des Schmerzes brach das Tier zusammen, als die Sense traf. Ein jähes Zucken ging durch seinen Körper, der schwere Atem erlosch, und das Pferd sank leblos in den staubigen Boden. Für einen Augenblick hielten Geschirr und Deichsel es noch. Dann gaben auch sie nach. Das Gewicht riss das zweite Tier zur Seite, der Wagen ruckte vor und blieb schräg über dem Weg stehen. Ein Rad hob sich aus der ausgefahrenen Spur und schlug wieder auf.
+Mit einem kurzen, schrillen Schrei des Schmerzes brach das Tier zusammen, als die Sense traf. Ein jähes Zucken ging durch seinen Körper, der schwere Atem erlosch, und das Pferd sank leblos in den staubigen Boden. Grüne Fäden aus pulsierendem Licht suchen ihren Weg in den Schleier. Für einen Augenblick hielten Geschirr und Deichsel es noch. Dann gaben auch sie nach. Das Gewicht riss das zweite Tier zur Seite, der Wagen ruckte vor und blieb schräg über dem Weg stehen. Ein Rad hob sich aus der ausgefahrenen Spur und schlug wieder auf.
 
 Der Fuhrmann verlor die Zügel.
 
