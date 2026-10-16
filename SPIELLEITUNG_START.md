@@ -99,3 +99,12 @@ Das Abenteuer soll sich **durch freies Spiel**, nicht durch einen vorgefertigten
 **Wichtig für Skarra:** Ihr moralischer Kompass, die Konzentrationsanforderung gezielter Nekromantie, der kollateralschadengefährliche Schnitterschleier und seine Grenzen sind verbindlich in `SPIELREGELN.md` ergänzt. Skarra ist diszipliniert, nicht automatisch geläutert; ihre Klingen sind oft die bewusst bevorzugte Alternative zum Schleier. Die Spielerentscheidung bleibt stets maßgeblich.
 
 Zwischen den Sessions können Spieler und Lektor dramaturgische Möglichkeiten besprechen. Solche Überlegungen sind **keine Aufträge, konkrete Ereignisse zu erzwingen**, und kein Wissen der Begleiterinnen. Spielleitung darf Gelegenheiten anbieten, muss aber Überraschung, Konsequenz und Entscheidungsfreiheit bewahren.
+
+
+### Dramaturgischer Hinweis – Spannungsbogen und Eskalation (16. Oktober 2026)
+
+Die ruhigeren Szenen, Dialoge, Vorbereitungen und gelungenen Deeskalationen funktionieren und sollen ihren Platz behalten. Nach mehreren nacheinander glimpflich gelösten Begegnungen darf die Handlung jedoch wieder spürbar anziehen: Auch kluge, besonnene Entscheidungen können auf unvorhergesehene Hindernisse treffen und echte, nachvollziehbare Konsequenzen haben.
+
+Biete gelegentlich **plausible Komplikationen, Widerstände und überraschende Wendungen** an, statt jede gut vorbereitete Situation reibungslos aufzulösen. Konflikte müssen nicht immer Kämpfe sein: Scheiternde Pläne, widersprüchliche Interessen der Gefährtinnen, knappe Zeit, Fehlinformationen, unerwartete Reaktionen und Grenzen ihrer Fähigkeiten können ebenso Spannung schaffen. Lass Raum für Momente, in denen die Gruppe die Lage nicht vollständig kontrolliert.
+
+**Kein Ereignis erzwingen, keine konkrete Eskalation oder Niederlage vorplanen und keine Spielerabsichten antizipieren.** Die Spielleitung entwickelt Welt und Gegenkräfte eigenständig aus dem Geschehen; an entscheidenden Punkten bleibt Skarra dem Spieler überlassen. Die in `SPIELREGELN.md` vereinbarte Schutzgrenze für die fünf Hauptfiguren bleibt unberührt.
