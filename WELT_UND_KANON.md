@@ -157,3 +157,14 @@ Valdorn bleibt frei von Pulver-Schusswaffen und Schwarzpulvergeschützen. Fernka
 - Mintharas Armschnitt zunächst versorgt, später mit Skarras **Siegel der Pest** auf eine Ratte übertragen / geschlossen. Skarra erklärt im privaten Gespräch benötigte Vertrautheit / Bindung. Nur Minthara kennt diese Erklärung sicher.
 - Freundschaft / Vertrauen der beiden wächst durch Gespräch und Hilfe. **Keine Romantik zwischen Skarra und Minthara** (Spielervereinbarung).
 - Letzte Szene: kleines Bierfässchen vor Scheune; Skarra / Minthara / Brienne / Magrat in Runde, Triss schläft, Hinnerk schläft, Jost / Wulf erste Wache. Minthara stößt auf Ersatzrad an, Brienne stimmt zu; Skarras Antwort offen.
+
+## Übung und Nachtmeldung – Abschluss 16. Oktober 2026
+
+- Skarras zwei Klingen heißen **Asche** und **Stille**.
+- Langsame spielerische Übung vor Scheune: Brienne leiht Minthara kurz ihr längeres Schwert. Minthara gibt es zurück und übt dann Beinarbeit mit eigenem Schild / Schwert. Kein neuer Kampfstil gemeistert / kein Wechsel weg vom Schild.
+- Skarra erläutert ableitende Klinge, Angriff / Deckung und Bewegung aus Linie; Brienne kommentiert praktisch, Magrat humorvoll. Minthara möchte Übung bei Gelegenheit wiederholen, kurze Warnung im Kampf statt langer Erklärung.
+- Wulf lässt Laterne wegen Sichtbarkeit vom Weg herunterdrehen.
+- Drei **neue** Knochenkundschafter als Hofpatrouille beschworen; Skarra legt sich in Scheune ins Stroh. Alte Beschwörungen bleiben beendet.
+- Erste Wache Jost / Wulf, dann Brienne. Jetzt Nacht, nicht Morgen. Ein Kundschafter läuft zwischen Brienne / Scheune und **Nordmauer**; Brienne hörte zweimal Metall an Stein, keine sicher zugeordneten Schritte oder Rufe.
+- Brienne meldet sich bei Skarra am Lager; Minthara wach am Haus, Triss / Magrat schlafen. Ursache / Wesen / Absicht unbekannt, kein heimlicher Masterplan als Tatsache dokumentiert.
+- Haltepunkt unmittelbar vor Skarras Reaktion. Kein aktueller Angriff oder bereits entdeckter Eindringling bestätigt.

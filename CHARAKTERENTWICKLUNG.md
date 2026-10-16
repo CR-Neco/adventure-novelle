@@ -84,3 +84,9 @@ Als Kontrast schätzt der Spieler auch Karlachs direkte, herzliche und ungebrems
 - Brienne / Triss arbeiteten bei Radreparatur zusammen; Triss ließ Untersuchung der Asche auf Briennes Rat für heute ruhen.
 - Magrat behandelte Hinnerk trotz Angst der Hofleute als lebenden Verletzten, Alva beteiligte sich praktisch an Evakuierungsvorbereitung.
 - Aktuelle Abendrunde ruhig, ohne obligatorische neue Bedrohung oder erzwungenes Enthüllungsgespräch. Triss schläft; Rundenbeiträge der anderen können organisch weitergehen.
+
+## Beobachteter Nachtrag – Übung, 16. Oktober 2026
+
+- Skarra / Minthara probierten langsam Techniken aus; Minthara hielt an vertrautem Stil fest und nahm gezielte Hinweise zur Beinarbeit an. Kein erzwungener Kompetenzverlust / schneller neuer Meistergrad.
+- Brienne beteiligt sich als erfahrene Beobachterin, kann eigene Einschränkungen anerkennen; Magrat trägt Humor / Aufmerksamkeit bei. Freundschaftliches Ausprobieren ohne romantische Ebene.
+- Neue Kundschafter sichern Hof, aktuelle Nachtmeldung unbekannter Ursache. Nicht aus dramaturgischem Wunsch vorschnell einen bestimmten Angreifer, Verrat oder Ausgang festlegen. Spieler entscheidet als Nächstes für Skarra.

@@ -1,42 +1,41 @@
 # Kampagnenstand – Die Glocken von Dornwacht
 
-**Dokumentationsstand:** Ende der Sitzung vom 16. Oktober 2026, Abendrunde auf dem Hof.
+**Dokumentationsstand:** Sitzungsende 16. Oktober 2026, nächtliche Meldung an der Nordmauer.
 **Status:** pausiert; Skarra ist am Zug.
-**Spielzeit und Ort:** Abend des zweiten Reisetages, Hof von Alva, Hinnerk, Jost und Wulf nördlich der Furt. Übernachtung vereinbart, Weiterreise am nächsten Morgen noch nicht gespielt.
+**Spielzeit und Ort:** Nacht nach dem zweiten Reisetag, auf Alvas / Hinnerks / Josts / Wulfs Hof. Erste Wache der Hofmänner beendet, Brienne hält nun Wache. Noch nicht Morgen, noch keine Weiterreise.
 
 ## Exakter Haltepunkt
 
-Skarra wollte vor dem Schlafen eine Stärkung. Minthara holte das kleine Bierfässchen vom Wagen. Brienne und Magrat kamen hinzu. Triss schläft bereits im Haus. Minthara schenkte ein und hob den Becher.
+Nach lockerer Waffen-/Beinarbeitsübung und Abendrunde beschwor Skarra drei neue Knochenkundschafter zur Patrouille und legte sich in der Scheune ins Stroh. Jost / Wulf hielten zunächst Wache. Brienne löste sie ab und kam später zu Skarras Lager.
 
-**Letzte gespielte Worte:**
-> „Auf das Ersatzrad.“
->
-> Brienne sah von ihrer Naht auf.
->
-> „Darauf kann ich trinken.“
+Einer der Knochenkundschafter läuft ungeduldig zwischen Brienne und der **Nordmauer** hin und her. Brienne hörte dort **zweimal Metall an Stein**, keine sicher zugeordneten Schritte oder Rufe. Noch keine Sichtung / Identifizierung eines Angreifers oder sonstige Erklärung.
 
-Skarra hat noch nicht reagiert. **Kein eigener Toast, Trinken, Zubettgehen oder Aufbruch für sie vorgegeben.** Beim Wiedereinstieg an diese ruhige Runde anschließen und den Spieler reagieren lassen. Nicht direkt zum Morgen springen, sofern er dies nicht freigibt.
+**Letzte direkte Rede (Brienne):**
+> „Minthara ist wach und am Haus. Triss und Magrat schlafen noch.“
+
+**Letzter Erzählabsatz:**
+> Draußen bewegte sich der kleine Diener einige Schritte vor, blieb stehen und sah zurück. Dann lief er weiter zum dunklen Hofrand.
+
+**Offener Zug:** Skarras Reaktion auf die Meldung. Geht sie mit Brienne nachsehen oder sorgt sie anders vor? Nicht für sie Aufstehen, Bewaffnung, Magie oder Marsch zur Mauer vorwegnehmen. Keine Auflösung des Geräuschs, keine weitere Nacht oder Morgen spielen, bevor der Spieler handelt.
 
 ## Positionen und Aufgaben
 
-- **Skarra:** bei der Bank vor der Scheune, in der kleinen Abendrunde. Beide Schwerter wieder in ihrem Besitz, keine eigene Verletzung gespielt. Ihr Kapuzenstatus wurde nach dem Kampf nicht ausdrücklich geändert; nicht automatisch neues Auf-/Absetzen erfinden.
-- **Minthara:** an der Bank, hat gerade auf das Ersatzrad angestoßen. Ihre Schnittwunde am Unterarm ist durch Skarras Zustandstransfer **geschlossen**; nicht weiter als blutend behandeln. Später Wache vor Morgengrauen.
-- **Brienne:** auf einem Schemel neben der Bank, näht den im Bach beschädigten Schwertgurt. Schulter nach Wagenheben beansprucht, keine schwere Verletzung festgelegt. Später Ablösung der ersten Wache.
-- **Magrat:** auf niedriger Schwelle neben der Runde. Hat Hinnerk versorgt; dieser schläft. Sie wird bei ihm schlafen.
-- **Triss:** schläft bereits in einem Bett im Haus, nach Furtkampf / Wagenhebung erschöpft. Keine aktive Illusion. Probe / Papiere gesichert.
-- **Jost und Wulf:** erste Wache gemeinsam; Tor verriegelt. Jost hat das Ersatzrad montiert, Wulf unterstützt Evakuierungsvorbereitung.
-- **Alva:** im Haus / bei Hinnerk, genauer jüngster Standort nicht erneut festgelegt.
-- **Hinnerk:** lebend, schläft im Haus; Verletzung am Handgelenk und weitere durch Josts Schlag / Angriff, keine nachgewiesene aktive Nekromantie. Nicht mehr eingesperrt.
-- **Bero / Tamm:** versorgt auf dem Hof; keine Verletzung gespielt. Wagen mit **getestetem Ersatzrad**, alte beschädigte Nabe bleibt auf Werkbank.
-- **Vorräte / Ausrüstung:** Wasserschläuche aufgefüllt; einer an Furt zerstört, Restleder Jost überlassen. Papiere trocken, aktive Probenkiste dicht / gesichert. Kleines Fässchen dunkles Bier geöffnet.
-- **Beschwörungen:** aktuell **keine** am Hof. Köhler-Fleischwurm beim Abbruch des Lagers zusammengebrochen. Frühere Diener ebenfalls beendet. Brunnen der Kraft an Furt längst verblasst.
-- **Rhen / Dorfgefangene / Verletzte:** wie zuvor in Eibenbrück, keine neue Nachricht.
-- **Lennart:** nach Versorgung zum Steinbruchabzweig geritten; weiterer Verbleib unbekannt, kein Wissen über Wagen / Wurm.
-- **Hagen / Enna:** am früheren Gutshof. Aufnahme der neuen Hofbewohner nicht mit ihnen vereinbart.
+- **Skarra:** am Strohlager in der Scheune, von Brienne angesprochen. Hatte sich schlafen gelegt; keine abgeschlossene lange Rast / vollständige Erholung zusagen. Beide Schwerter gehören ihr, wurden **Asche** und **Stille** genannt. Genaue Ablage / Trageposition am Schlafplatz nicht beschrieben.
+- **Brienne:** mit Helm bei Skarras Lager, Schwert noch in Scheide. Hält aktuelle Wache; hat Geräusch gehört, Kundschafterverhalten beobachtet, Skarra informiert.
+- **Minthara:** laut Brienne wach **am Haus**. Kein genauerer Standort / nächste Handlung festgelegt. Armschnitt seit Transfer geschlossen. Bleibt bei Schwert / Schild, Briennes geliehenes Schwert zurückgegeben.
+- **Triss:** schläft im Haus.
+- **Magrat:** schläft noch, nach Abendrunde / Hinnerkversorgung. Keine Kenntnis der Meldung festgelegt.
+- **Jost / Wulf:** erste Wache beendet, von Brienne schlafen geschickt. Nicht automatisch erneut alarmiert.
+- **Alva / Hinnerk:** im Hofhaus; Hinnerk versorgt, zuletzt schlafend, keine neue Entwicklung.
+- **Beschwörungen:** **drei neue Knochenkundschafter aktiv** auf Patrouille im / um den Hof. Einer bei Scheunenausgang / Weg zur Nordmauer, genaue aktuelle Position der beiden anderen nicht festgelegt. Nicht mit früher zerfallenen Dienern verwechseln. Kein Fleischwurm oder Golem am Hof.
+- **Wagen / Bero / Tamm:** auf Hof, Ersatzrad montiert und getestet, Tiere versorgt. Keine neue Beschädigung / Entwendung beobachtet.
+- **Proben / Papiere / Ausrüstung:** weiterhin gesichert, kein neuer Zugriff festgestellt.
+- **Tor / Licht:** Tor war verriegelt, Laterne auf Wulfs Bitte heruntergedreht; Laterne im Hof nicht hell zum Weg sichtbar halten.
+- **Gefangene / frühere Nebenfiguren:** bleiben wie zuvor in Eibenbrück; Lennarts weiterer Verbleib unbekannt.
 
 ## Aktueller Gruppenplan – beschlossen, noch umzusetzen
 
-1. Übernachtung auf diesem Hof; am nächsten Morgen Rad nach erster halber Stunde Fahrt kontrollieren und gemeinsam Richtung Abtei weiter. Nacht / Weiterfahrt noch nicht gespielt.
+1. Aktuell nächtliche Meldung prüfen / darauf reagieren. Danach soweit möglich Rast beenden. Plan bleibt: nächste Morgen getrennt von Hofleuten aufbrechen, Rad nach erster halber Fahrstunde prüfen; Morgen / Abreise noch nicht gespielt.
 2. Rhen und die übrigen Gefangenen im Dorf lassen. Skarra versprach, nach den Kranken der Abtei zu sehen und sie **wenn möglich** zu befreien.
 3. Mit vorhandenem Wagen / Papieren nach Norden. Erster Gutshof erreicht und Route dort bestätigt. Wegen Suchreiter nun östlicher, wagenpassierbarer Waldumweg, der nördlich wieder zur Handelsstraße führt; schmalen Reitpfad am Hang meiden. Gesamtentfernung Abtei etwa drei Tagesreisen zu Fuß; Wagenfahrten mit Pferdewechsel schneller.
 4. Vor der Abtei selbst Tor und Kanal erkunden. Endgültige Zugangswahl abhängig vom Befund.
@@ -47,7 +46,20 @@ Skarra hat noch nicht reagiert. **Kein eigener Toast, Trinken, Zubettgehen oder 
 
 
 
-## Neue Sitzung – Kampf an der Furt und Hofrast, 16. Oktober 2026
+
+## Letzte Teilsitzung – Übung und nächtliche Meldung, 16. Oktober 2026
+
+- Skarra benennt Schwerter **Asche** und **Stille**, bietet Demonstration an. Brienne leiht Minthara ihr längeres Schwert, Magrat rettet die Becher / kommentiert trocken.
+- Langsame Demonstration mit Parade-/Ableitbewegung und Schritt aus Linie. Beim Vergleich ohne Ausweichen bleibt Risiko durch Mintharas zweite Waffe / Position sichtbar.
+- Minthara gibt Brienne deren Schwert zurück und übt mit vertrautem Schild / Schwert. Skarra erklärt Beobachtung von Schultern / Hüfte, kleine Schritte, eigene Klinge weiter einsetzen.
+- Minthara korrigiert Fußstellung, wird im Üben etwas flüssiger; kein in einem Abend gemeisterter Zweiwaffenkampf, kein Aufgeben des Schilds. Brienne gibt Hinweise / räumt durch Hinweis auf Stein Rückraum frei, würdigt Nutzen für sich.
+- Magrat beteiligt sich mit Humor, nicht als hilflose Zuschauerin. Wulf bittet Licht herunterzudrehen, da vom Weg sichtbar.
+- Minthara bittet um kurze Warnung, falls sie im nächsten Kampf wieder feststeht, will bei ruhigem Moment üben. Skarra: „Das wird mir ein Vergnügen sein.“
+- Skarra beschwört drei neue Kundschafter als Warnpatrouille, legt sich schlafen. Wulf wird über Zugehörigkeit informiert, damit keine Verwechslung mit Feind geschieht.
+- Erste Wache von Jost / Wulf ereignislos abgesehen von Hofgeräuschen / Dienerklappern. Brienne löst ab, später Meldung Nordmauer (siehe Haltepunkt).
+- Nachtwache Mintharas vor Morgengrauen war geplant, ist noch nicht als reguläre Ablösung gespielt; sie ist durch aktuelle Situation bereits wach.
+
+## Vorheriger Teil – Kampf an der Furt und Hofrast, 16. Oktober 2026
 
 ### Absprache und Kampf
 - Warnruf für Schnitterschleier: **„Ich bin der Tod!“** Gefährtinnen schaffen Abstand, holen notfalls Bewegungsunfähige aus Reichweite, Triss lässt Weg frei. Kein Automatismus der Verwandlung. Skarra nutzte den Schleier in diesem Kampf **nicht**.
@@ -158,4 +170,4 @@ Skarra hat noch nicht reagiert. **Kein eigener Toast, Trinken, Zubettgehen oder 
 
 ## Dokumentation
 
-Roman in Markdown bis zur abendlichen Runde vor der Scheune ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.
+Roman in Markdown bis zur nächtlichen Meldung in der Scheune ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.

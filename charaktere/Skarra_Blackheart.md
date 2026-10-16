@@ -51,3 +51,9 @@ Noch in Entwicklung. Keine vorausgesetzte Führungsrolle, Freundschaft oder Roma
 - Übertrug Mintharas Schnitt mit „Siegel der Pest“ auf Ratte. Erklärte im privaten Gespräch Vertrautheit / Bindung als Voraussetzung, erinnerte an erfolglose Hilfe für frühere sterbende Waffengefährten und entschuldigte fehlende Nachfrage.
 - Beziehung Minthara ausdrücklich freundschaftlich / vertrauensvoll, **keine Romantik**. Keine zusätzlichen Kindheitsdetails preisgegeben.
 - Aktuell bei abendlicher Bierrunde vor Scheune, letzte Reaktion noch offen. Keine neue Verletzung oder aktive Beschwörung am Hof gespielt.
+
+## Fortschreibung – nächtlicher Sitzungsabschluss 16. Oktober 2026
+- Schwerter **Asche** und **Stille** benannt. Führte langsame Demonstration von Ableiten / Gegenangriff und Beinarbeit; kein Auftrag, Mintharas Kampfstil zu ersetzen.
+- Antwort auf mögliche spätere Übung: „Das wird mir ein Vergnügen sein.“
+- Beschwor drei neue Knochenkundschafter auf Warnpatrouille, legte sich im Scheunenstroh schlafen.
+- Jetzt von Brienne wegen Meldung Nordmauer angesprochen. Ihre Reaktion steht aus, keine bereits abgeschlossene lange Rast festgelegt.

@@ -33,3 +33,8 @@ Stolz, intelligent, pragmatisch, taktisch, mit trockenem und häufig scharfem Hu
 - Privates Gespräch: Skarras Angaben über Bindung / frühere Verluste, Vertraulichkeit angeboten, Vertrauen trotz Meinungsverschiedenheiten benannt.
 - **Keinerlei romantische Entwicklung mit Skarra.** Spieler will Freundschaft / Vertrauen; nicht als versteckte Romanze deuten.
 - Später vor Morgengrauen Wache. Aktuell bei Bank, Becher auf Ersatzrad erhoben, Skarras Antwort offen.
+
+## Fortschreibung – nächtlicher Sitzungsabschluss 16. Oktober 2026
+- Probierte Briennes längere Klinge links, gab sie zurück und übte mit vertrautem Schild / Schwert. Korrigierte Fußstellung, akzeptierte Hinweise ohne eigenen Stil aufzugeben.
+- Wünscht kurzen Warnhinweis im Kampf, falls sie wieder feststeht; bietet weitere Übung bei Ruhe an.
+- Am Haltepunkt wach am Haus, Brienne informiert Skarra. Kein Wissen über Ursache des Nordmauergeräuschs.

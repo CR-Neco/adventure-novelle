@@ -1,6 +1,6 @@
 # Dokumentation und laufende Buchpflege
 
-## Aktueller Synchronisierungsstand – Abendpause 16. Oktober 2026
+## Aktueller Synchronisierungsstand – Nachtpause 16. Oktober 2026
 
 **Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt weiterhin für die ausdrücklich gewünschte Markdown-Fortschreibung.
 
@@ -70,3 +70,9 @@ Markdown ab vorheriger offener Kampfabsprache vollständig ergänzt: erneute kur
 Nur tatsächlich gespielte Szenen / Dialoge übernommen. Spielerpassagen markiert. OOC-Fragen zu Reisezeiten / Lage, doppelte korrigierte Eingaben und Meta-Absprachen nicht in Roman aufgenommen; endgültige korrigierte Siegel-Passage verwendet. Schrift und Zeichensetzung behutsam geglättet. Vom Spieler OOC autorisierte Handlungen sind durch die tatsächlich erzählte Umsetzung erhalten, nicht als OOC-Text kopiert.
 
 Kampagnenstand, Übergabe, Kanon und Profile aktualisiert. Romantik-Ausschluss / Warnruf / beobachteter Transferfall in SPIELREGELN.md festgehalten. Word bleibt unverändert und ist später mit Markdown abzugleichen.
+
+## Sitzungsabschluss – Asche / Stille und Nordmauer, 16. Oktober 2026
+
+An letzte Bierrunde schließen **„Asche und Stille“** und **„An der Nordmauer“** an: sämtliche gespielten Dialoge der lockeren Übung, drei markierte Spielerpassagen, anschließender autorisierter Patrouillenauftrag / Schlaf und nächtliche Meldung. OOC-Kommentare und Spielzug-Aufforderungen fehlen im Roman.
+
+Ende exakt beim Kundschafter, der am Scheunenausgang zurückblickt und zum dunklen Hofrand läuft. Skarras Reaktion nicht vorweggenommen. Haltepunkt, Namen der Klingen, Positionen und aktive Beschwörungen in Übergabe / Kanon / Profilen nachgeführt. Word bleibt für später unverändert.

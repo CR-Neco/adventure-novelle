@@ -30,3 +30,7 @@ Heilkunde, Kräuterwissen, Schutzmagie, Menschenkenntnis; manchmal unsicher, abe
 - Unterstützt Alvas Erprobung der gepolsterten Holzschleife, soll bei Hinnerk schlafen.
 - Ging am privaten Gespräch Skarra / Minthara nur kurz vorbei, genaue Erklärung nicht automatisch bekannt.
 - Aktuell auf Schwelle in Bier-Runde; Hinnerk / Triss schlafen laut ihrer Auskunft.
+
+## Fortschreibung – nächtlicher Sitzungsabschluss 16. Oktober 2026
+- Beobachtete Übung mit trockenem Humor und hielt Becher aus Waffenreichweite. Kein eigener Kampf / Ausrüstungswechsel daraus abgeleitet.
+- Später schlafen gegangen; am Haltepunkt laut Brienne noch schlafend, Nordmauermeldung nicht automatisch bekannt.

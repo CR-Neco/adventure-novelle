@@ -32,3 +32,8 @@ Ehrenhaft, loyal, entschlossen, kampferfahren; schützt Unschuldige. Moralische 
 - Sichert gerissene Nabe provisorisch mit Triss, hilft bei Einbau / Test Ersatzrad durch Jost.
 - Besteht auf Zugang zu lebendem Hinnerk, befragt Wulf zu Todesfällen, gibt Evakuierungshinweise.
 - Aktuell auf Schemel bei Bier vor Scheune, näht Schwertgurt; später Nachtwache. Privates Skarra-Minthara-Gespräch nicht automatisch bekannt.
+
+## Fortschreibung – nächtlicher Sitzungsabschluss 16. Oktober 2026
+- Lieh Minthara kurz Schwert, erhielt es zurück. Beobachtete Übung, gab Hinweise zu Waffenlänge / Rückraum, erkennt Nutzen der Beinarbeit für sich.
+- Löste Jost / Wulf zur Wache ab. Hörte zweimal Metall an Stein, sah ungeduldiges Verhalten von Skarras Kundschafter.
+- Jetzt mit Helm bei Skarras Strohlager in Scheune, Schwert noch in Scheide. Berichtet Minthara wach am Haus, Triss / Magrat schlafen; Ursache der Meldung offen.

@@ -7499,3 +7499,309 @@ Die Drow hob ihren Becher.
 Brienne sah von ihrer Naht auf.
 
 „Darauf kann ich trinken.“
+
+## Asche und Stille
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra betrachtete Minthara einen Moment lang. „Minthara, Ihr habt vorhin gesagt, dass Ihr hinter Eurem Schild nicht immer erkennen könnt, was um Euch herum geschieht.“ Sie deutete auf den Schild. „Auf offenem Feld mag er Euer Bollwerk sein. Aber wenn Euch der Raum zum Ausweichen fehlt, kann er Euch auch behindern.“ Skarra wandte sich an die Ritterin. „Brienne, würdet Ihr Minthara für einen Augenblick Euer Schwert leihen?“ Dann zog sie langsam ihre beiden Klingen. Sie hob die erste vor ihr Gesicht. „Darf ich vorstellen? Das ist Asche.“ Die zweite Klinge folgte. „Und das ist Stille.“ Ein kaum merkliches Lächeln huschte über ihre Lippen. „Sie sind meine Waffen. Und meine Schilde.“ Skarra ließ beide Klingen sinken und sah Minthara erwartungsvoll an. „Darf ich es Euch zeigen?“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara stellte ihren Becher auf die Bank.
+
+„Ihr dürft. Allerdings war an der Furt der Boden hinter mir das größere Problem. Den hätte mir ein zweites Schwert auch nicht gezeigt.“
+
+Sie betrachtete die beiden Klingen mit neuem Interesse.
+
+„Asche und Stille.“
+
+Brienne zog die Nadel aus dem Leder und legte ihre Arbeit beiseite.
+
+„Mein Schwert ist länger als Eures.“
+
+„Das sehe ich“, sagte Minthara.
+
+„Ihr werdet es links anders führen müssen.“
+
+Die Drow stand auf.
+
+„Dann finde ich vielleicht auch heraus, warum Ihr so gern beide Hände daran habt.“
+
+Brienne holte das Schwert und reichte es ihr mit dem Griff voran. Minthara prüfte sein Gewicht zunächst mit beiden Händen. Dann nahm sie es links und zog ihre eigene Klinge.
+
+Die Spitze von Briennes Schwert sank einen Augenblick tiefer, als sie beabsichtigt hatte.
+
+Magrat nahm die Becher von der Bank.
+
+„Ich stelle die schon einmal hierher.“
+
+„So wenig Vertrauen?“, fragte Minthara.
+
+„Ins Bier? Großes. In seine Fähigkeit auszuweichen keines.“
+
+* * *
+
+Neben der Scheune lag ein freies Stück festgetretener Erde. Eine Laterne hing unter dem Dachvorsprung; ihr Licht reichte bis zum Holzstapel. Minthara ging dorthin und hob beide Waffen.
+
+Sie probierte eine Bewegung mit der rechten Hand. Die längere Klinge links kam ihr dabei in den Weg.
+
+Sie hielt inne, veränderte den Winkel und versuchte es noch einmal.
+
+Brienne trat näher, ohne einzugreifen.
+
+„Mit zwei Waffen kann man sich selbst erstaunlich gründlich beschäftigen“, bemerkte sie.
+
+Minthara sah sie von der Seite an.
+
+„Habt Ihr praktische Ratschläge?“
+
+„Ja. Versucht nicht, mein Schwert wie einen Dolch zu bewegen.“
+
+Die Drow ließ die linke Schulter etwas zurückgehen. Diesmal lagen die Klingen freier voreinander.
+
+Sie blickte zu Skarra.
+
+„Nun gut. Langsam genug, dass ich sehe, was Ihr meint.“
+
+Dann richtete sie ihr eigenes Schwert auf Skarras Körpermitte. Briennes längere Klinge hielt sie tiefer und seitlich, noch ohne recht zu wissen, welchen Raum sie ihr geben sollte.
+
+„Wenn Eure rechte Waffe angreift — wie verhindert Ihr, dass ich Euch währenddessen treffe?“
+
+Magrat setzte sich mit den geretteten Bechern auf die Bank. Brienne blieb am Rand des Laternenlichts stehen, die Arme locker verschränkt.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra lächelte. „Eine ausgezeichnete Frage. Die Antwort ist: Ich versuche gar nicht erst, Euch diese Gelegenheit zu geben.“ Sie stellte sich Minthara gegenüber, die Füße leicht versetzt, die Knie locker. Asche hielt sie vor ihrem Körper, Stille etwas tiefer und seitlich. „Greift mich an. Langsam. Nur mit Eurer rechten Klinge.“ Als Minthara ihr Schwert vorführte, machte Skarra einen kleinen Schritt aus der Angriffslinie. Gleichzeitig nahm Stille die gegnerische Klinge auf und führte sie mit einer kurzen Bewegung seitlich an ihrem Körper vorbei. Asche bewegte sich nahezu im selben Augenblick. Die Spitze kam vor Mintharas Brust zum Stehen, ohne sie zu berühren. Skarra hielt inne. „Seht Ihr? Stille hält Eure Klinge nicht mit Gewalt auf. Sie führt sie dorthin, wo sie mir nicht gefährlich wird. Und während Ihr versucht, Eure Waffe zurückzubringen, hat Asche bereits einen Weg zu Euch gefunden.“ Sie ließ beide Schwerter sinken. „Aber das funktioniert nur, solange meine Füße mitdenken. Bleibe ich stehen, wo Ihr mich treffen könnt, helfen mir auch zwei Schwerter nicht.“ Ein schmales Lächeln. „Und nun versucht dasselbe noch einmal. Diesmal werde ich mich nicht zur Seite bewegen. Ihr werdet sehen, weshalb das eine schlechte Idee wäre.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara sah auf die Stelle vor ihrer Brust, an der Asches Spitze eben gestanden hatte.
+
+„Ihr seid näher herangekommen, als ich erwartet habe.“
+
+Sie zog ihre rechte Klinge zurück. Das geliehene Schwert links blieb zunächst ungenutzt.
+
+Brienne trat einen Schritt zur Seite, um die Füße beider Frauen sehen zu können.
+
+„Noch einmal ebenso langsam“, sagte sie.
+
+„Ich hatte nicht vor, den Hof heute zu bezahlen“, erwiderte Minthara.
+
+Sie führte ihre rechte Klinge erneut vor.
+
+Diesmal blieb Skarra in der Linie. Stille nahm den Angriff auf, doch Minthara spürte den Unterschied sofort: Der Kontakt entstand früher, der Winkel war enger. Ihre Schneide glitt seitwärts, die Spitze blieb jedoch gefährlich nahe an Skarras Körper.
+
+Minthara hielt die Bewegung an.
+
+Briennes Schwert in ihrer linken Hand hatte sich inzwischen gehoben. Nicht weit — gerade genug, dass seine Spitze zwischen ihnen stand.
+
+Einen Augenblick verharrten beide.
+
+„Und jetzt“, sagte Minthara, „habt Ihr noch mich vor Euch.“
+
+Sie nahm die Waffen zurück und senkte sie.
+
+Brienne nickte zu Stille.
+
+„Ihr müsstet mehr Kraft einsetzen, um dieselbe Öffnung zu bekommen. Oder die Bewegung ändern.“
+
+„Und währenddessen könnte ich mit der linken Hand ausgesprochen unbeholfen sein“, ergänzte Minthara. „Was aus dieser Entfernung vermutlich genügt.“
+
+Von der Bank kam Magrats Stimme.
+
+„Ich finde es beruhigend, dass Unbeholfenheit gelegentlich eine brauchbare Fähigkeit ist.“
+
+* * *
+
+Minthara betrachtete ihre beiden Waffen. Dann reichte sie Brienne deren Schwert mit dem Griff voran zurück.
+
+„Für den nächsten Versuch nehme ich wieder meinen Schild.“
+
+Sie holte ihn von der Scheunenwand und schob den Arm durch die Riemen. Die vertraute Bewegung saß sofort; auch ihre Haltung änderte sich. Die linke Schulter kam vor, die rechte Klinge lag geschützt dahinter.
+
+„Euer erster Schritt hat mir gefallen“, sagte sie zu Skarra. „Den möchte ich verstehen. Mit etwas in der Hand, das ich tatsächlich führen kann.“
+
+Brienne blieb mit ihrem zurückerhaltenen Schwert am Rand stehen.
+
+„Dann gebt Ihr ihr diesmal keine gerade Linie. Zeigt ihr, dass Ihr mitgehen könnt.“
+
+Minthara warf ihr einen kurzen Blick zu.
+
+„Ihr könntet mich auch selbst darauf kommen lassen.“
+
+„Ihr könntet mich auch einfach ignorieren.“
+
+„Das wäre unhöflich.“
+
+Magrat verschluckte sich beinahe an ihrem Bier.
+
+Minthara wartete, bis die Hexe wieder Luft bekam, und richtete sich auf Skarra aus.
+
+„Langsam“, sagte sie. „Ihr versucht, an meiner Schildseite vorbeizukommen. Ich versuche, Euch vor mir zu behalten.“
+
+Der Schild stand dicht am Körper. Ihre Klinge blieb tief genug, um die Sicht darüber freizuhalten.
+
+„Mal sehen, wie weit Eure Füße vorausdenken.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+
+> **SKARRA / SPIELER:** Skarra nickte anerkennend. „Sehr gut. Dann behalten wir Euren Schild. Er soll Euch schützen, nicht Euch im Weg stehen.“ Sie hob Asche und Stille, ließ die Spitzen jedoch leicht gesenkt. „Versucht nicht, meine Klingen im Auge zu behalten. Beobachtet meine Schultern und meine Hüfte. Dort beginnt die Bewegung.“ Skarra machte einen langsamen Schritt nach rechts, deutete mit Asche einen Angriff gegen Mintharas Schildseite an und verlagerte dabei ihr Gewicht auf den hinteren Fuß. „Wenn Ihr Euch jetzt nur mit dem Oberkörper dreht, stehen Eure Füße noch immer dort, wo ich Euch haben wollte.“ Sie hielt inne, damit Minthara ihre Stellung korrigieren konnte. „Bewegt Euch mit mir. Kleine Schritte. Haltet mich vor Euch, statt mir mit dem Schild hinterherzujagen.“ Skarra lächelte. „Und vergesst Eure eigene Klinge nicht. Ich bin schließlich nicht die Einzige hier, die jemanden treffen könnte.“
+
+<!-- ENDE SPIELERBEITRAG -->
+
+Minthara hatte den Schild bereits ein Stück herumgenommen. Bei Skarras Halt sah sie kurz nach unten.
+
+Ihr hinterer Fuß stand noch immer am selben Fleck.
+
+„Ja“, sagte sie knapp.
+
+Sie setzte ihn nach, brachte den vorderen wieder unter sich und richtete die Schildkante neu aus. Diesmal stand ihre rechte Schulter frei genug, um das Schwert ohne Umweg vorzuführen.
+
+Die Spitze kam langsam auf Skarras Mitte zu und hielt mit deutlichem Abstand an.
+
+„Die hätte ich beinahe vergessen.“
+
+„Das wäre schade gewesen“, sagte Brienne. „Ihr habt sie den ganzen Tag getragen.“
+
+Minthara senkte die Klinge, ohne die Haltung aufzugeben.
+
+„Möchtet Ihr noch etwas beitragen?“
+
+Die Ritterin betrachtete den Boden.
+
+„Hinter Eurer rechten Ferse liegt ein Stein.“
+
+Die Drow blickte hinunter. Tatsächlich ragte dort eine faustgroße Kante aus der Erde.
+
+Sie hob den Fuß darüber und schob den Stein mit dem Stiefel aus dem Übungsraum.
+
+„Ein nützlicher Beitrag.“
+
+„Ich bemühe mich.“
+
+* * *
+
+Sie wiederholten die Bewegung.
+
+Minthara ging diesmal mit den Füßen mit. Beim ersten Versuch setzte sie zu weit und musste ihren Schild wieder dicht heranziehen. Beim zweiten blieb sie besser im Gleichgewicht, doch ihre Schwertspitze sank ab.
+
+Brienne sagte nichts. Als Minthara es selbst bemerkte und korrigierte, nickte sie lediglich.
+
+Dann wurden die Schritte kleiner. Leder knarrte, Stiefel schabten über Erde. Es gab kein lautes Schlagen von Stahl, das den Hof geweckt hätte.
+
+Magrat nahm einen Schluck und stellte ihren Becher ab.
+
+„Von hier sieht es aus, als würdet Ihr um etwas herumtanzen, das niemand sonst sehen kann.“
+
+„Um eine schlechte Gewohnheit“, sagte Minthara.
+
+„Die sind erstaunlich ausdauernd.“
+
+Die Drow ließ den Schild sinken. Ihre Stirn glänzte im Laternenlicht, doch der geheilte Arm machte ihr keine sichtbaren Schwierigkeiten.
+
+„Für heute genügt es.“
+
+Sie sah zu Skarra.
+
+„Wenn Ihr mich morgen wieder feststehen seht, sagt es. Kurz. Ich werde mitten im Kampf keine Erklärung über meine Hüfte anhören.“
+
+* * *
+
+Brienne nahm ihr Schwert vom Rand der Bank auf.
+
+„Den Schritt kann ich ebenfalls gebrauchen. In voller Rüstung dreht man sich gern zuerst dort, wo es am wenigsten Arbeit macht.“
+
+Minthara sah sie an.
+
+„Ihr hättet mitmachen können.“
+
+„Ich habe zugesehen.“
+
+„Das ist bequemer.“
+
+„Ja.“
+
+Die Drow schnaubte leise. Diesmal lag unverkennbar Belustigung darin.
+
+Magrat hielt den Becher hoch, den sie für Skarra bewahrt hatte.
+
+„Bevor wir auch noch die Ritterin zum Tanzen bringen: Euer Bier.“
+
+Am Tor räusperte sich Wulf. Er hatte die letzten Minuten gelegentlich herübergesehen.
+
+„Wenn Ihr fertig seid, wäre es gut, die Laterne etwas herunterzudrehen. Man sieht sie vom Weg.“
+
+Brienne nickte und stellte den Docht niedriger. Der Übungsplatz sank zurück in Dunkelheit; nur die Bank und die Schwelle blieben schwach beleuchtet.
+
+Minthara stellte den Schild an die Wand, diesmal so, dass sie ihn mit einem Griff erreichen konnte.
+
+„Morgen“, sagte sie zu Skarra. „Wenn wir einen ruhigen Augenblick finden, wiederholen wir es.“
+
+Sie nahm ihren Becher.
+
+„Das wird mir ein Vergnügen sein“, sagte Skarra.
+
+Minthara hob ihren Becher ein wenig.
+
+„Ich werde versuchen, Euch nicht zu viel Anlass dazu zu geben.“
+
+* * *
+
+Bevor Skarra sich zurückzog, regte sich die Erde am Rand des Hofs.
+
+Drei kleine knöcherne Gestalten arbeiteten sich zwischen Wurzeln und Pflastersteinen hervor. Eine schüttelte ein Blatt aus ihrem Kiefer, während die anderen bereits um Skarras Stiefel wuselten.
+
+Auf ihren Auftrag hin stoben sie auseinander. Einer verschwand unter dem Tor, einer huschte an der Scheunenwand entlang; der dritte erklomm den niedrigen Steinhaufen hinter dem Haus.
+
+Wulf hatte den Kopf gewandt.
+
+„Die gehören zu Euch?“
+
+Brienne nickte.
+
+„Sie sollen uns warnen.“
+
+Der alte Mann beobachtete, wie ein knöcherner Schwanz im Dunkeln verschwand.
+
+„Dann sage ich Jost besser Bescheid, bevor er einen davon mit der Schaufel begrüßt.“
+
+Magrat sammelte die leeren Becher ein. Minthara gab Brienne deren Schwert noch einmal zur Prüfung, ehe die Ritterin es in die Scheide schob. Dann wurde die Laterne weiter heruntergedreht.
+
+Skarra legte sich in der Scheune ins Stroh.
+
+## An der Nordmauer
+
+Die erste Wache verging mit den gewöhnlichen Geräuschen eines Hofs: dem Scharren des Ochsen, gelegentlichem Husten aus dem Haus und dem Klappern des Torverschlusses, wenn Jost ihn prüfte.
+
+Die Knochenkundschafter blieben selten lange sichtbar. Einmal saß einer auf einem Zaunpfosten und drehte den Schädel nach dem alten Mann, der darunter vorbeiging.
+
+Wulf blieb stehen.
+
+„Ich bin es noch.“
+
+Das Wesen antwortete mit einem leisen Klacken.
+
+„Gut, dass wir das geklärt haben.“
+
+* * *
+
+Als Brienne die Männer ablöste, blieb sie noch kurz mit ihnen am Tor. Sie ließ sich zeigen, welche Geräusche vom Stall kamen und welche Büsche dicht am äußeren Graben standen. Danach schickte sie beide schlafen.
+
+Ein gutes Stück später trat sie leise in die Scheune.
+
+„Skarra.“
+
+Sie wartete, bis sie eine Reaktion bekam, und ging neben dem Strohlager in die Hocke.
+
+„Einer Eurer Kundschafter ist zurück. Er läuft zwischen mir und der Nordmauer hin und her.“
+
+Vom Eingang kam ein ungeduldiges Klappern.
+
+„Ich habe etwas gehört“, fuhr Brienne fort. „Metall an Stein. Zweimal. Kein Rufen, keine Schritte, die ich sicher zuordnen konnte.“
+
+Sie trug den Helm, hielt das Schwert aber noch in der Scheide.
+
+„Minthara ist wach und am Haus. Triss und Magrat schlafen noch.“
+
+Draußen bewegte sich der kleine Diener einige Schritte vor, blieb stehen und sah zurück. Dann lief er weiter zum dunklen Hofrand.

@@ -72,25 +72,27 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg – Abendpause 16. Oktober 2026
+## 8. Aktueller Wiedereinstieg – Sitzungsende 16. Oktober 2026, Nachtmeldung
 
-**Abend des zweiten Reisetages**, Hof von Alva / Hinnerk / Jost / Wulf nördlich der Furt. Sechs Untote ausgeschaltet, Wagen mit getestetem Ersatzrad repariert. Gruppe übernachtet, will morgen getrennt von den Hofbewohnern Richtung Dornwacht weiter. Keine Abreise / neue Nacht gespielt.
+**Nacht nach zweitem Reisetag**, Hof Alva / Hinnerk / Jost / Wulf. Nach lockerer Übung mit Asche / Stille und Mintharas Schwert / Schild beschwor Skarra **drei neue Knochenkundschafter** auf Patrouille und legte sich in der Scheune schlafen.
 
-**Exakter Haltepunkt:** Skarra, Minthara und Brienne bei der Bank vor der Scheune, Magrat auf der niedrigen Schwelle. Bierfässchen geöffnet. Brienne näht ihren Schwertgurt. Triss schläft im Haus, Hinnerk ebenfalls. Jost / Wulf halten erste Wache.
+Erste Wache Jost / Wulf beendet, Brienne hält Wache und steht nun mit Helm, Schwert in Scheide bei Skarras Strohlager. Ein Kundschafter meldet etwas an **Nordmauer**; Brienne hörte zweimal Metall an Stein. Keine sicheren Schritte / Rufe, keine Identität oder Ursache bekannt.
 
-Letzte Worte:
-> Minthara: „Auf das Ersatzrad.“
->
-> Brienne: „Darauf kann ich trinken.“
+Letzte Rede (Brienne):
+> „Minthara ist wach und am Haus. Triss und Magrat schlafen noch.“
 
-**Skarra ist am Zug:** ihre Reaktion auf die Abendrunde offen. Keinen Toast / Trinken / Schlaf oder Morgen für sie vorwegnehmen.
+Letzter Absatz:
+> Draußen bewegte sich der kleine Diener einige Schritte vor, blieb stehen und sah zurück. Dann lief er weiter zum dunklen Hofrand.
 
-Wichtig:
-- Mintharas Armwunde ist durch Skarras Zustandstransfer auf eine Ratte **geschlossen**. Privates Gespräch über Vertrautheit / Bindung, Entschuldigung und Zustimmung; andere kennen es nicht automatisch.
-- **Skarra und Minthara entwickeln Freundschaft / Vertrauen, keine Romantik.** Dies ist ausdrückliche Spielervereinbarung.
-- Kein aktiver Diener am Hof. Köhlerwurm ist beendet, Brunnen der Kraft verblasst. Beide Schwerter bei Skarra.
-- Ruf für möglichen Schnitterschleier: **„Ich bin der Tod!“** Abstand / Rettung Unbeweglicher, keine erzwungene Verwandlung. Furtkampf ohne Schleier.
-- Die fünf Hauptfiguren leben, Welt pulverfrei. Stand / Absichten / offene Fragen in KAMPAGNENSTAND.md.
+**Skarra ist am Zug.** Reaktion offen: mitgehen / vorsorgen / andere Handlung. Nicht Aufstehen, Bewaffnung, Magie, Annäherung oder Auflösung vorwegnehmen.
+
+Wichtige Kontinuität:
+- Drei neue Kundschafter am Hof, keine alten Fernwachen; einer bei Scheune / Nordmauerweg, andere Positionen unbestimmt.
+- Beide Schwerter heißen **Asche** und **Stille**. Minthara hat Briennes Schwert zurückgegeben und bleibt bei Schild / Schwert. Übung verbesserte Verständnis, kein neuer gemeisterter Kampfstil.
+- Freundschaft / Vertrauen Skarra–Minthara, **keine Romantik**. Mintharas Armwunde geschlossen.
+- Triss / Magrat schlafen, Jost / Wulf schlafen geschickt. Keine volle Rast aller fünf als abgeschlossen behandeln.
+- Wagen repariert, Bero / Tamm versorgt; Abreise morgens nur geplant.
+- Alle fünf leben, Welt pulverfrei, Warnruf Schleier „Ich bin der Tod!“. Aktueller Detailstand in KAMPAGNENSTAND.md.
 
 ## 9. Aktuelle Erzählvereinbarung
 

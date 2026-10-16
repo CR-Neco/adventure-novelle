@@ -31,4 +31,4 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt (Abendpause 16. Oktober 2026):** Abend des zweiten Reisetages auf Alvas / Hinnerks / Josts / Wulfs Hof. Skarra, Minthara, Brienne und Magrat bei einer Runde Bier vor der Scheune; Triss schläft. Minthara: „Auf das Ersatzrad.“ Brienne: „Darauf kann ich trinken.“ **Skarra ist am Zug.** Siehe KAMPAGNENSTAND.md.
+**Aktueller Haltepunkt (Sitzungsende 16. Oktober 2026):** Nacht auf dem Hof. Brienne weckt / informiert Skarra in der Scheune: Knochenkundschafter meldet etwas an Nordmauer, zweimal Metall an Stein gehört. Minthara wach am Haus, Triss / Magrat schlafen. Ursache unbekannt. **Skarra ist am Zug.** Siehe KAMPAGNENSTAND.md.
