@@ -47,3 +47,24 @@ Im Repository stehen ausschließlich Informationen, die der Spieler bereits kenn
 - **In Schnitterform kann Skarra nicht mit anderen Gegenständen interagieren**, etwa einen Kontrollstab übernehmen. Andere Figuren können dies tun; Skarra muss dafür den Schleier verlassen.
 - Der vorbereitete Sensenhieb (Executioner’s Scythe) wurde mit Betäubung des getroffenen Gegners und zurückbleibendem Kältefeld gespielt.
 - Blutunhold und Fleischgolem sind in dieser Sitzung aufgetreten. Die drei früheren Knochenkundschafter bleiben bestehender Kanon; keine darüber hinaus frei erfundenen Beschwörungen.
+
+## Ergänzungen zur Charakterführung und Magie – 16. Oktober 2026
+
+### Skarras moralischer Kompass
+- Skarra besitzt große Willenskraft und Disziplin. Ihre aus der Vergangenheit gewachsene, selbst gesetzte Leitlinie lautet: **Versuche, das Leid Unschuldiger zu vermeiden oder zu verhindern.**
+- Dies ist **kein allgemeines Tötungs- oder Gewaltverbot**. Skarra bewertet Schuld, Notwendigkeit und Verhältnismäßigkeit nach ihrem eigenen, nicht zwangsläufig mit Briennes Moral übereinstimmenden Maßstab. Der Tod von Tieren ist für sie nicht grundsätzlich ein moralisches Problem; ein schuldiger Gefangener genießt in ihren Augen nicht denselben Schutz wie ein Unschuldiger.
+- Der Lebensentzug am gefangenen Edrin war bewusstes Handeln an jemandem, den Skarra nicht für unschuldig hielt. Ihn durch weiteren Entzug zu töten wäre eine andere, für sie bedeutsame Grenzüberschreitung gewesen; sie hielt davor inne.
+- **Keine automatische Läuterung, Reue, Gewalteskalation oder unkontrollierbare Raserei unterstellen.** Der Spieler allein bestimmt Skarras Wertungen, Gedanken, Gefühle und Entscheidungen im konkreten Moment.
+
+### Präzise Nekromantie und Schnitterschleier
+- Skarra kann Magie durch Willen, Disziplin und Konzentration **gezielt und selektiv** wirken. Beispielsweise kann sie bei einem passenden Lebensentzug Feinde treffen und unmittelbar benachbarte Gefährtinnen verschonen. Komplexe selektive Flächeneffekte erfordern Konzentration und sind nicht beiläufig während eines wilden Nahkampfgetümmels möglich.
+- Im gewöhnlichen Kampf bevorzugt sie ihre **beiden Klingen** und kontrolliert eingesetzte Nekromantie; auch Klingenangriffe können im Rahmen der GW2-Fähigkeiten Lebenskraft liefern.
+- Der **Schnitterschleier** entfesselt erhebliche Kraft, ist jedoch bei weitreichenden Sensenangriffen **nicht zuverlässig freund-feind-selektiv**: Wer im Angriffsbogen steht, kann getroffen werden. Die im Roman bereits geschilderte Tötung des Wagenpferdes beim Schlag gegen Berold zeigt diesen Kollateralschaden. Das bedeutet **nicht**, dass Skarra im Schleier bewegungs- oder willenlos wäre; sie kann Position und Angriff bewusst wählen, aber nicht jede Wirkung präzise auf Feinde beschränken.
+- Skarra kennt und respektiert dieses Risiko. Sie setzt den Schleier deshalb **ungern** ein, eher bei großer Gefahr oder unter heftiger Wut. Wut **erzwingt** keine Verwandlung. Ob, wann und wie Skarra in den Schleier geht, entscheidet ausschließlich der Spieler.
+- Der Schleier verbraucht Lebenskraft und kann unter massivem Schaden abrupt zusammenbrechen. Dann ist Skarra ohne diesen Schutz möglicherweise inmitten von Gegnern und Zuständen verwundbar. **Keine Unverwundbarkeit oder unbegrenzte Lebenskraft** annehmen.
+- Andere GW2-Nekromantenfähigkeiten – darunter Brunnen, Siegel, Zustandsentfernung/-übernahme, Lebensentzug und regelkonforme Diener – dürfen situationsgerecht zum Tragen kommen, ohne Skarra zur allmächtigen Problemlöserin zu machen. Die genaue Anwendung bleibt innerhalb des vereinbarten GW2-Repertoires; bei Zweifeln OOC klären.
+
+### Spannung, Konsequenzen und Spielerfreiheit
+- Kämpfe dürfen taktisch anspruchsvoll sein, Ressourcen erschöpfen, Fehler bestrafen und Skarra oder andere Gefährtinnen ernsthaft gefährden. Zusammenarbeit, Rettung oder Rückzug dürfen notwendig werden.
+- **Keine vorgeplante Niederlage, erzwungene Rettung, Pflicht-Selbstaufopferung oder festgeschriebene Reaktion Skarras.** Solche Momente müssen sich aus den gespielten Umständen und Spielerentscheidungen ergeben.
+- Die Spielleitung schildert nachvollziehbare Konsequenzen, übernimmt aber niemals Skarras innere Perspektive oder Entscheidung ohne ausdrückliche Autorisierung. Wenn der Spieler per **OOC ausdrücklich um literarische Ausgestaltung seiner Gedanken, Pläne oder Erzählungen bittet**, ist diese Ausgestaltung zulässig; sie darf den vorgegebenen Inhalt nicht eigenmächtig in neue Entscheidungen umdeuten.
