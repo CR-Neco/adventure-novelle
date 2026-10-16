@@ -141,3 +141,19 @@ Valdorn bleibt frei von Pulver-Schusswaffen und Schwarzpulvergeschützen. Fernka
 - Nacht ohne Angriff, Fuchs unterhalb Wall. Wachen Minthara, Brienne, Magrat.
 - Morgen des zweiten Reisetages: kurze Verhüllung Magrats als Rhen einschließlich Hände / Stimme; von Triss nach wenigen Minuten aufgehoben. Keine Torprobe, keine zugesagte unbegrenzte Dauer.
 - Aktuell vor Weiterfahrt. Mintharas Frage an Skarra nach Positionen / Zusammenarbeit im Kampf ist unbeantwortet. Bero und Tamm ausgeruht; Trinkwasser voraussichtlich bis Mittag, neue Quelle noch nicht gefunden.
+
+
+## Abend des zweiten Reisetages – Fortschreibung 16. Oktober 2026
+
+- Kampfruf für Schnitterschleier vereinbart: **„Ich bin der Tod!“**; kein Schleier im folgenden Kampf verwendet.
+- Bei zerstörter Brücke / Furt sechs Untote ausgeschaltet: drei am gemeinsamen Halsstrick im Bach, drei am Ufer. Bei mehreren behandelte Brustablagerungen sichtbar. Ursprung / gezielte Platzierung unbekannt.
+- Skarras Brunnen der Kraft kurz aktiv, dann verblasst. Klingenarbeit, taktisches Loslassen eines Schwerts und Beinhieb; Brienne / Minthara unterstützen, Triss hält Gegner und hebt Wagen, Magrat beruhigt Pferde. Beide Schwerter zurückerlangt.
+- Wagen: Nabe bei Befreiung aus Rinne beschädigt, Wasserbehälter gerissen / Decken nass; Probe / Papiere unbeschädigt.
+- Rauch stammt von Scheiterhaufen auf Hof von **Alva**, Bruder **Hinnerk**, **Jost**, älterem **Wulf**. Weitere Beziehungen nicht festgelegt. Drei Körper verbrannt, Bewohner behaupten vorher tot. Erhebungen seit gestern nach Transportbesuch; Kausalität nicht bewiesen.
+- Hinnerk vom untoten Vater am Handgelenk verletzt, zusätzlich von Jost geschlagen und irrtümlich aus Angst eingeschlossen. Lebt, von Magrat / Triss versorgt; keine vergleichbare Nekromantie gefunden. Kein bestätigter ansteckender Kratzer.
+- Gruppe legt Herkunft des Wagens / Ziel Dornwacht offen, hilft, erhält Ersatzrad gegen Nachtunterstützung. Jost passt Heuwagenrad an; Belastungstest erfolgreich, Kontrolle nach erster halber Fahrstunde geplant.
+- Hofleute besitzen Ochsen / Holzschleife für verletzten Hinnerk, planen Eibenbrück über Hagens / Ennas Hof. Kein garantierter Schutz unterwegs / zugesagte Aufnahme dort.
+- Gruppe bleibt über Nacht, Hofleute sollen morgen getrennt nach Süden. Wasser aufgefüllt, Pferde versorgt, Scheiterhaufen gelöscht. Keine neuen aktiven Beschwörungen am Hof.
+- Mintharas Armschnitt zunächst versorgt, später mit Skarras **Siegel der Pest** auf eine Ratte übertragen / geschlossen. Skarra erklärt im privaten Gespräch benötigte Vertrautheit / Bindung. Nur Minthara kennt diese Erklärung sicher.
+- Freundschaft / Vertrauen der beiden wächst durch Gespräch und Hilfe. **Keine Romantik zwischen Skarra und Minthara** (Spielervereinbarung).
+- Letzte Szene: kleines Bierfässchen vor Scheune; Skarra / Minthara / Brienne / Magrat in Runde, Triss schläft, Hinnerk schläft, Jost / Wulf erste Wache. Minthara stößt auf Ersatzrad an, Brienne stimmt zu; Skarras Antwort offen.

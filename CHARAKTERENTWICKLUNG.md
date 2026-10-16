@@ -72,3 +72,15 @@ Als Kontrast schätzt der Spieler auch Karlachs direkte, herzliche und ungebrems
 - Gemeinsame ruhige Wirtshausszene, Zhaitan-Erzählung und Nachtruhe gespielt. Keine daraus garantierten Bindungen.
 - Magrat brachte konkrete Menschenkenntnis in die Rhen-Täuschung ein. Triss ergänzt die magische Erscheinung, Minthara fragt nach Risiken, Brienne nach Rückweg und Schutz der Kranken.
 - Aktuell Vorbereitungen vor Aufbruch; Rhen bleibt im Dorf. Weiterer Ertrag von Magrats / Triss' Rhen-Gespräch und Mintharas Vogt-Gang offen. Keine zukünftigen Dialoge oder Entwicklungen als gegeben eintragen.
+
+## Beobachtete Entwicklung – Abendsitzung 16. Oktober 2026
+
+**Verbindliche neue Grenze:** Skarra und Minthara sollen Freundschaft / Vertrauen entwickeln können. Der Spieler schließt Romantik zwischen den beiden ausdrücklich aus; auch subtile Gesten nicht als romantische Vorzeichen inszenieren.
+
+- Furtkampf erforderte Unterstützung: Minthara geriet im rutschigen Rückraum fest, Brienne half. Skarra hielt Bachgegner, konnte eine Klinge loslassen; Entzug / Brustzerstörung als Zusammenarbeit. Kein Schnitterschleier.
+- Gemeinsame Entscheidung gegen Gruppenteilung, Hilfe auf Hof, Ersatzrad und Rast statt erzwungenem Weiterdrängen.
+- Skarras Hilfe für Mintharas Wunde und Erklärung von Bindung / früherem Scheitern wurden privat gespielt. Minthara dankt, akzeptiert Entschuldigung, setzt Zustimmungsgrenze und bietet Vertraulichkeit.
+- Vertrauen wurde ausgesprochen, kein Gehorsam / keine pauschale Einigkeit. Kein magisches Schicksalsband aus Heilung ableiten.
+- Brienne / Triss arbeiteten bei Radreparatur zusammen; Triss ließ Untersuchung der Asche auf Briennes Rat für heute ruhen.
+- Magrat behandelte Hinnerk trotz Angst der Hofleute als lebenden Verletzten, Alva beteiligte sich praktisch an Evakuierungsvorbereitung.
+- Aktuelle Abendrunde ruhig, ohne obligatorische neue Bedrohung oder erzwungenes Enthüllungsgespräch. Triss schläft; Rundenbeiträge der anderen können organisch weitergehen.

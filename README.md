@@ -31,4 +31,4 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt (Pause 16. Oktober 2026):** Köhlerstelle, Morgen des zweiten Reisetages. Lennart versorgt und ohne Entdeckung des Wagens fortgeschickt; Verhüllung im kurzen Test gelungen und aufgehoben. Vor Weiterfahrt fragt Minthara Skarra: **„Wenn es eng wird: Wo möchtet Ihr uns haben?“** Skarra ist am Zug. Siehe KAMPAGNENSTAND.md.
+**Aktueller Haltepunkt (Abendpause 16. Oktober 2026):** Abend des zweiten Reisetages auf Alvas / Hinnerks / Josts / Wulfs Hof. Skarra, Minthara, Brienne und Magrat bei einer Runde Bier vor der Scheune; Triss schläft. Minthara: „Auf das Ersatzrad.“ Brienne: „Darauf kann ich trinken.“ **Skarra ist am Zug.** Siehe KAMPAGNENSTAND.md.

@@ -91,3 +91,11 @@ Die Geschichte ist ein frei gespieltes, zugleich als Roman fortgeschriebenes Abe
 
 ## Technologischer Rahmen – Vereinbarung 16. Oktober 2026
 Die Abenteuerwelt Valdorn bleibt **frei von Pulver-Schusswaffen**. Keine Gewehre, Pistolen, Musketen oder Schwarzpulvergeschütze einführen. Bögen, Armbrüste und Magie sind passende Fernkampfmittel. Rulfs zuvor als Jagdgewehr bezeichnete Waffe wird im Roman und Kanon rückwirkend als Armbrust geführt.
+
+
+## Absprachen der Abendsitzung – 16. Oktober 2026
+
+- **Warnruf zum Schnitterschleier:** „Ich bin der Tod!“ Darauf schaffen die Gefährtinnen Abstand / helfen bewegungsunfähigen Hauptfiguren aus dem Wirkungsbereich; Triss hält eine Passage frei. Der Ruf ersetzt weder Positionsbeachtung noch Skarras alleinige Entscheidung zur Verwandlung.
+- **Skarra und Minthara:** Der Spieler möchte eine freundschaftliche, vertrauensvollere Bindung. **Eine romantische Entwicklung zwischen diesen beiden Frauen ist ausgeschlossen.** Nähe, Vertrauen und Hilfe nicht als romantische Anbahnung inszenieren.
+- **Beobachteter Zustandstransfer:** Skarras „Siegel der Pest“ schloss in dieser Szene Mintharas Schnittwunde und übertrug die Verletzung auf eine Ratte. Laut Skarras Erklärung braucht diese Anwendung Vertrautheit / Bindung und gelingt nicht bei allen Gefährten. Als gespielten Fall bewahren; keine pauschale grenzenlose Heilung oder romantische / seelische Vorbestimmung daraus ableiten. Weitere Anwendungen bleiben im vereinbarten Repertoire / ausdrücklich geklärten Erzählrahmen.
+- Privates Gespräch / Handlungswissen einzelner Figuren ist nicht automatisch Wissen der ganzen Gruppe.

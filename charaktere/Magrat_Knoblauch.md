@@ -23,3 +23,10 @@ Heilkunde, Kräuterwissen, Schutzmagie, Menschenkenntnis; manchmal unsicher, abe
 - Betont Überprüfung der Transportangaben unterwegs an bekannten Stationen.
 - Bot an, Rhen darzustellen. Menschenkenntnis und beobachtetes Verhalten sollen zusammen mit Triss' Illusion wirken. Demonstrierte müde Ungeduld / Selbstverständlichkeit, ohne schon am Tor eine Täuschung bestanden zu haben.
 - Zuletzt mit Triss zu Rhen gegangen, um Umgang mit Oswin und Gefürchteten zu studieren. Ergebnis dieses Gesprächs noch offen.
+
+## Fortschreibung – Abend des zweiten Reisetages, Sitzung 16. Oktober 2026
+- Beruhigt / führt Bero und Tamm während Furtkampf, verhindert Durchgehen. Versorgt Mintharas Schnitt zunächst konventionell.
+- Öffnet mit Beharrlichkeit Zugang zu Hinnerk, erkennt Verletzungen / menschliche Panik statt dessen Tod vorauszusetzen. Behandelt, überwacht Trinken und Bettversorgung.
+- Unterstützt Alvas Erprobung der gepolsterten Holzschleife, soll bei Hinnerk schlafen.
+- Ging am privaten Gespräch Skarra / Minthara nur kurz vorbei, genaue Erklärung nicht automatisch bekannt.
+- Aktuell auf Schwelle in Bier-Runde; Hinnerk / Triss schlafen laut ihrer Auskunft.

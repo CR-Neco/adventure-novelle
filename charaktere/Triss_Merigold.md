@@ -24,3 +24,9 @@ Intelligent, empathisch, diplomatisch und fachlich neugierig. Keine naive Vermit
 - Kann laut Besprechung zeitlich begrenzt Erscheinung / Stimme / Kleidung verschleiern; Berührung und genaue Prüfung riskant. Magrat soll die menschliche Darstellung Rhens tragen.
 - Portal hinein nach bloßer Beschreibung abgelehnt. Rückzugsportal zu vorher selbst geprüftem / eingeprägtem äußeren Ziel grundsätzlich erwogen, braucht ungestörte Zeit; keine erprobte Garantie und kein Fernabholen von Verletzten.
 - Zuletzt mit Magrat zu Rhen gegangen, um Täuschung vorzubereiten.
+
+## Fortschreibung – Abend des zweiten Reisetages, Sitzung 16. Oktober 2026
+- Bindet Bachgegner begrenzt, muss lösen, hebt Wagen telekinetisch aus Rinne. Deutlich beansprucht; Nabenriss beim Absetzen, keine alleinige gesicherte Schuld.
+- Sichert Probe / trockene Papiere; unterstützt Provisorium und Hinnerks Untersuchung. Keine vergleichbare Nekromantie gefunden, kein universeller Infektionsausschluss behauptet.
+- Untersucht Scheiterasche ohne eindeutige Aussage, akzeptiert Ende für heute.
+- Zeichnet Rückweg für Hofleute. Aktuell bereits im Haus eingeschlafen, nicht in Abendrunde.

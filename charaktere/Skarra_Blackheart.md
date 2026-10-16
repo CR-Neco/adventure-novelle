@@ -42,3 +42,12 @@ Noch in Entwicklung. Keine vorausgesetzte Führungsrolle, Freundschaft oder Roma
 - Bot Fleischwurmwache und gemeinsamen Humpen an; ging später schlafen.
 - Befragte Rhen am Morgen. Versprach, nach Nella, Oren und Fenn zu sehen und sie nach Möglichkeit zu befreien. Hält Rhen für eine Belastung bei der Infiltration; sie bleibt im Dorf.
 - Schlug Illusion / Portal zur Gruppendiskussion vor. Billigte Erkundung, Täuschungsvorbereitung und Rückzugsoption. Noch keine Handlung auf die letzte Frage nach persönlichen Erledigungen vor dem Aufbruch.
+
+## Fortschreibung – Abend des zweiten Reisetages, Sitzung 16. Oktober 2026
+- Vereinbarte Warnruf „Ich bin der Tod!“ für einen nötigen Schnitterschleier; setzte an der Furt stattdessen Brunnen der Kraft und beide Klingen ein.
+- Ließ festgehaltenes Schwert los, nutzte zweites beidhändig gegen Beine. Schwächte letzten kampfunfähigen Untoten per Entzug; Brienne zerstörte Brust, zweite Klinge zurück.
+- Hielt Gruppe zusammen, organisierte Provisorium / gemeinsame Erkundung des Rauchs. Legte Hofleuten Herkunft des Wagens und Ziel offen.
+- Verweigerte Mitnahme zur gefährlichen Abtei, empfahl Evakuierung nach Süden, bot gegenseitig nützliche Übernachtung an.
+- Übertrug Mintharas Schnitt mit „Siegel der Pest“ auf Ratte. Erklärte im privaten Gespräch Vertrautheit / Bindung als Voraussetzung, erinnerte an erfolglose Hilfe für frühere sterbende Waffengefährten und entschuldigte fehlende Nachfrage.
+- Beziehung Minthara ausdrücklich freundschaftlich / vertrauensvoll, **keine Romantik**. Keine zusätzlichen Kindheitsdetails preisgegeben.
+- Aktuell bei abendlicher Bierrunde vor Scheune, letzte Reaktion noch offen. Keine neue Verletzung oder aktive Beschwörung am Hof gespielt.

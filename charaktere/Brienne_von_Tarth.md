@@ -25,3 +25,10 @@ Ehrenhaft, loyal, entschlossen, kampferfahren; schützt Unschuldige. Moralische 
 - Befragte Harl gemeinsam mit Minthara; er bestätigte Martas ersatzweise Verschleppung statt eines Steinmetzes.
 - Besteht bei Infiltrationsplanung auf Rückweg für Kranke und unabhängiger Alternative zum Portal.
 - Zuletzt zur Wiederbestattung Brams gegangen. Ihre Teilnahme ist gespielt, Zeremonie selbst noch nicht ausgespielt / ausdrücklich abgeschlossen. Gruppe wartet vor Aufbruch auf sie.
+
+## Fortschreibung – Abend des zweiten Reisetages, Sitzung 16. Oktober 2026
+- Sichert Furt / Pferde, versucht Wagen zu heben; Gurt wird eingeklemmt / beschädigt, Schulter beansprucht. Hilft Minthara gegen Ufergegner.
+- Erkennt Skarras Entzug als Zeitfenster und zerstört letzten Brustkern sofort.
+- Sichert gerissene Nabe provisorisch mit Triss, hilft bei Einbau / Test Ersatzrad durch Jost.
+- Besteht auf Zugang zu lebendem Hinnerk, befragt Wulf zu Todesfällen, gibt Evakuierungshinweise.
+- Aktuell auf Schemel bei Bier vor Scheune, näht Schwertgurt; später Nachtwache. Privates Skarra-Minthara-Gespräch nicht automatisch bekannt.

@@ -1,43 +1,42 @@
 # Kampagnenstand – Die Glocken von Dornwacht
 
-**Dokumentationsstand:** Sitzung vom 16. Oktober 2026 pausiert; Roman bis zur Frage nach Kampfabsprachen gespeichert.
+**Dokumentationsstand:** Ende der Sitzung vom 16. Oktober 2026, Abendrunde auf dem Hof.
 **Status:** pausiert; Skarra ist am Zug.
-**Spielzeit und Ort:** Morgen des zweiten Reisetages, Köhlerstelle am östlichen Waldumweg hinter Hagens / Ennas Gutshof. Nachtlager beendet / Vorbereitung zum Weiterfahren; noch nicht aufgebrochen, noch nicht an der Abtei.
+**Spielzeit und Ort:** Abend des zweiten Reisetages, Hof von Alva, Hinnerk, Jost und Wulf nördlich der Furt. Übernachtung vereinbart, Weiterreise am nächsten Morgen noch nicht gespielt.
 
 ## Exakter Haltepunkt
 
-Die Nacht an der Köhlerstelle ist vergangen. Lennart wurde versorgt und fortgeschickt, ohne Wagen oder Fleischwurm zu sehen. Die Probe von Magrats Rhen-Verhüllung war für wenige Minuten überzeugend, einschließlich Hände und Stimme; Triss hat sie wieder aufgehoben. Brienne bereitet die Pferde vor, Minthara nimmt ihren Schild auf. Noch keine Weiterfahrt.
+Skarra wollte vor dem Schlafen eine Stärkung. Minthara holte das kleine Bierfässchen vom Wagen. Brienne und Magrat kamen hinzu. Triss schläft bereits im Haus. Minthara schenkte ein und hob den Becher.
 
-**Letzter gespielter Dialog:**
-> „Bevor wir weiterfahren: Lennart sagte, die Toten gingen aus den Höfen. Das kann bedeuten, dass wir unterwegs auf sie treffen, bevor wir die Abtei sehen.“
+**Letzte gespielte Worte:**
+> „Auf das Ersatzrad.“
 >
-> Minthara nahm ihren Schild auf.
+> Brienne sah von ihrer Naht auf.
 >
-> „Dann sollten wir wissen, wie wir kämpfen, ohne uns gegenseitig in die Quere zu kommen.“
->
-> Sie sah zu Skarras beiden Klingen.
->
-> „Wenn es eng wird: Wo möchtet Ihr uns haben?“
+> „Darauf kann ich trinken.“
 
-**Offener Zug:** Möchte Skarra Absprachen für einen möglichen Kampf treffen, insbesondere zum Abstand bei einem Wechsel in den Schnitterschleier? Sie hat noch nicht geantwortet. Auf ihren Zug warten, keine Formation / Schleierentscheidung für sie erfinden. Danach kann die Reise weitergehen.
+Skarra hat noch nicht reagiert. **Kein eigener Toast, Trinken, Zubettgehen oder Aufbruch für sie vorgegeben.** Beim Wiedereinstieg an diese ruhige Runde anschließen und den Spieler reagieren lassen. Nicht direkt zum Morgen springen, sofern er dies nicht freigibt.
 
 ## Positionen und Aufgaben
 
-- **Alle fünf Hauptfiguren:** an der Köhlerstelle am Morgen. Brienne bereitet Pferde vor, Triss' Illusionsprobe beendet, Minthara fragt nach Kampfabsprachen; Skarras Antwort offen.
-- **Wagen:** beladen; aktive Brustprobe weiterhin sicher verpackt, Stäbe / Papiere / Fläschchen dabei. Zugtiere sind jetzt **Bero und Tamm**, ein gekauftes, eingespieltes Paar Brauner. Bero mit Blesse; Tamm knabbert gern an Kleidung.
-- **Alfred (Fleischgolem):** von Skarra am Gutshof ausdrücklich entlassen, Reste teilweise weggeräumt und bereits im Zerfall. Kein Golem begleitet den Wagen weiter.
-- **Drei Knochenkundschafter:** autorisierte Rückblende ergänzt: beim Verlassen der Mühle / wachsenden Abstand während des Rücktransports nach Eibenbrück zerfallen. Keine fortbestehenden Kundschafter dort.
-- **Alter Fleischwurm im Stall bei Bram:** autorisierte Ergänzung beim Aufbruch aus Eibenbrück: Bindung bricht mit Entfernung zusammen, feuchtes Klatschen; Wirt / Marta bemerken die Reste. Keine Fernwache mehr.
-- **Fleischwurm am Lager:** am Vorabend zwischen zwei Wurzelstöcken zur Wache beschworen, bewachte den Zugang, blieb vor Lennart verborgen. Noch aktiv am Lager, keine Entlassung gespielt. Bei Abreise Entlassung / Reichweitenende beiläufig mitführen; nicht mit altem Stallwurm gleichsetzen.
-- **Bram:** erneut bestattet. Skarra hat das Grab vor Abreise geprüft, keine Lebenskraft / aktive Bewegungskraft gefunden; Brienne war dabei.
-- **Rhen, Harl, zweite Mühlenwache, Edrin, Jann:** bleiben in Eibenbrück in Gewahrsam / für Aussagen. Rhen versorgt dort unter Aufsicht.
-- **Berold / Befreite:** bleiben im Dorf; keine neue Entwicklung seit Abreise gespielt.
-- **Hagen und Enna:** am Gutshof zurückgeblieben, nicht mitgereist. Enna führt Hof, Hagen arbeitet dort.
-- **Lennart:** Reiter auf Schimmel, grauer Mantel, Schwert; entspricht Hagens Suchreiter. Stellt sich als Pferdeversorger der Abtei und von Cael gesandt vor. Seitliche Bauchwunde laut ihm durch Untoten am Steinbruchweg. Von Magrat / Triss versorgt, ritt anschließend im Schritt zum Abzweig Richtung altem Waaghaus am Steinbruch. Ankunft / Abholung / weiterer Zustand nicht beobachtet. Hat Wagen und Wurm nicht gesehen.
+- **Skarra:** bei der Bank vor der Scheune, in der kleinen Abendrunde. Beide Schwerter wieder in ihrem Besitz, keine eigene Verletzung gespielt. Ihr Kapuzenstatus wurde nach dem Kampf nicht ausdrücklich geändert; nicht automatisch neues Auf-/Absetzen erfinden.
+- **Minthara:** an der Bank, hat gerade auf das Ersatzrad angestoßen. Ihre Schnittwunde am Unterarm ist durch Skarras Zustandstransfer **geschlossen**; nicht weiter als blutend behandeln. Später Wache vor Morgengrauen.
+- **Brienne:** auf einem Schemel neben der Bank, näht den im Bach beschädigten Schwertgurt. Schulter nach Wagenheben beansprucht, keine schwere Verletzung festgelegt. Später Ablösung der ersten Wache.
+- **Magrat:** auf niedriger Schwelle neben der Runde. Hat Hinnerk versorgt; dieser schläft. Sie wird bei ihm schlafen.
+- **Triss:** schläft bereits in einem Bett im Haus, nach Furtkampf / Wagenhebung erschöpft. Keine aktive Illusion. Probe / Papiere gesichert.
+- **Jost und Wulf:** erste Wache gemeinsam; Tor verriegelt. Jost hat das Ersatzrad montiert, Wulf unterstützt Evakuierungsvorbereitung.
+- **Alva:** im Haus / bei Hinnerk, genauer jüngster Standort nicht erneut festgelegt.
+- **Hinnerk:** lebend, schläft im Haus; Verletzung am Handgelenk und weitere durch Josts Schlag / Angriff, keine nachgewiesene aktive Nekromantie. Nicht mehr eingesperrt.
+- **Bero / Tamm:** versorgt auf dem Hof; keine Verletzung gespielt. Wagen mit **getestetem Ersatzrad**, alte beschädigte Nabe bleibt auf Werkbank.
+- **Vorräte / Ausrüstung:** Wasserschläuche aufgefüllt; einer an Furt zerstört, Restleder Jost überlassen. Papiere trocken, aktive Probenkiste dicht / gesichert. Kleines Fässchen dunkles Bier geöffnet.
+- **Beschwörungen:** aktuell **keine** am Hof. Köhler-Fleischwurm beim Abbruch des Lagers zusammengebrochen. Frühere Diener ebenfalls beendet. Brunnen der Kraft an Furt längst verblasst.
+- **Rhen / Dorfgefangene / Verletzte:** wie zuvor in Eibenbrück, keine neue Nachricht.
+- **Lennart:** nach Versorgung zum Steinbruchabzweig geritten; weiterer Verbleib unbekannt, kein Wissen über Wagen / Wurm.
+- **Hagen / Enna:** am früheren Gutshof. Aufnahme der neuen Hofbewohner nicht mit ihnen vereinbart.
 
 ## Aktueller Gruppenplan – beschlossen, noch umzusetzen
 
-1. Kampfabsprachen am Morgen des zweiten Reisetages klären; dann auf Umweg Richtung Abtei weiter. Lager eingerichtet und Nacht verbracht. Alte Nordstraße nach Lennarts Warnung meiden.
+1. Übernachtung auf diesem Hof; am nächsten Morgen Rad nach erster halber Stunde Fahrt kontrollieren und gemeinsam Richtung Abtei weiter. Nacht / Weiterfahrt noch nicht gespielt.
 2. Rhen und die übrigen Gefangenen im Dorf lassen. Skarra versprach, nach den Kranken der Abtei zu sehen und sie **wenn möglich** zu befreien.
 3. Mit vorhandenem Wagen / Papieren nach Norden. Erster Gutshof erreicht und Route dort bestätigt. Wegen Suchreiter nun östlicher, wagenpassierbarer Waldumweg, der nördlich wieder zur Handelsstraße führt; schmalen Reitpfad am Hang meiden. Gesamtentfernung Abtei etwa drei Tagesreisen zu Fuß; Wagenfahrten mit Pferdewechsel schneller.
 4. Vor der Abtei selbst Tor und Kanal erkunden. Endgültige Zugangswahl abhängig vom Befund.
@@ -47,7 +46,42 @@ Die Nacht an der Köhlerstelle ist vergangen. Lennart wurde versorgt und fortges
 
 
 
-## Abschluss der laufenden Sitzung – Nacht und Morgen an der Köhlerstelle
+
+## Neue Sitzung – Kampf an der Furt und Hofrast, 16. Oktober 2026
+
+### Absprache und Kampf
+- Warnruf für Schnitterschleier: **„Ich bin der Tod!“** Gefährtinnen schaffen Abstand, holen notfalls Bewegungsunfähige aus Reichweite, Triss lässt Weg frei. Kein Automatismus der Verwandlung. Skarra nutzte den Schleier in diesem Kampf **nicht**.
+- Köhlerwurm bei Abreise zusammengebrochen. Auf Weg Rauch im Norden gesehen, beschädigte Brücke / Furt erreicht.
+- Linkes Hinterrad sinkt in Rinne. **Sechs Untote** greifen an: drei im Bach am gemeinsamen Halsstrick, drei am gegenüberliegenden Ufer (einer mit kurzer Axt). Herkunft / Zusammenhang nicht bewiesen.
+- Skarra wirkt **Brunnen der Kraft**, stärkt Gefährtinnen / nimmt Furcht und Lähmung; nur kurz wirksam, dann verblasst. Kämpft weiter mit zwei Schwertern.
+- Triss bindet Wassergegner zeitweise, muss lösen. Magrat hält Pferde ruhig. Minthara mit Schild / Klinge gegen drei am Ufer, Brienne hilft später; diese drei ausgeschaltet.
+- Skarra zerstört Brustkruste des ersten Bachgegners. Zweiter hält ihr Schwert fest; Skarra lässt los, führt verbliebenes beidhändig gegen dessen Beine. Fall und Seil ziehen anderen um. Brienne tötet oberen Gegner.
+- Triss hebt Wagen gerade genug, Pferde ziehen frei; beim Absetzen bricht linke Radnabe weiter. Letzter Gegner kampfunfähig unter Briennes Klinge; Skarra entzieht Kraft, Brienne zerstört sofort Brustkruste vor Erholung. Skarra holt zweites Schwert. Alle sechs reglos / keine weiteren gesehen.
+- Mindestens zwei Bachgegner mit dunkler Kruste / gelben Einschlüssen. Kein Beweis, wer sie gebunden / behandelt hat. Gelbe Körnchen geraten ins Wasser; keine daraus abgeleitete Infektionsmechanik festgelegt.
+- Minthara Schnitt oberhalb Schildriemen, versorgt. Briennes Schulter vom Heben beansprucht / Schwertgurt beschädigt. Triss durch Halten und Heben erschöpft; keine Hauptfigur schwer verletzt.
+- Wasserbehälter geplatzt, Decken nass, Papiere / Probe unversehrt. Skarra lehnt Gruppenteilung ab, bewacht mit Minthara während provisorischer Radreparatur. Gruppe folgt gemeinsam Rauch.
+
+### Hof und Bewohner
+- Hof gehört zu **Alva, ihrem Bruder Hinnerk, Jost, älterem Wulf**; weitere Verwandtschaftsverhältnisse nicht festgelegt.
+- Drei Körper werden auf Scheiterhaufen verbrannt. Bewohner berichten, Abteiwagen habe vorgestern zwei Tote geholt, seit gestern eigene Tote aktiv. Kausalität nicht bewiesen.
+- Hinnerk lebend im Backhaus eingeschlossen aus Angst. Von untotem Vater am Handgelenk verletzt, zusätzlich von Jost geschlagen, als er blutend aus Stall kam. Vater war laut Alva vor neun Tagen bestattet.
+- Magrat / Triss versorgen, Triss findet keine vergleichbare Nekromantie. Keine Garantie für Zukunft, kein Beweis ansteckender Kratzer. Hinnerk ins Haus gebracht, nicht wieder eingesperrt.
+- Wulf: Knecht beim Niederwerfen gestürzt, später aktiv; genauer Todesverlauf unklar. Behauptet, alle drei seien vor Verbrennung bereits tot gewesen; nicht unabhängig überprüft.
+- Skarra legt Herkunft des Wagens / Ziel Dornwacht offen. Bittet um gegenseitige Hilfe, lehnt Mitreise der Bewohner zur Abtei ab, empfiehlt Eibenbrück über Hagens / Ennas Hof.
+- Hofleute haben Ochsen und Holzschleife; Polsterung zum Transport Hinnerks vorbereitet / von Alva getestet. Wollen morgens getrennt nach Süden; Abreise noch nicht gespielt.
+- Ungefähre Reiseeinschätzung: nach Eibenbrück 1,5–2 gesunde Tagesmärsche / langer Reittag; Gutshof einige Fußstunden / 1–2 Reitstunden. Mit verletztem Hinnerk / Ochsenschleife langsamer. Keine sichere Route bewiesen, Brückengesindel und Plage bleiben Risiken.
+- Radtausch gegen Hilfe für erste Nacht. Jost passt Rad seines kleinen Heuwagens an, neue Unterlegscheibe / Splint; Leer- und Belastungstest hält. Nach erster halber Stunde morgens prüfen.
+- Wasser aufgefüllt, Pferde versorgt, Scheiterhaufen gelöscht, Nachtwachen geteilt: Jost / Wulf, dann Brienne, später Minthara. Triss im Bett, Magrat bei Hinnerk.
+
+### Vertrauen und aktueller Abend
+- Minthara erkennt Positionsfehler am Ufer an, bittet Skarra um Warnung bei fehlendem Rückraum. Würdigt deren Loslassen des Schwerts.
+- Skarra wirkt **Siegel der Pest**: Mintharas noch blutender Schnitt schließt sich, blutende Ratte hinter Holzstapel. Spielererzählung, nicht automatisch universelle Heilfähigkeit.
+- Skarra erklärt, Zustandstransfer brauche Vertrautheit / Bindung und sei bei früheren sterbenden Gefährten nicht möglich gewesen. Minthara nimmt Entschuldigung für fehlende Nachfrage an, wünscht künftig Zustimmung, dankt ohne Spott und bietet Vertraulichkeit.
+- Minthara benennt Vertrauen trotz Meinungsverschiedenheiten. **Beziehung ausdrücklich freundschaftlich / vertrauensvoll, keine romantische Entwicklung.** Kein Liebes-/Schicksalsband aus dem Zauber ableiten.
+- Privates Gespräch kennt die übrige Gruppe nicht automatisch. Magrat ging nur kurz vorbei. Was andere später an geschlossener Wunde sehen, ist nicht dasselbe wie Kenntnis von Methode / Erklärung.
+- Skarra will vor Schlafen Stärkung, Bierfässchen gefunden. Minthara, Brienne, Magrat kommen hinzu, Triss schläft. Letzter Toast siehe Haltepunkt.
+
+## Abschluss der vorherigen Teilsitzung – Nacht und Morgen an der Köhlerstelle
 
 - Lager mit kleinem gedecktem Feuer, Plane, Pferden und Fleischwurmwache eingerichtet. Wasser reicht nach Schätzung nur noch bis Mittag; Regensammlung diente dem Abwasch. Kein sicherer neuer Trinkwasserfund gespielt.
 - Minthara / Brienne prüfen Papiere: zwei Tage zwischen Wechselquittung und Abtei-Empfang. Erklärung (Zwischenhalt / spätere Quittierung) offen. Rhen-Suche war offenbar nicht zwingend wegen Verspätung.
@@ -124,4 +158,4 @@ Die Nacht an der Köhlerstelle ist vergangen. Lennart wurde versorgt und fortges
 
 ## Dokumentation
 
-Roman in Markdown bis zum morgendlichen Gespräch über Kampfabsprachen ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.
+Roman in Markdown bis zur abendlichen Runde vor der Scheune ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.

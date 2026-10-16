@@ -1,6 +1,6 @@
 # Dokumentation und laufende Buchpflege
 
-## Aktueller Synchronisierungsstand – Pause 16. Oktober 2026
+## Aktueller Synchronisierungsstand – Abendpause 16. Oktober 2026
 
 **Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt weiterhin für die ausdrücklich gewünschte Markdown-Fortschreibung.
 
@@ -62,3 +62,11 @@ Die GitHub-Anbindung kann Textdateien unmittelbar pflegen; für **binäre DOCX-D
 An den bereits gesicherten Lager-Vorschlag schließt **„Die Nacht an der Köhlerstelle“** an. Vollständig übernommen: Lageraufbau, Papierprüfung, Lennarts Versorgung / Täuschung / Abreise, Nacht, kurze morgendliche Illusionsprobe und offene Frage nach Kampfabsprachen. Ende exakt bei Mintharas „Wenn es eng wird: Wo möchtet Ihr uns haben?“. Keine Antwort Skarras erfunden.
 
 OOC-Regie und Spielzug-Aufforderungen ausgelassen, autorisierte Handlungen / Erzählungen als gespielte Prosa bewahrt. Markdown ist aktuell, Word bleibt unverändert. Kampagnenstand / Übergabe / README und Welt auf denselben Haltepunkt gesetzt.
+
+## Sitzungsabschluss – Furtkampf und Hof, 16. Oktober 2026
+
+Markdown ab vorheriger offener Kampfabsprache vollständig ergänzt: erneute kurze Formationserörterung, Warnruf, Furtkampf, beschädigtes Rad, Hofhilfe / Ersatzrad, private Wundübertragung / Vertrauensgespräch und Bier-Runde vor Scheune. Neue Abschnitte: **„Die Furt“**, **„Der Hof im Rauch“**, **„Ein Zeichen des Vertrauens“**. Ende bei Briennes „Darauf kann ich trinken.“
+
+Nur tatsächlich gespielte Szenen / Dialoge übernommen. Spielerpassagen markiert. OOC-Fragen zu Reisezeiten / Lage, doppelte korrigierte Eingaben und Meta-Absprachen nicht in Roman aufgenommen; endgültige korrigierte Siegel-Passage verwendet. Schrift und Zeichensetzung behutsam geglättet. Vom Spieler OOC autorisierte Handlungen sind durch die tatsächlich erzählte Umsetzung erhalten, nicht als OOC-Text kopiert.
+
+Kampagnenstand, Übergabe, Kanon und Profile aktualisiert. Romantik-Ausschluss / Warnruf / beobachteter Transferfall in SPIELREGELN.md festgehalten. Word bleibt unverändert und ist später mit Markdown abzugleichen.

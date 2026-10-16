@@ -72,20 +72,25 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg – Pause der Sitzung 16. Oktober 2026
+## 8. Aktueller Wiedereinstieg – Abendpause 16. Oktober 2026
 
-**Morgen des zweiten Reisetages**, Köhlerstelle am östlichen Waldumweg hinter Hagens / Ennas Gutshof. Lager und Nacht sind gespielt. Gruppe noch nicht weitergefahren.
+**Abend des zweiten Reisetages**, Hof von Alva / Hinnerk / Jost / Wulf nördlich der Furt. Sechs Untote ausgeschaltet, Wagen mit getestetem Ersatzrad repariert. Gruppe übernachtet, will morgen getrennt von den Hofbewohnern Richtung Dornwacht weiter. Keine Abreise / neue Nacht gespielt.
 
-Verletzter Reiter **Lennart** wurde unterhalb des Lagers versorgt und zum Steinbruch weitergeschickt. Er hat weder Wagen noch Fleischwurm gesehen; Skarra hielt die Tarnung als gewöhnliche Reisende aufrecht. Laut ihm warnte Cael Rhen vor unkontrollierten Toten auf alter Nordstraße, auch mit Stab solle sie nachts nicht durch. Aussagen nicht als selbst beobachtete Tatsachen ausgeben.
+**Exakter Haltepunkt:** Skarra, Minthara und Brienne bei der Bank vor der Scheune, Magrat auf der niedrigen Schwelle. Bierfässchen geöffnet. Brienne näht ihren Schwertgurt. Triss schläft im Haus, Hinnerk ebenfalls. Jost / Wulf halten erste Wache.
 
-Morgendliche Rhen-Verhüllung Magrats mit Triss gelang im kurzen Test auch an Händen / Stimme, dann wieder aufgehoben. Pferde Bero / Tamm vorbereitet; neuer Fleischwurm am Lager noch nicht entlassen, bei Abreise Ende der Bindung beachten.
+Letzte Worte:
+> Minthara: „Auf das Ersatzrad.“
+>
+> Brienne: „Darauf kann ich trinken.“
 
-**Letzter Satz (Minthara, an Skarra):**
-> „Wenn es eng wird: Wo möchtet Ihr uns haben?“
+**Skarra ist am Zug:** ihre Reaktion auf die Abendrunde offen. Keinen Toast / Trinken / Schlaf oder Morgen für sie vorwegnehmen.
 
-**Offener Zug:** Skarras mögliche Kampfabsprachen, insbesondere Abstand beim Wechsel in Schnitterschleier. Noch keine Antwort. Erst auf den Spieler warten; keine Formation / Verwandlung / neue Handlung Skarras vorgeben.
-
-Alle fünf leben, Welt pulverfrei, Rhen / Gefangene im Dorf. Reise zur Abtei, endgültige Zugangswahl und mögliche Portalflucht stehen weiterhin bevor. Details in KAMPAGNENSTAND.md.
+Wichtig:
+- Mintharas Armwunde ist durch Skarras Zustandstransfer auf eine Ratte **geschlossen**. Privates Gespräch über Vertrautheit / Bindung, Entschuldigung und Zustimmung; andere kennen es nicht automatisch.
+- **Skarra und Minthara entwickeln Freundschaft / Vertrauen, keine Romantik.** Dies ist ausdrückliche Spielervereinbarung.
+- Kein aktiver Diener am Hof. Köhlerwurm ist beendet, Brunnen der Kraft verblasst. Beide Schwerter bei Skarra.
+- Ruf für möglichen Schnitterschleier: **„Ich bin der Tod!“** Abstand / Rettung Unbeweglicher, keine erzwungene Verwandlung. Furtkampf ohne Schleier.
+- Die fünf Hauptfiguren leben, Welt pulverfrei. Stand / Absichten / offene Fragen in KAMPAGNENSTAND.md.
 
 ## 9. Aktuelle Erzählvereinbarung
 

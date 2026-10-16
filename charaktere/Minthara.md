@@ -25,3 +25,11 @@ Stolz, intelligent, pragmatisch, taktisch, mit trockenem und häufig scharfem Hu
 - Befragte Harl gemeinsam mit Brienne; übernahm Transport-/Routenplanung und Hofplan.
 - Billigt Rhen im Dorf zu lassen, will vor Ort selbst erkunden. Fordert für Portalflucht eine Stellung, die Triss die nötige Zeit verschafft.
 - Zuletzt beim Vogt für beschlagnahmte Papiere und Wagengeschirr; Ergebnisse dieses letzten Gangs noch nicht festgelegt.
+
+## Fortschreibung – Abend des zweiten Reisetages, Sitzung 16. Oktober 2026
+- Im Furtkampf durch rutschigen Rückraum unter Druck, von Brienne unterstützt; setzte silbern schimmernde Klinge ein. Schnitt oberhalb Schildriemen zunächst versorgt.
+- Erkannte Positionsfehler später selbst an; bittet Skarra um Hinweis auf fehlenden Rückraum und würdigt deren Loslassen des Schwerts.
+- **Armwunde inzwischen geschlossen:** Skarras Siegel übertrug sie auf Ratte. Dankte ohne Spott; Entschuldigung für fehlende Nachfrage angenommen, will künftig vorher zustimmen.
+- Privates Gespräch: Skarras Angaben über Bindung / frühere Verluste, Vertraulichkeit angeboten, Vertrauen trotz Meinungsverschiedenheiten benannt.
+- **Keinerlei romantische Entwicklung mit Skarra.** Spieler will Freundschaft / Vertrauen; nicht als versteckte Romanze deuten.
+- Später vor Morgengrauen Wache. Aktuell bei Bank, Becher auf Ersatzrad erhoben, Skarras Antwort offen.
