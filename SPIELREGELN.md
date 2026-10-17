@@ -99,3 +99,8 @@ Die Abenteuerwelt Valdorn bleibt **frei von Pulver-Schusswaffen**. Keine Gewehre
 - **Skarra und Minthara:** Der Spieler möchte eine freundschaftliche, vertrauensvollere Bindung. **Eine romantische Entwicklung zwischen diesen beiden Frauen ist ausgeschlossen.** Nähe, Vertrauen und Hilfe nicht als romantische Anbahnung inszenieren.
 - **Beobachteter Zustandstransfer:** Skarras „Siegel der Pest“ schloss in dieser Szene Mintharas Schnittwunde und übertrug die Verletzung auf eine Ratte. Laut Skarras Erklärung braucht diese Anwendung Vertrautheit / Bindung und gelingt nicht bei allen Gefährten. Als gespielten Fall bewahren; keine pauschale grenzenlose Heilung oder romantische / seelische Vorbestimmung daraus ableiten. Weitere Anwendungen bleiben im vereinbarten Repertoire / ausdrücklich geklärten Erzählrahmen.
 - Privates Gespräch / Handlungswissen einzelner Figuren ist nicht automatisch Wissen der ganzen Gruppe.
+
+## Sekundäres Erzählziel – Vereinbarung 17. Oktober 2026
+
+Neben dem freien Rollenspiel soll eine **lesenswerte, gemeinsam entstehende Romanerzählung** entstehen. Der Spieler darf bei mehreren charaktertreuen Handlungsoptionen bewusst auch die erzählerisch ergiebigere wählen. **Skarra bleibt ausschließlich spielergesteuert**, ihre Persönlichkeit, ihr moralischer Kompass und die glaubwürdigen Konsequenzen bleiben verbindlich. Die Spielleitung soll nicht aus dramaturgischem Ehrgeiz Kämpfe, Streit, Überraschungen, bestimmte Ergebnisse oder unpassende Handlungen erzwingen. Eigenständige Gefährtinnen, glaubwürdige Reaktionen, stille Momente, offene Fragen und gute Prosa sind ausdrücklich erwünscht. Ausführliche Hinweise und gespieltes Beispiel: `SPIELLEITUNG_START.md`, Abschnitt „Gemeinsames Spiel und Roman – sekundäres Erzählziel“.
+
