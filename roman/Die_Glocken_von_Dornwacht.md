@@ -27,17 +27,77 @@ Und Angst.
 
 In jener Nacht hatten sie sie in einer Gasse liegen lassen, weil sie nicht mehr aufstand. Der Regen rann zwischen den Pflastersteinen hindurch. Jeder Atemzug schmerzte. Sie wusste nicht, ob sie den Morgen erleben würde.
 
-Dann waren die Ratten gekommen.
+Zuerst hatte sie nur das Rascheln gehört.
 
-Zuerst eine, die unter einem Stapel zerbrochener Kisten hervorkroch. Dann zwei weitere. Bald bewegte sich der Unrat rings um sie, als hätte die Gasse selbst zu atmen begonnen.
+Ratten. Sie kamen aus den Ritzen zwischen den Mauern, aus dem Unrat und den Abflussrinnen. Kleine, hungrige Geschöpfe, die sich gewöhnlich von Menschen fernhielten.
 
-Skarra hatte keinen Zauberspruch gekannt. Keinen Lehrer gehabt. Sie hatte nur gewollt, dass die Männer verschwanden. Dass sie aufhörten. Dass sie sie niemals wieder anfassten.
+Dann geschah etwas.
 
-Etwas Kaltes war in ihr erwacht und hatte auf diesen Wunsch geantwortet.
+Skarra hatte keinen Zauberspruch gesprochen. Sie hatte nicht einmal gewusst, dass sie zu Magie fähig war. Sie hatte nur daliegen und sterben wollen – und zugleich mit jeder Faser ihres geschundenen Körpers dagegen angekämpft.
 
-Die Ratten erhoben sich gegen ihre Peiniger. Die Männer flohen. Am nächsten Morgen fand man zwei von ihnen tot, ohne sichtbare Wunden und mit Gesichtern, auf denen sich das Entsetzen festgesetzt hatte.
+Etwas Kaltes erwachte in ihr.
 
-Skarra hatte damals nicht verstanden, was sie getan hatte.
+Die erste Ratte brach zusammen. Dann eine zweite. Eine dritte. Ihre kleinen Körper zuckten, als würde etwas Unsichtbares an ihnen zerren, bevor sie reglos zwischen den Pflastersteinen liegen blieben.
+
+Und Skarra spürte, wie etwas in sie hineinströmte.
+
+Wärme. Kraft. Leben.
+
+Es fühlte sich gut an.
+
+Mehr noch. Es war ein überwältigendes Gefühl. Der Schmerz trat zurück, die Kälte wich aus ihren Gliedern, und zum ersten Mal seit Stunden hatte sie nicht das Gefühl, sterben zu müssen.
+
+Sie klammerte sich daran.
+
+Wollte es festhalten.
+
+Wollte mehr.
+
+Und ohne zu begreifen, was sie tat, begann sie zu ziehen.
+
+Die letzten Ratten verendeten zwischen den Pflastersteinen. Doch das Gefühl ließ bereits nach. Skarra wollte nicht, dass es aufhörte. Nicht jetzt. Nicht, nachdem sie endlich wieder spürte, wie es war, am Leben zu sein.
+
+Also zog sie weiter.
+
+Dann griff die Macht nach etwas Größerem.
+
+Einer der Männer, die sie zusammengeschlagen hatten, blieb mitten in der Bewegung stehen. Er fasste sich an die Brust, öffnete den Mund und brachte keinen Laut hervor.
+
+Der zweite taumelte zurück.
+
+Und plötzlich war da so viel mehr.
+
+Skarra spürte den gewaltigen Strom fremder Lebenskraft, der sie durchflutete. Für einen Augenblick verschwanden Angst und Schmerz hinter einem berauschenden Gefühl von Stärke.
+
+Dann sah sie den ersten Mann auf die Knie fallen.
+
+Etwas in ihr erschrak.
+
+Sie wollte aufhören.
+
+Aber sie wusste nicht, wie.
+
+Der zweite Mann versuchte zu fliehen. Er schaffte nur wenige Schritte, bevor auch er auf dem nassen Pflaster zusammenbrach.
+
+Skarra lag zwischen den toten Ratten und den reglosen Männern. Ihr Atem ging stoßweise. Sie verstand nicht, was geschehen war. Nur eines wusste sie: Eben noch hatte sie im Sterben gelegen. Jetzt konnte sie sich bewegen.
+
+Mühsam stemmte sie sich hoch.
+
+Ein stechender Schmerz fuhr durch ihr Bein. Ihre Rippen protestierten bei jedem Atemzug. Nichts war verheilt. Aber etwas hielt sie aufrecht, das vorher nicht da gewesen war.
+
+Sie blickte auf die Männer.
+
+Keiner von ihnen bewegte sich.
+
+Dann rannte sie.
+
+Sie stolperte durch die Gassen, prallte gegen eine Mauer und rappelte sich wieder auf. Jeder Schritt schmerzte. Sie lief trotzdem weiter, fort von den Leichen, fort von den Ratten und fort von etwas, das aus ihr selbst gekommen war.
+
+Am nächsten Morgen fand man die beiden Männer tot auf. Ihre Körper wiesen keine neuen sichtbaren Verletzungen auf.
+
+Niemand konnte erklären, woran sie gestorben waren.
+
+Skarra am allerwenigsten.
 
 Später verstand sie mehr.
 
