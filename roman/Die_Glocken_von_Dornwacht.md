@@ -3,6 +3,96 @@
 ---
 
 
+## Prolog · Die Ratten
+
+In der Nacht vor Eibenbrück fand Skarra keinen Schlaf.
+
+Sie hatte ihr Lager abseits der Straße aufgeschlagen, unter den ausladenden Ästen einer alten Buche. Der Regen fiel in unregelmäßigen Tropfen durch das Laub. Das Feuer war längst zu Glut zusammengesunken, und jenseits des schwachen Lichtkreises raschelte etwas im Unterholz.
+
+Ratten, vielleicht.
+
+Skarra lag still und lauschte.
+
+Es gab Menschen, die bei diesem Geräusch nach einem Stein griffen. Andere zogen die Füße unter die Decke. Skarra hatte Ratten einmal ihr Leben zu verdanken gehabt.
+
+Damals war sie dreizehn gewesen.
+
+Die Hafenstadt, in der sie aufgewachsen war, hatte keinen Namen, den sie bewahren wollte. An ihren Geruch erinnerte sie sich dagegen gut: fauliges Wasser, Fischabfälle, nasses Holz und der Rauch billiger Feuer. In den Gassen nahe den Kais drängten sich Menschen, für die ein trockener Schlafplatz bereits ein kleiner Wohlstand war.
+
+Ihre Mutter war früh gestorben. Krankheit, Erschöpfung – in jenem Viertel machte man zwischen beidem keinen großen Unterschied. Danach hatten andere über Skarras Tage verfügt: Männer, die Kinder zum Stehlen schickten, Nachrichten durch gefährliche Straßen tragen ließen und bei Misserfolg mit den Fäusten erklärten, was sie von Entschuldigungen hielten.
+
+Hunger hatte sie kennengelernt, bevor sie alt genug gewesen war, das Wort Ungerechtigkeit zu verstehen.
+
+Und Angst.
+
+In jener Nacht hatten sie sie in einer Gasse liegen lassen, weil sie nicht mehr aufstand. Der Regen rann zwischen den Pflastersteinen hindurch. Jeder Atemzug schmerzte. Sie wusste nicht, ob sie den Morgen erleben würde.
+
+Dann waren die Ratten gekommen.
+
+Zuerst eine, die unter einem Stapel zerbrochener Kisten hervorkroch. Dann zwei weitere. Bald bewegte sich der Unrat rings um sie, als hätte die Gasse selbst zu atmen begonnen.
+
+Skarra hatte keinen Zauberspruch gekannt. Keinen Lehrer gehabt. Sie hatte nur gewollt, dass die Männer verschwanden. Dass sie aufhörten. Dass sie sie niemals wieder anfassten.
+
+Etwas Kaltes war in ihr erwacht und hatte auf diesen Wunsch geantwortet.
+
+Die Ratten erhoben sich gegen ihre Peiniger. Die Männer flohen. Am nächsten Morgen fand man zwei von ihnen tot, ohne sichtbare Wunden und mit Gesichtern, auf denen sich das Entsetzen festgesetzt hatte.
+
+Skarra hatte damals nicht verstanden, was sie getan hatte.
+
+Später verstand sie mehr.
+
+Nicht alles.
+
+Die Gabe ließ sich formen. Sie konnte den Tod berühren, wo andere nur sein Ende sahen. Sie lernte aus Versuch und Irrtum, aus Instinkt und einer Wut, die jahrelang keinen Grund fand zu erlöschen.
+
+Sie kehrte zu den Menschen zurück, die sie und andere Kinder gequält hatten.
+
+Einer nach dem anderen.
+
+Sie ließ Schatten in ihren Häusern wachsen und ihre Opfer von Stimmen heimsuchen, die längst hätten schweigen sollen. Manche starben. Andere wünschten es sich, lange bevor es geschah. Es war Rache, und irgendwann war sie weit mehr als das.
+
+In den Gassen begann man einen Namen zu flüstern.
+
+*Schwarzherz.*
+
+Zuerst hatte sie ihn als Drohung verstanden, die nun endlich von ihr ausging statt gegen sie gerichtet zu sein. Doch Namen hatten die unangenehme Eigenschaft, an einem haften zu bleiben. Und dieser begann eine Frage zu stellen, die sie nicht hören wollte: Wann war aus dem gejagten Kind jemand geworden, vor dem andere Kinder Angst haben mussten?
+
+Die Antwort kam mit einem Jungen.
+
+Er war nicht viel älter gewesen als Skarra in jener Nacht auf dem Pflaster – ein Kind noch, jedenfalls jung genug, dass er nichts mit den alten Rechnungen hätte zu tun haben dürfen.
+
+Er war zur falschen Zeit am falschen Ort gewesen.
+
+Skarra hatte ihre Wut entfesselt, und der Junge war gestorben.
+
+Nicht einer ihrer Peiniger. Kein Mann, den sie gesucht hatte. Ein Unschuldiger.
+
+An Einzelheiten konnte sie sich erinnern. Zu gut. Aber sie hatten über die Jahre nichts an der einen Tatsache geändert, die blieb: Sie hatte ihn nicht retten können vor dem, was sie selbst in Gang gesetzt hatte.
+
+Danach hatte sie aufgehört, ihre Vergangenheit mit weiteren Toten begleichen zu wollen.
+
+Nicht aufgehört, eine Nekromantin zu sein. Die Macht war da, so selbstverständlich wie ihr eigener Atem. Und der Zorn war nicht verschwunden. Er wartete noch immer an Orten, an denen Wehrlose geschlagen, Kinder misshandelt oder Menschen wie Gegenstände behandelt wurden.
+
+Nur hatte sie gelernt, dass Wut allein kein Urteil sprach, dem man trauen durfte.
+
+Im Unterholz raschelte es erneut.
+
+Skarra öffnete die Augen. Die Glut war beinahe erloschen. Über ihr bewegten sich schwarze Äste vor einem Himmel, der allmählich heller wurde.
+
+Im Norden, hinter Eibenbrück, sollten Tote wieder aufstehen.
+
+Sie hatte Zhaitans Schrecken in Tyria erlebt und wusste, wie wenig Trost darin lag, den Tod für eine endgültige Grenze zu halten. Ob in diesen Grenzlanden etwas Ähnliches erwachte oder etwas ganz anderes, würde sie erst herausfinden müssen.
+
+Sie blieb noch eine Weile liegen und lauschte dem Regen.
+
+Dann begann ein neuer Tag.
+
+Und mit ihm der Weg nach Eibenbrück.
+
+
+* * *
+
+
 ## Kapitel 1 · Fünf Fremde und ein leerer Sarg
 
 
