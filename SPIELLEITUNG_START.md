@@ -12,7 +12,7 @@
 7. **[WELT_UND_KANON.md](WELT_UND_KANON.md)** – Schauplätze, Welt und bisheriger Kanon.
 8. **[CHARAKTERENTWICKLUNG.md](CHARAKTERENTWICKLUNG.md)** – optionale OOC-Werkstattnotizen zu Figuren und Beziehungen; keine festgelegten Handlungen oder Plotspoiler. Der Spieler möchte diese Datei bewusst nicht lesen.\n9. **[DOKUMENTATION.md](DOKUMENTATION.md)** – laufende Buchpflege und Übergabe nach Sitzungen.
 
-Bei Widersprüchen haben die **tatsächlich gespielten Szenen und späteren ausdrücklichen OOC-Regelentscheidungen des Spielers** Vorrang. Die ursprüngliche Markdown-Fassung wurde direkt aus der Word-Datei abgeleitet und danach mit den vollständig gespielten Szenen fortgeschrieben; eine Zusammenfassung ist kein Ersatz für den Originaltext. **Seit der Sitzung vom 14. Oktober 2026 ist Markdown aktueller als der Word-Export, dessen Synchronisierung der Spieler ausdrücklich auf später verschoben hat.** Die GitHub-Anbindung kann binäre DOCX-Dateien gegebenenfalls nicht direkt lesen, deshalb für den Einstieg die Markdown-Fassung verwenden.
+Bei Widersprüchen haben die **tatsächlich gespielten Szenen und späteren ausdrücklichen OOC-Regelentscheidungen des Spielers** Vorrang. Die ursprüngliche Markdown-Fassung wurde direkt aus der Word-Datei abgeleitet und danach mit den vollständig gespielten Szenen fortgeschrieben; eine Zusammenfassung ist kein Ersatz für den Originaltext. **Am 17. Oktober 2026 wurde die Word-Lesefassung als Taschenbuch (12 × 19 cm) aus dem aktuellen Markdown neu erzeugt. Markdown bleibt die maßgebliche Quelle; bei späteren Änderungen ist die Word-Datei erneut zu exportieren.** Die GitHub-Anbindung kann binäre DOCX-Dateien gegebenenfalls nicht direkt lesen, deshalb für den Einstieg die Markdown-Fassung verwenden.
 
 ## 2. Dein Auftrag
 
