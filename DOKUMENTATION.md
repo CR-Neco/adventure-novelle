@@ -114,3 +114,14 @@ Auf ausdrücklichen Wunsch des Spielers wurde vor Kapitel 1 in `roman/Die_Glocke
 ## Taschenbuch-Word-Export (17. Oktober 2026)
 
 Die Word-Lesefassung `export/Die_Glocken_von_Dornwacht.docx` wurde nach Einbau des Prologs neu als **12 × 19 cm Taschenbuch** erzeugt (GitHub-Commit `3d58050eba73925021dc0fa67ad0305bc50c184b`). Automatisierter Export über `tool/build_taschenbuch.py` und `.github/workflows/build-taschenbuch.yml`; gespiegelte Ränder, Garamond, Blocksatz, Kapitelüberschriften und zentrierte Seitenzahlen. Erzählzeilen zu Absätzen zusammengeführt; Markdown bleibt kanonische Quelle. Ältere Hinweise auf ausstehende Word-Synchronisierung gelten bis zu diesem Exportzeitpunkt nicht mehr. Spätere Änderungen am Markdown benötigen erneut einen Export (Workflow bei Push auf `main`).
+
+
+## Teilsitzung – Hofabreise bis Erkundung Dornwachts, 17. Oktober 2026
+
+Vollständige gespielte Fortsetzung ab offener Frühstücksfrage: Hilfe bei Hofabreise zum Gutshof, eigener Aufbruch, Ende der drei Kundschafter, Ersatzradprüfung, Reisegespräche / Skarras Caledon- und Festungserinnerung, Kalkofen / Vorerkundung, Rhen-Tarnung und Brückenkontrolle, Magrats Verhandlung, Triss' Rückkehr für Quittung / Informationen / Brief, weitere Reise und erste äußere Beobachtung Dornwachts. Neue Abschnitte **„Die Brückenwache“** und **„Vor Dornwacht“**.
+
+Vier neue direkte Spielerpassagen markiert. OOC-Aufträge durch bereits erzählte Prosa erhalten, nicht als Meta-Kommentare kopiert; Spielzug-Aufforderungen ausgelassen. Nur behutsame Schreib- / Zeichensetzungskorrekturen. Keine zusätzlichen Skarra-Handlungen / neue Rückblenden ergänzt. Vorhandener Prolog und freigegebene Magrat-Buchmomente unverändert erhalten.
+
+**Ende exakt:** „Unter ihnen schloss sich das Wirtschaftstor wieder. Der Mann mit dem Stab führte die vier Träger zurück in die Halle.“ Nächste Entscheidung: Auslauf näher erkunden, Tor länger beobachten oder anderes Vorgehen. Kein Betreten der Abtei / kein geprüfter Portalplatz / kein geöffneter Brief.
+
+Kampagnenstand, Übergabe, Welt, README und beobachtete Charakterfortschreibung aktualisiert. Markdown maßgeblich. Der am 17. Oktober eingerichtete Taschenbuch-Workflow ist für erneuten Word-Export vorgesehen; Erfolg einer neuen Ausführung gesondert prüfen, nicht allein aus Markdown-Commit behaupten.

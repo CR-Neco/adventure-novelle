@@ -31,4 +31,4 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt (Pause 17. Oktober 2026):** Morgen des dritten Reisetages am Hof, nach vereiteltem Pferdediebstahl und Skarras Restwache. Tewes fortgeschickt, Kelm geflohen. Brienne schlägt Fahrweg über alten Kalkofen und Halt vor der ungeprüften Mühlgrabenbrücke vor. **Skarras Antwort / Wegwahl offen; keine Abreise.** Siehe KAMPAGNENSTAND.md.
+**Aktueller Haltepunkt (Pause 17. Oktober 2026, vor Dornwacht):** Gruppe mit verborgenem Wagen an südlicher Beobachtungsstellung. Erste Wach- / Untotensichtungen, östlicher Auslauf nur aus Ferne gesehen. Brief an Abtei weiterhin versiegelt, Portalplatz ungeprüft. **Skarras Wahl weiterer Erkundung / Torbeobachtung offen; noch keine Infiltration.** Siehe KAMPAGNENSTAND.md.

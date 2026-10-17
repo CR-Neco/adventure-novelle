@@ -57,3 +57,9 @@ Noch in Entwicklung. Keine vorausgesetzte Führungsrolle, Freundschaft oder Roma
 - Antwort auf mögliche spätere Übung: „Das wird mir ein Vergnügen sein.“
 - Beschwor drei neue Knochenkundschafter auf Warnpatrouille, legte sich im Scheunenstroh schlafen.
 - Jetzt von Brienne wegen Meldung Nordmauer angesprochen. Ihre Reaktion steht aus, keine bereits abgeschlossene lange Rast festgelegt.
+
+## Fortschreibung – Reise und erste Abteierkundung, 17. Oktober 2026
+
+- Stimmte Fahrweg / Brückenprüfung zu, half bei Hofabreise. Erzählte von ruhigem Caledon-Ufer bei Sylvari vor Feldzug und Festung der Dreieinigkeit als Ort, an dem erstmals jemand auf Rückkehr wartete; nennt keinen Ort Heimat. Nur diese offengelegten Details sind Gruppenwissen.
+- Billigte Rhen-Tarnung und Triss' Quittungsvorwand; will Gewalt gegen Brückenwache vermeiden. Lässt Brief ungeöffnet für möglichen Zugangsnutzen, fordert Erkundung vor Torbesuch.
+- Vor Dornwacht bei gedeckter Beobachtung, nächste Erkundungswahl offen. Keine aktive Beschwörung mehr nach Ende Hof-Kundschafter.

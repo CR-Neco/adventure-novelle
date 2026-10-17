@@ -30,3 +30,10 @@ Intelligent, empathisch, diplomatisch und fachlich neugierig. Keine naive Vermit
 - Sichert Probe / trockene Papiere; unterstützt Provisorium und Hinnerks Untersuchung. Keine vergleichbare Nekromantie gefunden, kein universeller Infektionsausschluss behauptet.
 - Untersucht Scheiterasche ohne eindeutige Aussage, akzeptiert Ende für heute.
 - Zeichnet Rückweg für Hofleute. Aktuell bereits im Haus eingeschlafen, nicht in Abendrunde.
+
+## Fortschreibung – Reise und erste Abteierkundung, 17. Oktober 2026
+
+- Half Hofleuten beim Transport, fragte Skarra nach Ort gewünschter Rückkehr, hörte Caledon- / Festungserzählung. Eigene Bemerkung über fehlende bekannte Städte / Menschen, keine neue konkrete Biografie.
+- Verhüllte Magrat an Brücke überzeugend genug, musste konzentriert nahe bleiben; danach bewusst aufgehoben. Keine unbegrenzte Illusionsdauer / automatische Abteitor-Täuschung bewiesen.
+- Entwickelte Quittungsvorwand, kehrte auf Skarras Zustimmung allein zurück, gewann Beleg / Angaben zu anderem Transport und versiegelte Büttelanordnung.
+- Vor Dornwacht Vermutung Krankenstubenfenster als unbestätigt benannt. Will tieferen äußeren Portalplatz prüfen, noch keinen festgelegt / gesehen.

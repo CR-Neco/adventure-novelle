@@ -37,3 +37,10 @@ Ehrenhaft, loyal, entschlossen, kampferfahren; schützt Unschuldige. Moralische 
 - Lieh Minthara kurz Schwert, erhielt es zurück. Beobachtete Übung, gab Hinweise zu Waffenlänge / Rückraum, erkennt Nutzen der Beinarbeit für sich.
 - Löste Jost / Wulf zur Wache ab. Hörte zweimal Metall an Stein, sah ungeduldiges Verhalten von Skarras Kundschafter.
 - Jetzt mit Helm bei Skarras Strohlager in Scheune, Schwert noch in Scheide. Berichtet Minthara wach am Haus, Triss / Magrat schlafen; Ursache der Meldung offen.
+
+## Fortschreibung – Reise und erste Abteierkundung, 17. Oktober 2026
+
+- Trug Hinnerk mit Jost, half Evakuierung, bestand nicht auf zugesagter Aufnahme durch Gutshof. Führt Wagen / kontrolliert Ersatzrad mit Minthara.
+- Steife Schulter von Magrat behandeln lassen. Gespräch: Festung kann einsam sein, Bedeutung der Menschen am Tor; keine konkrete neue private Vergangenheit festgelegt.
+- Unterstützte Ladungskontrolle / geordneten Brückenübertritt, sieht Botennachricht als mögliche Torbegründung. Kein Wissen vom Briefinhalt.
+- Beobachtet vor Dornwacht mit Minthara, benennt Torhaus / Südmauer als Fluchtrisiko, Ost-Auslauf nur aus Ferne. Kein Eintritt / Rettung schon erfolgt.

@@ -8408,3 +8408,834 @@ Minthara blickte zu den Pferden.
 Brienne sah zu Skarra.
 
 „Erst essen. Dann würde ich den Fahrweg nehmen und rechtzeitig vor der Brücke halten. Was meint Ihr?“
+
+„Dann bis zum Kalkofen“, sagte Brienne, nachdem Skarra zugestimmt hatte. „Und vor der Brücke halten wir.“
+
+Jost nickte und ging zum Schlitten zurück. Alva hatte inzwischen entschieden, zunächst Hagens und Ennas Gutshof anzusteuern.
+
+„Eibenbrück läuft uns nicht fort. Aber wenn wir ihn unterwegs noch einmal so durchschütteln wie gestern, hilft uns auch ein größeres Dorf nichts.“
+
+Durch die offene Haustür kam Hinnerks Stimme.
+
+„Ich kann Euch hören.“
+
+„Das spart mir den Weg hinein.“
+
+* * *
+
+Der Aufbruch der Hofleute brauchte länger als das Frühstück.
+
+Die gepolsterte Holzschleife passte nicht durch die Tür, solange Hinnerk darauf lag. Brienne und Jost trugen ihn deshalb auf einer Decke hinaus, während Magrat rückwärts vor ihnen herging und darauf achtete, dass sein verbundener Arm nirgendwo anschlug. Hinnerk versuchte zweimal, selbst aufzustehen. Beim zweiten Mal genügte ein Blick Alvas.
+
+„Ihr habt hier eine bemerkenswerte Befehlskette“, stellte Minthara fest.
+
+„Die war schon immer so“, keuchte Jost.
+
+„Nur seit Ihr laufen könnt“, erwiderte Alva.
+
+Auf dem Hof halfen alle mit. Skarra hielt mit Jost die Schleife ruhig, während Brienne Hinnerk darauf absetzte. Triss schob zusammengerollte Decken unter die Stellen, an denen das Holz sonst gegen Rücken und Hüfte gedrückt hätte. Magrat prüfte die Lagerung und erklärte Alva noch einmal, wann sie anhalten sollte.
+
+„Wenn er Fieber bekommt, wenn die Blutung wieder beginnt oder wenn er plötzlich sehr still wird.“
+
+Hinnerk öffnete den Mund.
+
+„Nein“, sagte Magrat. „Gewöhnliches beleidigtes Schweigen zählt nicht.“
+
+Wulf spannte den Ochsen an. Minthara ging die Befestigungen durch, zog an zwei Knoten und band einen davon neu.
+
+Jost betrachtete ihre Hände.
+
+„Der hätte gehalten.“
+
+„Jetzt hält er besser.“
+
+Das Messer mit den eingeschnittenen Kerben verschwand in Josts Tasche. Er strich noch einmal darüber, sagte aber nichts mehr von Wilm.
+
+Als alles bereit war, stand Alva einen Augenblick in der Haustür. Ihr Blick ging über den ausgeräumten Tisch, die kalte Feuerstelle und die Haken an der Wand. Dann zog sie die Tür zu und drehte den Schlüssel zweimal herum.
+
+Brienne wartete am Tor.
+
+„Sagt Enna, woher Ihr kommt. Und dass wir Euch den Weg empfohlen haben.“
+
+„Wir werden ihr keine Gäste vorspielen, die auf Einladung kommen“, sagte Alva.
+
+„So war es auch nicht gemeint.“
+
+Alva nickte. Dann legte sie die Hand auf Hinnerks Decke, und Wulf führte den Ochsen an.
+
+Die Kufen schabten über den Hofboden. Jost ging neben seinem Bruder, Alva auf der anderen Seite. Wulf hielt das Tier im langsamen Schritt. Hinter dem Tor bog der kleine Zug nach Süden ab.
+
+* * *
+
+Bero und Tamm waren weniger geduldig.
+
+Tamm hatte begriffen, dass Geschirr und Stimmen gewöhnlich Aufbruch bedeuteten, und scharrte bereits. Brienne führte ihn zurück an seinen Platz, während Triss die Ladung prüfte. Die Proben lagen geschützt; die Papiere waren trocken und griffbereit verstaut.
+
+Magrat sah noch einmal nach, ob sie etwas im Haus zurückgelassen hatte, und kam mit ihrem Tuch über dem Arm zurück.
+
+„Niemand mehr drin.“
+
+Das Haupttor blieb nach der Abfahrt geschlossen. Eine Weile waren über der Mauer noch die schmalen Schädel der Kundschafter zu sehen. Dann verschwand der Hof hinter einer Biegung.
+
+Als die Entfernung zu groß wurde, endete auch ihre Bindung. Drei kleine Knochengebilde sanken zwischen Steinen und feuchtem Gras auseinander. Der verlassene Hof wurde still.
+
+* * *
+
+Der Fahrweg stieg allmählich an. Zwischen den Hecken lagen schmale Ackerstreifen, auf denen das Unkraut höher stand als die junge Saat. Weiter oben begann Wald. Sonnenlicht fiel durch die noch lichten Kronen und trocknete den Tau auf dem Wagenrand.
+
+Nach einer halben Stunde hielt Brienne die Pferde an.
+
+Sie und Minthara prüften das Ersatzrad. Der Splint saß fest, die Unterlegscheibe hatte sich kaum verschoben. Brienne drehte das Rad ein Stück weiter und lauschte.
+
+„Kein Schlagen.“
+
+„Dann dürfen wir heute vielleicht an etwas anderem scheitern“, sagte Triss.
+
+Sie saß auf der hinteren Wagenkante und streckte die Beine aus. Magrat reichte ihr ein Stück Brot.
+
+„Ihr klingt erholt.“
+
+„Ich hatte gehofft, das überzeugender verbergen zu können.“
+
+Sie fuhren weiter.
+
+Eine Zeit lang begleiteten sie nur Hufschlag und Radknarren. Brienne ging neben dem Wagen, den Helm am Gepäck befestigt. Minthara betrachtete sie schließlich von der Seite.
+
+„Eure Schulter.“
+
+„Was ist damit?“
+
+„Ihr bewegt sie anders, sobald Ihr glaubt, dass niemand hinsieht.“
+
+„Sie ist steif.“
+
+„Das war keine Antwort.“
+
+Brienne sah zu ihr hinüber. „Doch. Nur keine ausführliche.“
+
+Triss lächelte in ihr Brot.
+
+Magrat wartete, bis der Weg breit genug war, und stieg ab.
+
+„Gebt mir nachher zehn Minuten.“
+
+„Ihr habt Hinnerk bereits versorgt.“
+
+„Meine Hände sind deshalb nicht aufgebraucht.“
+
+Brienne wollte etwas erwidern, ließ es dann aber bleiben.
+
+Minthara nickte anerkennend. „Ihr solltet Befehle häufiger so formulieren.“
+
+„Ich habe sie um etwas gebeten.“
+
+„Gewiss.“
+
+* * *
+
+Später führte der Weg an einer umgestürzten Grenzstele vorbei. Triss strich im Vorüberfahren mit den Fingerspitzen über die verwitterte Oberkante.
+
+„Ich vermisse ordentliche Straßen.“
+
+„In Eurer Heimat gibt es keine Schlaglöcher?“, fragte Brienne.
+
+„Doch. Aber dort weiß ich gewöhnlich, welche Stadt am anderen Ende liegt.“
+
+Magrat zog die Füße unter sich auf die Wagenbank.
+
+„Und Menschen, die Euch kennen.“
+
+Triss antwortete nicht sofort.
+
+„Ja. Auch die.“
+
+Minthara ging auf der anderen Seite des Wagens. „Bekannte Menschen können ein guter Grund sein, eine Straße in die entgegengesetzte Richtung zu nehmen.“
+
+„Ihr vermisst also niemanden?“, fragte Triss.
+
+„Das habe ich nicht gesagt.“
+
+Der Wagen rumpelte über eine Wurzel. Magrat hielt den Brotrest fest, der ihr beinahe vom Knie gerutscht wäre. Triss ließ Mintharas Antwort stehen.
+
+Eine Weile später fragte Brienne: „Woran merkt Ihr, dass Ihr irgendwo bleiben könnt?“
+
+Magrat blickte auf. „Für wie lange?“
+
+„Länger als eine Nacht.“
+
+„Wenn man anfängt, Dinge zu reparieren, statt sich nur über sie zu ärgern.“
+
+Triss lachte leise.
+
+„Dann habt Ihr auf diesem Hof beinahe Wurzeln geschlagen.“
+
+„Die hintere Tür hätte wirklich ausgehobelt werden müssen.“
+
+Selbst Minthara verzog einen Mundwinkel.
+
+Zwischen den Bäumen erschien nun helles Mauerwerk: ein breiter, rußgeschwärzter Rundbau, halb in einen Hang gesetzt. Der alte Kalkofen. Noch lag er einige Wegbiegungen voraus.
+
+Triss wandte sich zu Skarra.
+
+„Tyria“, sagte sie nachdenklich. „Ihr habt uns von einem Krieg erzählt und von dem, was Ihr dort bekämpft habt.“
+
+Sie legte den angebissenen Brotrest beiseite.
+
+„Gibt es dort auch einen Ort, an den Ihr gern zurückkehren würdet?“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** „Tyria ist groß. Und weit von hier, jenseits des großen Meeres. Aber Heimat …“ Skarra ließ den Blick in die Ferne schweifen. „So habe ich keinen Ort dort genannt. Am wenigsten den, an dem ich aufgewachsen bin.“
+> Sie schwieg einen Moment.
+> „Lange vor dem Feldzug war ich im Caledon-Wald, im Land der Sylvari. Dort gibt es ein Ufer nahe einer großen Mauer. Ich erinnere mich an das Licht auf dem Wasser und das Rauschen der Blätter. Die Sylvari lebten dort so selbstverständlich zwischen all dem Grün.“
+> Ihr Blick ruhte auf den Bäumen am Weg.
+> „Ich blieb länger, als ich vorgehabt hatte. Einmal keine Seuche, keine Sterbenden, kein Krieg. Jedenfalls an diesem kleinen Flecken. Für eine Weile genügte es, einfach dort zu sein.“
+> Erst nach einigen Schritten sprach sie weiter.
+> „Und dann wäre da die Festung der Dreieinigkeit. Von dort aus zogen wir gegen Zhaitan.“
+> Sie sah wieder zu Triss.
+> „Es klingt merkwürdig, ausgerechnet eine Festung zu nennen. Aber dort habe ich zum ersten Mal erlebt, dass jemand auf meine Rückkehr wartete. Dass ich fehlte, wenn ich nicht da war.“
+> Sie schwieg kurz.
+> „Dorthin würde ich wohl gern zurückkehren.“
+<!-- ENDE SPIELERBEITRAG -->
+
+Triss betrachtete sie einen Moment. Dann nickte sie.
+
+„Das klingt nach einem guten Grund.“
+
+Sie griff nach ihrem Brot, brach ein Stück ab und ließ den Blick über die Bäume wandern.
+
+Brienne ging ein paar Schritte schweigend neben dem Wagen her.
+
+„In einer Festung kann man sehr einsam sein“, sagte sie schließlich. „Es kommt darauf an, wer das Tor öffnet.“
+
+Minthara sah zu ihr hinüber.
+
+„Und ob man Euch wieder hinauslässt.“
+
+„Auch das.“
+
+Die Drow schien mit einer längeren Erwiderung gerechnet zu haben. Stattdessen bekam sie von Brienne einen nüchternen Blick und wandte sich wieder dem Weg zu.
+
+Magrat hatte währenddessen einen Zweig von ihrem Rock gezupft.
+
+„Das Ufer würde ich gern sehen“, sagte sie. „Einen Ort, an dem man bleiben darf, ohne erst etwas leisten zu müssen.“
+
+„Ihr würdet nach einem halben Tag anfangen, jemandem beim Dachdecken zu helfen“, erwiderte Triss.
+
+„Falls es hineinregnet.“
+
+„Gewiss.“
+
+Magrat lächelte ein wenig und ließ den Zweig fallen.
+
+Das Gespräch versickerte im gleichmäßigen Knarren des Wagens. Diesmal hatte niemand es eilig, die Stille zu füllen.
+
+* * *
+
+Der Kalkofen stand dort, wo der Wald an einem hellen, abgegrabenen Hang zurückwich. Sein rundes Mauerwerk war stellenweise eingebrochen; aus der schwarzen Öffnung am Fuß wuchs Farn. Neben ihm lagen die Reste eines Schuppens und ein Haufen weißlicher Steine.
+
+Brienne hielt die Pferde auf ebenem Grund an. Magrat nutzte die Pause, um ihr mit einer Beharrlichkeit, die keinen Streit brauchte, die versprochenen zehn Minuten für die Schulter abzunehmen. Die Ritterin saß schließlich auf einem Stein, den Arm aus dem gelockerten Riemen gezogen, während Magrat vorsichtig die schmerzenden Stellen ertastete.
+
+Minthara prüfte unterdessen den Wegweiser hinter dem Ofen. Einer seiner Arme lag im Gras. Am verbliebenen war unter Flechten noch eine eingeritzte Brücke zu erkennen.
+
+Der Fahrweg führte geradeaus zwischen die Bäume. Links zweigten tiefe, alte Radspuren hangaufwärts ab.
+
+„Die Höhenroute“, sagte sie. „Jedenfalls würde ich dort ungern mit dem Wagen wenden.“
+
+Triss trat neben sie. Vom Hang her kam Wasserrauschen.
+
+„Weit kann die Brücke nicht mehr sein.“
+
+Brienne zog den Riemen wieder über die Schulter.
+
+„Wir lassen den Wagen hier, bis wir es wissen.“
+
+„Ich sehe nach“, sagte Minthara. „Bis zur ersten freien Sicht. Wenn ich länger brauche, als dieser Weg rechtfertigt, wartet Ihr nicht schweigend weiter.“
+
+Sie blickte zu Brienne, die nickte, dann zu den übrigen. Anschließend ging sie den Fahrweg hinab.
+
+Es dauerte nicht lange.
+
+Als Minthara zurückkam, hatte sie es nicht eilig. Sie blieb neben Bero stehen, sodass ihre Stimme nicht weit trug.
+
+„Die Brücke steht. Steinbogen, breit genug. Aber jemand hat am anderen Ende eine Kette über den Weg gespannt.“
+
+Triss schloss die Augen für einen kurzen Moment.
+
+„Natürlich.“
+
+„Keine Wagenburg“, fuhr Minthara fort. „Ein Mann neben der Kette. Eine Frau unter einem kleinen Dach. Weiter hinten stehen zwei beladene Maultiere.“
+
+„Bewaffnet?“, fragte Brienne.
+
+„Der Mann trägt einen Speer. Bei der Frau konnte ich es nicht erkennen.“
+
+Sie zog mit der Stiefelspitze einen kurzen Strich in die Erde.
+
+„Vor der Brücke liegt ein offenes Stück. Wer dort mit unserem Wagen auftaucht, wird gesehen. Ich bin zwischen den Bäumen geblieben.“
+
+Magrat stopfte ihr Tuch zurück in die Tasche.
+
+„Ein Zoll?“
+
+„Vielleicht. Neben dem Mann hängt ein Brett. Ich war nicht nahe genug, um es zu lesen.“
+
+Brienne sah den Fahrweg hinunter.
+
+„Wenn sie Reisende passieren lassen, könnten wir einfach fragen.“
+
+„Dann sehen sie auch den Wagen“, sagte Triss leise.
+
+Der rußige Rundbau des Kalkofens lag windgeschützt hinter ihnen. Hier konnten sie noch umkehren, ohne dass unten jemand davon wissen musste.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** „Nun, wir sind im offiziellen Auftrag des Priors Severin unterwegs, nicht wahr?“, sagte Skarra. „Wir werden sehen, ob uns unsere Tarnung weitere Türen öffnet. Magrat … Mutter Rhen … sollte sich bereithalten.“
+<!-- ENDE SPIELERBEITRAG -->
+
+## Die Brückenwache
+
+Magrat zog ihr Tuch über die Schultern.
+
+„Mutter Rhen würde vermutlich finden, dass man sie unnötig aufhält.“
+
+„Das lässt sich einrichten“, sagte Minthara.
+
+Triss trat vor Magrat und bat sie, das Kinn etwas zu heben. Ihre Finger beschrieben eine langsame Bewegung vor dem Gesicht der Hexe. Für einen Augenblick lagen zwei verschiedene Konturen übereinander; dann wurden Magrats Züge schmaler, älter. Die Müdigkeit um Rhens Augen passte beinahe zu ihrer eigenen.
+
+„Die Hände auch“, erinnerte Magrat sie.
+
+„Ich weiß.“
+
+Brienne holte die Transportpapiere hervor und legte sie in Reichweite auf den Bock. Minthara sah noch einmal den Fahrweg hinunter.
+
+„Wir sollten mit der Geschichte auskommen, die wir schon haben.“
+
+Magrat stieg auf den vorderen Sitz. Als sie sich umwandte, war auch ihre Stimme verändert.
+
+„Dann lasst uns endlich fahren.“
+
+Triss betrachtete sie kurz.
+
+„Ja. Genau so.“
+
+* * *
+
+Die Brücke lag zwischen bewaldeten Ufern. Unter ihrem flachen Steinbogen schoss braunes Wasser über eine niedrige Wehrschwelle; etwas weiter unten ragte ein zerbrochenes Schaufelrad aus dem Ufergebüsch.
+
+Am anderen Ende hing eine Kette zwischen zwei Pfosten. Dahinter stand ein breitschultriger Mann mit einem Speer. Als der Wagen aus den Bäumen kam, richtete er sich auf und rief etwas zur Frau unter dem Bretterdach.
+
+Sie legte ein Buch beiseite.
+
+Brienne brachte die Pferde vor der Brücke zum Stehen. Von hier aus war das Brett zu lesen:
+
+**Übergang nur bei Tageslicht.  
+Keine Toten über die Brücke.  
+Ladungen sind vorzuzeigen.**
+
+Darunter stand in kleinerer, deutlich älterer Schrift ein Brückengeld für Wagen und Lasttiere.
+
+Die Frau kam ihnen entgegen. Sie trug einen abgewetzten Lederwams; an ihrem Gürtel hing ein kurzer Säbel. Ihr Blick ging über die fünf Frauen und blieb am Zeichen des Wagens hängen.
+
+„Dornwacht?“
+
+„Wohin sonst?“, erwiderte Magrat in Rhens müder Stimme.
+
+Die Frau blieb stehen.
+
+„Dann kennt Ihr die neue Anordnung noch nicht.“
+
+„Offensichtlich.“
+
+„Seit gestern lassen wir keine Leichen mehr hinüber. Auch keine abgedeckten.“
+
+Der Speerträger rückte näher an die Kette. Er hielt die Waffe aufrecht, nicht gegen sie gerichtet.
+
+„Wir haben Papiere“, sagte Magrat.
+
+„Die sehe ich mir an.“
+
+Brienne reichte ihr die Blätter. Die Frau strich mit dem Daumen über die Kanten, las die erste Liste und verglich die Unterschrift auf dem Empfang.
+
+„Oswin“, murmelte sie.
+
+Der Name war ihr offenbar vertraut. Sie blätterte weiter.
+
+Triss stand dicht beim Wagen. Die Illusion hielt; nur als Magrat eine Hand bewegte, folgte ein Schatten an ihrem Ärmel einen winzigen Augenblick zu spät. Die Brückenwächterin sah noch auf die Schrift.
+
+„Wer hat diese Anordnung erlassen?“, fragte Magrat.
+
+„Der Büttel von Eschenried. Nachdem wir hier einen Wagen festgehalten haben, dessen Ladung nachts gegen die Bretter schlug.“
+
+Magrat schwieg.
+
+Die Frau faltete die Papiere wieder zusammen und gab sie Brienne zurück.
+
+„Ihr könnt passieren, wenn Ihr nichts davon mitführt. Brückengeld wie auf dem Brett.“
+
+Sie trat seitlich, um hinter den Bock sehen zu können.
+
+„Die Plane bitte zurück. Und die verschlossenen Kisten öffnen.“
+
+Zwischen den Decken und Vorräten lag auch die sorgfältig verpackte, noch aktive Brustprobe.
+
+Magrat sah zuerst auf das Schild, dann auf die Frau.
+
+„Ihr sucht also nach Körpern.“
+
+„Unter anderem.“
+
+„Dann solltet Ihr Euch die Ladefläche ansehen. Von hier unten seht Ihr nur die Plane.“
+
+Die Brückenwächterin musterte sie.
+
+„Das hatte ich vor.“
+
+„Gut. Sagt Eurem Mann bitte, dass er die Pferde in Ruhe lässt. Der rechte knabbert gern an Dingen, die jemand anschließend vermisst.“
+
+Tamm streckte gerade die Nase nach dem Speerschaft aus. Der Mann zog ihn zurück.
+
+Brienne löste die hintere Befestigung der Plane. Magrat stieg vom Bock und wartete, bis die Wächterin um den Wagen herumgekommen war.
+
+„Wie viele waren auf dem anderen Wagen?“, fragte sie.
+
+„Zwei Tote.“
+
+„Und wie viele Leute?“
+
+Die Frau blickte auf.
+
+„Drei. Weshalb?“
+
+„Weil Ihr zu zweit seid.“
+
+Die Wächterin hielt ihren Blick fest. „Wir haben sie bei Tageslicht gefunden. Nachts war hier niemand mehr.“
+
+Magrat nickte nur.
+
+Gemeinsam mit Brienne schlug sie die Plane zurück. Tageslicht fiel auf Decken, Reisegepäck, Vorräte und die gesicherten Behälter. Die Frau legte eine Hand auf den Wagenrand, stieg auf die Nabe und verschaffte sich einen Überblick.
+
+„Die Decken auseinander.“
+
+Brienne tat es.
+
+„Den Sack auch.“
+
+Magrat öffnete ihn. Brot, ein kleiner Beutel Getreide, Geschirr. Die Frau ließ sich nichts nur aus der Ferne zeigen. Sie prüfte den Raum unter der Bank und klopfte gegen den Boden des Wagens.
+
+Minthara blieb am Kopf der Pferde. Triss hielt sich in Magrats Nähe, ohne die Untersuchung zu verfolgen, als hinge alles davon ab.
+
+Schließlich deutete die Wächterin auf das sorgfältig verschnürte Kästchen zwischen dem übrigen Gepäck.
+
+„Das.“
+
+Magrat nahm es heraus und stellte es auf den Wagenrand.
+
+„Untersuchungsmaterial.“
+
+Die Frau streckte die Hand aus.
+
+Magrat legte ihre darauf. Nicht fest; gerade genug, um die Bewegung zu unterbrechen.
+
+„Ich öffne es.“
+
+Die Wächterin zog die Hand nicht zurück.
+
+„Dann tut es.“
+
+Einen Herzschlag lang sahen sie einander an. Dann nahm Magrat ihre Finger fort und löste die Verschnürung.
+
+Unter dem Deckel lag die umhüllte Probe. Sie schlug den äußeren Stoff so weit zurück, dass die Wächterin den verschlossenen Behälter sehen konnte.
+
+„Keine Leiche“, sagte Magrat. „Aber Material von einer. Deshalb bleibt das Gefäß zu.“
+
+Die Frau wurde sehr still.
+
+Hinter ihr veränderte der Speerträger seinen Griff.
+
+„Was für Material?“
+
+„Das gehört zu unserer Untersuchung.“
+
+„Das ist keine Antwort.“
+
+Magrat sah kurz zu dem Behälter hinunter. Als sie wieder aufblickte, war aus Rhens müder Ungeduld etwas Nüchterneres geworden.
+
+„Gewebe, das wir gesichert haben. Ihr könnt sehen, dass hier kein Körper versteckt ist. Wenn Ihr wissen wollt, ob dieses Gefäß gefährlich werden kann, lautet die ehrliche Antwort: Darum ist es verschlossen.“
+
+Die Wächterin betrachtete das Kästchen, dann die Ladefläche.
+
+„Und damit wollt Ihr über meine Brücke.“
+
+„Ja.“
+
+Keine Empörung. Kein Hinweis auf Severins Rang. Magrat wartete.
+
+Die Frau stieg von der Nabe.
+
+„Wird so etwas in der Abtei auf die Wagen geladen?“
+
+„Ich kann Euch sagen, was wir hier mitführen.“
+
+„Das höre ich.“
+
+Magrat ließ den Einwand stehen.
+
+Wasser rauschte unter dem Steinbogen. Der Mann mit dem Speer blickte zu seiner Gefährtin, wartete aber auf ihre Entscheidung.
+
+Schließlich deutete sie auf die Stoffhülle.
+
+„Wieder einpacken.“
+
+Magrat tat es.
+
+„Dann bleibt Ihr hier, während ich das eintrage.“
+
+Sie ging zum Bretterdach zurück und schlug ihr Buch auf. Als sie wiederkam, hatte sie eine dünne Schnur und ein Stück Wachs dabei.
+
+„Euren Namen.“
+
+„Mutter Rhen.“
+
+Die Frau schrieb ihn auf.
+
+„Nach Dornwacht. Ein verschlossenes Gefäß mit Material von einem Toten. Kein vollständiger Körper.“
+
+Sie las den Eintrag laut vor, sah Magrat dabei an und wartete auf Widerspruch.
+
+Magrat nickte.
+
+Die Wächterin zog die Schnur um das geschlossene Kästchen und drückte das Wachs über den Knoten.
+
+„Ihr öffnet das weder auf der Brücke noch an unserer Mühle. Falls etwas ausläuft, fahrt Ihr nicht einfach weiter.“
+
+„Verstanden“, sagte Brienne.
+
+Die Frau blickte noch einmal über die Ladung.
+
+„Brückengeld. Dann könnt Ihr passieren.“
+
+* * *
+
+Erst jenseits der Kette, als die Mühle hinter den Bäumen verschwunden war, ließ Triss hörbar Luft entweichen.
+
+„Untersuchungsmaterial.“
+
+Magrat saß wieder auf dem Bock. Ihre Hände lagen ruhig im Schoß; unter der fremden Gestalt verriet nur ein kleiner Zug um den Mund, wie angespannt sie gewesen war.
+
+„Sie wollte ihren Übergang schützen.“
+
+„Und Ihr habt ihr beinahe gesagt, weshalb sie uns nicht hinüberlassen sollte“, bemerkte Minthara.
+
+„Sie hatte das Kästchen schon gesehen.“
+
+Brienne führte die Pferde an einer tiefen Fahrspur vorbei.
+
+„Sie hätte uns nicht geglaubt, wenn wir es ihr einfach entzogen hätten.“
+
+„Nun steht Rhens Name in einem Buch“, sagte Minthara.
+
+„Ja“, erwiderte Magrat leise. „Das tut er.“
+
+Triss wartete, bis sie außer Sichtweite waren, und löste die Verhüllung. Magrats eigenes Gesicht kehrte zurück. Sie rieb sich über die Stirn.
+
+„Ich hätte gern gewusst, was aus den drei Leuten vom anderen Wagen geworden ist.“
+
+Brienne hielt die Zügel etwas kürzer.
+
+„Wir können noch zurückfragen. Ohne den Wagen.“
+
+Der Weg nach Norden lag frei vor ihnen. Hinter ihnen war die Brückenwache noch nahe genug, um sie zu erreichen; die Kontrolle hatte sie passieren lassen, doch über den festgehaltenen Transport wussten sie weiterhin kaum etwas.
+
+Brienne ließ die Pferde weiter im Schritt gehen, während Skarra ihre Bedenken vorbrachte.
+
+Minthara blickte zurück. Zwischen den Zweigen war das Dach des Wachhäuschens noch zu erkennen.
+
+„Wir haben uns eben als ungeduldige Abteireisende vorgestellt. Ein plötzliches Interesse an beschlagnahmten Transporten würde ich mir an ihrer Stelle merken.“
+
+Magrat betrachtete ihre eigenen Hände.
+
+„Vielleicht hätte ich fragen sollen, solange sie mich noch für Rhen hielt.“
+
+„Vielleicht“, sagte Triss. „Aber Ihr musstet zugleich dafür sorgen, dass sie uns nicht hierbehält.“
+
+Sie wandte sich auf der Wagenbank um und dachte einen Moment nach.
+
+„Ich könnte nach dem Brückengeld fragen. Nach einem Beleg für die Abrechnung in Dornwacht.“
+
+Brienne sah zu ihr.
+
+„Und dann?“
+
+„Nicht nach allem fragen, was uns interessiert.“ Triss strich eine Falte aus ihrem Mantel. „Nur danach, welche Verzögerungen wir für die Rückfahrt einplanen sollen. Ob die drei Leute des anderen Wagens noch festgehalten werden und ob wir dem Prior etwas ausrichten müssen.“
+
+„Die Rückfahrt“, wiederholte Minthara. „Damit tut Ihr so, als rechnetet Ihr damit, wieder hier vorbeizukommen.“
+
+„Genau.“
+
+Magrat schüttelte langsam den Kopf.
+
+„Sie hat jeden Winkel des Wagens angesehen. Wenn Ihr wegen eines Stücks Papier zurückkommt und dann vor allem über die Gefangenen redet, fällt ihr das auf.“
+
+„Dann lasse ich es, sobald sie ausweicht“, sagte Triss. „Und wenn sie mir nur einen Beleg gibt, komme ich mit einem Beleg zurück.“
+
+Brienne hielt den Wagen dort an, wo der Weg wieder breiter wurde. Von der Brücke aus war die Stelle durch Bäume verdeckt.
+
+„Wir könnten hier auf Euch warten.“
+
+„Könnten wir.“ Triss sah zu Skarra. „Der Vorwand ist glaubwürdig genug, um es zu versuchen. Mehr kann ich nicht versprechen. Vielleicht erfahren wir etwas. Vielleicht erinnert sie sich danach besonders gut an mich.“
+
+Vom Wagenrand hing ein loses Ende der Plane. Magrat zog es hoch und klemmte es unter den Riemen.
+
+„Weiterfahren wäre auch eine Entscheidung“, sagte sie leise.
+
+Triss blieb sitzen. Sie hatte noch keine Anstalten gemacht abzusteigen.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** „Ein Versuch ist es wert“, sagte Skarra. „Verlangt eine Quittung für den Prior. Seid vorsichtig und ruft, wenn Ihr uns braucht. Wir bleiben hier in Deckung und halten uns bereit.“
+<!-- ENDE SPIELERBEITRAG -->
+
+„Ich komme zurück, bevor Ihr Gelegenheit habt, Euch einen besonders schlimmen Ausgang auszumalen.“
+
+Triss stieg ab und ging den Weg zurück. Ihr Tempo war ruhig, ihre Hände blieben sichtbar.
+
+Minthara trat zwischen die Bäume, von wo aus sie einen Teil des Brückenkopfes überblicken konnte. Brienne blieb bei den Pferden. Magrat rückte auf der Bank zur Seite und zog den Mantel über das verschnürte Kästchen.
+
+* * *
+
+Die Brückenwächterin bemerkte Triss, noch ehe diese den Steinbogen erreicht hatte.
+
+„Etwas vergessen?“
+
+„Die Quittung.“
+
+Die Frau blickte sie an.
+
+„Ihr habt bezahlt.“
+
+„Das weiß ich. Der Prior war nicht dabei.“
+
+Einen Moment blieb die Frau reglos. Dann deutete sie zum Bretterdach.
+
+„Wartet dort.“
+
+Triss blieb auf der Brücke stehen, während die Wächterin ihr Buch holte. Der Speerträger sah den Weg hinter ihr hinauf.
+
+„Wo sind die anderen?“
+
+„Warten auf mich.“
+
+Die Frau setzte sich an den schmalen Tisch und zog ein loses Blatt unter dem Buch hervor.
+
+„Name?“
+
+„Auf Mutter Rhen. Wie bei Eurem Eintrag.“
+
+Die Feder kratzte über das Papier.
+
+Triss wartete, bis die Frau die Summe eingetragen hatte.
+
+„Müssen wir für die Rückfahrt mit längeren Kontrollen rechnen?“
+
+„Wenn Ihr einen leeren Wagen habt, geht es schneller.“
+
+„Und die Leute des anderen Transports? Sollen wir in Dornwacht ausrichten, weshalb sie aufgehalten wurden?“
+
+Die Feder hielt inne.
+
+„Weshalb sie aufgehalten wurden, werden sie selbst erklären können.“
+
+Triss nickte. „Dann sind sie weitergefahren.“
+
+„Einer.“
+
+Die Frau sah auf.
+
+Triss wartete.
+
+„Die beiden anderen sind in Eschenried. Bis der Büttel entschieden hat, was mit ihnen geschieht.“
+
+„Verstehe.“
+
+„Tut Ihr das?“
+
+Triss erwiderte ihren Blick.
+
+„Genug, um den Prior nicht nach seinen Leuten suchen zu lassen, wo sie nicht sind.“
+
+Die Wächterin legte die Feder ab.
+
+„Dann könnt Ihr ihm auch sagen, dass ein Stab mit einem gelben Stein keine Erlaubnis ersetzt. Nicht hier.“
+
+„Das richte ich aus.“
+
+Die Frau trocknete die Quittung mit etwas feinem Sand, schüttete ihn ab und faltete das Blatt. Dann zog sie ein zweites, bereits beschriebenes Papier aus dem Buch. Dieses war verschlossen; auf dem dunklen Wachsklecks saß ein schlichter Stempel.
+
+„Das ist für ihn. Die Anordnung des Büttels. Wir wollten es mit dem nächsten Wagen nach Norden schicken.“
+
+Triss nahm beide Blätter entgegen.
+
+„An Prior Severin?“
+
+„An den Verantwortlichen in Dornwacht. Wenn er das ist, ja.“
+
+* * *
+
+Als Triss wieder zwischen den Bäumen auftauchte, löste Minthara sich aus ihrer Deckung.
+
+„Ihr habt Papier.“
+
+„Sogar mehr als verlangt.“
+
+Am Wagen gab Triss Brienne die Quittung und berichtete von dem Gespräch. Zwei der drei Begleiter des aufgehaltenen Transports waren demnach in Eschenried festgehalten worden; einer hatte weiterreisen dürfen. Über die Toten hatte die Wächterin nichts Weiteres gesagt.
+
+„Und sie erwähnte ausdrücklich einen Kontrollstab“, fügte Triss hinzu. „Sie wollte, dass der Prior erfährt, dass er an dieser Brücke nichts gilt.“
+
+Magrat hob den Kopf.
+
+„Hat sie gesagt, ob er funktioniert hat?“
+
+„Nein. Ich wollte ihr nicht noch mehr Fragen stellen.“
+
+„Gut“, sagte Minthara.
+
+Triss hielt den verschlossenen Brief so, dass alle ihn sehen konnten.
+
+„Die Anordnung für Dornwacht. Wir haben ihr ohnehin gesagt, dass wir dorthin fahren.“
+
+Brienne betrachtete das Siegel.
+
+„Den könnten wir am Tor vorzeigen. Eine Nachricht vom Büttel würde erklären, weshalb man uns anhören sollte.“
+
+„Ich wüsste vorher gern, was darin steht“, sagte Minthara.
+
+„Dann kommt er geöffnet dort an“, erwiderte Triss. „Das Wachs bekomme ich vielleicht wieder weich. Einen fremden Stempel kann ich nicht zuverlässig nachbilden.“
+
+Sie legte den Brief neben die übrigen Papiere. Das Siegel war unversehrt.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** „Lasst ihn zunächst versiegelt. Vielleicht erfahren wir darin etwas Nützliches. Aber ein unversehrtes Siegel könnte uns am Tor ebenso gute Dienste leisten“, meinte Skarra. „Und zunächst müssen wir ohne großes Aufhebens hineinkommen.“
+> Sie blickte in die Runde.
+> „Vorher möchte ich allerdings wissen, was uns dort erwartet. Wie viele Bewaffnete? Wo stehen die Wachen? Gibt es weitere kontrollierte Untote? Und wer kann uns beim Rückzug den Weg abschneiden?“
+> „Wir sollten uns die Abtei ansehen, bevor wir uns an ihrem Tor vorstellen.“
+<!-- ENDE SPIELERBEITRAG -->
+
+## Vor Dornwacht
+
+Triss schob den Brief zwischen die übrigen Papiere.
+
+„Dann bleibt er zu.“
+
+„Und der Wagen bleibt zunächst außer Sicht“, sagte Minthara. „Wir brauchen einen Platz, von dem aus wir das Tor beobachten können, ohne selbst auf der Zufahrt zu stehen.“
+
+Brienne nickte.
+
+„Wachen zählen. Wege ansehen. Dann entscheiden wir, ob unsere Geschichte noch genügt.“
+
+Magrat zog ihr Tuch enger.
+
+„Und darauf achten, wer hineingeht, ohne gefragt zu werden.“
+
+Minthara sah sie an.
+
+„Ja. Darauf auch.“
+
+* * *
+
+Hinter dem Mühlgraben wurde die Straße besser.
+
+Zwischen den alten Fahrspuren lag stellenweise frischer Schotter. An einer ausgewaschenen Stelle hatte jemand Reisig in den Boden gedrückt; weiter oben waren überhängende Äste abgesägt worden. Der Weg wurde benutzt und instand gehalten.
+
+Sie kamen an zwei verlassenen Häusern vorbei. Bei einem fehlte die Tür, beim anderen hing noch Wäsche unter einem eingefallenen Vordach. Niemand trat heraus.
+
+Zur Mittagszeit aßen sie während einer kurzen Pause am Wegrand. Magrat kümmerte sich noch einmal um Briennes Schulter. Diesmal musste sie nicht darum bitten.
+
+Am frühen Nachmittag begann der Wald sich zu lichten.
+
+Zuerst sahen sie den Turm.
+
+Er stand über den Baumkronen, breit und dunkel, mit einer abgebrochenen Ecke unter dem Dachansatz. In den leeren Schallöffnungen saßen Vögel. Darunter zog sich eine lange Mauer über den Hang.
+
+Dornwacht.
+
+Brienne brachte den Wagen hinter einer Biegung zum Stehen. Von hier führte die Straße über freies Gelände weiter. Rechts davon stieg ein bewaldeter Rücken an; links lagen verwilderte Obstgärten.
+
+Minthara ging ein Stück zwischen die Bäume und kehrte nach wenigen Augenblicken zurück.
+
+„Oben ist eine alte Holzrückegasse. Wir bekommen den Wagen hinein, wenn wir ihn führen.“
+
+Bero und Tamm mussten ziehen, doch der Boden hielt. Bald stand der Wagen zwischen dichtem Jungwuchs, weit genug von der Straße entfernt, dass seine Plane nicht durch die Blätter schimmerte.
+
+Von einer flachen Felsplatte oberhalb des Verstecks ließ sich der südliche Teil der Abtei überblicken.
+
+* * *
+
+Die Anlage war größer, als Rhens Beschreibung am Wirtshaustisch hatte vermuten lassen.
+
+Hinter der äußeren Mauer lagen mehrere Höfe auf unterschiedlicher Höhe. Am unteren Wirtschaftshof waren Dächer ausgebessert worden. Eine lange Halle trug neues Holz auf alten Steinwänden; aus einem seitlichen Schornstein stieg dünner Rauch. Dahinter ragte der Glockenturm über einen teilweise eingestürzten Kreuzgang.
+
+Triss legte sich neben einen niedrigen Strauch, um nicht gegen den Himmel sichtbar zu werden.
+
+„Der südliche Flügel.“
+
+Sie zeigte auf eine Fensterreihe über dem unteren Hof.
+
+„Drei Fenster nebeneinander. Das könnte die Krankenstube sein.“
+
+„Könnte“, bestätigte Brienne.
+
+Sie beobachteten lange genug, dass aus einzelnen Bewegungen erste Abläufe wurden.
+
+Am Wirtschaftstor standen zwei Bewaffnete. Einer trug einen Speer, der andere eine Armbrust. Unter einem kleinen Vordach saß jemand an einem Tisch. Zweimal kam ein Mann aus der Halle zu ihm, legte etwas vor und ging wieder.
+
+„Der Buchführer vielleicht“, sagte Magrat. „Das Gesicht erkenne ich nicht.“
+
+Auf dem südlichen Mauerabschnitt gingen zwei weitere Wachen. Ihre Wege überschnitten sich nur kurz. Eine blieb häufig an einer beschädigten Zinne stehen und blickte hinunter zur Straße.
+
+Dann öffnete sich die lange Halle.
+
+Vier Gestalten kamen heraus. Sie trugen zu zweit schwere Körbe zwischen sich. Ein fünfter Mann ging neben ihnen, mit einem kurzen Stab in der Hand.
+
+Einer der Träger setzte den Fuß auf einen umgestürzten Stein. Sein Knöchel knickte seitlich weg. Er ging weiter, ohne hinzusehen.
+
+Brienne spannte den Kiefer an.
+
+Die Körbe wurden an einem Bretterverschlag neben dem Turm abgesetzt. Erst als der Mann seinen Stab bewegte, richteten sich die vier wieder auf.
+
+„Mindestens vier“, sagte Minthara. „Und ein Führer. Was in der Halle bleibt, sehen wir nicht.“
+
+Vom oberen Hof kamen zwei weitere bewaffnete Männer die Stufen herunter. Einer verschwand im Torhaus, der andere sprach mit dem Stabträger.
+
+Minthara zählte leise nach.
+
+„Sechs Bewaffnete gesehen. Dazu der mit dem Stab. Keine Gesamtzahl.“
+
+„Das Torhaus könnte uns die Zufahrt sperren“, sagte Brienne. „Und von der Südmauer aus erreichen sie den Weg mit Armbrüsten.“
+
+Triss betrachtete den bewaldeten Rücken hinter ihnen.
+
+„Für einen Rückzug möchte ich einen Platz weiter unten prüfen. Hier müssten wir Verletzte erst den Hang hinaufbringen.“
+
+* * *
+
+Minthara und Brienne suchten gemeinsam einen tieferen Aussichtspunkt, von dem aus sie den Osthang sehen konnten. Sie blieben dabei auf ihrer Seite der Senke und kehrten zurück, ohne die offenen Flächen unter der Mauer zu betreten.
+
+„Es gibt einen gemauerten Auslauf“, berichtete Brienne. „Zwischen Erlen, unterhalb der östlichen Ecke. Wasser kommt heraus.“
+
+„Gitter?“, fragte Triss.
+
+„Von hier nicht zu erkennen“, sagte Minthara. „Der Boden davor ist offen. Wer näher herangeht, muss ein Stück ohne Deckung zurücklegen.“
+
+Am Tor rollte inzwischen ein kleiner Handkarren hinaus. Zwei lebende Männer zogen ihn. Der Armbrustschütze sah kurz unter das darübergelegte Tuch, dann ließ man sie passieren.
+
+Magrat beobachtete, wie der Schreiber etwas in sein Buch eintrug.
+
+„Raus wird ebenfalls kontrolliert.“
+
+Eine Weile sagte niemand etwas.
+
+Dann wandte Minthara sich an Skarra.
+
+„Wir können noch näher an den Auslauf. Dafür müssten wir den Wagen hierlassen und ein Entdeckungsrisiko eingehen. Oder wir beobachten das Tor länger und versuchen herauszufinden, wie gründlich sie Rückkehrer prüfen.“
+
+Triss ergänzte: „Den äußeren Portalplatz kann ich währenddessen suchen. Aber bevor wir hineingehen, möchte ich ihn selbst gesehen haben.“
+
+Unter ihnen schloss sich das Wirtschaftstor wieder. Der Mann mit dem Stab führte die vier Träger zurück in die Halle.

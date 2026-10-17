@@ -72,28 +72,33 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg – Pause 17. Oktober 2026, Morgen am Hof
+## 8. Aktueller Wiedereinstieg – Pause 17. Oktober 2026, vor Dornwacht
 
-**Morgen des dritten Reisetages**, Hof Alva / Hinnerk / Jost / Wulf, noch vor Aufbruch. Nächtlicher Diebstahlversuch durch **Tewes / Kelm** vereitelt: Skarras Korrosive Giftwolke vergiftete / schwächte beide, verursachte kurz eigene Schwäche und blockierte Kelms Bolzen. Kelm floh mit Armbrust, auf Skarras Anweisung nicht verfolgt. Tewes von Magrat versorgt, befragt, ohne Messer / Haken weggeschickt. Er ist fort, kein aktueller Gefangener.
+**Früher Nachmittag dritter Reisetag**, versteckte Beobachtungsstellung südlich Dornwachts. Wagen / Bero / Tamm auf Holzrückegasse rechts der Zufahrt im Jungwuchs verborgen, Felsplatte oberhalb erlaubt Blick auf unteren Wirtschaftshof / Südteil. Noch keine Vorstellung am Tor / kein Eindringen.
 
-Skarra übernahm Restwache mit Wulf; keine weiteren Besucher, drei Knochenkundschafter weiterhin aktiv. Andere schliefen erneut. Nicht Skarras volle Rast / erneuten Schlaf voraussetzen.
+Sechs unterschiedliche Bewaffnete gesehen (zwei Tor, zwei Südmauer, zwei vom oberen Hof), dazu ein Mann mit Kontrollstab und mindestens vier untote Korbträger. **Keine Gesamtzahl**, Stabträger nicht als Cael identifiziert. Schreiber unter Torvordach nicht sicher Oswin. Drei Fenster am Südflügel möglicherweise Krankenstube, unbestätigt. Ausgehender Handkarren / zwei lebende Männer ebenfalls kontrolliert.
 
-Frühstück / Aufbruchsvorbereitungen: Magrat hilft Alva bei Hinnerks Verbandwechsel, Jost prüft Schlitten / Ersatzrad. Pferde und Wagen unversehrt. Hofleute planen getrennte Abreise nach Süden; noch nicht geschehen.
+Brienne / Minthara kehrten von tieferem Aussichtspunkt zurück: gemauerter wasserführender **Auslauf am Osthang zwischen Erlen**. Gitter / Passierbarkeit / Inneres unbekannt, davor offenes Gelände.
 
-Jost empfiehlt Fahrweg bis **altem Kalkofen**, dahinter **Brücke am Mühlgraben** (Zustand unbekannt, seit vier Tagen nicht von ihm besichtigt). Fehlt sie, Wagenrückkehr nötig. Vorher Abzweig über Höhen: länger / schlechter, ohne Brücke. Minthara schlägt Prüfung zu Fuß vor, wenn nahe genug. Keine Route als sicher bestätigt, keine Verwechslung mit gestriger Furt.
+**Offene Vorschläge:** näher an Auslauf (Wagen bleibt zurück, Entdeckungsrisiko) oder Tor länger beobachten. Triss könnte währenddessen einen tieferen äußeren Portalplatz suchen; sie hat noch keinen geprüft.
 
-**Letzter Absatz / letzte Rede (Brienne):**
-> „Erst essen. Dann würde ich den Fahrweg nehmen und rechtzeitig vor der Brücke halten. Was meint Ihr?“
+**Letzte direkte Rede (Triss):**
+> „Den äußeren Portalplatz kann ich währenddessen suchen. Aber bevor wir hineingehen, möchte ich ihn selbst gesehen haben.“
 
-**Skarra ist am Zug.** Antwort / Wegwahl offen. Keine Zustimmung, Abreise, Erkundung oder weitere Handlung für sie vorwegnehmen.
+**Letzter Erzählabsatz:**
+> Unter ihnen schloss sich das Wirtschaftstor wieder. Der Mann mit dem Stab führte die vier Träger zurück in die Halle.
+
+**Skarra ist am Zug.** Wahl weiterer Erkundung / Beobachtung / anderes Vorgehen offen. Keine Annäherung, Aufteilung mit Skarra, Portalzielprüfung oder Infiltration vorwegnehmen.
 
 Kontinuität:
-- **Asche / Stille**, Minthara weiter Schwert / Schild, Armschnitt geschlossen; Freundschaft / Vertrauen, **keine Romantik**.
-- Drei Kundschafter weiter am Hof. Entlassung / Entfernung bei späterem Aufbruch beachten. Kein Golem / Fleischwurm.
-- Messer / Eisenhaken bei Jost. Er identifiziert Messer als Wilms Eigentum; Tewes behauptet Fund, keine Erklärung bewiesen. Kelms Verbleib und angeblich verschwundener dritter Begleiter offen.
-- Ersatzrad nach erster halber Fahrstunde prüfen. Proben / Papiere gesichert.
-- Magrats zwei rückwirkende Buchmomente bleiben ohne nachträgliches Figurenwissen; TOD-Begegnung optional, noch nicht geschehen. Abschnitt 11 unverändert beachten.
-- Alle fünf leben, Valdorn pulverfrei. Details in KAMPAGNENSTAND.md.
+- Hofleute mit Hinnerk auf Ochsenschleife südwärts, zunächst Hagen / Enna; Ankunft unbekannt. Gruppe half. Hof-Kundschafter bei Entfernung zerfallen: **keine aktiven Beschwörungen**.
+- Ersatzrad nach halber Stunde geprüft, hält. Magrat behandelt Briennes steife Schulter; Skarra hielt Restnachtwache ohne neuen Schlaf.
+- Skarra erzählte Caledon-Ufer / Sylvari und Festung der Dreieinigkeit als Ort erwarteter Rückkehr. Dieses Gespräch ist Gruppenwissen, Prologdetails bleiben privat.
+- Mühlgrabenbrücke passiert: Magrat als Rhen von Triss verhüllt, ruhige Ladungskontrolle. Existenz der Gewebeprobe offengelegt, inneres Gefäß ungeöffnet, äußeres Kästchen von Wache mit Schnur / Wachs verschlossen, unter Rhens Namen eingetragen. Genaue Aktivität nicht erklärt. Keine Enttarnung bestätigt.
+- Illusion danach aufgehoben: Magrat jetzt eigene Gestalt. Kein TOD-Auftritt.
+- Triss mit Quittungsvorwand zurück, erhält Brückengeldbeleg und **versiegelte Büttelanordnung für Abteiverantwortlichen**. Skarra lässt Brief für mögliche Botentarnung **ungeöffnet**.
+- Laut Wache anderer Wagen mit zwei Toten / drei Leuten aufgehalten; einer weiter, zwei in Eschenried festgehalten. Gelbstein-Stab ist kein Durchfahrtsrecht; keine Aussage über Wirksamkeit seiner Magie.
+- Asche / Stille, Minthara Schwert / Schild, freundschaftliches Vertrauen **ohne Romantik**. Alle fünf leben, Valdorn pulverfrei. Details KAMPAGNENSTAND.md.
 
 ## 9. Aktuelle Erzählvereinbarung
 

@@ -38,3 +38,9 @@ Stolz, intelligent, pragmatisch, taktisch, mit trockenem und häufig scharfem Hu
 - Probierte Briennes längere Klinge links, gab sie zurück und übte mit vertrautem Schild / Schwert. Korrigierte Fußstellung, akzeptierte Hinweise ohne eigenen Stil aufzugeben.
 - Wünscht kurzen Warnhinweis im Kampf, falls sie wieder feststeht; bietet weitere Übung bei Ruhe an.
 - Am Haltepunkt wach am Haus, Brienne informiert Skarra. Kein Wissen über Ursache des Nordmauergeräuschs.
+
+## Fortschreibung – Reise und erste Abteierkundung, 17. Oktober 2026
+
+- Half bei Hofabreise, Ersatzradprüfung und ungesehener Brückenvorerkundung. Mit Triss / Brienne nüchterner Austausch über Vermissen / Festungen, keine konkret neue Vergangenheitsgeschichte.
+- Unterstützte Brückentarnung, benannte bleibenden Bucheintrag / Risiko erneuter Fragen. Deckte Triss' Rückkehr.
+- Fand Wagenversteck vor Dornwacht, zählt sechs gesichtete Bewaffnete plus Stabträger / mindestens vier Untote ohne Gesamtstärke zu behaupten. Mit Brienne Ost-Auslauf aus Ferne beobachtet; bietet nächste Erkundungsoptionen, noch keine Annäherung.

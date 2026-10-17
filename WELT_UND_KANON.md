@@ -182,3 +182,37 @@ Valdorn bleibt frei von Pulver-Schusswaffen und Schwarzpulvergeschützen. Fernka
 - **Neue Wege laut Jost:** Fahrweg nach Norden bis altem Kalkofen, dahinter Brücke am Mühlgraben. Seit vier Tagen nicht besucht, Zustand / Sicherheit unbekannt; wenn unpassierbar, Wagenrückkehr. Vorher längere Höhenabzweigung mit schlechterem Boden ohne Brücke. Nicht mit Furt des Vortags gleichsetzen.
 - Minthara bietet Prüfung zu Fuß aus der Nähe an. Brienne schlägt Fahrweg / Halt vor Brücke vor. **Skarra hat noch nicht geantwortet; keine Abreise / Erkundung.**
 
+## Ankunft und Erkundung vor Dornwacht – 17. Oktober 2026
+
+### Abreise und persönliches Gespräch
+- Hofleute mit verletztem Hinnerk auf gepolsterter Ochsenschleife nach Süden aufgebrochen, **zunächst zu Hagens / Ennas Gutshof**. Gruppe half beim Transport / Packen. Ankunft / Aufnahme dort nicht beobachtet.
+- Gruppe nimmt mit Skarras Zustimmung Fahrweg über Kalkofen / Mühlgrabenbrücke. Drei zurückgelassene Knochenkundschafter bei zu großer Entfernung zerfallen. **Keine aktive Beschwörung mehr.**
+- Ersatzrad nach halber Stunde von Brienne / Minthara geprüft, hält. Magrat behandelt Briennes weiterhin steife Schulter am Kalkofen und mittags; keine neue Verletzung.
+- Skarra erzählt: Tyria jenseits großen Meeres, kein Ort von ihr Heimat genannt; ruhiges Ufer im Caledon-Wald nahe großer Mauer bei Sylvari als geschätzte Erinnerung vor Feldzug. Festung der Dreieinigkeit als Ort, an dem erstmals jemand auf Rückkehr wartete. Dort würde sie gern wieder hin. **Jetzt ausgespieltes Gruppenwissen**, nicht automatisch Details des nur literarischen Prologs.
+- Brienne / Triss / Magrat / Minthara sprechen über Bleiben, Bekannte / Vermissen, Einsamkeit und Fortgehen. Keine konkrete neue frühere Beziehung / Heimatgeschichte erfunden.
+
+### Mühlgrabenbrücke und Tarnung
+- Minthara erkundet vom Kalkofen ungesehen: intakter Steinbogen, Kette, Frau / Speerträger, zwei Maultiere. Gruppe fährt unter Abteideckung vor; Triss verhüllt Magrat als Rhen einschließlich Hände / Stimme.
+- Namenlose Brückenwächterin mit Säbel / Buch und namenloser Speerträger. Schild: tagsüber passieren, keine Toten, Ladungen vorzeigen, Brückengeld.
+- **Ihre Angaben:** Büttel von **Eschenried** untersagt Leichentransporte seit gestern nach aufgehaltenem Wagen mit zwei Toten / drei Begleitern; Ladung habe nachts gegen Bretter geschlagen, bei Tageslicht gefunden. Keine direkte eigene Besichtigung dieses Transports.
+- Papiere kontrolliert, Oswins Unterschrift erkannt. Magrat führt sachlich / beharrlich durch vollständige Ladungskontrolle. Aktive Natur der Probe bleibt unerklärt, **Material von einem Toten** wird jedoch offengelegt; kein vollständiges Verstecken der Existenz des Gefäßes.
+- Äußeres Kästchen geöffnet, inneres Gefäß bleibt geschlossen. Wächterin vermerkt **Mutter Rhen**, Ziel Dornwacht und verschlossenes Gefäß mit Material von Totem, versieht äußeres Kästchen mit Schnur / Wachs. Nicht auf Brücke / an Mühle öffnen, bei Leck nicht weiterfahren. Keine nachgewiesene magische Sicherung.
+- Brückengeld bezahlt, friedlich passiert; keine Enttarnung bestätigt. Rhen-Verhüllung danach von Triss aufgehoben, **aktuell nicht aktiv**.
+- Skarra erwägt Verdachtsrisiko durch Rückkehr. Triss schlägt Quittung für Prior als Vorwand vor; nach ausdrücklicher Zustimmung Skarras allein zurück, andere warten gedeckt.
+- Triss erhält Quittung auf Mutter Rhen, vorsichtige Zusatzinformation: laut Wächterin einer der drei weitergefahren, zwei in Eschenried bis Büttelentscheidung. Gelbstein-Stab verschafft dort kein Durchfahrtsrecht; **keine Aussage, ob dessen Magie funktionierte**.
+- Triss bekommt **versiegelten Brief** mit Anordnung des Büttels für Verantwortlichen Dornwachts. Inhalt unbekannt. Skarra beschließt **Siegel unversehrt lassen**, als möglicher glaubwürdiger Botenanlass am Tor.
+- Eschenried wurde nicht besucht, andere Transportleute / Tote nicht persönlich gesehen; kein Umweg dorthin beschlossen.
+
+### Beobachtungen vor der Abtei
+- Früher Nachmittag dritter Reisetag, Straße erkennbar instand gehalten, zwei verlassene Häuser passiert. Kein weiterer Kampf / Verlust.
+- Wagen mit Bero / Tamm auf alter Holzrückegasse rechts der Zufahrt im Jungwuchs verborgen. Links der Straße verwilderte Obstgärten. Aussicht von flacher Felsplatte oberhalb des Verstecks auf Südteil.
+- Mehrere Höfe auf unterschiedlicher Höhe, unterer Wirtschaftshof mit reparierten Dächern, lange Halle mit neuem Holz / rauchendem Seitenschornstein. Glockenturm mit beschädigter Ecke / leeren Schallöffnungen hinter teilweise eingestürztem Kreuzgang. Keine neue Glocke gehört / Quelle gefunden.
+- Südlicher Flügel mit drei Fenstern **könnte** Rhens Krankenstube sein; nicht bestätigt.
+- **Sechs verschiedene Bewaffnete gesichtet:** zwei am Wirtschaftstor (Speer / Armbrust), zwei auf südlicher Mauer, zwei aus oberem Hof über Treppe (einer ins Torhaus, einer zu Stabträger). **Keine Gesamtstärke.**
+- Schreiber unter Torvordach gesehen; Identität **nicht als Oswin bestätigt**.
+- **Mindestens vier offenbar kontrollierte Untote** als Korbträger aus Halle; einer knickt mit Knöchel um ohne Reaktion, Bewegung folgt Stabgesten eines weiteren Mannes. Stabträger nicht als Cael identifiziert. Körbe beim Bretterverschlag nahe Turm abgestellt, zuletzt alle in Halle zurück.
+- Ein ausgehender Handkarren mit zwei lebenden Männern wird am Tor unter Tuch kontrolliert und im Buch erfasst. Keine weiteren Schlüsse auf Wachablösung / Passiersicherheit.
+- Brienne / Minthara von tieferem Aussichtspunkt: **gemauerter Auslauf mit Wasser am Osthang zwischen Erlen**, unter östlicher Ecke. Gitter / Durchgang / Innenweg von fern **nicht erkennbar**, davor offener Boden. Noch keine Annäherung.
+- Torhaus kann Zufahrt sperren; Brienne warnt vor Beschuss von Südmauer. Triss möchte für Verletztenrückzug tiefer gelegenen äußeren Portalplatz suchen / persönlich prüfen. **Noch nicht getan / kein Ziel festgelegt.**
+- **Letzter Stand:** alle wieder bei Beobachtungsstellung / Wagenversteck, kein Alarm / Entdeckung bekannt. Minthara bietet nähere Erkundung Auslauf oder längere Torbeobachtung; Skarras Wahl offen. Kein Eindringen / Ansprechen der Torwache.
+

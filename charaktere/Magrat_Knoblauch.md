@@ -34,3 +34,10 @@ Heilkunde, Kräuterwissen, Schutzmagie, Menschenkenntnis; manchmal unsicher, abe
 ## Fortschreibung – nächtlicher Sitzungsabschluss 16. Oktober 2026
 - Beobachtete Übung mit trockenem Humor und hielt Becher aus Waffenreichweite. Kein eigener Kampf / Ausrüstungswechsel daraus abgeleitet.
 - Später schlafen gegangen; am Haltepunkt laut Brienne noch schlafend, Nordmauermeldung nicht automatisch bekannt.
+
+## Fortschreibung – Reise und erste Abteierkundung, 17. Oktober 2026
+
+- Versorgte Hinnerk bei Hofabreise, gab Alva Hinweise und trockenen Zuspruch. Behandelte Briennes steife Schulter unterwegs mit ruhiger Beharrlichkeit.
+- Trug unter Triss' Rhen-Verhüllung Brückengespräch eigenständig. Menschenkenntnis / knappe Antworten / nüchterne Risikobenennung ermöglichen Passage bei kompetenter Ladungskontrolle; Probe als Gewebe deklariert, genaue Aktivität bleibt verborgen. Rhens Name und Gefäß werden eingetragen, äußeres Kästchen versiegelt.
+- Räumt Unsicherheit / verpasste Nachfrage ein, warnt vor auffälligem Rückkehrgespräch, akzeptiert Weiterfahren als legitime Wahl. Keine unfehlbare Bockologie / neue offene Magie oder TOD-Begegnung.
+- Vor Dornwacht beobachtet Schreibereintrag und Ausgangskontrolle. Ihre früheren zwei Buchmomente bleiben von Spielwissen getrennt.
