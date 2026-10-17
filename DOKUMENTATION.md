@@ -104,3 +104,9 @@ Vollständige gespielte Fortsetzung ab Kundschaftermeldung an der Nordmauer übe
 Fünf neue Spielerpassagen markiert; erste OOC-Handlungsanweisung als autorisierte Prosa umgesetzt. OOC-Regelhinweise, Quellenangaben und Spielzug-Aufforderungen ausgelassen, Schreibweise / Zeichensetzung behutsam korrigiert. Keine neue Antwort Skarras, Abreise oder Brückenerkundung ergänzt.
 
 Die zwei bereits freigegebenen Buchergänzungen zu Magrat (Köhlerstelle, vierter Becher) bleiben unverändert. Kein daraus rückwirkend abgeleitetes Figurenwissen und keine TOD-Begegnung. Kampagnenstand / Übergabe / README / Kanon auf Morgen und offene Wegentscheidung nachgeführt. Word bleibt wie vereinbart unverändert.
+
+## Neuer Romanprolog – Skarras Vergangenheit (17. Oktober 2026)
+
+Auf ausdrücklichen Wunsch des Spielers wurde vor Kapitel 1 in `roman/Die_Glocken_von_Dornwacht.md` der **„Prolog · Die Ratten“** eingefügt (Commit `cbff1a8bcc53cc997034730729026539f8d9ecd8`). Grundlage ist die vom Spieler verfasste Originalbiografie `charaktere/Skarra_Hintergrundgeschichte.md`: frühe Not und Misshandlung in der Hafenstadt, erstes Erwachen ihrer Nekromantie mit dreizehn Jahren, Rache und Beiname Schwarzherz, schließlich der Tod eines **unschuldigen Jungen, nicht viel älter als Skarra damals mit dreizehn**, als Folge ihrer entfesselten Wut. Der Junge war nicht eines ihrer Racheziele. Dies ist der entscheidende Bruch mit den Rachefeldzügen, keine Aufgabe ihrer Nekromantie und keine pauschale Läuterung.
+
+**Buchergänzung, keine neu gespielte Szene:** Das schlaflose Nachtlager vor Eibenbrück ist eine vom Spieler autorisierte literarische Rahmung der bekannten Vergangenheit. Daraus keine neuen Erinnerungen oder Kenntnis der Gefährtinnen ableiten; der aktuelle Spielhaltepunkt bleibt unverändert. **DOCX im Ordner `export` ist weiterhin älter und wurde nicht überschrieben.** Den Prolog beim nächsten Taschenbuch-Word-Export übernehmen.
