@@ -168,3 +168,17 @@ Valdorn bleibt frei von Pulver-Schusswaffen und Schwarzpulvergeschützen. Fernka
 - Erste Wache Jost / Wulf, dann Brienne. Jetzt Nacht, nicht Morgen. Ein Kundschafter läuft zwischen Brienne / Scheune und **Nordmauer**; Brienne hörte zweimal Metall an Stein, keine sicher zugeordneten Schritte oder Rufe.
 - Brienne meldet sich bei Skarra am Lager; Minthara wach am Haus, Triss / Magrat schlafen. Ursache / Wesen / Absicht unbekannt, kein heimlicher Masterplan als Tatsache dokumentiert.
 - Haltepunkt unmittelbar vor Skarras Reaktion. Kein aktueller Angriff oder bereits entdeckter Eindringling bestätigt.
+
+## Einbruchsversuch und Morgenroute – 17. Oktober 2026
+
+- Nordmauergeräusch erklärt: zwei lebende Männer versuchen Riegel am Pförtchen mit Eisenhaken zu heben; zweiter mit Armbrust.
+- Skarras **Korrosive Giftwolke** vergiftet / schwächt beide; kurz eigene Schwäche. Kelms Bolzen von Wolke aufgehalten, kein Treffer an Gruppe. Keine neue Verletzung der Hauptfiguren.
+- **Kelm** flieht mit Armbrust, Skarra untersagt Verfolgung. **Tewes** bleibt angeschlagen, wird entwaffnet / von Magrat versorgt. Gibt geplanten Pferdediebstahl zu; Beobachtung am Nachmittag bei Haseln durch Jost bestätigt.
+- Tewes behauptet: dritter Mann seit Schrei an Nordstraße verschwunden; Kelm wollte nicht warten. Flucht nach Süden geplant. Kelm habe ihn bei Herauskommen anderer zum Ducken angewiesen. Aussagen, keine geklärte Geschichte / Abteiverbindung.
+- Jost erkennt beschlagnahmtes Messer als Eigentum seines Nachbarn **Wilm**, Hof unten am Bach. Tewes behauptet Fund. Wilms Schicksal / tatsächliche Herkunft ungeklärt.
+- Brienne gibt Messer und Haken Jost, verhindert Zuspitzung. Tewes erholt sich, wird auf Skarras Weisung gehfähig ohne Waffen nach Süden fortgeschickt. Pförtchen verriegelt / verkeilt.
+- Bero / Tamm, Geschirre / Wagen unversehrt. Skarra / Wulf halten Restwache; drei Kundschafter weiter aktiv, keine weiteren Besucher.
+- Morgen dritter Reisetag: Alva bringt Brei / Aufguss, Hinnerk lebend beim Verbandwechsel, Transport / südliche Abreise vorbereitet. Jost prüft Ersatzrad, spätere Kontrolle nach halber Fahrstunde nötig.
+- **Neue Wege laut Jost:** Fahrweg nach Norden bis altem Kalkofen, dahinter Brücke am Mühlgraben. Seit vier Tagen nicht besucht, Zustand / Sicherheit unbekannt; wenn unpassierbar, Wagenrückkehr. Vorher längere Höhenabzweigung mit schlechterem Boden ohne Brücke. Nicht mit Furt des Vortags gleichsetzen.
+- Minthara bietet Prüfung zu Fuß aus der Nähe an. Brienne schlägt Fahrweg / Halt vor Brücke vor. **Skarra hat noch nicht geantwortet; keine Abreise / Erkundung.**
+

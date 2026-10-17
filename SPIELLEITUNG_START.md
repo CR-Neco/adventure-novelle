@@ -72,27 +72,28 @@ Das private GitHub-Repository ist **nicht** automatisch vor dem Spieler verborge
 - Am Ende einer Sitzung auf Wunsch **Manuskript, Kampagnenstand, Charakterbeziehungen und Kanon** aktualisieren. Siehe `DOKUMENTATION.md`.
 - Wenn GitHub-Zugriff fehlt oder Dateien nicht lesbar sind, sage das klar und bitte um die konkrete Datei bzw. Verbindung. **Nichts als gelesen oder gespeichert ausgeben, was nicht überprüft wurde.**
 
-## 8. Aktueller Wiedereinstieg – Sitzungsende 16. Oktober 2026, Nachtmeldung
+## 8. Aktueller Wiedereinstieg – Pause 17. Oktober 2026, Morgen am Hof
 
-**Nacht nach zweitem Reisetag**, Hof Alva / Hinnerk / Jost / Wulf. Nach lockerer Übung mit Asche / Stille und Mintharas Schwert / Schild beschwor Skarra **drei neue Knochenkundschafter** auf Patrouille und legte sich in der Scheune schlafen.
+**Morgen des dritten Reisetages**, Hof Alva / Hinnerk / Jost / Wulf, noch vor Aufbruch. Nächtlicher Diebstahlversuch durch **Tewes / Kelm** vereitelt: Skarras Korrosive Giftwolke vergiftete / schwächte beide, verursachte kurz eigene Schwäche und blockierte Kelms Bolzen. Kelm floh mit Armbrust, auf Skarras Anweisung nicht verfolgt. Tewes von Magrat versorgt, befragt, ohne Messer / Haken weggeschickt. Er ist fort, kein aktueller Gefangener.
 
-Erste Wache Jost / Wulf beendet, Brienne hält Wache und steht nun mit Helm, Schwert in Scheide bei Skarras Strohlager. Ein Kundschafter meldet etwas an **Nordmauer**; Brienne hörte zweimal Metall an Stein. Keine sicheren Schritte / Rufe, keine Identität oder Ursache bekannt.
+Skarra übernahm Restwache mit Wulf; keine weiteren Besucher, drei Knochenkundschafter weiterhin aktiv. Andere schliefen erneut. Nicht Skarras volle Rast / erneuten Schlaf voraussetzen.
 
-Letzte Rede (Brienne):
-> „Minthara ist wach und am Haus. Triss und Magrat schlafen noch.“
+Frühstück / Aufbruchsvorbereitungen: Magrat hilft Alva bei Hinnerks Verbandwechsel, Jost prüft Schlitten / Ersatzrad. Pferde und Wagen unversehrt. Hofleute planen getrennte Abreise nach Süden; noch nicht geschehen.
 
-Letzter Absatz:
-> Draußen bewegte sich der kleine Diener einige Schritte vor, blieb stehen und sah zurück. Dann lief er weiter zum dunklen Hofrand.
+Jost empfiehlt Fahrweg bis **altem Kalkofen**, dahinter **Brücke am Mühlgraben** (Zustand unbekannt, seit vier Tagen nicht von ihm besichtigt). Fehlt sie, Wagenrückkehr nötig. Vorher Abzweig über Höhen: länger / schlechter, ohne Brücke. Minthara schlägt Prüfung zu Fuß vor, wenn nahe genug. Keine Route als sicher bestätigt, keine Verwechslung mit gestriger Furt.
 
-**Skarra ist am Zug.** Reaktion offen: mitgehen / vorsorgen / andere Handlung. Nicht Aufstehen, Bewaffnung, Magie, Annäherung oder Auflösung vorwegnehmen.
+**Letzter Absatz / letzte Rede (Brienne):**
+> „Erst essen. Dann würde ich den Fahrweg nehmen und rechtzeitig vor der Brücke halten. Was meint Ihr?“
 
-Wichtige Kontinuität:
-- Drei neue Kundschafter am Hof, keine alten Fernwachen; einer bei Scheune / Nordmauerweg, andere Positionen unbestimmt.
-- Beide Schwerter heißen **Asche** und **Stille**. Minthara hat Briennes Schwert zurückgegeben und bleibt bei Schild / Schwert. Übung verbesserte Verständnis, kein neuer gemeisterter Kampfstil.
-- Freundschaft / Vertrauen Skarra–Minthara, **keine Romantik**. Mintharas Armwunde geschlossen.
-- Triss / Magrat schlafen, Jost / Wulf schlafen geschickt. Keine volle Rast aller fünf als abgeschlossen behandeln.
-- Wagen repariert, Bero / Tamm versorgt; Abreise morgens nur geplant.
-- Alle fünf leben, Welt pulverfrei, Warnruf Schleier „Ich bin der Tod!“. Aktueller Detailstand in KAMPAGNENSTAND.md.
+**Skarra ist am Zug.** Antwort / Wegwahl offen. Keine Zustimmung, Abreise, Erkundung oder weitere Handlung für sie vorwegnehmen.
+
+Kontinuität:
+- **Asche / Stille**, Minthara weiter Schwert / Schild, Armschnitt geschlossen; Freundschaft / Vertrauen, **keine Romantik**.
+- Drei Kundschafter weiter am Hof. Entlassung / Entfernung bei späterem Aufbruch beachten. Kein Golem / Fleischwurm.
+- Messer / Eisenhaken bei Jost. Er identifiziert Messer als Wilms Eigentum; Tewes behauptet Fund, keine Erklärung bewiesen. Kelms Verbleib und angeblich verschwundener dritter Begleiter offen.
+- Ersatzrad nach erster halber Fahrstunde prüfen. Proben / Papiere gesichert.
+- Magrats zwei rückwirkende Buchmomente bleiben ohne nachträgliches Figurenwissen; TOD-Begegnung optional, noch nicht geschehen. Abschnitt 11 unverändert beachten.
+- Alle fünf leben, Valdorn pulverfrei. Details in KAMPAGNENSTAND.md.
 
 ## 9. Aktuelle Erzählvereinbarung
 

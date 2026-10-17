@@ -1,6 +1,6 @@
 # Dokumentation und laufende Buchpflege
 
-## Aktueller Synchronisierungsstand – Nachtpause 16. Oktober 2026
+## Aktueller Synchronisierungsstand – Pause 17. Oktober 2026
 
 **Auf ausdrücklichen Wunsch des Spielers wurde diese Sitzung nur in Markdown fortgeschrieben.** `roman/Die_Glocken_von_Dornwacht.md` ist die aktuelle vollständige Fassung. `export/Die_Glocken_von_Dornwacht.docx` bleibt auf dem Stand der ersten Sitzung und muss später um diese Fortsetzung ergänzt werden. Nicht als synchron oder aktualisiert ausgeben. Die Word-Ausnahme gilt weiterhin für die ausdrücklich gewünschte Markdown-Fortschreibung.
 
@@ -95,3 +95,12 @@ Auf ausdrückliche Freigabe des Spielers wurde im Markdown-Roman, Kapitel **„E
 **Buchversion, nicht Spielversion:** Diese kleine Unwahrscheinlichkeit wurde **nachträglich** in eine bereits gespielte Szene eingefügt, ohne einen zusätzlichen Spielzug oder eine neue Reaktion Skarras zu erfinden. Nicht als rückwirkend von Skarra wahrgenommenes oder besprochenes Ereignis behandeln. Der aktuelle Haltepunkt bleibt unverändert. **Word-Export weiterhin nicht synchron**; auch diese Änderung beim nächsten DOCX-Abgleich übernehmen.
 
 Damit existieren im Roman zwei dezente Hexenmomente Magrats (Köhlerstelle, vierter Becher). Die optionale spätere **TOD-Szene** kann nun organischer vorbereitet wirken; sie ist ausdrücklich **noch nicht geschehen** und keine Pflicht. Spielleiterhinweise in `CHARAKTERENTWICKLUNG.md`.
+
+
+## Teilsitzung – Einbruchsversuch und Morgenroute, 17. Oktober 2026
+
+Vollständige gespielte Fortsetzung ab Kundschaftermeldung an der Nordmauer übernommen: autorisierter leiser Gang Skarras mit Brienne, Entdeckung der Eindringlinge, Korrosive Giftwolke samt eigener Schwäche / blockiertem Bolzen, Flucht Kelms ohne Verfolgung, Versorgung / Befragung / Freilassung Tewes', Restwache und Morgenrunde. Neuer Abschnitt **„Der Weg am Mühlgraben“**. Ende exakt bei Briennes Routenfrage: **„Erst essen. Dann würde ich den Fahrweg nehmen und rechtzeitig vor der Brücke halten. Was meint Ihr?“**
+
+Fünf neue Spielerpassagen markiert; erste OOC-Handlungsanweisung als autorisierte Prosa umgesetzt. OOC-Regelhinweise, Quellenangaben und Spielzug-Aufforderungen ausgelassen, Schreibweise / Zeichensetzung behutsam korrigiert. Keine neue Antwort Skarras, Abreise oder Brückenerkundung ergänzt.
+
+Die zwei bereits freigegebenen Buchergänzungen zu Magrat (Köhlerstelle, vierter Becher) bleiben unverändert. Kein daraus rückwirkend abgeleitetes Figurenwissen und keine TOD-Begegnung. Kampagnenstand / Übergabe / README / Kanon auf Morgen und offene Wegentscheidung nachgeführt. Word bleibt wie vereinbart unverändert.

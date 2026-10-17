@@ -7809,3 +7809,452 @@ Sie trug den Helm, hielt das Schwert aber noch in der Scheide.
 „Minthara ist wach und am Haus. Triss und Magrat schlafen noch.“
 
 Draußen bewegte sich der kleine Diener einige Schritte vor, blieb stehen und sah zurück. Dann lief er weiter zum dunklen Hofrand.
+
+Skarra schüttelte ihre Müdigkeit ab, griff nach ihren Klingen, gürtete sie und ging mit Brienne möglichst geräuschlos nachsehen.
+
+Brienne wartete, bis die beiden Schwertscheiden an Skarras Gürtel saßen, und ging voraus. Sie nahm den Weg dicht an der Scheunenwand; auf dem festgetretenen Boden lagen weniger Halme, die unter den Stiefeln rascheln konnten.
+
+Draußen hing feuchte Kälte über dem Hof. Aus dem Stall kam ein leises Schnauben. Am Haus löste sich Mintharas Gestalt aus dem Schatten des Vordachs. Sie hob zwei Finger, deutete zur Nordmauer und blieb dort, wo sie sowohl die Haustür als auch den Hof überblicken konnte.
+
+Der Knochendiener erwartete sie hinter einem umgedrehten Trog. Sein schmaler Schädel wandte sich zur Mauer.
+
+Wieder dieses Geräusch.
+
+Ein kurzes Schaben, dann ein vorsichtiges *Klack*.
+
+Brienne ging neben dem Trog in die Hocke. Zwischen Scheune und Mauer führte ein schmaler Streifen kahler Erde zum nördlichen Pförtchen. Es war kaum breit genug, um eine Schubkarre hindurchzuschieben. Ein hölzerner Riegel hielt es von innen geschlossen.
+
+Unter diesem Riegel bewegte sich etwas.
+
+Ein flacher Eisenhaken tastete durch den Spalt zwischen Tür und Pfosten, rutschte ab und stieß gegen den steinernen Sockel.
+
+Brienne legte zwei Finger an Skarras Unterarm und zeigte anschließend nach links.
+
+Über der niedrigen Mauer war ein zweiter Kopf zu erkennen. Der Mann hatte seine Kappe weit heruntergezogen. Er blickte zum Haus, dann zur Scheune. Als er sich etwas höher schob, zeichnete sich eine Armbrust gegen den blasseren Himmel ab. Noch lag sie quer auf der Mauerkrone.
+
+„Du hast gesagt, sie schlafen“, flüsterte jemand hinter dem Pförtchen.
+
+„Tun sie auch.“
+
+Der Haken schob sich erneut nach oben. Diesmal hob sich der Riegel ein kleines Stück.
+
+„Und der Hund?“
+
+„Hier ist kein Hund.“
+
+Neben dem Trog öffnete der Knochendiener lautlos sein winziges Maul.
+
+Briennes Blick blieb beim Mann mit der Armbrust. Sie zog ihr Schwert langsam genug, dass die Klinge kaum an der Scheide entlangstrich. Dann beugte sie sich zu Skarra.
+
+„Zwei, soweit ich sehe. Der an der Tür hat beide Hände beschäftigt.“
+
+Vom Haus her bewegte sich Minthara ein Stück weiter in den Schatten. Sie hatte die Eindringlinge ebenfalls entdeckt, wartete jedoch ab.
+
+Hinter dem Holz knirschte eine Schuhsohle. Der Riegel hob sich noch einen Fingerbreit.
+
+Bis zum Pförtchen waren es etwa acht Schritte. Die beiden Männer hatten ihre Beobachter bislang nicht bemerkt.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** Skarra blieb neben Brienne in Deckung. Ihr Blick wanderte vom Eisenhaken unter dem Riegel zu der Armbrust auf der Mauer.
+> Dann ging sie langsam in die Hocke und legte eine Handfläche auf die feuchte Erde.
+> Unter ihren Fingern begann ein fahles, giftgrünes Schimmern aufzuleuchten. Es kroch durch die Erde, zog sich in feinen, unnatürlich leuchtenden Adern auf das Pförtchen zu und verschwand unter dem Mauersockel.
+> Skarra konzentrierte sich auf die beiden Eindringlinge.
+> Dort, wo der Mann mit dem Eisenhaken stand und sein Gefährte über die Mauer spähte, sollte die nekromantische Energie aus dem Boden aufsteigen und sich zur **Korrosiven Giftwolke** verdichten. Und sie wusste, es würde ihren Preis fordern.
+<!-- ENDE SPIELERBEITRAG -->
+
+Das grüne Licht verschwand unter den Steinen.
+
+Auf der anderen Seite stockte das Schaben.
+
+Zwischen den Stiefeln des Mannes am Pförtchen quoll fahler Dunst aus der Erde. Er zog den Eisenhaken zurück, doch die Wolke stieg bereits an seinen Beinen empor. Ein unterdrücktes Husten wurde zu einem würgenden Laut.
+
+„Was zum—“
+
+Der Armbrustschütze wandte den Kopf. Grünlicher Nebel strich über die Mauerkrone und hüllte auch ihn ein.
+
+Gleichzeitig griff die Verderbnis nach Skarra selbst. Für einige Herzschläge lag eine unnatürliche Schwere in ihren Muskeln; Kraft ließ sich schwerer mobilisieren, Anstrengung würde sich langsamer ausgleichen. Es war Schwäche, keine Lähmung. Ihre Konzentration auf den Bereich jenseits der Mauer hielt. Brienne blieb neben ihr unversehrt.
+
+Der Eisenhaken fiel klirrend zu Boden.
+
+„Zurück!“, keuchte der Mann am Pförtchen.
+
+Sein Gefährte riss die Armbrust hoch. Er hatte die Bewegung hinter dem Trog entdeckt und drückte ab, ehe er festen Halt für den Schaft fand.
+
+Die Sehne schlug.
+
+Im grünen Dunst zuckte etwas Dunkles. Der Bolzen brach aus seiner Bahn und fiel zwischen die Steine, ohne den Hof zu erreichen.
+
+Brienne war bereits aufgestanden.
+
+„Lasst die Waffe fallen!“
+
+Der Schütze verschwand hinter der Mauer. Ein dumpfer Aufprall, ein Fluch, dann hastige Schritte.
+
+Minthara löste sich vom Haus und lief geduckt zum Pförtchen. Sie griff nach dem Riegel, hielt jedoch inne, als ein erneuter Hustenanfall unmittelbar dahinter zu hören war.
+
+„Einer läuft“, sagte sie. „Der andere kommt nicht mit.“
+
+Jenseits des Holzes kratzten Sohlen über Erde. Der Mann versuchte, sich vom Pförtchen fortzuziehen. Seine Hand erschien kurz auf der Mauerkrone, suchte Halt und glitt wieder herunter.
+
+„Warte … verdammt …“
+
+Die Schritte des Armbrustschützen entfernten sich weiter.
+
+Brienne blieb bei Skarra, mit freiem Blick zur Mauer. „Könnt Ihr stehen?“ Sie wartete keine Antwort ab, um über den Hof zu rufen: „Jost! Licht am Haus! Bleibt drinnen!“
+
+Aus der Scheune kam ein erschrockenes Poltern.
+
+Die Giftwolke pulsierte noch einmal. Dahinter würgte der zurückgebliebene Eindringling; seine Atemzüge kamen stoßweise. Er lebte, war aber deutlich angeschlagen. Auch nachdem er sich aus dem dichtesten Dunst gezogen hatte, hörte das Husten nicht auf.
+
+Minthara sah von der Tür zu Skarra.
+
+„Ich kann dem Läufer nach. Dann bleibt der hier bei Euch.“
+
+Ihre Hand lag am Riegel. Noch war sie nicht hinausgegangen. Skarras Schwäche begann bereits nachzulassen; die Wolke stand noch für wenige Augenblicke am Fuß der Mauer.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** Skarra richtete sich langsam auf. Die unnatürliche Schwere in ihren Gliedern war noch spürbar, ließ aber bereits nach.
+> „Lasst ihn laufen, Minthara. Wir haben keinen Grund, uns wegen eines Diebes in der Dunkelheit zu verlieren.“
+> Sie blickte zum Pförtchen.
+> „Der andere hat genug abbekommen. Sobald die Wolke sich verzogen hat, sehen wir nach ihm … wenn er dann noch lebt.“
+> Dann wandte sie sich an Brienne.
+> „Und ja, ich kann stehen. Es braucht schon etwas mehr als meine eigene Magie, um mich zu Fall zu bringen.“
+> Ein schmales Lächeln.
+> „Auch wenn sie gelegentlich anderer Meinung ist.“
+<!-- ENDE SPIELERBEITRAG -->
+
+„Gut. Ich hätte ihn ohnehin ungern an seinem Husten durch den Wald verfolgt.“
+
+Minthara nahm die Hand vom Riegel und stellte sich seitlich neben das Pförtchen. Ihr Schwert hielt sie tief, die Spitze vom Holz entfernt.
+
+Brienne warf Skarra einen kurzen Blick zu.
+
+„Dann sind wir uns einig, dass Ihr beide stehen bleibt.“
+
+Das letzte Grün verblasste zwischen den Steinen. Jenseits der Mauer war noch ein mühsames Scharren zu hören, dann ein trockener Hustenanfall.
+
+Minthara hob den Riegel.
+
+Das Pförtchen ließ sich nur eine Handbreit öffnen, bevor es gegen etwas Weiches stieß.
+
+„Zur Seite“, sagte sie.
+
+Ein heiseres Geräusch antwortete ihr.
+
+Sie schob vorsichtig weiter. Ein Stiefel schleifte über die Erde. Schließlich reichte die Öffnung, um hindurchzusehen.
+
+Der Mann lag auf der Seite, kaum zwei Schritte von der Schwelle entfernt. Eine Hand hielt er gegen den Bauch gepresst, mit der anderen hatte er versucht, sich am Pfosten hochzuziehen. Speichel hing an seiner Unterlippe. Als Minthara vor ihm auftauchte, wich er zurück; seine Arme knickten ein.
+
+„Hände offen. Liegen bleiben.“
+
+Er gehorchte.
+
+Minthara trat hinaus und sah zuerst den Weg entlang. Die Armbrust war fort, ihr Träger ebenfalls. Im feuchten Boden blieben unregelmäßige Fußspuren zurück.
+
+„Keine weiteren zu sehen.“
+
+Brienne kam zum Pförtchen, blieb jedoch auf der Hofseite und deckte Mintharas Rücken. Aus dem Haus fiel jetzt ein schmaler Streifen Laternenlicht. Jost stand hinter der geöffneten Tür, in Hemd und hastig übergezogenen Stiefeln.
+
+„Was ist los?“
+
+„Ein Einbruchsversuch“, antwortete Brienne. „Holt Magrat.“
+
+Der Mann am Boden hob den Kopf.
+
+„Kein …“ Er musste husten. „Wir wollten keinen …“
+
+„Das hören wir gleich“, sagte Minthara.
+
+Sie schob den Eisenhaken mit dem Stiefel außer Reichweite und zog ihm ein kurzes Messer aus dem Gürtel. Es war ein abgenutztes Arbeitsmesser mit nachgeschärfter Spitze. Danach tastete sie Mantel und Taschen ab. Ein Stück Bindstrick, ein leerer Sack, eine halbe Zwiebel. Keine zweite Waffe.
+
+Der Mann war jünger, als er über der Mauer gewirkt hatte. Unter dem dünnen Bart glänzte Schweiß. Seine Kleidung war geflickt, an einem Knie frisch aufgerissen. Als Minthara ihn anwies, sich aufzusetzen, schaffte er es nur mit ihrer Hand im Kragen.
+
+Magrat kam mit umgeworfenem Tuch aus der Scheune. Triss folgte ihr, noch dabei, ihren Mantel zu schließen.
+
+„Nicht an den Schultern hochziehen“, sagte Magrat. „Lasst ihn erst wieder ordentlich Luft bekommen.“
+
+Minthara lockerte den Griff.
+
+Magrat kniete neben dem Mann nieder, prüfte seinen Puls und betrachtete sein Gesicht.
+
+„Was hat ihn getroffen?“
+
+Ihr Blick ging zu Skarra, dann zum Boden vor dem Pförtchen. Sie wartete einen Augenblick, doch der Mann brachte plötzlich selbst Worte hervor.
+
+„Die Pferde“, keuchte er. „Nur die Pferde. Wir wollten niemanden anfassen.“
+
+Jost machte hinter Brienne einen Schritt vor.
+
+„Nur die Pferde?“
+
+Der Gefangene schloss die Augen.
+
+Magrat legte zwei Finger unter sein Kinn und hob es wieder an.
+
+„Nein. Ihr bleibt jetzt bei uns. Und Ihr atmet langsam, statt Euch mit Erklärungen zu überschlagen.“
+
+Dann sah sie erneut zu Skarra.
+
+„Gift? Und wirkt es noch? Ich muss wissen, womit ich es zu tun habe.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** Skarra betrachtete den Mann einen Augenblick lang. Ihre Miene verriet wenig von der Geduld, die Magrat ihm entgegenbrachte.
+> „Korrosive Giftwolke. Die Wirkung sollte bereits nachlassen. Der Dunst selbst ist verschwunden.“
+> Sie sah zu Magrat.
+> „Versorgt ihn, wenn Ihr es für nötig haltet. Aber sobald er wieder auf eigenen Beinen stehen kann, verschwindet er.“
+> Dann wandte sie sich dem Mann zu.
+> „Ihr wolltet also nur die Pferde?“
+> Ihre Stimme wurde schärfer.
+> „Diese Pferde gehören Menschen, die sie brauchen. Menschen, die bereits mehr als genug durchgemacht haben. Ihr hättet sie mitten in der Nacht ohne einen Gedanken daran zurückgelassen, was aus ihnen wird.“
+> Sie trat einen Schritt näher.
+> „Also hört mir gut zu. Ihr beantwortet unsere Fragen. Ihr lasst Eure Waffen hier. Und sobald Ihr wieder laufen könnt, verschwindet Ihr von diesem Hof.“
+> Sie hielt kurz inne.
+> „Und wenn Ihr mir noch einmal über den Weg lauft und versucht, Euch an unserem Eigentum zu vergreifen, bekommt Ihr es mit ganz anderen Dingen zu tun als mit ein bisschen grünem Dunst.“
+> Skarra richtete sich wieder auf.
+> „Wir haben Wichtigeres zu tun, als jeden Halunken zu retten, der uns bestehlen will.“
+<!-- ENDE SPIELERBEITRAG -->
+
+Der Mann nickte hastig. Dabei überkam ihn erneut ein Hustenreiz; er krümmte sich, bis Magrat ihm eine Hand zwischen die Schulterblätter legte.
+
+„Verstanden“, brachte er schließlich hervor.
+
+„Dann spart Euch vorerst das Nicken“, sagte sie. „Es scheint Euch nicht zu bekommen.“
+
+Sie ließ sich von Jost Wasser bringen und gab dem Mann einen kleinen Schluck. Seine Atmung ging noch rau, wurde aber ruhiger.
+
+Brienne sah hinaus auf den dunklen Weg.
+
+„Bevor wir ihn fortschicken, möchte ich wissen, ob sein Freund mit weiteren Leuten zurückkommen kann.“
+
+„Und woher er wusste, dass hier Pferde stehen“, ergänzte Minthara.
+
+Der Gefangene wischte sich mit dem Ärmel über den Mund.
+
+„Vom Weg gesehen. Heute Nachmittag. Den Wagen, die beiden Pferde.“
+
+„Ihr habt gewartet, bis wir schlafen.“
+
+Er senkte den Blick.
+
+„Ja.“
+
+Jost hielt die Laterne etwas höher. „Ihr wart am Hang. Bei den Haseln.“
+
+Der Mann sah zu ihm auf.
+
+„Ich dachte, ihr sucht jemanden“, sagte Jost. „Ihr habt sogar die Hand gehoben.“
+
+Eine Weile antwortete niemand.
+
+Minthara ging neben dem Gefangenen in die Hocke. Das Messer lag noch in ihrer Hand, am Rücken der Klinge gefasst.
+
+„Wie heißt der Mann mit der Armbrust?“
+
+„Kelm.“
+
+„Und Ihr?“
+
+„Tewes.“
+
+„Wie viele seid ihr?“
+
+„Zwei.“
+
+Minthara wartete.
+
+Tewes schluckte. „Wir waren zu dritt. Seit gestern nur noch zwei.“
+
+„Was ist mit dem dritten geschehen?“, fragte Brienne.
+
+„Auf der Nordstraße. Er ging hinter die Büsche. Wir haben ihn schreien hören.“ Seine Finger schlossen sich um den Saum seines Mantels. „Kelm wollte nicht warten.“
+
+Triss stand inzwischen im Pförtchen. Sie betrachtete den Mann aufmerksam, ohne näher zu treten.
+
+„Deshalb brauchtet Ihr Pferde.“
+
+„Wir wollten nach Süden.“
+
+„Dafür hättet Ihr auch tagsüber fragen können“, sagte Jost.
+
+Tewes blickte auf den leeren Sack neben Mintharas Stiefel. „Hatten nichts zum Bezahlen.“
+
+„Fragen kostet zunächst nichts“, erwiderte Brienne.
+
+„Ein Nein hilft auch nicht weiter.“
+
+Kaum waren die Worte heraus, presste er die Lippen zusammen.
+
+Magrat nahm ihm den Becher ab.
+
+„Immerhin könnt Ihr wieder ganze Sätze sagen.“
+
+Sie prüfte noch einmal seinen Puls und erhob sich langsam. „Er erholt sich. Ein wenig Ruhe, dann kann er laufen. Ein Wettrennen würde ich ihm heute ersparen.“
+
+Minthara sah zu Brienne. „Ich bleibe hier draußen, bis er geht. Falls Kelm sich besinnt.“
+
+„Ich wecke Wulf“, sagte Brienne. „Und wir sehen nach den Pferden.“
+
+Jost bewegte sich nicht. Sein Blick hing noch immer an Tewes.
+
+„Wir müssen morgen meinen Bruder auf einem Schlitten fortbringen. Wir haben Verwundete im Haus.“ Er deutete zum Stall. „Und ihr schleicht hier herum mit einer gespannten Armbrust.“
+
+„Die war für—“
+
+Tewes brach ab.
+
+Minthara hob den Kopf.
+
+„Für wen?“
+
+Er blickte erst zu ihr, dann zu Skarra.
+
+„Kelm sagte, wenn jemand herauskommt, soll ich mich ducken.“
+
+Brienne blieb auf halbem Weg zum Haus stehen.
+
+Triss zog ihren Mantel enger. „Dann verdanken wir dem grünen Dunst wohl mehr als einen verhinderten Pferdediebstahl.“
+
+Tewes saß sehr still. Neben ihm lag der Eisenhaken im Licht der Laterne.
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** Skarra betrachtete Tewes noch einen Augenblick. Dann wandte sie den Blick ab.
+> „Ich habe genug gehört. Meine Geduld ist begrenzt.“
+> Sie drehte sich um und ging einige Schritte in Richtung Scheune.
+> „Seht zu, dass er verschwindet.“
+<!-- ENDE SPIELERBEITRAG -->
+
+Hinter Skarra blieb es einen Moment still.
+
+Dann sagte Magrat: „Langsam aufstehen. Wenn Euch schwarz vor Augen wird, setzt Ihr Euch wieder hin. Ihr müsst niemandem beweisen, dass Ihr besonders gut umfallen könnt.“
+
+Stoff raschelte. Tewes zog sich am Pfosten hoch.
+
+Brienne kehrte zum Pförtchen zurück. „Einen Augenblick.“
+
+„Sie hat gesagt, ich soll—“
+
+„Das habe ich gehört.“
+
+Sie nahm Minthara das Messer ab und gab es Jost zusammen mit dem Eisenhaken.
+
+„Verwahrt beides. Morgen entscheidet Ihr mit Euren Leuten, was damit geschieht.“
+
+Jost schloss die Hand um die Griffe. „Das Messer kenne ich.“
+
+Tewes sah ihn an.
+
+„Vom Hof unten am Bach. Wilm hat Kerben in den Griff geschnitten, damit er es mit seinen steifen Fingern halten konnte.“
+
+„Ich hab’s gefunden.“
+
+Jost machte einen Schritt auf ihn zu. Brienne trat dazwischen.
+
+„Heute Nacht klären wir das nicht mehr.“
+
+„Wilm ist mein Nachbar.“
+
+„Dann behaltet das Messer für ihn.“
+
+Jost blickte lange an ihr vorbei. Schließlich wandte er sich ab und ging zum Haus.
+
+Minthara ließ Tewes einige Schritte auf dem Weg gehen, ohne ihn zu stützen. Er schwankte, fing sich und blieb aufrecht.
+
+„Nach Süden“, sagte sie. „Am Haupttor kommt Ihr nicht vorbei. Ihr nehmt den Weg außen um die Weide.“
+
+Magrat reichte ihm den Becher für einen letzten Schluck.
+
+„Und falls Ihr Euren Freund wiederfindet, sucht Euch einen anderen.“
+
+Tewes antwortete nicht. Sein langsamer, ungleichmäßiger Schritt entfernte sich entlang der Mauer. Minthara blieb draußen, bis er hinter den Büschen verschwunden war. Dann kam sie zurück und verriegelte das Pförtchen. Brienne verkeilte es zusätzlich mit einem kurzen Stück Holz.
+
+Wulf erschien inzwischen mit einer Laterne am Stall. Beide Pferde standen in ihren Boxen; Bero hatte die Ohren zurückgelegt, Tamm untersuchte Wulfs Ärmel nach etwas Essbarem. An Geschirren und Wagen fehlte nichts.
+
+Triss blieb bei Magrat.
+
+„Ihr glaubt ihm die Geschichte vom dritten Mann?“
+
+„Ich glaube, dass er Angst hat“, antwortete Magrat. „Wovor alles, weiß ich nicht.“
+
+Als Brienne zur Scheune kam, war ihr Schwert wieder verstaut.
+
+„Er ist fort. Minthara beobachtet noch den Weg. Wulf übernimmt mit mir den Rest meiner Wache.“
+
+Sie senkte die Stimme.
+
+„Eure wäre als Nächstes dran. Wir können tauschen; dann habt Ihr wenigstens noch etwas Schlaf am Stück.“
+
+<!-- SPIELERBEITRAG: SKARRA (MARINEBLAU IM DOCX) -->
+> **SKARRA / SPIELER:** „Nicht nötig. Ich übernehme den Rest der Wache. Ich bin jetzt ohnehin wach. Außerdem können müde Glieder immer noch zaubern …“ Sie sah Brienne an. „… aber schlecht ein Schwert führen.“
+<!-- ENDE SPIELERBEITRAG -->
+
+Brienne zog eine Braue hoch.
+
+„Müde Zauberinnen sollten trotzdem jemanden haben, der ihnen den Rücken freihält.“
+
+Sie deutete zum Stall, wo Wulf gerade die Laterne abschirmte.
+
+„Er bleibt bei Euch. Er kennt den Hof.“
+
+Damit beließ sie es. Erst als sie den Helm abnahm, war zu sehen, wie vorsichtig sie die Schulter bewegte.
+
+Minthara kam wenig später von der Nordmauer zurück.
+
+„Keine Schritte mehr. Entweder hat er seinen Freund gefunden, oder beide halten inzwischen Abstand.“
+
+Ihr Blick fiel auf Briennes Helm.
+
+„Ihr geht schlafen?“
+
+„Ja.“
+
+„Eine vernünftige Entscheidung. Ich werde mich anschließen, bevor jemand auf die Idee kommt, Vernunft müsse gleichmäßig verteilt werden.“
+
+Magrat sammelte den Becher ein und verschwand mit Triss in der Scheune. Bald wurde es auf dem Hof wieder still. Wulf zeigte Skarra vom Stall aus die Stellen, die man im Auge behalten musste: das Haupttor, den schmalen Weg am Haus und eine abgesackte Stelle der westlichen Mauer. Das Pförtchen im Norden blieb verkeilt.
+
+Die drei Knochendiener setzten ihre Patrouille fort. Einer huschte gelegentlich an Wulfs Stiefeln vorbei. Beim dritten Mal hob er nur noch den Fuß.
+
+„Man gewöhnt sich an vieles“, murmelte er.
+
+Weitere Besucher kamen nicht.
+
+## Der Weg am Mühlgraben
+
+Gegen Morgen lag Tau auf den Wagendeichseln. Aus dem Haus drang das erste gedämpfte Klappern von Geschirr; wenig später brachte Alva einen Topf heißen Getreidebrei und einen Krug herben Kräuteraufguss heraus.
+
+„Für die, die schon wach sind. Die anderen müssen selbst sehen, dass sie etwas abbekommen.“
+
+Wulf nahm ihr dankbar zwei Schalen ab.
+
+Mit dem heller werdenden Himmel erwachte der Hof ganz. Jost prüfte die Kufen des Schlittens, auf dem Hinnerk nach Süden reisen sollte. Im Haus half Magrat Alva beim Verbandwechsel. Hinnerk war blass und ungehalten darüber, dass alle über seinen Kopf hinweg besprachen, wie man ihn am besten durch eine Tür bekam.
+
+„Das ist ein gutes Zeichen“, stellte Magrat fest. „Gestern habt Ihr uns noch reden lassen.“
+
+Brienne kam ausgeschlafen genug zurück, um Wulf mit einem Nicken abzulösen. Triss folgte mit zerdrücktem Haar und blieb zunächst wortlos über einer Schale Brei stehen. Minthara kontrollierte die Befestigung ihres Schildes, bevor sie sich zu ihr setzte.
+
+Jost hatte inzwischen den Wagen ein Stück vorgezogen. Er ging neben dem Ersatzrad in die Hocke und rüttelte kräftig daran.
+
+„Hält. Nach der ersten halben Stunde noch einmal nachsehen. Wenn es anfängt zu schlagen, sofort anhalten.“
+
+Dann blieb er mit einer Hand auf dem Rad stehen.
+
+„Wegen eures Weges nach Norden.“
+
+Triss hob den Kopf.
+
+„Ja?“
+
+„Bis zum alten Kalkofen könnt ihr auf dem Fahrweg bleiben. Dahinter kommt die Brücke am Mühlgraben. Wenn die noch steht, ist das der einfachste Weg für den Wagen.“
+
+„Und wenn nicht?“, fragte Brienne.
+
+„Dann müsst ihr zurück. Mit dem Wagen kommt ihr dort sonst nicht durch.“ Er wischte sich die Hände an der Hose ab. „Es gibt vorher eine Abzweigung über die Höhen. Schlechter Boden, längerer Weg. Aber keine Brücke.“
+
+Minthara blickte zu den Pferden.
+
+„Wir könnten die Brücke zuerst zu Fuß prüfen, sobald wir nahe genug sind.“
+
+„Ja“, sagte Jost. „Nur kann ich euch nicht sagen, wer inzwischen dort unterwegs ist. Ich war seit vier Tagen nicht mehr oben.“
+
+Brienne sah zu Skarra.
+
+„Erst essen. Dann würde ich den Fahrweg nehmen und rechtzeitig vor der Brücke halten. Was meint Ihr?“

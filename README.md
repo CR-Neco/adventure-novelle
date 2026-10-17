@@ -31,4 +31,4 @@ Eine fortlaufende interaktive Fantasy-Novelle. **Skarra „Blackheart“** aus G
 
 **Spoiler-Schutz:** Das Repository enthält nur Spielerwissen, keine geheimen Spielleiterpläne.
 
-**Aktueller Haltepunkt (Sitzungsende 16. Oktober 2026):** Nacht auf dem Hof. Brienne weckt / informiert Skarra in der Scheune: Knochenkundschafter meldet etwas an Nordmauer, zweimal Metall an Stein gehört. Minthara wach am Haus, Triss / Magrat schlafen. Ursache unbekannt. **Skarra ist am Zug.** Siehe KAMPAGNENSTAND.md.
+**Aktueller Haltepunkt (Pause 17. Oktober 2026):** Morgen des dritten Reisetages am Hof, nach vereiteltem Pferdediebstahl und Skarras Restwache. Tewes fortgeschickt, Kelm geflohen. Brienne schlägt Fahrweg über alten Kalkofen und Halt vor der ungeprüften Mühlgrabenbrücke vor. **Skarras Antwort / Wegwahl offen; keine Abreise.** Siehe KAMPAGNENSTAND.md.

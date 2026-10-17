@@ -1,41 +1,41 @@
 # Kampagnenstand – Die Glocken von Dornwacht
 
-**Dokumentationsstand:** Sitzungsende 16. Oktober 2026, nächtliche Meldung an der Nordmauer.
+**Dokumentationsstand:** Pause 17. Oktober 2026, Morgen nach der Hofnacht.
 **Status:** pausiert; Skarra ist am Zug.
-**Spielzeit und Ort:** Nacht nach dem zweiten Reisetag, auf Alvas / Hinnerks / Josts / Wulfs Hof. Erste Wache der Hofmänner beendet, Brienne hält nun Wache. Noch nicht Morgen, noch keine Weiterreise.
+**Spielzeit und Ort:** Morgen des dritten Reisetages, Hof Alva / Hinnerk / Jost / Wulf. Nacht beendet, Frühstück / Reisevorbereitungen; keine Abreise und keine Routenentscheidung Skarras gespielt.
 
 ## Exakter Haltepunkt
 
-Nach lockerer Waffen-/Beinarbeitsübung und Abendrunde beschwor Skarra drei neue Knochenkundschafter zur Patrouille und legte sich in der Scheune ins Stroh. Jost / Wulf hielten zunächst Wache. Brienne löste sie ab und kam später zu Skarras Lager.
+Nächtlicher Pferdediebstahl vereitelt. Skarra übernahm anschließend mit Wulf den Rest der Wache, drei Knochenkundschafter patrouillierten weiter. Keine weiteren Besucher. Am Morgen versorgt Magrat Hinnerk mit Alva, Jost prüft Ersatzrad und Schlitten; Gruppe am Hof bei Frühstück / Vorbereitungen.
 
-Einer der Knochenkundschafter läuft ungeduldig zwischen Brienne und der **Nordmauer** hin und her. Brienne hörte dort **zweimal Metall an Stein**, keine sicher zugeordneten Schritte oder Rufe. Noch keine Sichtung / Identifizierung eines Angreifers oder sonstige Erklärung.
+Jost beschreibt den Fahrweg nach Norden: bis zum **alten Kalkofen**, dahinter **Brücke am Mühlgraben**. Zustand ungewiss; er war seit vier Tagen nicht dort. Wenn die Brücke fehlt, müsste der Wagen zurück. Vorher zweigt eine längere, schlechtere Höhenroute ohne Brücke ab. Minthara schlägt vor, die Brücke aus der Nähe erst zu Fuß zu prüfen. Keiner dieser Wege wurde bereits erkundet / als sicher bestätigt. Nicht mit der bereits überwundenen Furt des Vortags verwechseln.
 
-**Letzte direkte Rede (Brienne):**
-> „Minthara ist wach und am Haus. Triss und Magrat schlafen noch.“
+**Letzte direkte Rede und letzter Erzählabsatz (Brienne):**
+> „Erst essen. Dann würde ich den Fahrweg nehmen und rechtzeitig vor der Brücke halten. Was meint Ihr?“
 
-**Letzter Erzählabsatz:**
-> Draußen bewegte sich der kleine Diener einige Schritte vor, blieb stehen und sah zurück. Dann lief er weiter zum dunklen Hofrand.
-
-**Offener Zug:** Skarras Reaktion auf die Meldung. Geht sie mit Brienne nachsehen oder sorgt sie anders vor? Nicht für sie Aufstehen, Bewaffnung, Magie oder Marsch zur Mauer vorwegnehmen. Keine Auflösung des Geräuschs, keine weitere Nacht oder Morgen spielen, bevor der Spieler handelt.
+**Offener Zug:** Skarras Antwort / eigene Routenidee. Kein Einverständnis, Aufbruch, Fahrt oder Brückenerkundung vorwegnehmen.
 
 ## Positionen und Aufgaben
 
-- **Skarra:** am Strohlager in der Scheune, von Brienne angesprochen. Hatte sich schlafen gelegt; keine abgeschlossene lange Rast / vollständige Erholung zusagen. Beide Schwerter gehören ihr, wurden **Asche** und **Stille** genannt. Genaue Ablage / Trageposition am Schlafplatz nicht beschrieben.
-- **Brienne:** mit Helm bei Skarras Lager, Schwert noch in Scheide. Hält aktuelle Wache; hat Geräusch gehört, Kundschafterverhalten beobachtet, Skarra informiert.
-- **Minthara:** laut Brienne wach **am Haus**. Kein genauerer Standort / nächste Handlung festgelegt. Armschnitt seit Transfer geschlossen. Bleibt bei Schwert / Schild, Briennes geliehenes Schwert zurückgegeben.
-- **Triss:** schläft im Haus.
-- **Magrat:** schläft noch, nach Abendrunde / Hinnerkversorgung. Keine Kenntnis der Meldung festgelegt.
-- **Jost / Wulf:** erste Wache beendet, von Brienne schlafen geschickt. Nicht automatisch erneut alarmiert.
-- **Alva / Hinnerk:** im Hofhaus; Hinnerk versorgt, zuletzt schlafend, keine neue Entwicklung.
-- **Beschwörungen:** **drei neue Knochenkundschafter aktiv** auf Patrouille im / um den Hof. Einer bei Scheunenausgang / Weg zur Nordmauer, genaue aktuelle Position der beiden anderen nicht festgelegt. Nicht mit früher zerfallenen Dienern verwechseln. Kein Fleischwurm oder Golem am Hof.
-- **Wagen / Bero / Tamm:** auf Hof, Ersatzrad montiert und getestet, Tiere versorgt. Keine neue Beschädigung / Entwendung beobachtet.
-- **Proben / Papiere / Ausrüstung:** weiterhin gesichert, kein neuer Zugriff festgestellt.
-- **Tor / Licht:** Tor war verriegelt, Laterne auf Wulfs Bitte heruntergedreht; Laterne im Hof nicht hell zum Weg sichtbar halten.
+- **Skarra:** wach am Hof; hat Asche und Stille bei nächtlichem Aufbruch gegürtet. Nach Korrosiver Giftwolke kurz geschwächt, Zustand längst abgeklungen. Übernahm ausdrücklich die verbleibende Wache, schlief danach nicht erneut; keine volle lange Rast / vollständige Erholung zusagen.
+- **Brienne:** nach weiterer Nachtruhe wieder wach, Wulf abgelöst; fragt Skarra nach Wegwahl. Schulter zuletzt beim Helmabnehmen noch vorsichtig bewegt, keine neue Verletzung.
+- **Minthara:** wach, Schwert / Schild, Armschnitt geschlossen; am Morgen Schildbefestigung geprüft und zu Triss gesetzt. Schlug fußläufige Prüfung der Brücke vor; keine Erkundung begonnen.
+- **Triss:** wach, frühstückt; nächtlich alarmiert, danach wieder schlafen gegangen. Keine neue Magie eingesetzt.
+- **Magrat:** hilft im Haus Alva beim Verbandwechsel Hinnerks. Versorgte nachts Tewes, keine Schau-Magie / TOD-Begegnung gespielt.
+- **Jost:** beim geprüften Wagenrad / Schlitten, gibt Routenhinweise. Messer und Eisenhaken des Eindringlings zur Verwahrung erhalten.
+- **Wulf:** hielt mit Skarra Restwache, morgens von Brienne abgelöst; keine aktuelle neue Aufgabe festgelegt.
+- **Alva / Hinnerk:** im Haus beim Verbandwechsel. Hinnerk lebt, blass, kann sich beschweren; Transport nach Süden weiterhin vorbereitet, noch nicht begonnen.
+- **Beschwörungen:** **drei neue Knochenkundschafter weiter aktiv** am Hof. Kein neuer Auftrag, kein Entlassen / Zerfall während dieser Teilsitzung. Bei späterer Abreise Reichweitenregel beachten. Kein Fleischwurm oder Golem am Hof.
+- **Wagen / Bero / Tamm:** Diebstahl verhindert, nichts entwendet / neu beschädigt. Pferde im Stall kontrolliert, Ersatzrad morgens von Jost erneut auf Halt geprüft. Kontrolle nach erster halber Fahrstunde erforderlich.
+- **Proben / Papiere / Ausrüstung:** weiter gesichert, kein Zugriff berichtet.
+- **Nordpförtchen:** nach Tewes' Fortgang verriegelt und von Brienne mit Holz verkeilt. Westmauer laut Wulf abgesackt; Haupttor / Hausweg weitere Wachpunkte.
+- **Tewes:** nach Versorgung wieder gehfähig, ohne Messer / Haken nach Süden außen um die Weide fortgeschickt. Kein Gefangener mehr.
+- **Kelm:** mit Armbrust geflohen, auf Skarras Entscheidung nicht verfolgt; weiterer Ort / Wiedervereinigung mit Tewes unbekannt.
 - **Gefangene / frühere Nebenfiguren:** bleiben wie zuvor in Eibenbrück; Lennarts weiterer Verbleib unbekannt.
 
 ## Aktueller Gruppenplan – beschlossen, noch umzusetzen
 
-1. Aktuell nächtliche Meldung prüfen / darauf reagieren. Danach soweit möglich Rast beenden. Plan bleibt: nächste Morgen getrennt von Hofleuten aufbrechen, Rad nach erster halber Fahrstunde prüfen; Morgen / Abreise noch nicht gespielt.
+1. Aktuell Frühstück / Wegwahl besprechen. Brienne schlägt Fahrweg über Kalkofen und Halt vor Mühlgrabenbrücke vor; Skarras Antwort offen. Hofleute wollen getrennt nach Süden, Gruppe nach Norden. Keine Abreise gespielt; Rad nach erster halber Fahrstunde prüfen.
 2. Rhen und die übrigen Gefangenen im Dorf lassen. Skarra versprach, nach den Kranken der Abtei zu sehen und sie **wenn möglich** zu befreien.
 3. Mit vorhandenem Wagen / Papieren nach Norden. Erster Gutshof erreicht und Route dort bestätigt. Wegen Suchreiter nun östlicher, wagenpassierbarer Waldumweg, der nördlich wieder zur Handelsstraße führt; schmalen Reitpfad am Hang meiden. Gesamtentfernung Abtei etwa drei Tagesreisen zu Fuß; Wagenfahrten mit Pferdewechsel schneller.
 4. Vor der Abtei selbst Tor und Kanal erkunden. Endgültige Zugangswahl abhängig vom Befund.
@@ -47,7 +47,22 @@ Einer der Knochenkundschafter läuft ungeduldig zwischen Brienne und der **Nordm
 
 
 
-## Letzte Teilsitzung – Übung und nächtliche Meldung, 16. Oktober 2026
+## Letzte Teilsitzung – Einbruchsversuch und Morgenroute, 17. Oktober 2026
+
+- Skarra gürtet Klingen, folgt Brienne leise zur Nordmauer. Zwei Männer: einer hebt Riegel mit Eisenhaken, anderer mit Armbrust über Mauer. Gruppe zunächst unentdeckt.
+- **Korrosive Giftwolke** trifft beide, Gift / Schwäche; Skarra erhält vorübergehend eigene Schwäche, bleibt handlungsfähig. Brienne unversehrt, keine pauschale neue Schutzmechanik festgelegt. Abgefeuerter Bolzen erreicht Hof wegen Wolke nicht.
+- Armbrustschütze flieht, anderer bricht angeschlagen am Pförtchen zusammen. Skarra untersagt Verfolgung, lässt nach Verschwinden des Dunstes nachsehen.
+- Minthara entwaffnet Mann: Messer, Eisenhaken; außerdem Bindstrick, leerer Sack, halbe Zwiebel. Magrat versorgt, Triss / Hofleute alarmiert. Mann nennt sich **Tewes**, Schützen **Kelm**.
+- Tewes gibt Pferdediebstahl zu: Wagen / Tiere nachmittags vom Hang bei Haseln beobachtet, bis Nacht gewartet. Jost sah sie damals, hielt sie für Suchende.
+- **Nur seine Aussagen:** früher dritter Begleiter, seit gestern verschwunden nach Schrei hinter Büschen an Nordstraße; Kelm wollte nicht warten. Flucht nach Süden beabsichtigt. Kelm habe ihm gesagt, sich zu ducken, falls jemand herauskomme. Kein unbekanntes Schicksal / Netzwerk / Abteiverbindung als bestätigt ableiten.
+- Skarra verlangt Antworten, Entwaffnung und Wegschicken nach Erholung; warnt vor erneutem Diebstahl. Danach erklärt sie, genug gehört zu haben, geht Richtung Scheune und überlässt Abwicklung den anderen.
+- Jost erkennt Messer als seines Nachbarn **Wilm** vom Hof unten am Bach; Tewes behauptet Fund. Herkunft und Wilms Schicksal ungeklärt. Brienne verhindert weitere Zuspitzung, gibt Messer / Haken Jost zur Verwahrung.
+- Magrat beurteilt Tewes als wieder gehfähig, Minthara weist Weg nach Süden außen um Weide. Er geht; Pförtchen verriegelt / verkeilt, Pferde / Geschirre / Wagen unversehrt.
+- Brienne bietet Wachtausch an. Skarra lehnt ab, übernimmt Restwache. Wulf bleibt, zeigt Wachpunkte. Andere schlafen erneut; Kundschafter bleiben aktiv. Restnacht ohne weitere Besucher.
+- Morgens Alva Brei / Kräuteraufguss, Hinnerk lebend und ungehalten, Magrat / Alva wechseln Verband. Jost prüft Schlitten und Ersatzrad.
+- Neue Routenangaben / exakter Haltepunkt siehe oben. Noch keine Wegentscheidung oder Abreise.
+
+## Vorherige Teilsitzung – Übung und nächtliche Meldung, 16. Oktober 2026
 
 - Skarra benennt Schwerter **Asche** und **Stille**, bietet Demonstration an. Brienne leiht Minthara ihr längeres Schwert, Magrat rettet die Becher / kommentiert trocken.
 - Langsame Demonstration mit Parade-/Ableitbewegung und Schritt aus Linie. Beim Vergleich ohne Ausweichen bleibt Risiko durch Mintharas zweite Waffe / Position sichtbar.
@@ -170,4 +185,4 @@ Einer der Knochenkundschafter läuft ungeduldig zwischen Brienne und der **Nordm
 
 ## Dokumentation
 
-Roman in Markdown bis zur nächtlichen Meldung in der Scheune ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.
+Roman in Markdown bis zur offenen Routenfrage am Morgen des dritten Reisetages ergänzt, Beschwörungslücken auf Spielerwunsch in früheren Szenen geschlossen; Spielerpassagen markiert, OOC und Spielzug-Aufforderungen ausgelassen. Word auf Wunsch weiter nicht aktualisiert. Die Original-Hintergrundbiografie Skarras bleibt vom Roman getrennt; sie ist kein automatisches Gruppenwissen.
