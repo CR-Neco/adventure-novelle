@@ -3300,7 +3300,7 @@ Rhen trat vom Waschtrog zurück.
 
 ## Was die Toten bewegt
 
-„Sonst haben wir bald eine Scheune voller gefesselter Untoter.“
+„Wir müssen herausfinden, wie wir die Kontrolle der Stäbe über die Untoten brechen können“, sagte Skarra. „Sonst haben wir bald eine Scheune voller gefesselter Untoter.“
 
 Minthara betrachtete den Mann am Mühlenpfosten, der mit gleichbleibender Beharrlichkeit an seinen Fesseln zog.
 
